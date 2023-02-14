@@ -4,4 +4,4 @@
 ---
 # Process code
 
-* [Software procurement](software-procurement/index.html)
+* [Software procurement](process-code-software-procurement/index.html)

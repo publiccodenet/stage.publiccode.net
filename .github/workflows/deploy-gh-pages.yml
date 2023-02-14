@@ -34,10 +34,10 @@ jobs:
       - name: bundle install
         run: bundle install
       - name: clone process-code-software-procurement
-        run: git clone https://github.com/publiccodenet/process-code-software-procurement.git software-procurement
+        run: git clone https://github.com/publiccodenet/process-code-software-procurement.git
       - name: checkout gh-pages
         run: |
-          cd software-procurement
+          cd process-code-software-procurement
           git checkout gh-pages
           rm -rf .git
       - name: jekyll build
