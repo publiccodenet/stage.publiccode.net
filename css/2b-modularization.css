@@ -1,0 +1,826 @@
+/* screen - 2b-modularization */
+
+.x2b-modularization {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 5109px;
+  width: 1440px;
+}
+
+.x2b-modularization .header {
+  align-items: center;
+  align-self: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-top: 60px;
+  min-width: 1080px;
+  width: auto;
+}
+
+.x2b-modularization .home-resources-and {
+  color: transparent;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 180px;
+  margin-top: 59px;
+  min-height: 20px;
+  width: 567px;
+}
+
+.x2b-modularization .title-3 {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 180px;
+  margin-top: 85px;
+  min-height: 40px;
+  width: 690px;
+}
+
+.x2b-modularization .flex-row {
+  align-self: center;
+  gap: 58px;
+  margin-right: 32.0px;
+  margin-top: 62px;
+  min-width: 1048px;
+}
+
+.x2b-modularization .content-2 {
+  gap: 60px;
+  width: 690px;
+}
+
+.x2b-modularization .intro {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.x2b-modularization .title {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  display: flex;
+  gap: 10px;
+  padding: 0px 0px 10px;
+  position: relative;
+}
+
+.x2b-modularization .content-3 {
+  align-self: stretch;
+  background-color: var(--fpcgraywhitesmoke);
+  border-radius: 12px;
+  gap: 10px;
+  padding: 20px;
+}
+
+.x2b-modularization .this-section-will-help-you {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 650px;
+}
+
+.x2b-modularization .cluster-1 {
+  gap: 10px;
+}
+
+.x2b-modularization .icon {
+  height: 32px;
+  min-width: 32.01px;
+  position: relative;
+}
+
+.x2b-modularization .group-193 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  left: 2px;
+  min-width: 30px;
+  padding: 0.0px 0;
+  position: relative;
+}
+
+.x2b-modularization .group-container {
+  height: 22px;
+  position: relative;
+  width: 28px;
+}
+
+.x2b-modularization .challenges {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+.x2b-modularization .cluster {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.x2b-modularization .you-may-encounter-th {
+  color: transparent;
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 690px;
+}
+
+.x2b-modularization .span-2 {
+  color: var(--black);
+  line-height: 24px;
+}
+
+.x2b-modularization .span1 {
+  color: var(--fpclinkblue);
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.x2b-modularization .challenge {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 690px;
+}
+
+.x2b-modularization .overlap-group {
+  height: 24px;
+  left: 3px;
+  position: relative;
+  top: 1px;
+  width: 27px;
+}
+
+.x2b-modularization .content-4 {
+  gap: 2px;
+  width: fit-content;
+}
+
+.x2b-modularization .title-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 648px;
+}
+
+.x2b-modularization .lorem-ipsum {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  width: 648px;
+}
+
+.x2b-modularization .x-1 {
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.x2b-modularization .content-5 {
+  gap: 2px;
+  width: fit-content;
+}
+
+.x2b-modularization .actions {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+.x2b-modularization .titlesubsection {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  display: flex;
+  gap: 10px;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 690px;
+}
+
+.x2b-modularization .x1-conducting-an-ini {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 690px;
+}
+
+.x2b-modularization .writing-an-rfp-is-ab {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 690px;
+}
+
+.x2b-modularization .icon-1 {
+  height: 32px;
+  min-width: 32px;
+  position: relative;
+}
+
+.x2b-modularization .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(../img/union@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 20px;
+  min-width: 18px;
+  padding: 7.2px 5.2px;
+}
+
+.x2b-modularization .content {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+}
+
+.x2b-modularization .an-action-that-requires-high-engagement {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.x2b-modularization .an-action-that-requires-high-engagement-1 {
+  white-space: nowrap;
+}
+
+.x2b-modularization .cluster-2 {
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x2b-modularization .x2-modular-budgeting {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 690px;
+}
+
+.x2b-modularization .in-a-contemporary-ag {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 690px;
+}
+
+.x2b-modularization .a-knowledge-acquisit {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.x2b-modularization .lorem-ipsum-1 {
+  white-space: nowrap;
+}
+
+.x2b-modularization .an-action-that-requires-high-engagement-2 {
+  white-space: nowrap;
+}
+
+.x2b-modularization .an-action-that-requires-high-engagement-3 {
+  white-space: nowrap;
+}
+
+.x2b-modularization .title-2 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.x2b-modularization .overlap-group-2 {
+  height: 26px;
+  left: 6px;
+  position: relative;
+  top: 2px;
+  width: 26px;
+}
+
+.x2b-modularization .x-2 {
+  height: 8px;
+  left: 18px;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.x2b-modularization .ellipse-193 {
+  border: 1.5px solid;
+  border-color: var(--black);
+  border-radius: 6.75px;
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.x2b-modularization .line {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.x2b-modularization .line-1 {
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 20px;
+}
+
+.x2b-modularization .line-2 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 18px;
+}
+
+.x2b-modularization .span-4 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x2b-modularization .bullet-sub-bullet-sub-bullet-bullet {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.x2b-modularization .span-5 {
+  letter-spacing: 0;
+}
+
+.x2b-modularization .cluster-3 {
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x2b-modularization .x4-working-within-mu {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 690px;
+}
+
+.x2b-modularization .consider-the-overall {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 690px;
+}
+
+.x2b-modularization .span-6 {
+  font-weight: 700;
+}
+
+.x2b-modularization .x-3 {
+  height: 8px;
+  left: 18px;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.x2b-modularization .outcomes {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+.x2b-modularization .cluster-4 {
+  gap: 20px;
+}
+
+.x2b-modularization .outcome {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  position: relative;
+}
+
+.x2b-modularization .v2 {
+  align-items: flex-end;
+  background-image: url(../img/gear-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 4px;
+  min-width: 24px;
+  padding: 8.2px 6.5px;
+  position: relative;
+}
+
+.x2b-modularization .this-is-an-outcome-t {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.x2b-modularization .v2-1 {
+  align-items: flex-end;
+  background-image: url(../img/gear-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 4px;
+  min-width: 24px;
+  padding: 8.2px 6.5px;
+  position: relative;
+}
+
+.x2b-modularization .this-is-an-outcome-t-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.x2b-modularization .references {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+.x2b-modularization .frame-140 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.x2b-modularization .text-8 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: 30px;
+}
+
+.x2b-modularization .content-1 {
+  gap: 5px;
+  width: fit-content;
+}
+
+.x2b-modularization .frame-163 {
+  background-color: var(--fpcgraymed);
+  border-radius: 4px;
+  gap: 10px;
+  padding: 1px 5px;
+  width: fit-content;
+}
+
+.x2b-modularization .overlap-group-3 {
+  height: 19px;
+  margin-left: -1px;
+  margin-top: -0.75px;
+  position: relative;
+  width: 15px;
+}
+
+.x2b-modularization .footer-nav {
+  align-self: stretch;
+  justify-content: space-between;
+  padding: 60px 0px 0px;
+  position: relative;
+}
+
+.x2b-modularization .navfooterprev {
+  align-items: center;
+  background-color: var(--fpcblue);
+  border-radius: 32px 4px 4px 32px;
+  display: flex;
+  gap: 15px;
+  padding: 10px 15px;
+  position: relative;
+  width: fit-content;
+}
+
+.x2b-modularization .arrow-32 {
+  height: 12.47px;
+  margin-left: -0.85px;
+  min-width: 15.24px;
+  position: relative;
+}
+
+.x2b-modularization .group-134 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
+  margin-right: -4.00px;
+  min-width: 151px;
+  position: relative;
+}
+
+.x2b-modularization .x1a-welcome {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 147px;
+}
+
+.x2b-modularization .navfooternext {
+  align-items: center;
+  background-color: var(--fpcblue);
+  border-radius: 4px 32px 32px 4px;
+  display: flex;
+  gap: 15px;
+  padding: 10px 15px;
+  position: relative;
+  width: fit-content;
+}
+
+.x2b-modularization .group-134-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
+  min-width: 123px;
+  position: relative;
+}
+
+.x2b-modularization .x1b-discovery-research {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 119px;
+}
+
+.x2b-modularization .sidebarv2 {
+  align-items: flex-start;
+  background-color: var(--cultured-pearl);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  height: 3749px;
+  justify-content: space-between;
+  padding: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.x2b-modularization .navmainv3 {
+  align-items: center;
+  background-color: var(--algae-green);
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 260px;
+}
+
+.x2b-modularization .x1-section-name-1 {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x2b-modularization .navmainv3-1 {
+  align-items: flex-start;
+  background-color: var(--fpcbluehl);
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x2b-modularization .x1-section-name {
+  color: var(--black-3);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x2b-modularization .capacity-building {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x2b-modularization .navsubsectionv2-1 {
+  align-items: center;
+  background-color: var(--fpcblue50);
+  border-radius: 4px;
+  display: flex;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: fit-content;
+}
+
+.x2b-modularization .navmainv3-2 {
+  align-items: center;
+  background-color: var(--fpchlpeach);
+  justify-content: space-between;
+}
+
+.x2b-modularization .navmainv3-3 {
+  align-items: center;
+  background-color: var(--periwinkle-gray);
+  justify-content: space-between;
+}
+
+.x2b-modularization .footer-floating {
+  margin-top: 129px;
+  min-width: 1440px;
+}
+
+.x2b-modularization .overlap-group3 {
+  height: 850px;
+  position: relative;
+  width: 1440px;
+}
+
+.x2b-modularization .logo {
+  display: flex;
+  gap: 13.3px;
+  width: 412px;
+}
+
+.x2b-modularization .overlap-group-4 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  min-height: 280px;
+  padding: 30px 20px;
+  width: 524px;
+}
+
+.x2b-modularization .overlap-group-5 {
+  height: 196px;
+  position: relative;
+  width: 343px;
+}
+
+.x2b-modularization .span0 {
+  line-height: 26px;
+}
+
+.x2b-modularization .flex-col {
+  flex-direction: column;
+  gap: 30px;
+  min-height: 233px;
+  width: 650px;
+}
+
+.x2b-modularization .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.5px;
+  min-height: 80px;
+  width: 17px;
+}
+
+.x2b-modularization .span0-1 {
+  color: var(--black);
+}
+
+.x2b-modularization .span1-1 {
+  color: var(--fpclinkblue);
+  text-decoration: underline;
+}
+
+.x2b-modularization .a-knowledge-acquisit-3 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.x2b-modularization .an-action-that-requires-high-engagement-5 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.x2b-modularization .cluster-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  position: relative;
+}
+
+.x2b-modularization .content-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.x2b-modularization .frame {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.x2b-modularization .lorem-ipsum-8 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.x2b-modularization .navmainv3-4 {
+  border-radius: 4px;
+  display: flex;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 260px;
+}
+
+.x2b-modularization .x1-5 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: 30px;
+}

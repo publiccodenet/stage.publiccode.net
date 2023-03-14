@@ -1,0 +1,689 @@
+/* screen - 2c-agile-development-planning-and-resourcing */
+
+.x2c-agile-development-planning-and-resourcing {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 5593px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.x2c-agile-development-planning-and-resourcing .header {
+  align-items: center;
+  align-self: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-top: 60px;
+  min-width: 1080px;
+  width: auto;
+}
+
+.x2c-agile-development-planning-and-resourcing .home-resources-and {
+  color: transparent;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 180px;
+  margin-top: 59px;
+  min-height: 20px;
+  width: 567px;
+}
+
+.x2c-agile-development-planning-and-resourcing .title-1 {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 180px;
+  margin-top: 85px;
+  min-height: 40px;
+  width: 690px;
+}
+
+.x2c-agile-development-planning-and-resourcing .overlap-group5 {
+  height: 5212px;
+  margin-top: 62px;
+  position: relative;
+  width: 1440px;
+}
+
+.x2c-agile-development-planning-and-resourcing .sidebarv2 {
+  background-color: var(--cultured-pearl);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  height: 4282px;
+  justify-content: space-between;
+  left: 928px;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.x2c-agile-development-planning-and-resourcing .top {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: 434px;
+  margin-left: 20px;
+  margin-top: 20px;
+  position: relative;
+  width: 260px;
+}
+
+.x2c-agile-development-planning-and-resourcing .navmainv3 {
+  align-items: center;
+  background-color: var(--algae-green);
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 260px;
+}
+
+.x2c-agile-development-planning-and-resourcing .x1-section-name-1 {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x2c-agile-development-planning-and-resourcing .navmainv3-1 {
+  align-items: flex-start;
+  background-color: var(--fpcbluehl);
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x2c-agile-development-planning-and-resourcing .x1-section-name {
+  color: var(--black-3);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x2c-agile-development-planning-and-resourcing .capacity-building {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x2c-agile-development-planning-and-resourcing .navsubsectionv2-1 {
+  align-items: center;
+  background-color: var(--fpcblue50);
+  border-radius: 4px;
+  display: flex;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: fit-content;
+}
+
+.x2c-agile-development-planning-and-resourcing .navmainv3-2 {
+  align-items: center;
+  background-color: var(--fpchlpeach);
+  justify-content: space-between;
+}
+
+.x2c-agile-development-planning-and-resourcing .navmainv3-3 {
+  align-items: center;
+  background-color: var(--periwinkle-gray);
+  justify-content: space-between;
+}
+
+.x2c-agile-development-planning-and-resourcing .span-3 {
+  color: var(--black);
+  font-weight: 700;
+}
+
+.x2c-agile-development-planning-and-resourcing .span1 {
+  color: var(--fpclinkblue);
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.x2c-agile-development-planning-and-resourcing .icon-1 {
+  background-image: url(../img/icon-github-edit@2x.png);
+}
+
+.x2c-agile-development-planning-and-resourcing .icon-2 {
+  background-image: url(../img/icon-github-issue@2x.png);
+}
+
+.x2c-agile-development-planning-and-resourcing .overlap-group4 {
+  height: 5212px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.x2c-agile-development-planning-and-resourcing .overlap-group3 {
+  height: 850px;
+  left: 0;
+  position: absolute;
+  top: 4362px;
+  width: 1440px;
+}
+
+.x2c-agile-development-planning-and-resourcing .logo {
+  display: flex;
+  gap: 13.3px;
+  width: 412px;
+}
+
+.x2c-agile-development-planning-and-resourcing .overlap-group {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  min-height: 280px;
+  padding: 30px 20px;
+  width: 524px;
+}
+
+.x2c-agile-development-planning-and-resourcing .overlap-group-3 {
+  height: 196px;
+  position: relative;
+  width: 343px;
+}
+
+.x2c-agile-development-planning-and-resourcing .span0 {
+  line-height: 26px;
+}
+
+.x2c-agile-development-planning-and-resourcing .span-4 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x2c-agile-development-planning-and-resourcing .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  min-height: 233px;
+  width: 650px;
+}
+
+.x2c-agile-development-planning-and-resourcing .span-5 {
+  color: var(--fpclinkblue);
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+.x2c-agile-development-planning-and-resourcing .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.5px;
+  min-height: 80px;
+  width: 17px;
+}
+
+.x2c-agile-development-planning-and-resourcing .span0-1 {
+  color: var(--black);
+}
+
+.x2c-agile-development-planning-and-resourcing .span1-1 {
+  color: var(--fpclinkblue);
+  text-decoration: underline;
+}
+
+.x2c-agile-development-planning-and-resourcing .content-2 {
+  gap: 60px;
+  left: 180px;
+  position: absolute;
+  top: 0;
+}
+
+.x2c-agile-development-planning-and-resourcing .content-item {
+  gap: 30px;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .titlepage {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  display: flex;
+  gap: 10px;
+  padding: 0px 0px 10px;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .frame-135 {
+  background-color: var(--fpcgraywhitesmoke);
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+  width: fit-content;
+}
+
+.x2c-agile-development-planning-and-resourcing .this-section-will-help-you {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 650px;
+}
+
+.x2c-agile-development-planning-and-resourcing .turn-the-problem-sta {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  width: 650px;
+}
+
+.x2c-agile-development-planning-and-resourcing .titlesubsection {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  display: flex;
+  gap: 10px;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 715px;
+}
+
+.x2c-agile-development-planning-and-resourcing .frame-14 {
+  flex-direction: column;
+  gap: 20px;
+  width: fit-content;
+}
+
+.x2c-agile-development-planning-and-resourcing .x1-initial-planning {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 690px;
+}
+
+.x2c-agile-development-planning-and-resourcing .the-best-practice-fo {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 690px;
+}
+
+.x2c-agile-development-planning-and-resourcing .iconaction {
+  height: 32px;
+  min-width: 32px;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .content {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .an-action-that-requires-high-engagement {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .lorem-ipsum {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.x2c-agile-development-planning-and-resourcing .an-action-that-requires-high-engagement-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.x2c-agile-development-planning-and-resourcing .x2-resourcing-an-agi {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 690px;
+}
+
+.x2c-agile-development-planning-and-resourcing .software-development {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 690px;
+}
+
+.x2c-agile-development-planning-and-resourcing .x3-modularization-and-modular-budgeting {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 690px;
+}
+
+.x2c-agile-development-planning-and-resourcing .monolithic-long-ter {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 690px;
+}
+
+.x2c-agile-development-planning-and-resourcing .lorem-ipsum-general {
+  color: var(--red);
+  line-height: 24px;
+  width: 690px;
+}
+
+.x2c-agile-development-planning-and-resourcing .challenge {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.x2c-agile-development-planning-and-resourcing .icon {
+  height: 32px;
+  min-width: 32.01px;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .overlap-group-1 {
+  height: 24px;
+  left: 3px;
+  position: relative;
+  top: 1px;
+  width: 27px;
+}
+
+.x2c-agile-development-planning-and-resourcing .content-3 {
+  gap: 2px;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .title-2 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 648px;
+}
+
+.x2c-agile-development-planning-and-resourcing .span1-2 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.x2c-agile-development-planning-and-resourcing .lorem-ipsum-1 {
+  color: var(--black);
+  line-height: 21px;
+  width: 648px;
+}
+
+.x2c-agile-development-planning-and-resourcing .x-1 {
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.x2c-agile-development-planning-and-resourcing .content-4 {
+  gap: 2px;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 648px;
+}
+
+.x2c-agile-development-planning-and-resourcing .x-2 {
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.x2c-agile-development-planning-and-resourcing .content-5 {
+  gap: 2px;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .x-3 {
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.x2c-agile-development-planning-and-resourcing .content-6 {
+  gap: 2px;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .x-4 {
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.x2c-agile-development-planning-and-resourcing .content-7 {
+  gap: 2px;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .subsection-title {
+  color: var(--red);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.x2c-agile-development-planning-and-resourcing .frame-139 {
+  flex-direction: column;
+  gap: 20px;
+  width: 715px;
+}
+
+.x2c-agile-development-planning-and-resourcing .outcome {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 238px;
+}
+
+.x2c-agile-development-planning-and-resourcing .v2 {
+  align-items: flex-end;
+  background-image: url(../img/gear-2-27@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 4px;
+  min-width: 24px;
+  padding: 8.2px 6.5px;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .this-is-an-outcome-t {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.x2c-agile-development-planning-and-resourcing .this-is-an-outcome-t-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .references {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: 970px;
+  min-width: 715px;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .titlesubsection-1 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  display: flex;
+  gap: 10px;
+  height: 40px;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 715px;
+}
+
+.x2c-agile-development-planning-and-resourcing .frame-140 {
+  flex-direction: column;
+  gap: 30px;
+  height: 900px;
+  width: 715px;
+}
+
+.x2c-agile-development-planning-and-resourcing .text-9 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: 30px;
+}
+
+.x2c-agile-development-planning-and-resourcing .content-1 {
+  gap: 5px;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .frame-163 {
+  background-color: var(--fpcgraymed);
+  border-radius: 4px;
+  gap: 10px;
+  padding: 1px 5px;
+  width: fit-content;
+}
+
+.x2c-agile-development-planning-and-resourcing .overlap-group-2 {
+  height: 19px;
+  margin-left: -1px;
+  margin-top: -0.75px;
+  position: relative;
+  width: 15px;
+}
+
+.x2c-agile-development-planning-and-resourcing .content-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+}
+
+.x2c-agile-development-planning-and-resourcing .frame {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .icon-3 {
+  background-size: 100% 100%;
+  height: 14px;
+  min-width: 14px;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .lorem-ipsum-2 {
+  font-weight: 400;
+  position: relative;
+  white-space: nowrap;
+}
+
+.x2c-agile-development-planning-and-resourcing .navmainv3-4 {
+  border-radius: 4px;
+  display: flex;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 260px;
+}
+
+.x2c-agile-development-planning-and-resourcing .v2-4 {
+  align-items: flex-end;
+  background-image: url(../img/gear-2-27@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 4px;
+  min-width: 24px;
+  padding: 8.2px 6.5px;
+  position: relative;
+}
+
+.x2c-agile-development-planning-and-resourcing .x1-9 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: 30px;
+}

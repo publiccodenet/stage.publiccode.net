@@ -1,0 +1,851 @@
+/* screen - 4b-agile-development */
+
+.x4b-agile-development {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 6160px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.x4b-agile-development .header {
+  align-items: center;
+  align-self: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-top: 60px;
+  min-width: 1080px;
+  width: auto;
+}
+
+.x4b-agile-development .home-resources-and {
+  color: transparent;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 180px;
+  margin-top: 59px;
+  min-height: 20px;
+  width: 567px;
+}
+
+.x4b-agile-development .title-3 {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 180px;
+  margin-top: 85px;
+  min-height: 40px;
+  width: 690px;
+}
+
+.x4b-agile-development .flex-row {
+  align-self: center;
+  gap: 58px;
+  margin-right: 32.0px;
+  margin-top: 62px;
+  min-width: 1048px;
+}
+
+.x4b-agile-development .content-2 {
+  align-items: flex-end;
+  gap: 60px;
+  width: fit-content;
+}
+
+.x4b-agile-development .content-item {
+  align-items: flex-start;
+  gap: 30px;
+  width: fit-content;
+}
+
+.x4b-agile-development .title {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  display: flex;
+  gap: 10px;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 690px;
+}
+
+.x4b-agile-development .content-3 {
+  align-items: flex-start;
+  background-color: var(--fpcgraywhitesmoke);
+  border-radius: 12px;
+  gap: 10px;
+  padding: 20px;
+  width: 690px;
+}
+
+.x4b-agile-development .this-section-will-help-you {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 650px;
+}
+
+.x4b-agile-development .cluster {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.x4b-agile-development .icon {
+  height: 32px;
+  min-width: 32.01px;
+  position: relative;
+}
+
+.x4b-agile-development .group-193 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  left: 2px;
+  min-width: 30px;
+  padding: 0 0.0px;
+  position: relative;
+}
+
+.x4b-agile-development .group-container {
+  height: 22px;
+  margin-top: 0;
+  position: relative;
+  width: 28px;
+}
+
+.x4b-agile-development .titlesubsection {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  display: flex;
+  gap: 10px;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 690.01px;
+}
+
+.x4b-agile-development .you-may-encounter-th {
+  color: transparent;
+  font-weight: 400;
+  line-height: 16px;
+  position: relative;
+  width: 690px;
+}
+
+.x4b-agile-development .span-2 {
+  color: var(--black);
+  line-height: 24px;
+}
+
+.x4b-agile-development .span1-1 {
+  font-weight: 600;
+}
+
+.x4b-agile-development .challenge {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.x4b-agile-development .overlap-group {
+  height: 24px;
+  left: 3px;
+  position: relative;
+  top: 1px;
+  width: 27px;
+}
+
+.x4b-agile-development .content-4 {
+  align-items: flex-start;
+  gap: 2px;
+  width: fit-content;
+}
+
+.x4b-agile-development .title-4 {
+  height: 12px;
+  min-width: 105.71px;
+  position: relative;
+}
+
+.x4b-agile-development .lorem-ipsum {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  width: 648px;
+}
+
+.x4b-agile-development .x-1 {
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.x4b-agile-development .content-5 {
+  align-items: flex-start;
+  gap: 2px;
+  width: fit-content;
+}
+
+.x4b-agile-development .title-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 648px;
+}
+
+.x4b-agile-development .x-2 {
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.x4b-agile-development .content-6 {
+  align-items: flex-start;
+  gap: 2px;
+  width: fit-content;
+}
+
+.x4b-agile-development .x-3 {
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.x4b-agile-development .content-7 {
+  align-items: flex-start;
+  gap: 2px;
+  width: fit-content;
+}
+
+.x4b-agile-development .actions {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+.x4b-agile-development .frame-14 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x4b-agile-development .x1-supporting-the-agile-work-plan {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 690px;
+}
+
+.x4b-agile-development .your-software-develo {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 690px;
+}
+
+.x4b-agile-development .icon-1 {
+  height: 32px;
+  min-width: 32px;
+  position: relative;
+}
+
+.x4b-agile-development .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(../img/union@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 20px;
+  min-width: 18px;
+  padding: 7.2px 5.2px;
+}
+
+.x4b-agile-development .content {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+}
+
+.x4b-agile-development .an-action-that-requires-high-engagement {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.x4b-agile-development .lorem-ipsum-1 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x4b-agile-development .lorem-ipsum-2 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x4b-agile-development .lorem-ipsum-3 {
+  color: var(--black);
+  font-weight: 400;
+  white-space: nowrap;
+}
+
+.x4b-agile-development .lorem-ipsum-4 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x4b-agile-development .lorem-ipsum-5 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x4b-agile-development .x2-sprint-planning {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 690px;
+}
+
+.x4b-agile-development .your-development-par {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 690px;
+}
+
+.x4b-agile-development .lorem-ipsum-6 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x4b-agile-development .span1 {
+  letter-spacing: 0;
+}
+
+.x4b-agile-development .lorem-ipsum-7 {
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.x4b-agile-development .title-2 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.x4b-agile-development .overlap-group-2 {
+  height: 26px;
+  left: 6px;
+  position: relative;
+  top: 2px;
+  width: 26px;
+}
+
+.x4b-agile-development .x-4 {
+  height: 8px;
+  left: 18px;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.x4b-agile-development .ellipse-193 {
+  border: 1.5px solid;
+  border-color: var(--black);
+  border-radius: 6.75px;
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.x4b-agile-development .line {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.x4b-agile-development .line-1 {
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 20px;
+}
+
+.x4b-agile-development .line-2 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 18px;
+}
+
+.x4b-agile-development .bullet-sub-bullet-sub-bullet-bullet {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: relative;
+}
+
+.x4b-agile-development .x3-using-a-dev-ops-approach {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 690px;
+}
+
+.x4b-agile-development .dev-ops-short-for-d {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 690px;
+}
+
+.x4b-agile-development .lorem-ipsum-8 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x4b-agile-development .lorem-ipsum-9 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x4b-agile-development .lorem-ipsum-10 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x4b-agile-development .x-5 {
+  height: 8px;
+  left: 18px;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.x4b-agile-development .bullet-sub-bullet-sub-bullet-bullet-1 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.x4b-agile-development .cluster-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.x4b-agile-development .create-or-complete-t {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 690px;
+}
+
+.x4b-agile-development .outcome {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  position: relative;
+}
+
+.x4b-agile-development .v2 {
+  align-items: flex-end;
+  background-image: url(../img/gear-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 4px;
+  min-width: 24px;
+  padding: 8.2px 6.5px;
+  position: relative;
+}
+
+.x4b-agile-development .this-is-an-outcome-t {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.x4b-agile-development .v2-1 {
+  background-image: url(../img/gear-2-23@2x.png);
+}
+
+.x4b-agile-development .this-is-an-outcome-t-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.x4b-agile-development .v2-2 {
+  background-image: url(../img/gear-2-24@2x.png);
+}
+
+.x4b-agile-development .frame-141 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.x4b-agile-development .text-7 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: 30px;
+}
+
+.x4b-agile-development .content-1 {
+  align-items: flex-start;
+  gap: 5px;
+  width: fit-content;
+}
+
+.x4b-agile-development .frame-163 {
+  background-color: var(--fpcgraymed);
+  border-radius: 4px;
+  gap: 10px;
+  padding: 1px 5px;
+  width: fit-content;
+}
+
+.x4b-agile-development .overlap-group-3 {
+  height: 19px;
+  margin-left: -1px;
+  margin-top: -0.75px;
+  position: relative;
+  width: 15px;
+}
+
+.x4b-agile-development .footer-nav {
+  align-self: stretch;
+  justify-content: space-between;
+  padding: 60px 0px 0px;
+  position: relative;
+}
+
+.x4b-agile-development .navfooterprev {
+  align-items: center;
+  background-color: var(--fpcpurple);
+  border-radius: 32px 4px 4px 32px;
+  display: flex;
+  gap: 15px;
+  padding: 10px 15px;
+  position: relative;
+  width: fit-content;
+}
+
+.x4b-agile-development .arrow-32 {
+  height: 12.47px;
+  margin-left: -0.85px;
+  min-width: 15.24px;
+  position: relative;
+}
+
+.x4b-agile-development .group-134 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
+  margin-right: -4.00px;
+  min-width: 203px;
+  position: relative;
+}
+
+.x4b-agile-development .x1a-welcome {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 199px;
+}
+
+.x4b-agile-development .navfooternext {
+  align-items: center;
+  background-color: var(--fpcpurple);
+  border-radius: 4px 32px 32px 4px;
+  display: flex;
+  gap: 15px;
+  padding: 10px 15px;
+  position: relative;
+  width: fit-content;
+}
+
+.x4b-agile-development .group-134-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
+  min-width: 115px;
+  position: relative;
+}
+
+.x4b-agile-development .x1b-discovery-research {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 111px;
+}
+
+.x4b-agile-development .sidebarv2 {
+  align-items: flex-start;
+  background-color: var(--cultured-pearl);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  height: 4801px;
+  justify-content: space-between;
+  padding: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.x4b-agile-development .navmainv3 {
+  align-items: center;
+  background-color: var(--algae-green);
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 260px;
+}
+
+.x4b-agile-development .x1-section-name {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x4b-agile-development .navmainv3-1 {
+  align-items: center;
+  background-color: var(--fpcbluehl);
+  justify-content: space-between;
+}
+
+.x4b-agile-development .x1-section-name-1 {
+  color: var(--black-3);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x4b-agile-development .navmainv3-2 {
+  align-items: center;
+  background-color: var(--fpchlpeach);
+  justify-content: space-between;
+}
+
+.x4b-agile-development .navmainv3-3 {
+  align-items: flex-start;
+  background-color: var(--periwinkle-gray);
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x4b-agile-development .capacity-building {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x4b-agile-development .navsubsectionv2-1 {
+  align-items: center;
+  background-color: var(--fpcpurple50);
+  border-radius: 4px;
+  display: flex;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: fit-content;
+}
+
+.x4b-agile-development .footer-floating {
+  margin-top: 128px;
+  min-width: 1440px;
+}
+
+.x4b-agile-development .overlap-group3 {
+  height: 850px;
+  position: relative;
+  width: 1440px;
+}
+
+.x4b-agile-development .logo {
+  display: flex;
+  gap: 13.3px;
+  width: 412px;
+}
+
+.x4b-agile-development .overlap-group-4 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  min-height: 280px;
+  padding: 30px 20px;
+  width: 524px;
+}
+
+.x4b-agile-development .overlap-group-5 {
+  height: 196px;
+  position: relative;
+  width: 343px;
+}
+
+.x4b-agile-development .span0 {
+  line-height: 26px;
+}
+
+.x4b-agile-development .span-4 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x4b-agile-development .flex-col {
+  flex-direction: column;
+  gap: 30px;
+  min-height: 233px;
+  width: 650px;
+}
+
+.x4b-agile-development .span-5 {
+  color: var(--fpclinkblue);
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+.x4b-agile-development .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.5px;
+  min-height: 80px;
+  width: 17px;
+}
+
+.x4b-agile-development .span0-1 {
+  color: var(--black);
+}
+
+.x4b-agile-development .content-8 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.x4b-agile-development .frame {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.x4b-agile-development .lorem-ipsum-11 {
+  align-self: stretch;
+  line-height: 21px;
+  position: relative;
+}
+
+.x4b-agile-development .navmainv3-4 {
+  border-radius: 4px;
+  display: flex;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 260px;
+}
+
+.x4b-agile-development .v2-3 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 4px;
+  min-width: 24px;
+  padding: 8.2px 6.5px;
+  position: relative;
+}
+
+.x4b-agile-development .x1-7 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: 30px;
+}

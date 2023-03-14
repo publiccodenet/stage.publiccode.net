@@ -1,0 +1,832 @@
+/* screen - 2a-planning-phase-introduction-abc */
+
+.x2a-planning-phase-introduction-abc {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2210px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.x2a-planning-phase-introduction-abc .header {
+  align-items: center;
+  align-self: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-top: 60px;
+  min-width: 1080px;
+  width: auto;
+}
+
+.x2a-planning-phase-introduction-abc .home-resources-and {
+  color: transparent;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 180px;
+  margin-top: 59px;
+  min-height: 20px;
+  width: 567px;
+}
+
+.x2a-planning-phase-introduction-abc .title {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 180px;
+  margin-top: 85px;
+  min-height: 40px;
+  width: 690px;
+}
+
+.x2a-planning-phase-introduction-abc .flex-row {
+  align-self: center;
+  gap: 58px;
+  margin-right: 32.0px;
+  margin-top: 62px;
+  min-width: 1048px;
+}
+
+.x2a-planning-phase-introduction-abc .content {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .intro {
+  height: 700px;
+  margin-right: -2.00px;
+  min-width: 692px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction-abc .flex-col {
+  flex-direction: column;
+  min-height: 700px;
+  width: 692px;
+}
+
+.x2a-planning-phase-introduction-abc .titlepage {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  display: flex;
+  gap: 10px;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 690px;
+}
+
+.x2a-planning-phase-introduction-abc .page-title {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .group-151 {
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+  width: 692px;
+}
+
+.x2a-planning-phase-introduction-abc .phaseplanning {
+  align-items: flex-start;
+  background-color: var(--fpcblue);
+  border-radius: 12px;
+  display: flex;
+  height: 230px;
+  overflow: hidden;
+  padding: 3.4px 0;
+  width: 230px;
+}
+
+.x2a-planning-phase-introduction-abc .group-148 {
+  align-items: flex-end;
+  display: flex;
+  height: 198px;
+  margin-left: 17px;
+  min-width: 216px;
+  padding: 0.0px 5.0px;
+}
+
+.x2a-planning-phase-introduction-abc .overlap-group2 {
+  height: 172px;
+  position: relative;
+  width: 189px;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle-11 {
+  background-color: var(--white);
+  height: 19px;
+  left: 58px;
+  position: absolute;
+  top: 72px;
+  width: 31px;
+}
+
+.x2a-planning-phase-introduction-abc .vector {
+  height: 18px;
+  left: 42px;
+  position: absolute;
+  top: 21px;
+  width: 27px;
+}
+
+.x2a-planning-phase-introduction-abc .vector-1 {
+  height: 26px;
+  left: 43px;
+  position: absolute;
+  top: 18px;
+  width: 33px;
+}
+
+.x2a-planning-phase-introduction-abc .vector-2 {
+  height: 23px;
+  left: 43px;
+  position: absolute;
+  top: 18px;
+  width: 39px;
+}
+
+.x2a-planning-phase-introduction-abc .group-2 {
+  height: 46px;
+  left: 75px;
+  position: absolute;
+  top: 127px;
+  width: 112px;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse {
+  border: 2px solid;
+  border-color: var(--blue-violet);
+  border-radius: 65.89px/66.17px;
+  height: 132px;
+  left: 32px;
+  position: absolute;
+  top: 18px;
+  width: 132px;
+}
+
+.x2a-planning-phase-introduction-abc .comment {
+  align-items: flex-start;
+  display: flex;
+  height: 38px;
+  justify-content: flex-end;
+  left: 14px;
+  min-width: 38px;
+  position: absolute;
+  top: 131px;
+  transform: rotate(-90.00deg);
+}
+
+.x2a-planning-phase-introduction-abc .overlap-group-1 {
+  height: 38px;
+  margin-top: 0;
+  position: relative;
+  width: 38px;
+}
+
+.x2a-planning-phase-introduction-abc .union {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(90.00deg);
+  width: 38px;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle-315 {
+  border: 1px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  height: 4px;
+  left: 10px;
+  position: absolute;
+  top: 17px;
+  width: 4px;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle-316 {
+  border: 1px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  height: 4px;
+  left: 17px;
+  position: absolute;
+  top: 17px;
+  width: 4px;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle-317 {
+  border: 1px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  height: 4px;
+  left: 24px;
+  position: absolute;
+  top: 17px;
+  width: 4px;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle-315-1 {
+  background-color: var(--blue-violet);
+  border-radius: 5px;
+  height: 4px;
+  left: 64px;
+  position: absolute;
+  top: 79px;
+  width: 4px;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle-316-1 {
+  background-color: var(--blue-violet);
+  border-radius: 5px;
+  height: 4px;
+  left: 71px;
+  position: absolute;
+  top: 79px;
+  width: 4px;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle-317-1 {
+  background-color: var(--blue-violet);
+  border-radius: 5px;
+  height: 4px;
+  left: 78px;
+  position: absolute;
+  top: 79px;
+  width: 4px;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse-1 {
+  background-color: var(--fpchlyellow);
+  border-radius: 7.39px;
+  height: 15px;
+  left: 57px;
+  position: absolute;
+  top: 53px;
+  width: 15px;
+}
+
+.x2a-planning-phase-introduction-abc .symbol-dev {
+  align-items: flex-start;
+  display: flex;
+  height: 12px;
+  justify-content: center;
+  left: 85px;
+  min-width: 26px;
+  position: absolute;
+  top: 13px;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle-2 {
+  height: 13px;
+  margin-top: -0.99px;
+  width: 8px;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse-2 {
+  align-self: center;
+  background-color: var(--fpchlyellow);
+  border-radius: 4.11px;
+  height: 8px;
+  margin-bottom: 0;
+  margin-left: 4px;
+  width: 8px;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle-3 {
+  height: 13px;
+  margin-left: 5px;
+  margin-top: -0.99px;
+  width: 8px;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse-3 {
+  height: 88px;
+  left: 32px;
+  position: absolute;
+  top: 44px;
+  width: 157px;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse-4 {
+  height: 56px;
+  left: 87px;
+  position: absolute;
+  top: 53px;
+  width: 77px;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse-5 {
+  height: 157px;
+  left: 57px;
+  position: absolute;
+  top: 3px;
+  width: 125px;
+}
+
+.x2a-planning-phase-introduction-abc .vector-3 {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 60px;
+  width: 65px;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse-6 {
+  background-color: var(--fpchlyellow);
+  border-radius: 6.57px;
+  height: 13px;
+  left: 91px;
+  position: absolute;
+  top: 143px;
+  width: 13px;
+}
+
+.x2a-planning-phase-introduction-abc .group {
+  height: 15px;
+  left: 166px;
+  position: absolute;
+  top: 134px;
+  width: 15px;
+}
+
+.x2a-planning-phase-introduction-abc .vector-4 {
+  height: 48px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.x2a-planning-phase-introduction-abc .group-3 {
+  height: 13px;
+  left: 5px;
+  position: absolute;
+  top: 4px;
+  width: 13px;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle-9 {
+  background-color: var(--blue-violet);
+  height: 19px;
+  left: 98px;
+  position: absolute;
+  top: 85px;
+  width: 31px;
+}
+
+.x2a-planning-phase-introduction-abc .symbol-dev-1 {
+  left: 104px;
+  top: 90px;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle {
+  height: 11px;
+  margin-bottom: -1.01px;
+  width: 6px;
+}
+
+.x2a-planning-phase-introduction-abc .line {
+  height: 9px;
+  margin-bottom: -0.36px;
+  margin-left: 2px;
+  width: 6px;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle-1 {
+  height: 11px;
+  margin-bottom: -1.01px;
+  margin-left: 1px;
+  width: 6px;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle-10 {
+  background-color: var(--carnation);
+  height: 19px;
+  left: 27px;
+  position: absolute;
+  top: 99px;
+  width: 31px;
+}
+
+.x2a-planning-phase-introduction-abc .symbol-dev-2 {
+  left: 33px;
+  top: 104px;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse-2-1 {
+  background-color: var(--bittersweet);
+  border-radius: 3.29px;
+  height: 7px;
+  left: 95px;
+  position: absolute;
+  top: 91px;
+  width: 7px;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse-5-1 {
+  background-color: var(--bittersweet);
+  border-radius: 3.29px;
+  height: 7px;
+  left: 55px;
+  position: absolute;
+  top: 78px;
+  width: 7px;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse-3-1 {
+  background-color: var(--blue-violet);
+  border-radius: 3.29px;
+  height: 7px;
+  left: 55px;
+  position: absolute;
+  top: 105px;
+  width: 7px;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse-4-1 {
+  background-color: var(--blue-violet);
+  border-radius: 3.29px;
+  height: 7px;
+  left: 94px;
+  position: absolute;
+  top: 146px;
+  width: 7px;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse-7 {
+  background-color: var(--fpchlyellow);
+  border-radius: 4.11px;
+  height: 8px;
+  left: 29px;
+  position: absolute;
+  top: 79px;
+  width: 8px;
+}
+
+.x2a-planning-phase-introduction-abc .vector-3-1 {
+  height: 17px;
+  left: 57px;
+  position: absolute;
+  top: 93px;
+  width: 42px;
+}
+
+.x2a-planning-phase-introduction-abc .vector-5 {
+  height: 23px;
+  left: 24px;
+  position: absolute;
+  top: 60px;
+  width: 35px;
+}
+
+.x2a-planning-phase-introduction-abc .vector-4-1 {
+  height: 43px;
+  left: 57px;
+  position: absolute;
+  top: 108px;
+  width: 41px;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse-8 {
+  background-color: var(--fpchlyellow);
+  border-radius: 4.11px;
+  height: 8px;
+  left: 159px;
+  position: absolute;
+  top: 79px;
+  width: 8px;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse-9 {
+  background-color: var(--fpchlyellow);
+  border-radius: 4.11px;
+  height: 8px;
+  left: 48px;
+  position: absolute;
+  top: 127px;
+  width: 8px;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse-10 {
+  background-color: var(--fpchlyellow);
+  border-radius: 12.32px;
+  height: 25px;
+  left: 109px;
+  position: absolute;
+  top: 33px;
+  width: 25px;
+}
+
+.x2a-planning-phase-introduction-abc .comment-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 31px;
+  justify-content: flex-end;
+  left: 106px;
+  min-width: 31px;
+  position: absolute;
+  top: 29px;
+  transform: rotate(180deg);
+}
+
+.x2a-planning-phase-introduction-abc .overlap-group1 {
+  height: 33px;
+  margin-top: -1.0px;
+  position: relative;
+  width: 33px;
+}
+
+.x2a-planning-phase-introduction-abc .union-1 {
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 33px;
+}
+
+.x2a-planning-phase-introduction-abc .group-2-1 {
+  height: 12px;
+  left: 11px;
+  position: absolute;
+  top: 11px;
+  transform: rotate(-180deg);
+  width: 12px;
+}
+
+.x2a-planning-phase-introduction-abc .the-previous-phase-c {
+  color: var(--black);
+  font-weight: 400;
+  height: 250px;
+  line-height: 24px;
+  width: 430px;
+}
+
+.x2a-planning-phase-introduction-abc .span-3 {
+  letter-spacing: 0;
+}
+
+.x2a-planning-phase-introduction-abc .this-phase-you-will {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 380px;
+  width: 690px;
+}
+
+.x2a-planning-phase-introduction-abc .footer-nav {
+  align-self: stretch;
+  justify-content: space-between;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction-abc .navfooterprev {
+  align-items: center;
+  background-color: var(--fpcgreen);
+  border-radius: 32px 4px 4px 32px;
+  display: flex;
+  gap: 15px;
+  padding: 10px 15px;
+  position: relative;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .arrow-32 {
+  height: 12.47px;
+  margin-left: -0.85px;
+  min-width: 15.24px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction-abc .group-134 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
+  margin-right: -4.00px;
+  min-width: 167px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction-abc .x1a-welcome {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 163px;
+}
+
+.x2a-planning-phase-introduction-abc .navfooternext {
+  align-items: center;
+  background-color: var(--fpcblue);
+  border-radius: 4px 32px 32px 4px;
+  display: flex;
+  gap: 15px;
+  padding: 10px 15px;
+  position: relative;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .group-134-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
+  min-width: 147px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction-abc .x1b-discovery-research {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 143px;
+}
+
+.x2a-planning-phase-introduction-abc .sidebarv2 {
+  align-items: flex-start;
+  background-color: var(--cultured-pearl);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  height: 852px;
+  justify-content: space-between;
+  padding: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .top {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .navmainv3 {
+  align-items: center;
+  background-color: var(--algae-green);
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 260px;
+}
+
+.x2a-planning-phase-introduction-abc .x1-section-name-1 {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .navmainv3-1 {
+  align-items: flex-start;
+  background-color: var(--fpcbluehl);
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x2a-planning-phase-introduction-abc .x1-section-name {
+  color: var(--black-3);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .navsubsectionv2-1 {
+  align-items: center;
+  background-color: var(--fpcblue50);
+  border-radius: 4px;
+  display: flex;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .capacity-building {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .navmainv3-2 {
+  align-items: center;
+  background-color: var(--fpchlpeach);
+  justify-content: space-between;
+}
+
+.x2a-planning-phase-introduction-abc .navmainv3-3 {
+  align-items: center;
+  background-color: var(--periwinkle-gray);
+  justify-content: space-between;
+}
+
+.x2a-planning-phase-introduction-abc .footer-floating {
+  margin-top: 127px;
+  min-width: 1440px;
+}
+
+.x2a-planning-phase-introduction-abc .overlap-group3 {
+  height: 850px;
+  position: relative;
+  width: 1440px;
+}
+
+.x2a-planning-phase-introduction-abc .logo {
+  display: flex;
+  gap: 13.3px;
+  width: 412px;
+}
+
+.x2a-planning-phase-introduction-abc .overlap-group {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  min-height: 280px;
+  padding: 30px 20px;
+  width: 524px;
+}
+
+.x2a-planning-phase-introduction-abc .overlap-group-2 {
+  height: 196px;
+  position: relative;
+  width: 343px;
+}
+
+.x2a-planning-phase-introduction-abc .span0 {
+  line-height: 26px;
+}
+
+.x2a-planning-phase-introduction-abc .span-4 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x2a-planning-phase-introduction-abc .flex-col-1 {
+  gap: 30px;
+  min-height: 233px;
+  width: 650px;
+}
+
+.x2a-planning-phase-introduction-abc .span-5 {
+  color: var(--fpclinkblue);
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+.x2a-planning-phase-introduction-abc .span0-1 {
+  color: var(--black);
+}
+
+.x2a-planning-phase-introduction-abc .span1 {
+  color: var(--fpclinkblue);
+  text-decoration: underline;
+}
+
+.x2a-planning-phase-introduction-abc .navmainv3-4 {
+  border-radius: 4px;
+  display: flex;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 260px;
+}
+
+.x2a-planning-phase-introduction-abc .symbol-dev-3 {
+  align-items: flex-end;
+  display: flex;
+  height: 9px;
+  justify-content: center;
+  min-width: 19px;
+  position: absolute;
+}

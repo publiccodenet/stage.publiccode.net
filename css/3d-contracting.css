@@ -1,0 +1,817 @@
+/* screen - 3d-contracting */
+
+.x3d-contracting {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 4785px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.x3d-contracting .header {
+  align-items: center;
+  align-self: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-top: 60px;
+  min-width: 1080px;
+  width: auto;
+}
+
+.x3d-contracting .home-resources-and {
+  color: transparent;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 180px;
+  margin-top: 59px;
+  min-height: 20px;
+  width: 567px;
+}
+
+.x3d-contracting .title-3 {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 180px;
+  margin-top: 85px;
+  min-height: 40px;
+  width: 690px;
+}
+
+.x3d-contracting .flex-row {
+  align-self: center;
+  gap: 58px;
+  margin-right: 32.0px;
+  margin-top: 62px;
+  min-width: 1048px;
+}
+
+.x3d-contracting .content-2 {
+  align-items: flex-end;
+  gap: 60px;
+  width: fit-content;
+}
+
+.x3d-contracting .intro {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.x3d-contracting .title {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  display: flex;
+  gap: 10px;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 690px;
+}
+
+.x3d-contracting .content-3 {
+  align-items: flex-start;
+  background-color: var(--fpcgraywhitesmoke);
+  border-radius: 12px;
+  gap: 10px;
+  padding: 20px;
+  width: 690px;
+}
+
+.x3d-contracting .this-section-will-help-you {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 650px;
+}
+
+.x3d-contracting .cluster {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.x3d-contracting .icon {
+  height: 32px;
+  min-width: 32.01px;
+  position: relative;
+}
+
+.x3d-contracting .group-193 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  left: 2px;
+  min-width: 30px;
+  padding: 0 0.0px;
+  position: relative;
+}
+
+.x3d-contracting .group-container {
+  height: 22px;
+  margin-top: 0;
+  position: relative;
+  width: 28px;
+}
+
+.x3d-contracting .challenges {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.x3d-contracting .titlesubsection {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  display: flex;
+  gap: 10px;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 690.01px;
+}
+
+.x3d-contracting .you-may-encounter-th {
+  color: transparent;
+  font-weight: 400;
+  line-height: 16px;
+  position: relative;
+  width: 690px;
+}
+
+.x3d-contracting .span-2 {
+  color: var(--black);
+  line-height: 24px;
+}
+
+.x3d-contracting .span1 {
+  color: var(--fpclinkblue);
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.x3d-contracting .challenge {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.x3d-contracting .overlap-group {
+  height: 24px;
+  left: 3px;
+  position: relative;
+  top: 1px;
+  width: 27px;
+}
+
+.x3d-contracting .content-4 {
+  align-items: flex-start;
+  gap: 2px;
+  width: fit-content;
+}
+
+.x3d-contracting .title-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 648px;
+}
+
+.x3d-contracting .lorem-ipsum {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  width: 648px;
+}
+
+.x3d-contracting .x-1 {
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.x3d-contracting .content-5 {
+  align-items: flex-start;
+  gap: 2px;
+  width: fit-content;
+}
+
+.x3d-contracting .x-2 {
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.x3d-contracting .content-6 {
+  align-items: flex-start;
+  gap: 2px;
+  width: fit-content;
+}
+
+.x3d-contracting .actions {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+.x3d-contracting .frame-14 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x3d-contracting .contracts-should-lay {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 690px;
+}
+
+.x3d-contracting .icon-1 {
+  height: 32px;
+  min-width: 32px;
+  position: relative;
+}
+
+.x3d-contracting .content {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+}
+
+.x3d-contracting .an-action-that-requires-high-engagement {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.x3d-contracting .lorem-ipsum-1 {
+  color: var(--black);
+  font-weight: 400;
+  white-space: nowrap;
+}
+
+.x3d-contracting .title-2 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.x3d-contracting .overlap-group-1 {
+  height: 26px;
+  left: 6px;
+  position: relative;
+  top: 2px;
+  width: 26px;
+}
+
+.x3d-contracting .x-3 {
+  height: 8px;
+  left: 18px;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.x3d-contracting .ellipse-193 {
+  border: 1.5px solid;
+  border-color: var(--black);
+  border-radius: 6.75px;
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.x3d-contracting .line {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.x3d-contracting .line-1 {
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 20px;
+}
+
+.x3d-contracting .line-2 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 18px;
+}
+
+.x3d-contracting .bullet-sub-bullet-sub-bullet-bullet {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.x3d-contracting .your-market-research {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 690px;
+}
+
+.x3d-contracting .lorem-ipsum-2 {
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.x3d-contracting .x-4 {
+  height: 8px;
+  left: 18px;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.x3d-contracting .contracts-are-not-th {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 690px;
+}
+
+.x3d-contracting .overlap-group-4 {
+  align-items: flex-start;
+  background-image: url(../img/union@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 20px;
+  min-width: 18px;
+  padding: 7.2px 5.2px;
+}
+
+.x3d-contracting .lorem-ipsum-3 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x3d-contracting .lorem-ipsum-4 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x3d-contracting .span-4 {
+  font-weight: 700;
+}
+
+.x3d-contracting .x-5 {
+  height: 8px;
+  left: 18px;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.x3d-contracting .span1-1 {
+  letter-spacing: 0;
+}
+
+.x3d-contracting .outcomes {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.x3d-contracting .cluster-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.x3d-contracting .create-or-complete-t {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 690px;
+}
+
+.x3d-contracting .outcome {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  position: relative;
+}
+
+.x3d-contracting .v2 {
+  align-items: flex-end;
+  background-image: url(../img/gear-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 4px;
+  min-width: 24px;
+  padding: 8.2px 6.5px;
+  position: relative;
+}
+
+.x3d-contracting .this-is-an-outcome-t {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.x3d-contracting .v2-1 {
+  align-items: flex-end;
+  background-image: url(../img/gear-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 4px;
+  min-width: 24px;
+  padding: 8.2px 6.5px;
+  position: relative;
+}
+
+.x3d-contracting .this-is-an-outcome-t-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.x3d-contracting .references {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.x3d-contracting .frame-140 {
+  flex-direction: column;
+  gap: 30px;
+  width: fit-content;
+}
+
+.x3d-contracting .text-12 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: 30px;
+}
+
+.x3d-contracting .content-1 {
+  align-items: flex-start;
+  gap: 5px;
+  width: fit-content;
+}
+
+.x3d-contracting .frame-163 {
+  background-color: var(--fpcgraymed);
+  border-radius: 4px;
+  gap: 10px;
+  padding: 1px 5px;
+  width: fit-content;
+}
+
+.x3d-contracting .overlap-group-2 {
+  height: 19px;
+  margin-left: -1px;
+  margin-top: -0.75px;
+  position: relative;
+  width: 15px;
+}
+
+.x3d-contracting .footer-nav {
+  align-self: stretch;
+  justify-content: space-between;
+  padding: 60px 0px 0px;
+  position: relative;
+}
+
+.x3d-contracting .navfooterprev {
+  align-items: center;
+  background-color: var(--fpcbgpeach);
+  border-radius: 32px 4px 4px 32px;
+  display: flex;
+  gap: 15px;
+  padding: 10px 15px;
+  position: relative;
+  width: fit-content;
+}
+
+.x3d-contracting .arrow-32 {
+  height: 12.47px;
+  margin-left: -0.85px;
+  min-width: 15.24px;
+  position: relative;
+}
+
+.x3d-contracting .group-134 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
+  margin-right: -4.00px;
+  min-width: 140px;
+  position: relative;
+}
+
+.x3d-contracting .x1a-welcome {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 136px;
+}
+
+.x3d-contracting .navfooternext {
+  align-items: center;
+  background-color: var(--fpcpurple);
+  border-radius: 4px 32px 32px 4px;
+  display: flex;
+  gap: 15px;
+  padding: 10px 15px;
+  position: relative;
+  width: fit-content;
+}
+
+.x3d-contracting .group-134-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
+  min-width: 203px;
+  position: relative;
+}
+
+.x3d-contracting .x1b-discovery-research {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 199px;
+}
+
+.x3d-contracting .sidebarv2 {
+  align-items: flex-start;
+  background-color: var(--cultured-pearl);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  height: 3425px;
+  justify-content: space-between;
+  padding: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.x3d-contracting .navmainv3 {
+  align-items: center;
+  background-color: var(--algae-green);
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 260px;
+}
+
+.x3d-contracting .x1-section-name {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x3d-contracting .navmainv3-1 {
+  align-items: center;
+  background-color: var(--fpcbluehl);
+  justify-content: space-between;
+}
+
+.x3d-contracting .x1-section-name-1 {
+  color: var(--black-3);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x3d-contracting .navmainv3-2 {
+  align-items: flex-start;
+  background-color: var(--fpchlpeach);
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x3d-contracting .capacity-building {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x3d-contracting .navsubsectionv2-1 {
+  align-items: center;
+  background-color: var(--fpcpeachmid);
+  border-radius: 4px;
+  display: flex;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: fit-content;
+}
+
+.x3d-contracting .navmainv3-3 {
+  align-items: center;
+  background-color: var(--periwinkle-gray);
+  justify-content: space-between;
+}
+
+.x3d-contracting .footer-floating {
+  margin-top: 129px;
+  min-width: 1440px;
+}
+
+.x3d-contracting .overlap-group3 {
+  height: 850px;
+  position: relative;
+  width: 1440px;
+}
+
+.x3d-contracting .logo {
+  display: flex;
+  gap: 13.3px;
+  width: 412px;
+}
+
+.x3d-contracting .overlap-group-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  min-height: 280px;
+  padding: 30px 20px;
+  width: 524px;
+}
+
+.x3d-contracting .overlap-group-5 {
+  height: 196px;
+  position: relative;
+  width: 343px;
+}
+
+.x3d-contracting .span0 {
+  line-height: 26px;
+}
+
+.x3d-contracting .span-5 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x3d-contracting .flex-col {
+  flex-direction: column;
+  gap: 30px;
+  min-height: 233px;
+  width: 650px;
+}
+
+.x3d-contracting .span-6 {
+  color: var(--fpclinkblue);
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+.x3d-contracting .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.5px;
+  min-height: 80px;
+  width: 17px;
+}
+
+.x3d-contracting .span0-1 {
+  color: var(--black);
+}
+
+.x3d-contracting .span1-2 {
+  color: var(--fpclinkblue);
+  text-decoration: underline;
+}
+
+.x3d-contracting .bullet-sub-bullet-sub-bullet-bullet-3 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.x3d-contracting .content-7 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.x3d-contracting .frame {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.x3d-contracting .lorem-ipsum-5 {
+  align-self: stretch;
+  line-height: 21px;
+  position: relative;
+}
+
+.x3d-contracting .navmainv3-4 {
+  border-radius: 4px;
+  display: flex;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 260px;
+}
+
+.x3d-contracting .x1-3 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: 30px;
+}

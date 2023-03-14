@@ -1,0 +1,1184 @@
+/* screen - 1f-strategic-analysis-existing-software */
+
+.x1f-strategic-analysis-existing-software {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 7236px;
+  width: 1440px;
+}
+
+.x1f-strategic-analysis-existing-software .header {
+  align-items: center;
+  align-self: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-top: 60px;
+  min-width: 1080px;
+  width: auto;
+}
+
+.x1f-strategic-analysis-existing-software .home-resources-and {
+  color: transparent;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 180px;
+  margin-top: 59px;
+  min-height: 20px;
+  width: 567px;
+}
+
+.x1f-strategic-analysis-existing-software .title-3 {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 180px;
+  margin-top: 85px;
+  min-height: 40px;
+  width: 690px;
+}
+
+.x1f-strategic-analysis-existing-software .flex-row {
+  align-self: center;
+  gap: 64px;
+  margin-right: 26.0px;
+  margin-top: 62px;
+  min-width: 1054px;
+}
+
+.x1f-strategic-analysis-existing-software .content-2 {
+  gap: 60px;
+}
+
+.x1f-strategic-analysis-existing-software .intro {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .title {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  display: flex;
+  gap: 10px;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 690.01px;
+}
+
+.x1f-strategic-analysis-existing-software .content-3 {
+  background-color: var(--fpcgraywhitesmoke);
+  border-radius: 12px;
+  gap: 10px;
+  padding: 20px;
+}
+
+.x1f-strategic-analysis-existing-software .this-section-will-help-you {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 650px;
+}
+
+.x1f-strategic-analysis-existing-software .cluster {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .icon {
+  height: 32px;
+  min-width: 32.01px;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .group-193 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  left: 2px;
+  min-width: 30px;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .group-container {
+  height: 22px;
+  margin-top: 0;
+  position: relative;
+  width: 28px;
+}
+
+.x1f-strategic-analysis-existing-software .span-3 {
+  letter-spacing: 0;
+}
+
+.x1f-strategic-analysis-existing-software .challenges {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .content-4 {
+  gap: 20px;
+}
+
+.x1f-strategic-analysis-existing-software .you-may-encounter-th {
+  color: transparent;
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 690px;
+}
+
+.x1f-strategic-analysis-existing-software .span-4 {
+  color: var(--black);
+  line-height: 24px;
+}
+
+.x1f-strategic-analysis-existing-software .span1 {
+  color: var(--fpclinkblue);
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.x1f-strategic-analysis-existing-software .challenge {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .overlap-group {
+  height: 24px;
+  left: 3px;
+  position: relative;
+  top: 1px;
+  width: 27px;
+}
+
+.x1f-strategic-analysis-existing-software .content-5 {
+  gap: 2px;
+}
+
+.x1f-strategic-analysis-existing-software .title-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 648px;
+}
+
+.x1f-strategic-analysis-existing-software .lorem-ipsum {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  width: 648px;
+}
+
+.x1f-strategic-analysis-existing-software .x-1 {
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.x1f-strategic-analysis-existing-software .content-6 {
+  gap: 2px;
+}
+
+.x1f-strategic-analysis-existing-software .x-2 {
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.x1f-strategic-analysis-existing-software .content-7 {
+  gap: 2px;
+}
+
+.x1f-strategic-analysis-existing-software .pathways {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .at-the-end-of-this-p {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 690px;
+}
+
+.x1f-strategic-analysis-existing-software .frame-141 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x1f-strategic-analysis-existing-software .frame-135 {
+  align-items: flex-start;
+  gap: 20px;
+  height: 104px;
+}
+
+.x1f-strategic-analysis-existing-software .frame-13 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcgraywhitesmoke);
+  border-radius: 4px;
+  gap: 15px;
+  justify-content: center;
+  padding: 15px 20px;
+}
+
+.x1f-strategic-analysis-existing-software .purchase-existing-bu {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  width: 216px;
+}
+
+.x1f-strategic-analysis-existing-software .span-5 {
+  font-weight: 700;
+}
+
+.x1f-strategic-analysis-existing-software .overlap-group3 {
+  height: 51px;
+  left: 7px;
+  position: relative;
+  top: 7px;
+  width: 50px;
+}
+
+.x1f-strategic-analysis-existing-software .union-container {
+  height: 53px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 52px;
+}
+
+.x1f-strategic-analysis-existing-software .union {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.x1f-strategic-analysis-existing-software .union-1 {
+  height: 53px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.x1f-strategic-analysis-existing-software .union-2 {
+  height: 12px;
+  left: 18px;
+  position: absolute;
+  top: 41px;
+  width: 34px;
+}
+
+.x1f-strategic-analysis-existing-software .overlap-group1 {
+  height: 15px;
+  left: 29px;
+  position: absolute;
+  top: 21px;
+  width: 8px;
+}
+
+.x1f-strategic-analysis-existing-software .vector {
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 8px;
+}
+
+.x1f-strategic-analysis-existing-software .line-10 {
+  height: 3px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.x1f-strategic-analysis-existing-software .line-11 {
+  height: 3px;
+  left: 3px;
+  position: absolute;
+  top: 12px;
+  width: 2px;
+}
+
+.x1f-strategic-analysis-existing-software .fork-standard {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  justify-content: flex-end;
+  left: 19px;
+  min-width: 16px;
+  position: absolute;
+  top: 8px;
+}
+
+.x1f-strategic-analysis-existing-software .overlap-group2 {
+  height: 30px;
+  margin-top: -0.91px;
+  position: relative;
+  width: 18px;
+}
+
+.x1f-strategic-analysis-existing-software .ellipse-192 {
+  border: 1.81px solid;
+  border-color: var(--black);
+  border-radius: 3.41px;
+  height: 7px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.x1f-strategic-analysis-existing-software .ellipse-193 {
+  border: 1.81px solid;
+  border-color: var(--black);
+  border-radius: 3.41px;
+  height: 7px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 7px;
+}
+
+.x1f-strategic-analysis-existing-software .vector-6 {
+  height: 5px;
+  left: 10px;
+  position: absolute;
+  top: 5px;
+  width: 8px;
+}
+
+.x1f-strategic-analysis-existing-software .vector-1 {
+  height: 18px;
+  left: 2px;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.x1f-strategic-analysis-existing-software .vector-2 {
+  height: 15px;
+  left: 2px;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+
+.x1f-strategic-analysis-existing-software .group-146 {
+  align-items: flex-start;
+  display: flex;
+  height: 51px;
+  justify-content: flex-end;
+  left: 7px;
+  min-width: 50px;
+  position: relative;
+  top: 7px;
+}
+
+.x1f-strategic-analysis-existing-software .overlap-group2-1 {
+  height: 53px;
+  margin-top: -0.91px;
+  position: relative;
+  width: 52px;
+}
+
+.x1f-strategic-analysis-existing-software .union-container-1 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}
+
+.x1f-strategic-analysis-existing-software .code {
+  height: 27px;
+  left: 16px;
+  position: absolute;
+  top: 8px;
+  width: 21px;
+}
+
+.x1f-strategic-analysis-existing-software .overlap-group1-1 {
+  height: 15px;
+  left: 30px;
+  position: absolute;
+  top: 22px;
+  width: 8px;
+}
+
+.x1f-strategic-analysis-existing-software .overlap-group-1 {
+  align-items: flex-end;
+  background-image: url(../img/union-32@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 54px;
+  left: 2px;
+  min-width: 61px;
+  padding: 10.6px 15.4px;
+  position: relative;
+  top: 4px;
+}
+
+.x1f-strategic-analysis-existing-software .actions {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .frame-114 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x1f-strategic-analysis-existing-software .x1-performing-a-tota {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 690px;
+}
+
+.x1f-strategic-analysis-existing-software .software-ownership-c {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 690px;
+}
+
+.x1f-strategic-analysis-existing-software .icon-1 {
+  height: 32px;
+  min-width: 32px;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .content {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .an-action-that-requires-high-engagement {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.x1f-strategic-analysis-existing-software .lorem-ipsum-1 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.x1f-strategic-analysis-existing-software .frame-138 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x1f-strategic-analysis-existing-software .x2-performing-a-tota {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 690px;
+}
+
+.x1f-strategic-analysis-existing-software .if-your-research-did {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 690px;
+}
+
+.x1f-strategic-analysis-existing-software .lorem-ipsum-2 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.x1f-strategic-analysis-existing-software .title-2 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .overlap-group-2 {
+  height: 26px;
+  left: 6px;
+  position: relative;
+  top: 2px;
+  width: 26px;
+}
+
+.x1f-strategic-analysis-existing-software .x-3 {
+  height: 8px;
+  left: 18px;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.x1f-strategic-analysis-existing-software .ellipse-193-1 {
+  border: 1.5px solid;
+  border-color: var(--black);
+  border-radius: 6.75px;
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.x1f-strategic-analysis-existing-software .line {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.x1f-strategic-analysis-existing-software .line-1 {
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 20px;
+}
+
+.x1f-strategic-analysis-existing-software .line-2 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 18px;
+}
+
+.x1f-strategic-analysis-existing-software .bullet-sub-bullet-sub-bullet-bullet {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .frame-139 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x1f-strategic-analysis-existing-software .x3-comparing-options {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 690px;
+}
+
+.x1f-strategic-analysis-existing-software .your-tco-licensing {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 690px;
+}
+
+.x1f-strategic-analysis-existing-software .overlap-group-3 {
+  align-items: flex-start;
+  background-image: url(../img/union@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 20px;
+  min-width: 18px;
+  padding: 7.2px 5.2px;
+}
+
+.x1f-strategic-analysis-existing-software .a-knowledge-acquisit {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.x1f-strategic-analysis-existing-software .lorem-ipsum-3 {
+  letter-spacing: 0;
+  line-height: 14px;
+}
+
+.x1f-strategic-analysis-existing-software .lorem-ipsum-4 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.x1f-strategic-analysis-existing-software .x-4 {
+  height: 8px;
+  left: 18px;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.x1f-strategic-analysis-existing-software .bullet-sub-bullet-sub-bullet-bullet-1 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .frame-140 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x1f-strategic-analysis-existing-software .x4-co-procurement {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 690px;
+}
+
+.x1f-strategic-analysis-existing-software .peer-jurisdictions {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 690px;
+}
+
+.x1f-strategic-analysis-existing-software .lorem-ipsum-5 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.x1f-strategic-analysis-existing-software .lorem-ipsum-6 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.x1f-strategic-analysis-existing-software .lorem-ipsum-7 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.x1f-strategic-analysis-existing-software .outcomes {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .frame-139-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 20px;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .outcome {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .v2 {
+  align-items: flex-end;
+  background-image: url(../img/gear-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 4px;
+  min-width: 24px;
+  padding: 8.2px 6.5px;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .this-is-an-outcome-t {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .v2-1 {
+  background-image: url(../img/gear-2-12@2x.png);
+}
+
+.x1f-strategic-analysis-existing-software .v2-2 {
+  background-image: url(../img/gear-2-13@2x.png);
+}
+
+.x1f-strategic-analysis-existing-software .references {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .frame-140-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .text-4 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: 30px;
+}
+
+.x1f-strategic-analysis-existing-software .content-1 {
+  gap: 5px;
+}
+
+.x1f-strategic-analysis-existing-software .frame-163 {
+  align-items: flex-start;
+  background-color: var(--fpcgraymed);
+  border-radius: 4px;
+  gap: 10px;
+  padding: 1px 5px;
+}
+
+.x1f-strategic-analysis-existing-software .overlap-group-4 {
+  height: 19px;
+  margin-left: -1px;
+  margin-top: -0.75px;
+  position: relative;
+  width: 15px;
+}
+
+.x1f-strategic-analysis-existing-software .strategic-paths {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .frame-115 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x1f-strategic-analysis-existing-software .you-should-now-have {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 690px;
+}
+
+.x1f-strategic-analysis-existing-software .frame-135-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .purchase-existing-bu-1 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 216px;
+}
+
+.x1f-strategic-analysis-existing-software .customize-oss-contra-1 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 216px;
+}
+
+.x1f-strategic-analysis-existing-software .custom-software-cont-1 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 216px;
+}
+
+.x1f-strategic-analysis-existing-software .build-in-house-build-1 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 216px;
+}
+
+.x1f-strategic-analysis-existing-software .footer-nav {
+  align-self: stretch;
+  justify-content: space-between;
+  padding: 60px 0px 0px;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .navfooterprev {
+  align-items: center;
+  background-color: var(--fpcgreen);
+  border-radius: 32px 4px 4px 32px;
+  display: flex;
+  gap: 15px;
+  padding: 10px 15px;
+  position: relative;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .arrow-32 {
+  height: 12.47px;
+  margin-left: -0.85px;
+  min-width: 15.24px;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .group-134 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
+  margin-right: -4.00px;
+  min-width: 156px;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .x1a-welcome {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 152px;
+}
+
+.x1f-strategic-analysis-existing-software .navfooternext {
+  align-items: center;
+  background-color: var(--fpcblue);
+  border-radius: 4px 32px 32px 4px;
+  display: flex;
+  gap: 15px;
+  padding: 10px 15px;
+  position: relative;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .group-134-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
+  min-width: 151px;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .x1b-discovery-research {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 147px;
+}
+
+.x1f-strategic-analysis-existing-software .sidebarv2 {
+  align-items: center;
+  background-color: var(--cultured-pearl);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  height: 5830px;
+  justify-content: space-between;
+  padding: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .top {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .navmainv3 {
+  align-items: flex-start;
+  background-color: var(--algae-green);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 260px;
+}
+
+.x1f-strategic-analysis-existing-software .x1-section-name-1 {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .capacity-building {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .navsubsectionv2-1 {
+  align-items: center;
+  background-color: var(--fpcgreen50);
+  border-radius: 4px;
+  display: flex;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .navmainv3-1 {
+  background-color: var(--fpcbluehl);
+}
+
+.x1f-strategic-analysis-existing-software .x1-section-name {
+  color: var(--black-3);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .navmainv3-2 {
+  background-color: var(--fpchlpeach);
+}
+
+.x1f-strategic-analysis-existing-software .navmainv3-3 {
+  background-color: var(--periwinkle-gray);
+}
+
+.x1f-strategic-analysis-existing-software .footer-floating {
+  margin-top: 175px;
+  min-width: 1440px;
+}
+
+.x1f-strategic-analysis-existing-software .logo {
+  display: flex;
+  gap: 13.3px;
+  width: 412px;
+}
+
+.x1f-strategic-analysis-existing-software .overlap-group-5 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  min-height: 280px;
+  padding: 30px 20px;
+  width: 524px;
+}
+
+.x1f-strategic-analysis-existing-software .span0 {
+  line-height: 26px;
+}
+
+.x1f-strategic-analysis-existing-software .span-6 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x1f-strategic-analysis-existing-software .flex-col {
+  flex-direction: column;
+  gap: 30px;
+  min-height: 233px;
+  width: 650px;
+}
+
+.x1f-strategic-analysis-existing-software .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.5px;
+  min-height: 80px;
+  width: 17px;
+}
+
+.x1f-strategic-analysis-existing-software .span0-1 {
+  color: var(--black);
+}
+
+.x1f-strategic-analysis-existing-software .span1-1 {
+  color: var(--fpclinkblue);
+  text-decoration: underline;
+}
+
+.x1f-strategic-analysis-existing-software .a-knowledge-acquisit-3 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.x1f-strategic-analysis-existing-software .an-action-that-requires-high-engagement-4 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.x1f-strategic-analysis-existing-software .content-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .frame {
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+
+.x1f-strategic-analysis-existing-software .lorem-ipsum-8 {
+  align-self: stretch;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .navmainv3-4 {
+  align-items: center;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 260px;
+}
+
+.x1f-strategic-analysis-existing-software .v2-3 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 4px;
+  min-width: 24px;
+  padding: 8.2px 6.5px;
+  position: relative;
+}
+
+.x1f-strategic-analysis-existing-software .x1-8 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: 30px;
+}
