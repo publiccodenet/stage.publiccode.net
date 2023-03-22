@@ -1,59 +1,37 @@
 /* screen - 2c-rfp-writing */
 
 .x2c-rfp-writing {
-  align-items: flex-start;
+  align-items: center;
   background-color: var(--white);
   border: 1px none;
   display: flex;
   flex-direction: column;
-  height: 5663px;
-  width: 1440px;
+  gap: 60px;
+  min-width: 1440px;
+  padding: 60px 0px 0px;
+  position: relative;
 }
 
-.x2c-rfp-writing .header {
-  align-items: center;
-  align-self: center;
-  background-color: transparent;
-  display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
-  justify-content: flex-start;
-  margin-top: 60px;
-  min-width: 1080px;
-  width: auto;
-}
-
-.x2c-rfp-writing .home-resources-and {
-  color: transparent;
-  font-weight: 400;
-  line-height: normal;
-  margin-left: 180px;
-  margin-top: 59px;
-  min-height: 20px;
-  width: 567px;
-}
-
-.x2c-rfp-writing .title-2 {
+.x2c-rfp-writing .title-1 {
   color: var(--black);
   font-weight: 700;
   line-height: normal;
-  margin-left: 180px;
-  margin-top: 85px;
-  min-height: 40px;
-  width: 690px;
+  position: relative;
+  width: 1080px;
 }
 
-.x2c-rfp-writing .flex-row {
-  align-self: center;
+.x2c-rfp-writing .main-frame {
+  align-items: flex-start;
+  display: flex;
   gap: 58px;
-  margin-right: 32.0px;
-  margin-top: 62px;
-  min-width: 1048px;
+  padding: 0px 0px 60px;
+  position: relative;
+  width: 1080px;
 }
 
-.x2c-rfp-writing .content-2 {
+.x2c-rfp-writing .content-3 {
+  flex: 1;
   gap: 60px;
-  width: 690px;
 }
 
 .x2c-rfp-writing .intro {
@@ -77,7 +55,7 @@
   position: relative;
 }
 
-.x2c-rfp-writing .content-3 {
+.x2c-rfp-writing .content-4 {
   align-self: stretch;
   background-color: var(--fpcgraywhitesmoke);
   border-radius: 12px;
@@ -85,26 +63,11 @@
   padding: 20px;
 }
 
-.x2c-rfp-writing .this-section-will-help-you {
-  letter-spacing: 0;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: 650px;
-}
-
 .x2c-rfp-writing .cluster {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
   gap: 10px;
-  position: relative;
-}
-
-.x2c-rfp-writing .icon {
-  height: 32px;
-  min-width: 32.01px;
   position: relative;
 }
 
@@ -119,53 +82,28 @@
   position: relative;
 }
 
-.x2c-rfp-writing .group-container {
-  height: 22px;
-  position: relative;
-  width: 28px;
-}
-
-.x2c-rfp-writing .challenges {
-  align-items: flex-start;
+.x2c-rfp-writing .content-5 {
   align-self: stretch;
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
-  position: relative;
-}
-
-.x2c-rfp-writing .content-4 {
   gap: 20px;
-  width: fit-content;
 }
 
 .x2c-rfp-writing .you-may-encounter-th {
-  color: transparent;
+  align-self: stretch;
+  color: var(--red);
   font-weight: 400;
   line-height: 16px;
   margin-top: -1.00px;
   position: relative;
-  width: 690px;
 }
 
-.x2c-rfp-writing .span-2 {
+.x2c-rfp-writing .span {
   color: var(--black);
   line-height: 24px;
 }
 
 .x2c-rfp-writing .span1 {
-  color: var(--fpclinkblue);
+  color: var(--black);
   font-weight: 600;
-  text-decoration: underline;
-}
-
-.x2c-rfp-writing .challenge {
-  align-items: flex-start;
-  display: flex;
-  gap: 10px;
-  justify-content: center;
-  position: relative;
-  width: 690px;
 }
 
 .x2c-rfp-writing .overlap-group {
@@ -174,94 +112,6 @@
   position: relative;
   top: 1px;
   width: 27px;
-}
-
-.x2c-rfp-writing .content-5 {
-  gap: 2px;
-  width: fit-content;
-}
-
-.x2c-rfp-writing .title-1 {
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  width: 648px;
-}
-
-.x2c-rfp-writing .lorem-ipsum {
-  color: var(--black);
-  font-weight: 400;
-  line-height: 21px;
-  position: relative;
-  width: 648px;
-}
-
-.x2c-rfp-writing .x-1 {
-  height: 14px;
-  left: 12px;
-  position: absolute;
-  top: 6px;
-  width: 2px;
-}
-
-.x2c-rfp-writing .content-6 {
-  gap: 2px;
-  width: fit-content;
-}
-
-.x2c-rfp-writing .x-2 {
-  height: 14px;
-  left: 12px;
-  position: absolute;
-  top: 6px;
-  width: 2px;
-}
-
-.x2c-rfp-writing .content-7 {
-  gap: 2px;
-  width: fit-content;
-}
-
-.x2c-rfp-writing .actions {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
-  position: relative;
-}
-
-.x2c-rfp-writing .titlesubsection {
-  align-items: flex-start;
-  border-bottom-style: solid;
-  border-bottom-width: 1px;
-  border-color: var(--fpcgraydark);
-  display: flex;
-  gap: 10px;
-  padding: 0px 0px 10px;
-  position: relative;
-  width: 690px;
-}
-
-.x2c-rfp-writing .frame-142 {
-  align-self: stretch;
-  flex-direction: column;
-  gap: 20px;
-}
-
-.x2c-rfp-writing .your-goal-is-to-desi {
-  color: var(--black);
-  font-weight: 400;
-  line-height: 24px;
-  position: relative;
-  width: 690px;
-}
-
-.x2c-rfp-writing .icon-1 {
-  height: 32px;
-  min-width: 32px;
-  position: relative;
 }
 
 .x2c-rfp-writing .content {
@@ -273,20 +123,66 @@
   position: relative;
 }
 
-.x2c-rfp-writing .an-action-that-requires-high-engagement {
+.x2c-rfp-writing .title-2 {
   align-self: stretch;
   letter-spacing: 0;
-  line-height: 24px;
+  line-height: normal;
   margin-top: -1.00px;
   position: relative;
-  white-space: nowrap;
 }
 
-.x2c-rfp-writing .lorem-ipsum-1 {
-  white-space: nowrap;
+.x2c-rfp-writing .lorem-ipsum {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.x2c-rfp-writing .title-3 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.x2c-rfp-writing .x-2 {
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.x2c-rfp-writing .frame-142 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x2c-rfp-writing .x1-mapping-existing {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.x2c-rfp-writing .your-goal-is-to-desi {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
 }
 
 .x2c-rfp-writing .lorem-ipsum-3 {
+  white-space: nowrap;
+}
+
+.x2c-rfp-writing .lorem-ipsum-5 {
   white-space: nowrap;
 }
 
@@ -295,15 +191,24 @@
   flex-direction: column;
 }
 
+.x2c-rfp-writing .x2-designing-value {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
 .x2c-rfp-writing .it-is-important-to-s {
+  align-self: stretch;
   color: var(--black);
   font-weight: 400;
   line-height: 24px;
   position: relative;
-  width: 690px;
 }
 
-.x2c-rfp-writing .span-4 {
+.x2c-rfp-writing .span-2 {
   font-weight: 700;
 }
 
@@ -317,7 +222,7 @@
   position: relative;
 }
 
-.x2c-rfp-writing .overlap-group-4 {
+.x2c-rfp-writing .overlap-group-2 {
   height: 202px;
   left: 0;
   position: absolute;
@@ -436,7 +341,7 @@
   width: 254px;
 }
 
-.x2c-rfp-writing .title-3 {
+.x2c-rfp-writing .title-5 {
   align-items: center;
   display: flex;
   gap: 10px;
@@ -444,7 +349,7 @@
   width: fit-content;
 }
 
-.x2c-rfp-writing .overlap-group-5 {
+.x2c-rfp-writing .overlap-group-3 {
   height: 26px;
   left: 6px;
   position: relative;
@@ -499,7 +404,7 @@
   align-self: stretch;
   color: var(--black);
   font-weight: 400;
-  line-height: 24px;
+  line-height: 21px;
   position: relative;
 }
 
@@ -509,12 +414,21 @@
   gap: 20px;
 }
 
+.x2c-rfp-writing .x3-writing-with-effective-language {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
 .x2c-rfp-writing .vendors-will-underst {
+  align-self: stretch;
   color: var(--black);
   font-weight: 400;
   line-height: 24px;
   position: relative;
-  width: 690px;
 }
 
 .x2c-rfp-writing .overlap-group-1 {
@@ -527,15 +441,15 @@
   padding: 7.2px 5.2px;
 }
 
-.x2c-rfp-writing .lorem-ipsum-6 {
-  white-space: nowrap;
-}
-
-.x2c-rfp-writing .lorem-ipsum-7 {
-  white-space: nowrap;
-}
-
 .x2c-rfp-writing .lorem-ipsum-8 {
+  white-space: nowrap;
+}
+
+.x2c-rfp-writing .lorem-ipsum-9 {
+  white-space: nowrap;
+}
+
+.x2c-rfp-writing .lorem-ipsum-10 {
   white-space: nowrap;
 }
 
@@ -545,42 +459,34 @@
   gap: 20px;
 }
 
+.x2c-rfp-writing .x4-including-additio {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
 .x2c-rfp-writing .your-colleagues-in-t {
+  align-self: stretch;
   color: var(--black);
   font-weight: 400;
   line-height: 24px;
   position: relative;
-  width: 690px;
 }
 
-.x2c-rfp-writing .lorem-ipsum-10 {
+.x2c-rfp-writing .lorem-ipsum-12 {
   white-space: nowrap;
-}
-
-.x2c-rfp-writing .outcomes {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
-  position: relative;
 }
 
 .x2c-rfp-writing .cluster-2 {
   align-items: flex-start;
 }
 
-.x2c-rfp-writing .outcome {
-  align-items: flex-start;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  position: relative;
-}
-
 .x2c-rfp-writing .v2 {
   align-items: flex-end;
-  background-image: url(../img/gear-2@2x.png);
+  background-image: url(../img/gear-2-4@2x.png);
   background-size: 100% 100%;
   display: flex;
   height: 26px;
@@ -599,42 +505,20 @@
   white-space: nowrap;
 }
 
-.x2c-rfp-writing .v2-1 {
-  background-image: url(../img/gear-2-1@2x.png);
-}
-
-.x2c-rfp-writing .v2-2 {
-  background-image: url(../img/gear-2-2@2x.png);
-}
-
-.x2c-rfp-writing .references {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
-  position: relative;
-}
-
 .x2c-rfp-writing .frame-140 {
   align-self: stretch;
   flex-direction: column;
   gap: 30px;
 }
 
-.x2c-rfp-writing .text-1 {
-  color: var(--black);
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
+.x2c-rfp-writing .text-20 {
   text-align: right;
   width: 30px;
 }
 
 .x2c-rfp-writing .content-1 {
+  flex: 1;
   gap: 5px;
-  width: fit-content;
 }
 
 .x2c-rfp-writing .frame-163 {
@@ -645,24 +529,18 @@
   width: fit-content;
 }
 
-.x2c-rfp-writing .overlap-group-2 {
-  height: 19px;
-  margin-left: -1px;
-  margin-top: -0.75px;
-  position: relative;
-  width: 15px;
-}
-
 .x2c-rfp-writing .link-title-here-1 {
+  align-self: stretch;
   letter-spacing: 0;
   line-height: normal;
   position: relative;
   text-decoration: underline;
-  width: 549px;
 }
 
 .x2c-rfp-writing .footer-nav {
+  align-items: flex-start;
   align-self: stretch;
+  display: flex;
   justify-content: space-between;
   padding: 60px 0px 0px;
   position: relative;
@@ -672,6 +550,7 @@
   align-items: center;
   background-color: var(--fpcblue);
   border-radius: 32px 4px 4px 32px;
+  cursor: pointer;
   display: flex;
   gap: 15px;
   padding: 10px 15px;
@@ -707,6 +586,7 @@
   align-items: center;
   background-color: var(--fpcbgpeach);
   border-radius: 4px 32px 32px 4px;
+  cursor: pointer;
   display: flex;
   gap: 15px;
   padding: 10px 15px;
@@ -732,62 +612,14 @@
 
 .x2c-rfp-writing .sidebarv2 {
   align-items: flex-start;
+  align-self: stretch;
   background-color: var(--cultured-pearl);
   border-radius: 6px;
   display: flex;
   flex-direction: column;
-  height: 4297px;
   justify-content: space-between;
   padding: 20px;
   position: relative;
-  width: fit-content;
-}
-
-.x2c-rfp-writing .navmainv3 {
-  align-items: center;
-  background-color: var(--algae-green);
-  border-radius: 4px;
-  display: flex;
-  justify-content: space-between;
-  padding: 8px 15px 8px 10px;
-  position: relative;
-  width: 260px;
-}
-
-.x2c-rfp-writing .x1-section-name-1 {
-  color: var(--black);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x2c-rfp-writing .navmainv3-1 {
-  align-items: flex-start;
-  background-color: var(--fpcbluehl);
-  flex-direction: column;
-  gap: 10px;
-}
-
-.x2c-rfp-writing .x1-section-name {
-  color: var(--black-3);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x2c-rfp-writing .capacity-building {
-  color: var(--black);
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
   width: fit-content;
 }
 
@@ -795,6 +627,7 @@
   align-items: center;
   background-color: var(--fpcblue50);
   border-radius: 4px;
+  cursor: pointer;
   display: flex;
   gap: 5px;
   padding: 2px 8px 3px;
@@ -802,83 +635,112 @@
   width: fit-content;
 }
 
-.x2c-rfp-writing .navmainv3-2 {
-  align-items: center;
-  background-color: var(--fpchlpeach);
-  justify-content: space-between;
-}
-
-.x2c-rfp-writing .navmainv3-3 {
-  align-items: center;
-  background-color: var(--periwinkle-gray);
-  justify-content: space-between;
-}
-
-.x2c-rfp-writing .footer-floating {
-  margin-top: 135px;
-  min-width: 1440px;
-}
-
-.x2c-rfp-writing .overlap-group3 {
-  height: 850px;
-  position: relative;
-  width: 1440px;
-}
-
-.x2c-rfp-writing .logo {
-  display: flex;
-  gap: 13.3px;
-  width: 412px;
-}
-
-.x2c-rfp-writing .overlap-group-3 {
-  align-items: flex-end;
-  background-color: var(--white);
-  border-radius: 6px;
-  display: flex;
-  flex-direction: column;
-  min-height: 280px;
-  padding: 30px 20px;
-  width: 524px;
-}
-
-.x2c-rfp-writing .span0 {
-  line-height: 26px;
-}
-
-.x2c-rfp-writing .span-5 {
-  color: var(--black);
-  font-weight: 400;
-}
-
 .x2c-rfp-writing .flex-col {
-  flex-direction: column;
-  gap: 30px;
-  min-height: 233px;
-  width: 650px;
-}
-
-.x2c-rfp-writing .span-6 {
-  color: var(--fpclinkblue);
-  font-weight: 400;
-  text-decoration: underline;
-}
-
-.x2c-rfp-writing .flex-col-1 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-bottom: 0.5px;
-  min-height: 80px;
-  width: 17px;
+  gap: 60px;
+  left: 180px;
+  min-height: 796px;
+  position: relative;
+  top: 60px;
+  width: 1080px;
 }
 
-.x2c-rfp-writing .span0-1 {
-  color: var(--black);
+.x2c-rfp-writing .content-2 {
+  align-self: stretch;
+  gap: 15px;
 }
 
-.x2c-rfp-writing .span1-1 {
-  color: var(--fpclinkblue);
+.x2c-rfp-writing .links {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.x2c-rfp-writing .links-1 {
+  align-items: flex-end;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.x2c-rfp-writing .links-2 {
+  align-items: flex-end;
+  align-self: stretch;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.x2c-rfp-writing .frame-201 {
+  flex-direction: column;
+  gap: 15px;
+  height: 165px;
+  margin-left: -2px;
+  width: 343px;
+}
+
+.x2c-rfp-writing .group-196 {
+  display: flex;
+  gap: 18px;
+  height: 20px;
+  margin-right: -4.00px;
+  min-width: 347px;
+  position: relative;
+}
+
+.x2c-rfp-writing .group-197 {
+  display: flex;
+  gap: 52px;
+  height: 20px;
+  margin-right: -4.00px;
+  min-width: 347px;
+  position: relative;
+}
+
+.x2c-rfp-writing .group-200 {
+  display: flex;
+  gap: 58px;
+  height: 20px;
+  margin-right: -4.00px;
+  min-width: 347px;
+  position: relative;
+}
+
+.x2c-rfp-writing .group-199 {
+  height: 60px;
+  margin-right: -4.00px;
+  min-width: 347px;
+  position: relative;
+}
+
+.x2c-rfp-writing .flex-col-1 {
+  left: 103px;
+  min-height: 60px;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.x2c-rfp-writing .links-3 {
+  align-items: flex-start;
+  gap: 10px;
+  width: fit-content;
+}
+
+.x2c-rfp-writing .text-21 {
+  width: fit-content;
+}
+
+.x2c-rfp-writing .flex-col-2 {
+  min-height: 281px;
+  width: 650px;
+}
+
+.x2c-rfp-writing .span-3 {
   text-decoration: underline;
 }
 
@@ -889,11 +751,17 @@
   position: relative;
 }
 
-.x2c-rfp-writing .content-8 {
+.x2c-rfp-writing .content-6 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
   position: relative;
+}
+
+.x2c-rfp-writing .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
 }
 
 .x2c-rfp-writing .frame {
@@ -902,7 +770,12 @@
   position: relative;
 }
 
-.x2c-rfp-writing .lorem-ipsum-11 {
+.x2c-rfp-writing .links-4 {
+  display: flex;
+  position: relative;
+}
+
+.x2c-rfp-writing .lorem-ipsum-13 {
   align-self: stretch;
   color: var(--black);
   font-weight: 400;
@@ -910,16 +783,9 @@
   position: relative;
 }
 
-.x2c-rfp-writing .navmainv3-4 {
-  border-radius: 4px;
-  display: flex;
-  padding: 8px 15px 8px 10px;
-  position: relative;
-  width: 260px;
-}
-
 .x2c-rfp-writing .v2-3 {
   align-items: flex-end;
+  background-image: url(../img/gear-2-4@2x.png);
   background-size: 100% 100%;
   display: flex;
   height: 26px;

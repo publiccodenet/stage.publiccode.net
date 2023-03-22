@@ -1,120 +1,59 @@
 /* screen - 4a-implementation-phase */
 
 .x4a-implementation-phase {
-  align-items: flex-start;
+  align-items: center;
   background-color: var(--white);
   border: 1px none;
   display: flex;
   flex-direction: column;
-  height: 2376px;
-  overflow: hidden;
-  width: 1440px;
-}
-
-.x4a-implementation-phase .header {
-  align-items: center;
-  align-self: center;
-  background-color: transparent;
-  display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
-  justify-content: flex-start;
-  margin-top: 60px;
-  min-width: 1080px;
-  width: auto;
-}
-
-.x4a-implementation-phase .home-resources-and {
-  color: transparent;
-  font-weight: 400;
-  line-height: normal;
-  margin-left: 180px;
-  margin-top: 59px;
-  min-height: 20px;
-  width: 567px;
+  gap: 60px;
+  min-width: 1440px;
+  padding: 60px 0px 0px;
+  position: relative;
 }
 
 .x4a-implementation-phase .title {
   color: var(--black);
   font-weight: 700;
   line-height: normal;
-  margin-left: 180px;
-  margin-top: 85px;
-  min-height: 40px;
-  width: 690px;
+  position: relative;
+  width: 1080px;
 }
 
-.x4a-implementation-phase .flex-row {
-  align-self: center;
-  gap: 58px;
-  margin-right: 32.0px;
-  margin-top: 62px;
-  min-width: 1048px;
-}
-
-.x4a-implementation-phase .content {
-  align-items: flex-end;
+.x4a-implementation-phase .main-frame {
+  align-items: flex-start;
   display: flex;
+  gap: 60px;
+  padding: 0px 0px 60px;
+  position: relative;
+  width: 1080px;
+}
+
+.x4a-implementation-phase .content-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
   flex-direction: column;
   gap: 60px;
   position: relative;
-  width: fit-content;
 }
 
 .x4a-implementation-phase .intro {
   align-items: flex-start;
+  align-self: stretch;
   display: flex;
   flex-direction: column;
   gap: 30px;
   position: relative;
-  width: fit-content;
 }
 
-.x4a-implementation-phase .titlepage {
-  align-items: flex-start;
-  border-bottom-style: solid;
-  border-bottom-width: 1px;
-  border-color: var(--fpcgraydark);
+.x4a-implementation-phase .cluster {
   display: flex;
-  gap: 10px;
-  padding: 0px 0px 10px;
-  position: relative;
-  width: 690px;
-}
-
-.x4a-implementation-phase .page-title {
-  color: var(--black);
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  width: fit-content;
-}
-
-.x4a-implementation-phase .illo-block {
-  height: 856px;
-  margin-right: -4.00px;
-  min-width: 694px;
-  position: relative;
-}
-
-.x4a-implementation-phase .that-sounds-like-a-l {
-  color: var(--black);
-  font-weight: 400;
-  left: 0;
-  line-height: 24px;
-  position: absolute;
-  top: 250px;
-  width: 690px;
-}
-
-.x4a-implementation-phase .flex-row-1 {
   gap: 30px;
-  height: 240px;
-  left: 0;
-  min-width: 690px;
-  position: absolute;
-  top: 0;
+  height: 230px;
+  margin-right: -4.00px;
+  min-width: 744px;
+  position: relative;
 }
 
 .x4a-implementation-phase .phaseimplementation {
@@ -259,7 +198,7 @@
   width: 35px;
 }
 
-.x4a-implementation-phase .flex-row-2 {
+.x4a-implementation-phase .flex-row {
   gap: 3px;
   margin-top: 5px;
   min-width: 35px;
@@ -279,7 +218,9 @@
   width: 22px;
 }
 
-.x4a-implementation-phase .flex-row-3 {
+.x4a-implementation-phase .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
   gap: 3px;
   margin-top: 5px;
   min-width: 30px;
@@ -317,8 +258,12 @@
   left: 105px;
 }
 
-.x4a-implementation-phase .star-3 {
+.x4a-implementation-phase .icon-star {
+  height: 10px;
   left: 120px;
+  position: absolute;
+  top: 37px;
+  width: 11px;
 }
 
 .x4a-implementation-phase .comment-1 {
@@ -333,7 +278,7 @@
   transform: rotate(180deg);
 }
 
-.x4a-implementation-phase .overlap-group-1 {
+.x4a-implementation-phase .overlap-group {
   height: 48px;
   margin-top: -1.0px;
   position: relative;
@@ -361,13 +306,23 @@
 .x4a-implementation-phase .the-fourth-and-final {
   color: var(--black);
   font-weight: 400;
+  height: 216px;
   line-height: 24px;
-  min-height: 240px;
-  width: 430px;
+  width: 482px;
+}
+
+.x4a-implementation-phase .that-sounds-like-a-l {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
 }
 
 .x4a-implementation-phase .footer-nav {
+  align-items: flex-start;
   align-self: stretch;
+  display: flex;
   justify-content: space-between;
   position: relative;
 }
@@ -376,6 +331,7 @@
   align-items: center;
   background-color: var(--fpcbgpeach);
   border-radius: 32px 4px 4px 32px;
+  cursor: pointer;
   display: flex;
   gap: 15px;
   padding: 10px 15px;
@@ -411,6 +367,7 @@
   align-items: center;
   background-color: var(--fpcpurple);
   border-radius: 4px 32px 32px 4px;
+  cursor: pointer;
   display: flex;
   gap: 15px;
   padding: 10px 15px;
@@ -436,71 +393,22 @@
 
 .x4a-implementation-phase .sidebarv2 {
   align-items: flex-start;
+  align-self: stretch;
   background-color: var(--cultured-pearl);
   border-radius: 6px;
   display: flex;
   flex-direction: column;
-  height: 1054px;
   justify-content: space-between;
   padding: 20px;
   position: relative;
   width: fit-content;
 }
 
-.x4a-implementation-phase .navmainv3 {
-  align-items: center;
-  background-color: var(--algae-green);
-  border-radius: 4px;
-  display: flex;
-  justify-content: space-between;
-  padding: 8px 15px 8px 10px;
-  position: relative;
-  width: 260px;
-}
-
-.x4a-implementation-phase .x1-section-name {
-  color: var(--black);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x4a-implementation-phase .navmainv3-1 {
-  align-items: center;
-  background-color: var(--fpcbluehl);
-  justify-content: space-between;
-}
-
-.x4a-implementation-phase .x1-section-name-1 {
-  color: var(--black-3);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x4a-implementation-phase .navmainv3-2 {
-  align-items: center;
-  background-color: var(--fpchlpeach);
-  justify-content: space-between;
-}
-
-.x4a-implementation-phase .navmainv3-3 {
-  align-items: flex-start;
-  background-color: var(--periwinkle-gray);
-  flex-direction: column;
-  gap: 10px;
-}
-
 .x4a-implementation-phase .navsubsectionv2-1 {
   align-items: center;
   background-color: var(--fpcpurple50);
   border-radius: 4px;
+  cursor: pointer;
   display: flex;
   gap: 5px;
   padding: 2px 8px 3px;
@@ -508,104 +416,142 @@
   width: fit-content;
 }
 
-.x4a-implementation-phase .capacity-building {
-  color: var(--black);
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
+.x4a-implementation-phase .flex-col {
+  flex-direction: column;
+  gap: 60px;
+  left: 180px;
+  min-height: 796px;
   position: relative;
-  white-space: nowrap;
-  width: fit-content;
+  top: 60px;
+  width: 1080px;
 }
 
-.x4a-implementation-phase .footer-floating {
-  margin-top: 91px;
-  min-width: 1440px;
-}
-
-.x4a-implementation-phase .overlap-group3 {
-  height: 850px;
-  position: relative;
-  width: 1440px;
-}
-
-.x4a-implementation-phase .logo {
-  display: flex;
-  gap: 13.3px;
-  width: 412px;
-}
-
-.x4a-implementation-phase .overlap-group {
-  align-items: flex-end;
-  background-color: var(--white);
-  border-radius: 6px;
+.x4a-implementation-phase .content {
+  align-items: flex-start;
+  align-self: stretch;
   display: flex;
   flex-direction: column;
-  min-height: 280px;
-  padding: 30px 20px;
-  width: 524px;
+  gap: 15px;
+  position: relative;
 }
 
-.x4a-implementation-phase .overlap-group-2 {
-  height: 196px;
+.x4a-implementation-phase .links {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.x4a-implementation-phase .links-1 {
+  align-items: flex-end;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.x4a-implementation-phase .links-2 {
+  align-items: flex-end;
+  align-self: stretch;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.x4a-implementation-phase .frame-201 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 165px;
+  margin-left: -2px;
   position: relative;
   width: 343px;
 }
 
-.x4a-implementation-phase .span0 {
-  line-height: 26px;
+.x4a-implementation-phase .group-196 {
+  display: flex;
+  gap: 18px;
+  height: 20px;
+  margin-right: -4.00px;
+  min-width: 347px;
+  position: relative;
 }
 
-.x4a-implementation-phase .span-2 {
-  color: var(--black);
-  font-weight: 400;
+.x4a-implementation-phase .group-197 {
+  display: flex;
+  gap: 52px;
+  height: 20px;
+  margin-right: -4.00px;
+  min-width: 347px;
+  position: relative;
 }
 
-.x4a-implementation-phase .flex-col {
-  flex-direction: column;
-  gap: 30px;
-  min-height: 233px;
-  width: 650px;
+.x4a-implementation-phase .group-200 {
+  display: flex;
+  gap: 58px;
+  height: 20px;
+  margin-right: -4.00px;
+  min-width: 347px;
+  position: relative;
 }
 
-.x4a-implementation-phase .span-4 {
-  color: var(--fpclinkblue);
-  font-weight: 400;
-  text-decoration: underline;
+.x4a-implementation-phase .group-199 {
+  height: 60px;
+  margin-right: -4.00px;
+  min-width: 347px;
+  position: relative;
 }
 
 .x4a-implementation-phase .flex-col-1 {
+  left: 103px;
+  min-height: 60px;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.x4a-implementation-phase .links-3 {
   align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 0.5px;
-  min-height: 80px;
-  width: 17px;
+  gap: 10px;
+  width: fit-content;
 }
 
-.x4a-implementation-phase .span0-1 {
+.x4a-implementation-phase .text-13 {
   color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
 }
 
-.x4a-implementation-phase .span1 {
-  color: var(--fpclinkblue);
+.x4a-implementation-phase .flex-col-2 {
+  min-height: 281px;
+  width: 650px;
+}
+
+.x4a-implementation-phase .span-1 {
   text-decoration: underline;
 }
 
-.x4a-implementation-phase .flex-row-4 {
+.x4a-implementation-phase .flex {
   align-items: flex-start;
   display: flex;
 }
 
-.x4a-implementation-phase .navmainv3-4 {
-  border-radius: 4px;
+.x4a-implementation-phase .flex-col-3 {
+  align-items: flex-start;
   display: flex;
-  padding: 8px 15px 8px 10px;
-  position: relative;
-  width: 260px;
+  flex-direction: column;
 }
 
-.x4a-implementation-phase .star-4 {
+.x4a-implementation-phase .links-4 {
+  display: flex;
+  position: relative;
+}
+
+.x4a-implementation-phase .star-3 {
   height: 10px;
   position: absolute;
   top: 37px;

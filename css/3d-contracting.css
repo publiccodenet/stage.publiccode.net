@@ -1,74 +1,51 @@
 /* screen - 3d-contracting */
 
 .x3d-contracting {
-  align-items: flex-start;
+  align-items: center;
   background-color: var(--white);
   border: 1px none;
   display: flex;
   flex-direction: column;
-  height: 4785px;
-  overflow: hidden;
-  width: 1440px;
-}
-
-.x3d-contracting .header {
-  align-items: center;
-  align-self: center;
-  background-color: transparent;
-  display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
-  justify-content: flex-start;
-  margin-top: 60px;
-  min-width: 1080px;
-  width: auto;
-}
-
-.x3d-contracting .home-resources-and {
-  color: transparent;
-  font-weight: 400;
-  line-height: normal;
-  margin-left: 180px;
-  margin-top: 59px;
-  min-height: 20px;
-  width: 567px;
+  gap: 60px;
+  min-width: 1440px;
+  padding: 60px 0px 0px;
+  position: relative;
 }
 
 .x3d-contracting .title-3 {
   color: var(--black);
   font-weight: 700;
   line-height: normal;
-  margin-left: 180px;
-  margin-top: 85px;
-  min-height: 40px;
-  width: 690px;
+  position: relative;
+  width: 1080px;
 }
 
-.x3d-contracting .flex-row {
-  align-self: center;
-  gap: 58px;
-  margin-right: 32.0px;
-  margin-top: 62px;
-  min-width: 1048px;
-}
-
-.x3d-contracting .content-2 {
-  align-items: flex-end;
+.x3d-contracting .main-frame {
+  align-items: flex-start;
+  display: flex;
   gap: 60px;
-  width: fit-content;
+  padding: 0px 0px 60px;
+  position: relative;
+  width: 1080px;
+}
+
+.x3d-contracting .content-3 {
+  flex: 1;
+  gap: 60px;
 }
 
 .x3d-contracting .intro {
   align-items: flex-start;
+  align-self: stretch;
   display: flex;
   flex-direction: column;
   gap: 30px;
   position: relative;
-  width: fit-content;
 }
 
 .x3d-contracting .title {
   align-items: flex-start;
+  align-self: stretch;
   border-bottom-style: solid;
   border-bottom-width: 1px;
   border-color: var(--fpcgraydark);
@@ -76,25 +53,14 @@
   gap: 10px;
   padding: 0px 0px 10px;
   position: relative;
-  width: 690px;
 }
 
-.x3d-contracting .content-3 {
-  align-items: flex-start;
+.x3d-contracting .content-4 {
+  align-self: stretch;
   background-color: var(--fpcgraywhitesmoke);
   border-radius: 12px;
   gap: 10px;
   padding: 20px;
-  width: 690px;
-}
-
-.x3d-contracting .this-section-will-help-you {
-  letter-spacing: 0;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: 650px;
 }
 
 .x3d-contracting .cluster {
@@ -105,12 +71,6 @@
   position: relative;
 }
 
-.x3d-contracting .icon {
-  height: 32px;
-  min-width: 32.01px;
-  position: relative;
-}
-
 .x3d-contracting .group-193 {
   align-items: flex-start;
   display: flex;
@@ -118,64 +78,26 @@
   justify-content: flex-end;
   left: 2px;
   min-width: 30px;
-  padding: 0 0.0px;
+  padding: 0.0px 0.0px;
   position: relative;
-}
-
-.x3d-contracting .group-container {
-  height: 22px;
-  margin-top: 0;
-  position: relative;
-  width: 28px;
-}
-
-.x3d-contracting .challenges {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
-  position: relative;
-  width: fit-content;
-}
-
-.x3d-contracting .titlesubsection {
-  align-items: flex-start;
-  border-bottom-style: solid;
-  border-bottom-width: 1px;
-  border-color: var(--fpcgraydark);
-  display: flex;
-  gap: 10px;
-  padding: 0px 0px 10px;
-  position: relative;
-  width: 690.01px;
 }
 
 .x3d-contracting .you-may-encounter-th {
-  color: transparent;
+  align-self: stretch;
+  color: var(--red);
   font-weight: 400;
   line-height: 16px;
   position: relative;
-  width: 690px;
 }
 
-.x3d-contracting .span-2 {
+.x3d-contracting .span {
   color: var(--black);
   line-height: 24px;
 }
 
 .x3d-contracting .span1 {
-  color: var(--fpclinkblue);
+  color: var(--black);
   font-weight: 600;
-  text-decoration: underline;
-}
-
-.x3d-contracting .challenge {
-  align-items: flex-start;
-  display: flex;
-  gap: 10px;
-  justify-content: center;
-  position: relative;
-  width: fit-content;
 }
 
 .x3d-contracting .overlap-group {
@@ -184,85 +106,6 @@
   position: relative;
   top: 1px;
   width: 27px;
-}
-
-.x3d-contracting .content-4 {
-  align-items: flex-start;
-  gap: 2px;
-  width: fit-content;
-}
-
-.x3d-contracting .title-1 {
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  width: 648px;
-}
-
-.x3d-contracting .lorem-ipsum {
-  color: var(--black);
-  font-weight: 400;
-  line-height: 21px;
-  position: relative;
-  width: 648px;
-}
-
-.x3d-contracting .x-1 {
-  height: 14px;
-  left: 12px;
-  position: absolute;
-  top: 6px;
-  width: 2px;
-}
-
-.x3d-contracting .content-5 {
-  align-items: flex-start;
-  gap: 2px;
-  width: fit-content;
-}
-
-.x3d-contracting .x-2 {
-  height: 14px;
-  left: 12px;
-  position: absolute;
-  top: 6px;
-  width: 2px;
-}
-
-.x3d-contracting .content-6 {
-  align-items: flex-start;
-  gap: 2px;
-  width: fit-content;
-}
-
-.x3d-contracting .actions {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
-  position: relative;
-}
-
-.x3d-contracting .frame-14 {
-  align-self: stretch;
-  flex-direction: column;
-  gap: 20px;
-}
-
-.x3d-contracting .contracts-should-lay {
-  color: var(--black);
-  font-weight: 400;
-  line-height: 24px;
-  position: relative;
-  width: 690px;
-}
-
-.x3d-contracting .icon-1 {
-  height: 32px;
-  min-width: 32px;
-  position: relative;
 }
 
 .x3d-contracting .content {
@@ -274,16 +117,64 @@
   position: relative;
 }
 
-.x3d-contracting .an-action-that-requires-high-engagement {
+.x3d-contracting .title-1 {
   align-self: stretch;
   letter-spacing: 0;
-  line-height: 24px;
+  line-height: normal;
   margin-top: -1.00px;
   position: relative;
-  white-space: nowrap;
+}
+
+.x3d-contracting .lorem-ipsum {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
 }
 
 .x3d-contracting .lorem-ipsum-1 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x3d-contracting .x-2 {
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.x3d-contracting .lorem-ipsum-2 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x3d-contracting .frame-142 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x3d-contracting .x1-incorporating-non {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.x3d-contracting .contracts-should-lay {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.x3d-contracting .lorem-ipsum-3 {
   color: var(--black);
   font-weight: 400;
   white-space: nowrap;
@@ -352,40 +243,62 @@
   align-self: stretch;
   color: var(--black);
   font-weight: 400;
-  line-height: 24px;
+  line-height: 21px;
+  position: relative;
+}
+
+.x3d-contracting .frame-143 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x3d-contracting .x2-working-with-technical-requirements {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
   position: relative;
 }
 
 .x3d-contracting .your-market-research {
+  align-self: stretch;
   color: var(--black);
   font-weight: 400;
   line-height: 24px;
   position: relative;
-  width: 690px;
 }
 
-.x3d-contracting .lorem-ipsum-2 {
+.x3d-contracting .lorem-ipsum-4 {
   letter-spacing: 0;
   white-space: nowrap;
 }
 
-.x3d-contracting .x-4 {
-  height: 8px;
-  left: 18px;
-  position: absolute;
-  top: 3px;
-  width: 2px;
+.x3d-contracting .frame-144 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x3d-contracting .x3-fostering-good-working-relationships {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
 }
 
 .x3d-contracting .contracts-are-not-th {
+  align-self: stretch;
   color: var(--black);
   font-weight: 400;
   line-height: 24px;
   position: relative;
-  width: 690px;
 }
 
-.x3d-contracting .overlap-group-4 {
+.x3d-contracting .overlap-group-2 {
   align-items: flex-start;
   background-image: url(../img/union@2x.png);
   background-size: 100% 100%;
@@ -395,71 +308,46 @@
   padding: 7.2px 5.2px;
 }
 
-.x3d-contracting .lorem-ipsum-3 {
+.x3d-contracting .lorem-ipsum-5 {
   color: var(--black);
   font-weight: 400;
 }
 
-.x3d-contracting .lorem-ipsum-4 {
+.x3d-contracting .lorem-ipsum-6 {
   color: var(--black);
   font-weight: 400;
 }
 
-.x3d-contracting .span-4 {
+.x3d-contracting .span-2 {
   font-weight: 700;
-}
-
-.x3d-contracting .x-5 {
-  height: 8px;
-  left: 18px;
-  position: absolute;
-  top: 3px;
-  width: 2px;
 }
 
 .x3d-contracting .span1-1 {
   letter-spacing: 0;
 }
 
-.x3d-contracting .outcomes {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
-  position: relative;
-  width: fit-content;
-}
-
 .x3d-contracting .cluster-1 {
   align-items: flex-start;
+  align-self: stretch;
   display: flex;
   flex-direction: column;
   gap: 20px;
   position: relative;
-  width: fit-content;
 }
 
 .x3d-contracting .create-or-complete-t {
+  align-self: stretch;
   color: var(--black);
   font-weight: 400;
   line-height: 24px;
   margin-top: -1.00px;
   position: relative;
   white-space: nowrap;
-  width: 690px;
-}
-
-.x3d-contracting .outcome {
-  align-items: flex-start;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  position: relative;
 }
 
 .x3d-contracting .v2 {
   align-items: flex-end;
-  background-image: url(../img/gear-2@2x.png);
+  background-image: url(../img/gear-2-4@2x.png);
   background-size: 100% 100%;
   display: flex;
   height: 26px;
@@ -480,7 +368,7 @@
 
 .x3d-contracting .v2-1 {
   align-items: flex-end;
-  background-image: url(../img/gear-2@2x.png);
+  background-image: url(../img/gear-2-4@2x.png);
   background-size: 100% 100%;
   display: flex;
   height: 26px;
@@ -498,35 +386,20 @@
   position: relative;
 }
 
-.x3d-contracting .references {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
-  position: relative;
-  width: fit-content;
-}
-
 .x3d-contracting .frame-140 {
+  align-self: stretch;
   flex-direction: column;
   gap: 30px;
-  width: fit-content;
 }
 
-.x3d-contracting .text-12 {
-  color: var(--black);
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
+.x3d-contracting .text-24 {
   text-align: right;
   width: 30px;
 }
 
 .x3d-contracting .content-1 {
-  align-items: flex-start;
+  flex: 1;
   gap: 5px;
-  width: fit-content;
 }
 
 .x3d-contracting .frame-163 {
@@ -537,16 +410,10 @@
   width: fit-content;
 }
 
-.x3d-contracting .overlap-group-2 {
-  height: 19px;
-  margin-left: -1px;
-  margin-top: -0.75px;
-  position: relative;
-  width: 15px;
-}
-
 .x3d-contracting .footer-nav {
+  align-items: flex-start;
   align-self: stretch;
+  display: flex;
   justify-content: space-between;
   padding: 60px 0px 0px;
   position: relative;
@@ -556,6 +423,7 @@
   align-items: center;
   background-color: var(--fpcbgpeach);
   border-radius: 32px 4px 4px 32px;
+  cursor: pointer;
   display: flex;
   gap: 15px;
   padding: 10px 15px;
@@ -591,6 +459,7 @@
   align-items: center;
   background-color: var(--fpcpurple);
   border-radius: 4px 32px 32px 4px;
+  cursor: pointer;
   display: flex;
   gap: 15px;
   padding: 10px 15px;
@@ -616,68 +485,14 @@
 
 .x3d-contracting .sidebarv2 {
   align-items: flex-start;
+  align-self: stretch;
   background-color: var(--cultured-pearl);
   border-radius: 6px;
   display: flex;
   flex-direction: column;
-  height: 3425px;
   justify-content: space-between;
   padding: 20px;
   position: relative;
-  width: fit-content;
-}
-
-.x3d-contracting .navmainv3 {
-  align-items: center;
-  background-color: var(--algae-green);
-  border-radius: 4px;
-  display: flex;
-  justify-content: space-between;
-  padding: 8px 15px 8px 10px;
-  position: relative;
-  width: 260px;
-}
-
-.x3d-contracting .x1-section-name {
-  color: var(--black);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x3d-contracting .navmainv3-1 {
-  align-items: center;
-  background-color: var(--fpcbluehl);
-  justify-content: space-between;
-}
-
-.x3d-contracting .x1-section-name-1 {
-  color: var(--black-3);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x3d-contracting .navmainv3-2 {
-  align-items: flex-start;
-  background-color: var(--fpchlpeach);
-  flex-direction: column;
-  gap: 10px;
-}
-
-.x3d-contracting .capacity-building {
-  color: var(--black);
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
   width: fit-content;
 }
 
@@ -685,6 +500,7 @@
   align-items: center;
   background-color: var(--fpcpeachmid);
   border-radius: 4px;
+  cursor: pointer;
   display: flex;
   gap: 5px;
   padding: 2px 8px 3px;
@@ -692,83 +508,112 @@
   width: fit-content;
 }
 
-.x3d-contracting .navmainv3-3 {
-  align-items: center;
-  background-color: var(--periwinkle-gray);
-  justify-content: space-between;
-}
-
-.x3d-contracting .footer-floating {
-  margin-top: 129px;
-  min-width: 1440px;
-}
-
-.x3d-contracting .overlap-group3 {
-  height: 850px;
-  position: relative;
-  width: 1440px;
-}
-
-.x3d-contracting .logo {
-  display: flex;
-  gap: 13.3px;
-  width: 412px;
-}
-
-.x3d-contracting .overlap-group-3 {
-  align-items: flex-end;
-  background-color: var(--white);
-  border-radius: 6px;
-  display: flex;
-  flex-direction: column;
-  min-height: 280px;
-  padding: 30px 20px;
-  width: 524px;
-}
-
-.x3d-contracting .overlap-group-5 {
-  height: 196px;
-  position: relative;
-  width: 343px;
-}
-
-.x3d-contracting .span0 {
-  line-height: 26px;
-}
-
-.x3d-contracting .span-5 {
-  color: var(--black);
-  font-weight: 400;
-}
-
 .x3d-contracting .flex-col {
-  flex-direction: column;
-  gap: 30px;
-  min-height: 233px;
-  width: 650px;
-}
-
-.x3d-contracting .span-6 {
-  color: var(--fpclinkblue);
-  font-weight: 400;
-  text-decoration: underline;
-}
-
-.x3d-contracting .flex-col-1 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-bottom: 0.5px;
-  min-height: 80px;
-  width: 17px;
+  gap: 60px;
+  left: 180px;
+  min-height: 796px;
+  position: relative;
+  top: 60px;
+  width: 1080px;
 }
 
-.x3d-contracting .span0-1 {
-  color: var(--black);
+.x3d-contracting .content-2 {
+  align-self: stretch;
+  gap: 15px;
 }
 
-.x3d-contracting .span1-2 {
-  color: var(--fpclinkblue);
+.x3d-contracting .links {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.x3d-contracting .links-1 {
+  align-items: flex-end;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.x3d-contracting .links-2 {
+  align-items: flex-end;
+  align-self: stretch;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.x3d-contracting .frame-201 {
+  flex-direction: column;
+  gap: 15px;
+  height: 165px;
+  margin-left: -2px;
+  width: 343px;
+}
+
+.x3d-contracting .group-196 {
+  display: flex;
+  gap: 18px;
+  height: 20px;
+  margin-right: -4.00px;
+  min-width: 347px;
+  position: relative;
+}
+
+.x3d-contracting .group-197 {
+  display: flex;
+  gap: 52px;
+  height: 20px;
+  margin-right: -4.00px;
+  min-width: 347px;
+  position: relative;
+}
+
+.x3d-contracting .group-200 {
+  display: flex;
+  gap: 58px;
+  height: 20px;
+  margin-right: -4.00px;
+  min-width: 347px;
+  position: relative;
+}
+
+.x3d-contracting .group-199 {
+  height: 60px;
+  margin-right: -4.00px;
+  min-width: 347px;
+  position: relative;
+}
+
+.x3d-contracting .flex-col-1 {
+  left: 103px;
+  min-height: 60px;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.x3d-contracting .links-3 {
+  align-items: flex-start;
+  gap: 10px;
+  width: fit-content;
+}
+
+.x3d-contracting .text-25 {
+  width: fit-content;
+}
+
+.x3d-contracting .flex-col-2 {
+  min-height: 281px;
+  width: 650px;
+}
+
+.x3d-contracting .span-3 {
   text-decoration: underline;
 }
 
@@ -780,10 +625,17 @@
   position: relative;
 }
 
-.x3d-contracting .content-7 {
+.x3d-contracting .content-5 {
+  align-items: flex-start;
   display: flex;
   flex-direction: column;
   position: relative;
+}
+
+.x3d-contracting .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
 }
 
 .x3d-contracting .frame {
@@ -792,18 +644,15 @@
   position: relative;
 }
 
-.x3d-contracting .lorem-ipsum-5 {
-  align-self: stretch;
-  line-height: 21px;
+.x3d-contracting .links-4 {
+  display: flex;
   position: relative;
 }
 
-.x3d-contracting .navmainv3-4 {
-  border-radius: 4px;
-  display: flex;
-  padding: 8px 15px 8px 10px;
+.x3d-contracting .lorem-ipsum-7 {
+  align-self: stretch;
+  line-height: 21px;
   position: relative;
-  width: 260px;
 }
 
 .x3d-contracting .x1-3 {

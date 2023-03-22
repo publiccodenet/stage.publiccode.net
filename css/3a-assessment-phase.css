@@ -1,121 +1,59 @@
 /* screen - 3a-assessment-phase */
 
 .x3a-assessment-phase {
-  align-items: flex-start;
+  align-items: center;
   background-color: var(--white);
   border: 1px none;
   display: flex;
   flex-direction: column;
-  height: 2463px;
-  width: 1440px;
-}
-
-.x3a-assessment-phase .header {
-  align-items: center;
-  align-self: center;
-  background-color: transparent;
-  display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
-  justify-content: flex-start;
-  margin-top: 60px;
-  min-width: 1080px;
-  width: auto;
-}
-
-.x3a-assessment-phase .home-resources-and {
-  color: transparent;
-  font-weight: 400;
-  line-height: normal;
-  margin-left: 180px;
-  margin-top: 59px;
-  min-height: 20px;
-  width: 567px;
+  gap: 60px;
+  min-width: 1440px;
+  padding: 60px 0px 0px;
+  position: relative;
 }
 
 .x3a-assessment-phase .title {
   color: var(--black);
   font-weight: 700;
   line-height: normal;
-  margin-left: 180px;
-  margin-top: 85px;
-  min-height: 40px;
-  width: 690px;
+  position: relative;
+  width: 1080px;
 }
 
-.x3a-assessment-phase .flex-row {
-  align-self: center;
-  gap: 58px;
-  margin-right: 32.0px;
-  margin-top: 62px;
-  min-width: 1048px;
-}
-
-.x3a-assessment-phase .content {
-  align-items: flex-end;
+.x3a-assessment-phase .main-frame {
+  align-items: flex-start;
   display: flex;
+  gap: 58px;
+  padding: 0px 0px 60px;
+  position: relative;
+  width: 1080px;
+}
+
+.x3a-assessment-phase .content-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
   flex-direction: column;
   gap: 60px;
   position: relative;
-  width: fit-content;
 }
 
 .x3a-assessment-phase .intro {
   align-items: flex-start;
+  align-self: stretch;
   display: flex;
   flex-direction: column;
-  gap: 30px;
-  position: relative;
-  width: fit-content;
-}
-
-.x3a-assessment-phase .titlepage {
-  align-items: flex-start;
-  border-bottom-style: solid;
-  border-bottom-width: 1px;
-  border-color: var(--fpcgraydark);
-  display: flex;
-  gap: 10px;
-  padding: 0px 0px 10px;
-  position: relative;
-  width: 690px;
-}
-
-.x3a-assessment-phase .page-title {
-  color: var(--black);
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  width: fit-content;
-}
-
-.x3a-assessment-phase .intro-1 {
-  height: 910px;
-  margin-right: -4.00px;
-  min-width: 694px;
+  gap: 20px;
   position: relative;
 }
 
-.x3a-assessment-phase .potential-bidders-ha {
-  color: var(--black);
-  font-weight: 400;
-  left: 0;
-  line-height: 24px;
-  position: absolute;
-  top: 250px;
-  width: 690px;
-}
-
-.x3a-assessment-phase .phase-container {
-  align-items: flex-start;
+.x3a-assessment-phase .cluster {
   display: flex;
   gap: 30px;
   height: 240px;
-  left: 0;
-  min-width: 690px;
-  position: absolute;
-  top: 0;
+  margin-right: -2.00px;
+  min-width: 744px;
+  position: relative;
 }
 
 .x3a-assessment-phase .phaseassessment {
@@ -163,7 +101,7 @@
   transform: rotate(-105.00deg);
 }
 
-.x3a-assessment-phase .overlap-group-1 {
+.x3a-assessment-phase .overlap-group {
   height: 78px;
   margin-bottom: -4.26px;
   position: relative;
@@ -360,13 +298,23 @@
 .x3a-assessment-phase .in-this-phase-you-w {
   color: var(--black);
   font-weight: 400;
+  height: 240px;
   line-height: 24px;
-  min-height: 240px;
-  width: 430px;
+  width: 482px;
+}
+
+.x3a-assessment-phase .when-bids-have-been {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
 }
 
 .x3a-assessment-phase .footer-nav {
+  align-items: flex-start;
   align-self: stretch;
+  display: flex;
   justify-content: space-between;
   position: relative;
 }
@@ -375,6 +323,7 @@
   align-items: center;
   background-color: var(--fpcblue);
   border-radius: 32px 4px 4px 32px;
+  cursor: pointer;
   display: flex;
   gap: 15px;
   padding: 10px 15px;
@@ -394,9 +343,7 @@
   flex-direction: column;
   gap: 3px;
   height: 38px;
-  margin-right: -4.00px;
   min-width: 123px;
-  position: relative;
 }
 
 .x3a-assessment-phase .x1a-welcome {
@@ -410,6 +357,7 @@
   align-items: center;
   background-color: var(--fpcbgpeach);
   border-radius: 4px 32px 32px 4px;
+  cursor: pointer;
   display: flex;
   gap: 15px;
   padding: 10px 15px;
@@ -435,65 +383,22 @@
 
 .x3a-assessment-phase .sidebarv2 {
   align-items: flex-start;
+  align-self: stretch;
   background-color: var(--cultured-pearl);
   border-radius: 6px;
   display: flex;
   flex-direction: column;
-  height: 1108px;
   justify-content: space-between;
   padding: 20px;
   position: relative;
   width: fit-content;
 }
 
-.x3a-assessment-phase .navmainv3 {
-  align-items: center;
-  background-color: var(--algae-green);
-  border-radius: 4px;
-  display: flex;
-  justify-content: space-between;
-  padding: 8px 15px 8px 10px;
-  position: relative;
-  width: 260px;
-}
-
-.x3a-assessment-phase .x1-section-name {
-  color: var(--black);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x3a-assessment-phase .navmainv3-1 {
-  align-items: center;
-  background-color: var(--fpcbluehl);
-  justify-content: space-between;
-}
-
-.x3a-assessment-phase .x1-section-name-1 {
-  color: var(--black-3);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x3a-assessment-phase .navmainv3-2 {
-  align-items: flex-start;
-  background-color: var(--fpchlpeach);
-  flex-direction: column;
-  gap: 10px;
-}
-
 .x3a-assessment-phase .navsubsectionv2-1 {
   align-items: center;
   background-color: var(--fpcpeachmid);
   border-radius: 4px;
+  cursor: pointer;
   display: flex;
   gap: 5px;
   padding: 2px 8px 3px;
@@ -501,104 +406,131 @@
   width: fit-content;
 }
 
-.x3a-assessment-phase .capacity-building {
-  color: var(--black);
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x3a-assessment-phase .d-subsection-name {
-  color: var(--black);
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x3a-assessment-phase .navmainv3-3 {
-  align-items: center;
-  background-color: var(--periwinkle-gray);
-  justify-content: space-between;
-}
-
-.x3a-assessment-phase .footer-floating {
-  margin-top: 124px;
-  min-width: 1440px;
-}
-
-.x3a-assessment-phase .logo {
-  display: flex;
-  gap: 13.3px;
-  width: 412px;
-}
-
-.x3a-assessment-phase .overlap-group {
-  align-items: flex-end;
-  background-color: var(--white);
-  border-radius: 6px;
+.x3a-assessment-phase .flex-col {
+  align-items: flex-start;
   display: flex;
   flex-direction: column;
-  min-height: 280px;
-  padding: 30px 20px;
-  width: 524px;
+  gap: 60px;
+  left: 180px;
+  min-height: 796px;
+  position: relative;
+  top: 60px;
+  width: 1080px;
 }
 
-.x3a-assessment-phase .overlap-group-2 {
-  height: 196px;
+.x3a-assessment-phase .content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+}
+
+.x3a-assessment-phase .links {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.x3a-assessment-phase .links-1 {
+  align-items: flex-end;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.x3a-assessment-phase .links-2 {
+  align-items: flex-end;
+  align-self: stretch;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.x3a-assessment-phase .frame-201 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 165px;
+  margin-left: -2px;
   position: relative;
   width: 343px;
 }
 
-.x3a-assessment-phase .span0 {
-  line-height: 26px;
+.x3a-assessment-phase .group-196 {
+  display: flex;
+  gap: 18px;
+  height: 20px;
+  min-width: 347px;
 }
 
-.x3a-assessment-phase .span-3 {
-  color: var(--black);
-  font-weight: 400;
+.x3a-assessment-phase .group-197 {
+  display: flex;
+  gap: 52px;
+  height: 20px;
+  min-width: 347px;
 }
 
-.x3a-assessment-phase .flex-col {
-  flex-direction: column;
-  gap: 30px;
-  min-height: 233px;
-  width: 650px;
+.x3a-assessment-phase .group-200 {
+  display: flex;
+  gap: 58px;
+  height: 20px;
+  min-width: 347px;
 }
 
-.x3a-assessment-phase .span-4 {
-  color: var(--fpclinkblue);
-  font-weight: 400;
-  text-decoration: underline;
+.x3a-assessment-phase .group-199 {
+  height: 60px;
+  min-width: 347px;
 }
 
 .x3a-assessment-phase .flex-col-1 {
+  left: 103px;
+  min-height: 60px;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.x3a-assessment-phase .links-3 {
   align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 0.5px;
-  min-height: 80px;
-  width: 17px;
+  gap: 10px;
+  width: fit-content;
 }
 
-.x3a-assessment-phase .span0-1 {
+.x3a-assessment-phase .text-19 {
   color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
 }
 
-.x3a-assessment-phase .span1 {
-  color: var(--fpclinkblue);
+.x3a-assessment-phase .flex-col-2 {
+  min-height: 281px;
+  width: 650px;
+}
+
+.x3a-assessment-phase .span-1 {
   text-decoration: underline;
 }
 
-.x3a-assessment-phase .navmainv3-4 {
-  border-radius: 4px;
+.x3a-assessment-phase .flex-col-3 {
+  align-items: flex-start;
   display: flex;
-  padding: 8px 15px 8px 10px;
+  flex-direction: column;
+}
+
+.x3a-assessment-phase .group-1 {
+  margin-right: -4.00px;
   position: relative;
-  width: 260px;
+}
+
+.x3a-assessment-phase .links-4 {
+  display: flex;
+  position: relative;
 }
