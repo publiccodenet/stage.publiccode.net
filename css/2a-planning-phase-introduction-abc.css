@@ -48,32 +48,31 @@
 }
 
 .x2a-planning-phase-introduction-abc .cluster {
+  align-items: flex-start;
+  align-self: stretch;
   display: flex;
   gap: 30px;
-  height: 250px;
-  margin-right: -2.00px;
-  min-width: 744px;
   position: relative;
 }
 
 .x2a-planning-phase-introduction-abc .phaseplanning {
-  align-items: flex-start;
   background-color: var(--fpcblue);
   border-radius: 12px;
-  display: flex;
   height: 230px;
+  min-width: 230px;
   overflow: hidden;
-  padding: 3.4px 0;
-  width: 230px;
+  position: relative;
 }
 
 .x2a-planning-phase-introduction-abc .group-148 {
   align-items: flex-end;
   display: flex;
   height: 198px;
-  margin-left: 17px;
+  left: 17px;
   min-width: 216px;
   padding: 0 5.0px;
+  position: relative;
+  top: 3px;
 }
 
 .x2a-planning-phase-introduction-abc .overlap-group2 {
@@ -525,10 +524,11 @@
 
 .x2a-planning-phase-introduction-abc .the-previous-phase-c {
   color: var(--black);
+  flex: 1;
   font-weight: 400;
-  height: 250px;
   line-height: 24px;
-  width: 482px;
+  margin-top: -1.00px;
+  position: relative;
 }
 
 .x2a-planning-phase-introduction-abc .span-1 {
@@ -746,7 +746,7 @@
   width: fit-content;
 }
 
-.x2a-planning-phase-introduction-abc .text-14 {
+.x2a-planning-phase-introduction-abc .text-12 {
   color: var(--black);
   font-weight: 400;
   line-height: normal;

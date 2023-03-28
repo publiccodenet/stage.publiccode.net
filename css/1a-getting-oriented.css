@@ -82,25 +82,17 @@
   position: relative;
 }
 
-.x1a-getting-oriented .group-151 {
-  align-self: stretch;
-  display: flex;
+.x1a-getting-oriented .cluster-1 {
   gap: 30px;
-  height: 230px;
-  margin-right: -2.00px;
-  min-width: 742px;
-  position: relative;
 }
 
 .x1a-getting-oriented .phaseorientation {
-  align-items: flex-start;
   background-color: #00ba8d;
   border-radius: 12px;
-  display: flex;
   height: 230px;
+  min-width: 230px;
   overflow: hidden;
-  padding: 7.4px 7.1px;
-  width: 230px;
+  position: relative;
 }
 
 .x1a-getting-oriented .group-147 {
@@ -108,9 +100,11 @@
   display: flex;
   gap: 1px;
   justify-content: flex-end;
-  margin-left: 5px;
+  left: 12px;
   min-width: 211px;
   padding: 0 0.0px;
+  position: relative;
+  top: 7px;
 }
 
 .x1a-getting-oriented .ellipse {
@@ -436,15 +430,14 @@
 
 .x1a-getting-oriented .we-believe-that-soft {
   color: var(--black);
+  flex: 1;
   font-weight: 400;
-  height: 216px;
   line-height: 24px;
-  width: 480px;
+  margin-top: -1.00px;
+  position: relative;
 }
 
-.x1a-getting-oriented .frame-116 {
-  align-items: flex-start;
-  align-self: stretch;
+.x1a-getting-oriented .cluster-2 {
   flex-direction: column;
   gap: 20px;
 }
@@ -466,9 +459,7 @@
   position: relative;
 }
 
-.x1a-getting-oriented .frame-117 {
-  align-items: flex-start;
-  align-self: stretch;
+.x1a-getting-oriented .cluster-3 {
   flex-direction: column;
   gap: 20px;
 }
@@ -593,13 +584,9 @@
   position: relative;
 }
 
-.x1a-getting-oriented .cluster-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
+.x1a-getting-oriented .cluster-4 {
   flex-direction: column;
   gap: 20px;
-  position: relative;
 }
 
 .x1a-getting-oriented .strategic-paths {
@@ -727,7 +714,7 @@
 
 .x1a-getting-oriented .overlap-group-1 {
   align-items: flex-end;
-  background-image: url(../img/union-12@2x.png);
+  background-image: url(../img/union-8@2x.png);
   background-size: 100% 100%;
   display: flex;
   height: 54px;
@@ -917,7 +904,7 @@
   width: fit-content;
 }
 
-.x1a-getting-oriented .text-4 {
+.x1a-getting-oriented .text-3 {
   color: var(--black);
   font-weight: 400;
   line-height: normal;
@@ -933,6 +920,13 @@
 
 .x1a-getting-oriented .span-1 {
   text-decoration: underline;
+}
+
+.x1a-getting-oriented .cluster-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  position: relative;
 }
 
 .x1a-getting-oriented .content-2 {

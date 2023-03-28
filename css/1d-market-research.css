@@ -354,19 +354,6 @@
   gap: 20px;
 }
 
-.x1d-market-research .v2 {
-  align-items: flex-end;
-  background-image: url(../img/gear-2-4@2x.png);
-  background-size: 100% 100%;
-  display: flex;
-  height: 26px;
-  justify-content: flex-end;
-  left: 4px;
-  min-width: 24px;
-  padding: 8.2px 6.5px;
-  position: relative;
-}
-
 .x1d-market-research .this-is-an-outcome-t {
   align-self: stretch;
   letter-spacing: 0;
@@ -377,7 +364,7 @@
 
 .x1d-market-research .v2-1 {
   align-items: flex-end;
-  background-image: url(../img/gear-2-4@2x.png);
+  background-image: url(../img/gear-2@2x.png);
   background-size: 100% 100%;
   display: flex;
   height: 26px;
@@ -406,7 +393,7 @@
   gap: 30px;
 }
 
-.x1d-market-research .text-11 {
+.x1d-market-research .text-10 {
   text-align: right;
   width: 30px;
 }
@@ -618,7 +605,7 @@
   width: fit-content;
 }
 
-.x1d-market-research .text-12 {
+.x1d-market-research .text-11 {
   width: fit-content;
 }
 

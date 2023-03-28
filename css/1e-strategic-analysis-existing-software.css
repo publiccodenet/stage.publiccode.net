@@ -63,7 +63,7 @@
   padding: 20px;
 }
 
-.x1e-strategic-analysis-existing-software .cluster-1 {
+.x1e-strategic-analysis-existing-software .cluster-2 {
   gap: 10px;
 }
 
@@ -281,9 +281,9 @@
   top: 7px;
 }
 
-.x1e-strategic-analysis-existing-software .overlap-group-1 {
+.x1e-strategic-analysis-existing-software .overlap-group-3 {
   align-items: flex-end;
-  background-image: url(../img/union-29@2x.png);
+  background-image: url(../img/union-20@2x.png);
   background-size: 100% 100%;
   display: flex;
   height: 54px;
@@ -360,7 +360,7 @@
   width: fit-content;
 }
 
-.x1e-strategic-analysis-existing-software .overlap-group-2 {
+.x1e-strategic-analysis-existing-software .overlap-group-1 {
   height: 26px;
   left: 6px;
   position: relative;
@@ -442,7 +442,7 @@
   position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .overlap-group-3 {
+.x1e-strategic-analysis-existing-software .overlap-group-2 {
   align-items: flex-start;
   background-image: url(../img/union@2x.png);
   background-size: 100% 100%;
@@ -530,19 +530,6 @@
   position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .v2 {
-  align-items: flex-end;
-  background-image: url(../img/gear-2-4@2x.png);
-  background-size: 100% 100%;
-  display: flex;
-  height: 26px;
-  justify-content: flex-end;
-  left: 4px;
-  min-width: 24px;
-  padding: 8.2px 6.5px;
-  position: relative;
-}
-
 .x1e-strategic-analysis-existing-software .this-is-an-outcome-t {
   align-self: stretch;
   letter-spacing: 0;
@@ -551,11 +538,11 @@
 }
 
 .x1e-strategic-analysis-existing-software .v2-1 {
-  background-image: url(../img/gear-2-26@2x.png);
+  background-image: url(../img/gear-2-2@2x.png);
 }
 
 .x1e-strategic-analysis-existing-software .v2-2 {
-  background-image: url(../img/gear-2-25@2x.png);
+  background-image: url(../img/gear-2-1@2x.png);
 }
 
 .x1e-strategic-analysis-existing-software .frame-140-1 {
@@ -567,7 +554,7 @@
   position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .text-15 {
+.x1e-strategic-analysis-existing-software .text-8 {
   text-align: right;
   width: 30px;
 }
@@ -594,29 +581,17 @@
   position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .cluster-2 {
+.x1e-strategic-analysis-existing-software .cluster-3 {
   flex-direction: column;
   gap: 20px;
 }
 
-.x1e-strategic-analysis-existing-software .titlesubsection {
-  align-items: flex-start;
-  border-bottom-style: solid;
-  border-bottom-width: 1px;
-  border-color: var(--fpcgraydark);
-  display: flex;
-  gap: 10px;
-  padding: 0px 0px 10px;
-  position: relative;
-  width: 690.01px;
-}
-
 .x1e-strategic-analysis-existing-software .you-should-now-have {
+  align-self: stretch;
   color: var(--black);
   font-weight: 400;
   line-height: 24px;
   position: relative;
-  width: 690px;
 }
 
 .x1e-strategic-analysis-existing-software .boxes-1 {
@@ -626,6 +601,11 @@
   flex-direction: column;
   gap: 20px;
   position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .cluster-1 {
+  gap: 20px;
+  height: 99px;
 }
 
 .x1e-strategic-analysis-existing-software .purchase-existing-bu-1 {
@@ -653,6 +633,19 @@
   margin-top: -1.00px;
   position: relative;
   width: 216px;
+}
+
+.x1e-strategic-analysis-existing-software .overlap-group-4 {
+  align-items: flex-end;
+  background-image: url(../img/union-25@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 54px;
+  left: 2px;
+  min-width: 61px;
+  padding: 10.6px 15.4px;
+  position: relative;
+  top: 4px;
 }
 
 .x1e-strategic-analysis-existing-software .build-in-house-build-1 {
@@ -858,7 +851,7 @@
   width: fit-content;
 }
 
-.x1e-strategic-analysis-existing-software .text-16 {
+.x1e-strategic-analysis-existing-software .text-9 {
   width: fit-content;
 }
 
@@ -889,7 +882,7 @@
   white-space: nowrap;
 }
 
-.x1e-strategic-analysis-existing-software .cluster-3 {
+.x1e-strategic-analysis-existing-software .cluster-4 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;

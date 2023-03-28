@@ -234,8 +234,8 @@
   background-color: var(--fpchlyellow);
   border-radius: 7.73px;
   height: 15px;
-  margin-bottom: 0;
   margin-left: 9px;
+  margin-top: 0;
   width: 15px;
 }
 
@@ -761,7 +761,7 @@
   width: fit-content;
 }
 
-.x00-process-codes-landing-page .text-3 {
+.x00-process-codes-landing-page .text-15 {
   color: var(--black);
   font-weight: 400;
   line-height: normal;
