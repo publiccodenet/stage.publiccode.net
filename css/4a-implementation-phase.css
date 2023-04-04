@@ -7,391 +7,596 @@
   display: flex;
   flex-direction: column;
   gap: 60px;
+  height: auto;
+  left: 0px;
   min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
   padding: 60px 0px 0px;
   position: relative;
+  top: 0px;
 }
 
-.x4a-implementation-phase .title {
-  color: var(--black);
-  font-weight: 700;
-  line-height: normal;
+.x4a-implementation-phase .header-Jxta51 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
   position: relative;
   width: 1080px;
 }
 
-.x4a-implementation-phase .main-frame {
+.x4a-implementation-phase .logo-title-uG7djG {
+  min-width: 410px;
+  position: relative;
+}
+
+.x4a-implementation-phase .navigation-uG7djG {
+  background-color: transparent;
+  height: 24px;
+  min-width: 534px;
+  position: relative;
+}
+
+.x4a-implementation-phase .links-ax3xcK {
   align-items: flex-start;
+  gap: 30px;
+  justify-content: flex-end;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: fit-content;
+}
+
+.x4a-implementation-phase .stewardship-zdqsxs {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x4a-implementation-phase .resources-zdqsxs {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x4a-implementation-phase .who-we-are-zdqsxs {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x4a-implementation-phase .join-us-zdqsxs {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x4a-implementation-phase .services-ax3xcK {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 20px;
+  height: auto;
+  left: 422px;
+  position: absolute;
+  top: 0px;
+  width: fit-content;
+}
+
+.x4a-implementation-phase .mastodon-VxUu1E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x4a-implementation-phase .twitter-VxUu1E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x4a-implementation-phase .github-VxUu1E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x4a-implementation-phase .title-Jxta51 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 1080px;
+}
+
+.x4a-implementation-phase .main-frame-Jxta51 {
+  align-items: flex-start;
+  background-color: transparent;
   display: flex;
   gap: 60px;
+  height: auto;
   padding: 0px 0px 60px;
   position: relative;
   width: 1080px;
 }
 
-.x4a-implementation-phase .content-1 {
-  align-items: flex-start;
-  display: flex;
+.x4a-implementation-phase .content-6FxKV5 {
   flex: 1;
-  flex-direction: column;
   gap: 60px;
-  position: relative;
 }
 
-.x4a-implementation-phase .intro {
+.x4a-implementation-phase .intro-GzehkZ {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 30px;
+  height: auto;
   position: relative;
 }
 
-.x4a-implementation-phase .cluster {
+.x4a-implementation-phase .titlepage-S4XNP2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
   display: flex;
-  gap: 30px;
+  gap: 10px;
+  height: auto;
+  padding: 0px 0px 10px;
+  position: relative;
+}
+
+.x4a-implementation-phase .page-title-oV6xIz {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x4a-implementation-phase .cluster-S4XNP2 {
+  background-color: transparent;
   height: 230px;
   margin-right: -4.00px;
   min-width: 744px;
   position: relative;
 }
 
-.x4a-implementation-phase .phaseimplementation {
-  align-items: flex-start;
-  background-color: var(--fpcpurple);
-  border-radius: 12px;
-  display: flex;
-  height: 230px;
-  overflow: hidden;
-  padding: 14.2px 20.8px;
-  width: 230px;
-}
-
-.x4a-implementation-phase .group-149 {
-  height: 183px;
-  margin-left: 7px;
-  position: relative;
-  width: 182px;
-}
-
-.x4a-implementation-phase .overlap-group2 {
-  height: 170px;
-  left: -1px;
-  position: absolute;
-  top: 14px;
-  width: 169px;
-}
-
-.x4a-implementation-phase .rectangle-1 {
-  background-color: var(--black);
-  height: 132px;
-  left: 38px;
-  position: absolute;
-  top: 38px;
-  width: 104px;
-}
-
-.x4a-implementation-phase .rectangle-2 {
-  background-color: #00ba8d;
-  height: 132px;
-  left: 33px;
-  position: absolute;
-  top: 32px;
-  width: 104px;
-}
-
-.x4a-implementation-phase .comment {
-  align-items: flex-start;
-  display: flex;
-  height: 31px;
-  justify-content: flex-end;
-  left: 137px;
-  min-width: 31px;
-  position: absolute;
-  top: 81px;
-  transform: rotate(180deg);
-}
-
-.x4a-implementation-phase .overlap-group1 {
-  height: 33px;
-  margin-top: -1.0px;
-  position: relative;
-  width: 33px;
-}
-
-.x4a-implementation-phase .union {
-  height: 33px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  transform: rotate(-180deg);
-  width: 33px;
-}
-
-.x4a-implementation-phase .group-2 {
-  height: 12px;
-  left: 11px;
-  position: absolute;
-  top: 11px;
-  transform: rotate(-180deg);
-  width: 12px;
-}
-
-.x4a-implementation-phase .symbol-dev {
-  align-items: flex-end;
-  display: flex;
-  gap: 7px;
-  height: 27px;
-  justify-content: center;
-  left: 55px;
-  min-width: 60px;
-  position: absolute;
-  top: 85px;
-}
-
-.x4a-implementation-phase .rectangle {
-  height: 30px;
-  margin-bottom: -1.5px;
-  width: 16px;
-}
-
-.x4a-implementation-phase .line {
-  height: 26px;
-  margin-bottom: -0.09px;
-  width: 17px;
-}
-
-.x4a-implementation-phase .rectangle-2-1 {
-  height: 41px;
-  left: 21px;
-  position: absolute;
-  top: 21px;
-  width: 42px;
-}
-
-.x4a-implementation-phase .ellipse {
-  border: 2px solid;
-  border-color: var(--white);
-  border-radius: 32.21px;
-  height: 64px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 64px;
-}
-
-.x4a-implementation-phase .abstract-lines {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  left: 28px;
-  min-height: 23px;
-  position: absolute;
-  top: 29px;
-  width: 35px;
-}
-
-.x4a-implementation-phase .rectangle-3-1 {
-  background-color: var(--white);
-  border-radius: 1px;
-  height: 1px;
-  width: 35px;
-}
-
-.x4a-implementation-phase .flex-row {
-  gap: 3px;
-  margin-top: 5px;
-  min-width: 35px;
-}
-
-.x4a-implementation-phase .rectangle-3 {
-  background-color: var(--white);
-  border-radius: 1px;
-  height: 1px;
-  width: 9px;
-}
-
-.x4a-implementation-phase .rectangle-32 {
-  background-color: var(--white);
-  border-radius: 1px;
-  height: 1px;
-  width: 22px;
-}
-
-.x4a-implementation-phase .flex-row-1 {
-  align-items: flex-start;
-  display: flex;
-  gap: 3px;
-  margin-top: 5px;
-  min-width: 30px;
-}
-
-.x4a-implementation-phase .rectangle-33 {
-  background-color: var(--white);
-  border-radius: 1px;
-  height: 1px;
-  width: 18px;
-}
-
-.x4a-implementation-phase .rectangle-37 {
-  background-color: var(--white);
-  border-radius: 1px;
-  height: 1px;
-  margin-top: 6px;
-  transform: rotate(180deg);
-  width: 22px;
-}
-
-.x4a-implementation-phase .star {
-  height: 10px;
-  left: 76px;
-  position: absolute;
-  top: 37px;
-  width: 11px;
-}
-
-.x4a-implementation-phase .star-1 {
-  left: 91px;
-}
-
-.x4a-implementation-phase .star-2 {
-  left: 105px;
-}
-
-.x4a-implementation-phase .icon-star {
-  height: 10px;
-  left: 120px;
-  position: absolute;
-  top: 37px;
-  width: 11px;
-}
-
-.x4a-implementation-phase .comment-1 {
-  align-items: flex-start;
-  display: flex;
-  height: 46px;
-  justify-content: center;
-  left: 136px;
-  min-width: 46px;
-  position: absolute;
-  top: 0;
-  transform: rotate(180deg);
-}
-
-.x4a-implementation-phase .overlap-group {
-  height: 48px;
-  margin-top: -1.0px;
-  position: relative;
-  width: 48px;
-}
-
-.x4a-implementation-phase .union-1 {
-  height: 48px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  transform: rotate(-180deg);
-  width: 48px;
-}
-
-.x4a-implementation-phase .group-2-1 {
-  height: 16px;
-  left: 16px;
-  position: absolute;
-  top: 16px;
-  transform: rotate(-180deg);
-  width: 16px;
-}
-
-.x4a-implementation-phase .the-fourth-and-final {
+.x4a-implementation-phase .the-fourth-and-final-xsiJhw {
+  background-color: transparent;
   color: var(--black);
+  font-style: normal;
   font-weight: 400;
-  height: 216px;
+  height: auto;
+  left: 260px;
   line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
   width: 482px;
 }
 
-.x4a-implementation-phase .that-sounds-like-a-l {
-  align-self: stretch;
-  color: var(--black);
-  font-weight: 400;
-  line-height: 24px;
-  position: relative;
+.x4a-implementation-phase .phaseimplementation-xsiJhw {
+  background-color: var(--fpcpurple);
+  border-radius: 12px;
+  height: 230px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 230px;
 }
 
-.x4a-implementation-phase .footer-nav {
+.x4a-implementation-phase .group-149-6EjMny {
+  background-color: transparent;
+  height: 79.76%;
+  left: 11.90%;
+  position: relative;
+  top: 6.19%;
+  width: 79.05%;
+}
+
+.x4a-implementation-phase .rectangle-9HkRhx {
+  background-color: var(--black);
+  height: 71.94%;
+  left: 20.48%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28.06%;
+  width: 57.23%;
+}
+
+.x4a-implementation-phase .rectangle-3xSUpY {
+  background-color: #00ba8d;
+  height: 71.94%;
+  left: 17.47%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25.07%;
+  width: 57.23%;
+}
+
+.x4a-implementation-phase .comment-9HkRhx {
+  height: 25.07%;
+  left: 74.70%;
+  top: 0px;
+  width: 25.30%;
+}
+
+.x4a-implementation-phase .union-bMkCvL {
+  height: 104.35%;
+  left: -2.17%;
+  top: -2.17%;
+  width: 104.35%;
+}
+
+.x4a-implementation-phase .group-2-bMkCvL {
+  height: 35.78%;
+  left: 32.12%;
+  top: 32.11%;
+  width: 35.78%;
+}
+
+.x4a-implementation-phase .comment-3xSUpY {
+  height: 17.01%;
+  left: 75.00%;
+  top: 51.64%;
+  width: 17.17%;
+}
+
+.x4a-implementation-phase .union-TuqqaW {
+  height: 106.41%;
+  left: -3.20%;
+  top: -3.20%;
+  width: 106.41%;
+}
+
+.x4a-implementation-phase .group-2-TuqqaW {
+  height: 37.84%;
+  left: 31.08%;
+  top: 31.08%;
+  width: 37.83%;
+}
+
+.x4a-implementation-phase .symbol-dev-9HkRhx {
+  background-color: transparent;
+  height: 14.63%;
+  left: 29.52%;
+  position: absolute;
+  top: 54.03%;
+  width: 33.13%;
+}
+
+.x4a-implementation-phase .rectangle-bRPz8J {
+  background-color: transparent;
+  height: 111.16%;
+  left: -2.50%;
+  position: absolute;
+  top: -5.58%;
+  width: 27.36%;
+}
+
+.x4a-implementation-phase .rectangle-RqgXmc {
+  background-color: transparent;
+  height: 111.16%;
+  left: 75.14%;
+  position: absolute;
+  top: -5.58%;
+  width: 27.36%;
+}
+
+.x4a-implementation-phase .line-bRPz8J {
+  background-color: transparent;
+  height: 98.28%;
+  left: 36.20%;
+  position: absolute;
+  top: 2.04%;
+  width: 27.49%;
+}
+
+.x4a-implementation-phase .rectangle-2-9HkRhx {
+  background-color: transparent;
+  height: 22.57%;
+  left: 11.14%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 19.10%;
+  width: 22.85%;
+}
+
+.x4a-implementation-phase .ellipse-9HkRhx {
+  background-color: transparent;
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 32.21px;
+  height: 35.12%;
+  left: -0.55%;
+  position: absolute;
+  top: 7.51%;
+  width: 35.44%;
+}
+
+.x4a-implementation-phase .abstract-lines-9HkRhx {
+  background-color: transparent;
+  height: 12.54%;
+  left: 15.06%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23.28%;
+  width: 19.28%;
+}
+
+.x4a-implementation-phase .rectangle-3-NWCITG {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 4.76%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.x4a-implementation-phase .rectangle-31-NWCITG {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 4.76%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.91%;
+  width: 26.92%;
+}
+
+.x4a-implementation-phase .rectangle-35-NWCITG {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 4.76%;
+  left: 57.69%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 55.81%;
+  width: 26.92%;
+}
+
+.x4a-implementation-phase .rectangle-32-NWCITG {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 4.76%;
+  left: 35.90%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.91%;
+  width: 64.10%;
+}
+
+.x4a-implementation-phase .rectangle-37-NWCITG {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 4.76%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 86.05%;
+  transform: rotate(180deg);
+  width: 64.10%;
+}
+
+.x4a-implementation-phase .rectangle-33-NWCITG {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 4.76%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 55.81%;
+  width: 50.00%;
+}
+
+.x4a-implementation-phase .star-9HkRhx {
+  left: 41.42%;
+}
+
+.x4a-implementation-phase .star-3xSUpY {
+  left: 49.55%;
+}
+
+.x4a-implementation-phase .star-Z7SdAL {
+  left: 57.38%;
+}
+
+.x4a-implementation-phase .icon-star-9HkRhx {
+  background-color: transparent;
+  height: 5.67%;
+  left: 65.21%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.76%;
+  width: 6.02%;
+}
+
+.x4a-implementation-phase .that-sounds-like-a-l-S4XNP2 {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x4a-implementation-phase .footer-nav-GzehkZ {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
+  height: auto;
   justify-content: space-between;
   position: relative;
 }
 
-.x4a-implementation-phase .navfooterprev {
+.x4a-implementation-phase .navfooterprev-puK88R {
   align-items: center;
   background-color: var(--fpcbgpeach);
   border-radius: 32px 4px 4px 32px;
   cursor: pointer;
   display: flex;
   gap: 15px;
+  height: auto;
+  mix-blend-mode: normal;
   padding: 10px 15px;
   position: relative;
   width: fit-content;
 }
 
-.x4a-implementation-phase .arrow-32 {
-  height: 12.47px;
+.x4a-implementation-phase .arrow-32-lI7RaV {
   margin-left: -0.85px;
-  min-width: 15.24px;
-  position: relative;
 }
 
-.x4a-implementation-phase .group-134 {
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
-  height: 38px;
+.x4a-implementation-phase .group-134-lI7RaV {
   margin-right: -4.00px;
   min-width: 122px;
-  position: relative;
 }
 
-.x4a-implementation-phase .x1a-welcome {
-  height: 20px;
-  letter-spacing: 0;
+.x4a-implementation-phase .x1a-welcome-gWDaT3 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
   line-height: normal;
-  width: 118px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
 }
 
-.x4a-implementation-phase .navfooternext {
+.x4a-implementation-phase .previous-gWDaT3 {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x4a-implementation-phase .navfooternext-puK88R {
   align-items: center;
   background-color: var(--fpcpurple);
   border-radius: 4px 32px 32px 4px;
   cursor: pointer;
   display: flex;
   gap: 15px;
+  height: auto;
+  mix-blend-mode: normal;
   padding: 10px 15px;
   position: relative;
   width: fit-content;
 }
 
-.x4a-implementation-phase .group-134-1 {
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
-  height: 38px;
+.x4a-implementation-phase .group-134-iDdtD7 {
   min-width: 174px;
-  position: relative;
 }
 
-.x4a-implementation-phase .x1b-discovery-research {
-  height: 20px;
-  letter-spacing: 0;
+.x4a-implementation-phase .x1b-discovery-research-kT0vPa {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
   line-height: normal;
-  width: 170px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
 }
 
-.x4a-implementation-phase .sidebarv2 {
+.x4a-implementation-phase .next-kT0vPa {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x4a-implementation-phase .arrow-32-iDdtD7 {
+  margin-right: -0.85px;
+}
+
+.x4a-implementation-phase .sidebarv2-6FxKV5 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--cultured-pearl);
@@ -399,161 +604,864 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  mix-blend-mode: normal;
   padding: 20px;
   position: relative;
   width: fit-content;
 }
 
-.x4a-implementation-phase .navsubsectionv2-1 {
-  align-items: center;
-  background-color: var(--fpcpurple50);
-  border-radius: 4px;
-  cursor: pointer;
+.x4a-implementation-phase .top-zmAcif {
+  align-items: flex-start;
+  background-color: transparent;
   display: flex;
-  gap: 5px;
-  padding: 2px 8px 3px;
+  flex-direction: column;
+  gap: 60px;
+  height: auto;
   position: relative;
   width: fit-content;
 }
 
-.x4a-implementation-phase .flex-col {
+.x4a-implementation-phase .navsidebarexpanded-bQnnxE {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  position: relative;
+  width: 240px;
+}
+
+.x4a-implementation-phase .navmainv3-5BHXpf {
+  background-color: var(--algae-green);
+}
+
+.x4a-implementation-phase .x1-section-name-r0fx9Z {
+  color: var(--black);
+}
+
+.x4a-implementation-phase .navsubsectionv2-DLeYHD {
+  background-color: transparent;
+}
+
+.x4a-implementation-phase .navsubsectionv2-kjZ3m1 {
+  background-color: transparent;
+}
+
+.x4a-implementation-phase .navsubsectionv2-8DkArb {
+  background-color: transparent;
+}
+
+.x4a-implementation-phase .navsubsectionv2-2i5UTu {
+  background-color: transparent;
+}
+
+.x4a-implementation-phase .navsubsectionv2-GxSkkv {
+  background-color: transparent;
+}
+
+.x4a-implementation-phase .navmainv3-M980Yq {
+  background-color: var(--fpcbluehl);
+}
+
+.x4a-implementation-phase .x1-section-name-xKUD3P {
+  color: var(--black-2);
+}
+
+.x4a-implementation-phase .navsubsectionv2-n3ukmj {
+  background-color: transparent;
+}
+
+.x4a-implementation-phase .navsubsectionv2-pUZfim {
+  background-color: transparent;
+}
+
+.x4a-implementation-phase .navsubsectionv2-rVk0OL {
+  background-color: transparent;
+}
+
+.x4a-implementation-phase .navmainv3-87kx34 {
+  background-color: var(--fpchlpeach);
+}
+
+.x4a-implementation-phase .x1-section-name-PhKR0o {
+  color: var(--black);
+}
+
+.x4a-implementation-phase .navsubsectionv2-qPJPxl {
+  background-color: transparent;
+}
+
+.x4a-implementation-phase .navsubsectionv2-F83xwQ {
+  background-color: transparent;
+}
+
+.x4a-implementation-phase .navsubsectionv2-yelfiR {
+  background-color: transparent;
+}
+
+.x4a-implementation-phase .navsubsectionv2-W5FloS {
+  background-color: transparent;
+}
+
+.x4a-implementation-phase .span0-SJLLis {
+  font-style: normal;
+}
+
+.x4a-implementation-phase .navmainv3-3WlS62 {
+  background-color: var(--periwinkle-gray);
+}
+
+.x4a-implementation-phase .x1-section-name-KJg3RU {
+  color: var(--black-2);
+}
+
+.x4a-implementation-phase .navsubsectionv2-tXiVxG {
+  background-color: var(--fpcpurple50);
+}
+
+.x4a-implementation-phase .navsubsectionv2-aCA75K {
+  background-color: transparent;
+}
+
+.x4a-implementation-phase .navsubsectionv2-LTNRMo {
+  background-color: transparent;
+}
+
+.x4a-implementation-phase .sidebarbottom-zmAcif {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
   flex-direction: column;
   gap: 60px;
-  left: 180px;
-  min-height: 796px;
+  height: auto;
   position: relative;
-  top: 60px;
-  width: 1080px;
+  width: fit-content;
 }
 
-.x4a-implementation-phase .content {
+.x4a-implementation-phase .have-a-question-65aXkt {
   align-items: flex-start;
-  align-self: stretch;
   display: flex;
   flex-direction: column;
-  gap: 15px;
-  position: relative;
-}
-
-.x4a-implementation-phase .links {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
   gap: 10px;
-  justify-content: flex-end;
+  height: auto;
+  width: 240px;
+}
+
+.x4a-implementation-phase .have-a-question-pZH4ZO {
+  align-self: stretch;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.x4a-implementation-phase .email-us-pZH4ZO {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x4a-implementation-phase .footer-Jxta51 {
+  align-self: stretch;
+  background-color: transparent;
+  height: 916px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
   position: relative;
 }
 
-.x4a-implementation-phase .links-1 {
-  align-items: flex-end;
-  align-self: stretch;
-  flex-direction: column;
-  gap: 15px;
+.x4a-implementation-phase .base-UsTlxK {
+  background-color: var(--concrete);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
 }
 
-.x4a-implementation-phase .links-2 {
-  align-items: flex-end;
-  align-self: stretch;
-  gap: 10px;
-  justify-content: flex-end;
+.x4a-implementation-phase .information-UsTlxK {
+  background-color: transparent;
+  height: 281px;
+  left: calc(50.00% - 540px);
+  position: absolute;
+  top: 575px;
+  width: 1024px;
 }
 
-.x4a-implementation-phase .frame-201 {
+.x4a-implementation-phase .metadata-YCoUlZ {
   align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  left: calc(50.00% - 142px);
+  position: absolute;
+  top: 196px;
+  width: fit-content;
+}
+
+.x4a-implementation-phase .updated-ZAJcf2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 8px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.x4a-implementation-phase .icon-clock-zTatmw {
+  background-color: transparent;
+  height: 16px;
+  min-width: 16px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x4a-implementation-phase .last-updated-15-february-2021-zTatmw {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x4a-implementation-phase .copyright-ZAJcf2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.x4a-implementation-phase .text_label-pmPTy3 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x4a-implementation-phase .x2021-foundation-for-public-code-pmPTy3 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x4a-implementation-phase .span0-fXIJqt {
+  font-style: normal;
+}
+
+.x4a-implementation-phase .license-ZAJcf2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 8px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.x4a-implementation-phase .iconlicense-1mzaxx {
+  background-color: transparent;
+  height: 14.5px;
+  min-width: 16px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x4a-implementation-phase .creative-commons-zero-v10-universal-1mzaxx {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 299px;
+}
+
+.x4a-implementation-phase .organizational-notes-YCoUlZ {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 142px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 650px;
+}
+
+.x4a-implementation-phase .foundation-for-publi-YCoUlZ {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 142px);
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 650px;
+}
+
+.x4a-implementation-phase .span0-64eXeG {
+  font-style: normal;
+}
+
+.x4a-implementation-phase .span2-64eXeG {
+  font-style: normal;
+}
+
+.x4a-implementation-phase .span3-64eXeG {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x4a-implementation-phase .span4-64eXeG {
+  font-style: normal;
+}
+
+.x4a-implementation-phase .span5-64eXeG {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x4a-implementation-phase .span6-64eXeG {
+  font-style: normal;
+}
+
+.x4a-implementation-phase .span7-64eXeG {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x4a-implementation-phase .span8-64eXeG {
+  font-style: normal;
+}
+
+.x4a-implementation-phase .contact-YCoUlZ {
+  height: 201px;
+  left: calc(50.00% - 512px);
+  width: 345px;
+}
+
+.x4a-implementation-phase .contact-5iwsl4 {
+  height: auto;
+  left: calc(50.00% - 172px);
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  mix-blend-mode: normal;
+  text-align: left;
+  white-space: nowrap;
+  width: 120px;
+}
+
+.x4a-implementation-phase .frame-201-5iwsl4 {
+  align-items: flex-start;
+  background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 15px;
-  height: 165px;
-  margin-left: -2px;
-  position: relative;
-  width: 343px;
+  height: auto;
+  left: calc(50.00% - 172px);
+  position: absolute;
+  top: 36px;
+  width: fit-content;
 }
 
-.x4a-implementation-phase .group-196 {
-  display: flex;
-  gap: 18px;
+.x4a-implementation-phase .group-196-xQEhCa {
+  background-color: transparent;
   height: 20px;
   margin-right: -4.00px;
   min-width: 347px;
   position: relative;
 }
 
-.x4a-implementation-phase .group-197 {
-  display: flex;
-  gap: 52px;
+.x4a-implementation-phase .join-our-mailing-list-hWpYRc {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  width: 240px;
+}
+
+.x4a-implementation-phase .newsletter-hWpYRc {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x4a-implementation-phase .group-197-xQEhCa {
+  background-color: transparent;
   height: 20px;
   margin-right: -4.00px;
   min-width: 347px;
   position: relative;
 }
 
-.x4a-implementation-phase .group-200 {
-  display: flex;
-  gap: 58px;
+.x4a-implementation-phase .x31-20-2-444-500-8Ow50f {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  width: 240px;
+}
+
+.x4a-implementation-phase .phone-8Ow50f {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x4a-implementation-phase .group-200-xQEhCa {
+  background-color: transparent;
   height: 20px;
   margin-right: -4.00px;
   min-width: 347px;
   position: relative;
 }
 
-.x4a-implementation-phase .group-199 {
+.x4a-implementation-phase .infopubliccodenet-zv03xU {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  width: 240px;
+}
+
+.x4a-implementation-phase .email-zv03xU {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x4a-implementation-phase .group-199-xQEhCa {
+  background-color: transparent;
   height: 60px;
   margin-right: -4.00px;
   min-width: 347px;
   position: relative;
 }
 
-.x4a-implementation-phase .flex-col-1 {
-  left: 103px;
-  min-height: 60px;
-  position: absolute;
-  top: 0;
-  width: 240px;
-}
-
-.x4a-implementation-phase .links-3 {
+.x4a-implementation-phase .links-OPYxu5 {
   align-items: flex-start;
   gap: 10px;
+  left: 103px;
+  position: absolute;
+  top: 40px;
   width: fit-content;
 }
 
-.x4a-implementation-phase .text-13 {
-  color: var(--black);
+.x4a-implementation-phase .open-street-map-jjMLe6 {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
   font-weight: 400;
   line-height: normal;
   margin-top: -1.00px;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
+  text-decoration: underline;
   width: fit-content;
 }
 
-.x4a-implementation-phase .flex-col-2 {
-  min-height: 281px;
-  width: 650px;
+.x4a-implementation-phase .x-jjMLe6 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
 }
 
-.x4a-implementation-phase .span-1 {
+.x4a-implementation-phase .google-jjMLe6 {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
   text-decoration: underline;
+  width: fit-content;
 }
 
-.x4a-implementation-phase .flex {
-  align-items: flex-start;
-  display: flex;
+.x4a-implementation-phase .keizersgracht-617-10-OPYxu5 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 240px;
 }
 
-.x4a-implementation-phase .flex-col-3 {
+.x4a-implementation-phase .address-OPYxu5 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x4a-implementation-phase .block-trio-UsTlxK {
   align-items: flex-start;
+  background-color: transparent;
   display: flex;
+  gap: 20px;
+  height: 340px;
+  left: calc(50.00% - 540px);
+  position: absolute;
+  top: 175px;
+  width: 1080px;
+}
+
+.x4a-implementation-phase .about-us-p8x89y {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
   flex-direction: column;
+  justify-content: space-between;
+  padding: 30px;
 }
 
-.x4a-implementation-phase .links-4 {
-  display: flex;
+.x4a-implementation-phase .content-76Y0J8 {
+  align-self: stretch;
+  gap: 15px;
+}
+
+.x4a-implementation-phase .about-us-HYBbVc {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x4a-implementation-phase .all-of-our-staff-inf-HYBbVc {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x4a-implementation-phase .links-76Y0J8 {
+  align-items: flex-start;
+  align-self: stretch;
+  gap: 10px;
+  justify-content: flex-end;
   position: relative;
 }
 
-.x4a-implementation-phase .star-3 {
-  height: 10px;
+.x4a-implementation-phase .how-we-work-abirqx {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.x4a-implementation-phase .project-resources-p8x89y {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x4a-implementation-phase .content-8x6vxx {
+  align-self: stretch;
+  gap: 15px;
+}
+
+.x4a-implementation-phase .project-resources-1sAs74 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x4a-implementation-phase .open-products-were-r-1sAs74 {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x4a-implementation-phase .links-8x6vxx {
+  align-items: flex-end;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+}
+
+.x4a-implementation-phase .free-to-use-and-modify-jW687Z {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+}
+
+.x4a-implementation-phase .see-all-our-work-on-git-hub-jW687Z {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+}
+
+.x4a-implementation-phase .careers-p8x89y {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x4a-implementation-phase .content-xyYf0f {
+  align-self: stretch;
+  gap: 15px;
+}
+
+.x4a-implementation-phase .careers-N9b5Wi {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x4a-implementation-phase .calling-all-publicly-N9b5Wi {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x4a-implementation-phase .links-xyYf0f {
+  align-items: flex-end;
+  align-self: stretch;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.x4a-implementation-phase .open-positions-R1Ovzc {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.x4a-implementation-phase .logo-title-UsTlxK {
+  left: calc(50.00% - 540px);
   position: absolute;
-  top: 37px;
-  width: 11px;
+  top: 60px;
+  width: 410px;
+}
+
+.x4a-implementation-phase .arrow-32 {
+  background-color: transparent;
+  height: 12.468994140625px;
+  min-width: 15.2421875px;
+  position: relative;
+}
+
+.x4a-implementation-phase .comment {
+  background-color: transparent;
+  position: absolute;
+  transform: rotate(180deg);
+}
+
+.x4a-implementation-phase .content {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  position: relative;
+}
+
+.x4a-implementation-phase .group-2 {
+  background-color: transparent;
+  position: absolute;
+  transform: rotate(-180deg);
+}
+
+.x4a-implementation-phase .star {
+  background-color: transparent;
+  height: 5.67%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.76%;
+  width: 6.02%;
+}
+
+.x4a-implementation-phase .union {
+  background-color: transparent;
+  position: absolute;
+  transform: rotate(-180deg);
 }

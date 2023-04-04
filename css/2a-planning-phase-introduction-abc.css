@@ -7,618 +7,838 @@
   display: flex;
   flex-direction: column;
   gap: 60px;
+  height: auto;
+  left: 0px;
   min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
   padding: 60px 0px 0px;
   position: relative;
+  top: 0px;
 }
 
-.x2a-planning-phase-introduction-abc .title {
-  color: var(--black);
-  font-weight: 700;
-  line-height: normal;
+.x2a-planning-phase-introduction-abc .header-KmlyGg {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
   position: relative;
   width: 1080px;
 }
 
-.x2a-planning-phase-introduction-abc .main-frame {
+.x2a-planning-phase-introduction-abc .logo-title-CCbJLN {
+  min-width: 410px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction-abc .navigation-CCbJLN {
+  background-color: transparent;
+  height: 24px;
+  min-width: 534px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction-abc .links-119Tq3 {
   align-items: flex-start;
+  gap: 30px;
+  justify-content: flex-end;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .stewardship-u7uHJn {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .resources-u7uHJn {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .who-we-are-u7uHJn {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .join-us-u7uHJn {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .services-119Tq3 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 20px;
+  height: auto;
+  left: 422px;
+  position: absolute;
+  top: 0px;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .mastodon-znYwNH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction-abc .twitter-znYwNH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction-abc .github-znYwNH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction-abc .title-KmlyGg {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 1080px;
+}
+
+.x2a-planning-phase-introduction-abc .main-frame-KmlyGg {
+  align-items: flex-start;
+  background-color: transparent;
   display: flex;
   gap: 58px;
+  height: auto;
   padding: 0px 0px 60px;
   position: relative;
   width: 1080px;
 }
 
-.x2a-planning-phase-introduction-abc .content-1 {
-  align-items: flex-start;
-  display: flex;
+.x2a-planning-phase-introduction-abc .content-uHvOGw {
   flex: 1;
-  flex-direction: column;
   gap: 60px;
-  position: relative;
 }
 
-.x2a-planning-phase-introduction-abc .intro {
+.x2a-planning-phase-introduction-abc .intro-EYVVzK {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 20px;
+  height: auto;
   position: relative;
 }
 
-.x2a-planning-phase-introduction-abc .cluster {
+.x2a-planning-phase-introduction-abc .titlepage-0w70Bn {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
   display: flex;
-  gap: 30px;
+  gap: 10px;
+  height: auto;
+  padding: 0px 0px 10px;
   position: relative;
 }
 
-.x2a-planning-phase-introduction-abc .phaseplanning {
+.x2a-planning-phase-introduction-abc .page-title-CYcnYd {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .cluster-0w70Bn {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  gap: 30px;
+  height: auto;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction-abc .phaseplanning-y0xHJ9 {
   background-color: var(--fpcblue);
   border-radius: 12px;
   height: 230px;
   min-width: 230px;
+  mix-blend-mode: normal;
   overflow: hidden;
   position: relative;
 }
 
-.x2a-planning-phase-introduction-abc .group-148 {
-  align-items: flex-end;
-  display: flex;
-  height: 198px;
-  left: 17px;
-  min-width: 216px;
-  padding: 0 5.0px;
+.x2a-planning-phase-introduction-abc .group-148-axhalc {
+  background-color: transparent;
+  height: 86.25%;
+  left: 7.38%;
   position: relative;
-  top: 3px;
+  top: 1.46%;
+  width: 93.80%;
 }
 
-.x2a-planning-phase-introduction-abc .overlap-group2 {
-  height: 172px;
-  position: relative;
-  width: 189px;
-}
-
-.x2a-planning-phase-introduction-abc .rectangle-11 {
+.x2a-planning-phase-introduction-abc .rectangle-11-KxNPZY {
   background-color: var(--white);
-  height: 19px;
-  left: 58px;
+  height: 9.39%;
+  left: 29.19%;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 72px;
-  width: 31px;
+  top: 49.38%;
+  width: 14.21%;
 }
 
-.x2a-planning-phase-introduction-abc .vector {
-  height: 18px;
-  left: 42px;
-  position: absolute;
-  top: 21px;
-  width: 27px;
+.x2a-planning-phase-introduction-abc .vector-KxNPZY {
+  height: 8.86%;
+  left: 21.73%;
+  mix-blend-mode: normal;
+  top: 23.52%;
+  width: 12.30%;
 }
 
-.x2a-planning-phase-introduction-abc .vector-1 {
-  height: 26px;
-  left: 43px;
-  position: absolute;
-  top: 18px;
-  width: 33px;
+.x2a-planning-phase-introduction-abc .vector-8G23O4 {
+  height: 13.02%;
+  left: 22.09%;
+  mix-blend-mode: normal;
+  top: 22.01%;
+  width: 15.31%;
 }
 
-.x2a-planning-phase-introduction-abc .vector-2 {
-  height: 23px;
-  left: 43px;
-  position: absolute;
-  top: 18px;
-  width: 39px;
+.x2a-planning-phase-introduction-abc .vector-Ec67tf {
+  height: 11.79%;
+  left: 22.11%;
+  mix-blend-mode: normal;
+  top: 22.32%;
+  width: 18.26%;
 }
 
-.x2a-planning-phase-introduction-abc .group-2 {
-  height: 46px;
-  left: 75px;
-  position: absolute;
-  top: 127px;
-  width: 112px;
+.x2a-planning-phase-introduction-abc .group-2-KxNPZY {
+  height: 23.02%;
+  left: 37.31%;
+  top: 76.98%;
+  width: 51.84%;
 }
 
-.x2a-planning-phase-introduction-abc .ellipse {
+.x2a-planning-phase-introduction-abc .ellipse-KxNPZY {
+  background-color: transparent;
   border: 2px solid;
   border-color: var(--blue-violet);
   border-radius: 65.89px/66.17px;
-  height: 132px;
-  left: 32px;
+  height: 66.71%;
+  left: 17.31%;
   position: absolute;
-  top: 18px;
-  width: 132px;
+  top: 22.37%;
+  width: 61.09%;
 }
 
-.x2a-planning-phase-introduction-abc .comment {
-  align-items: flex-start;
-  display: flex;
-  height: 38px;
-  left: 14px;
-  min-width: 38px;
-  position: absolute;
-  top: 131px;
+.x2a-planning-phase-introduction-abc .comment-KxNPZY {
+  height: 19.32%;
+  left: 8.88%;
+  top: 78.91%;
   transform: rotate(-90.00deg);
+  width: 17.77%;
 }
 
-.x2a-planning-phase-introduction-abc .overlap-group {
-  height: 38px;
-  margin-top: 0;
-  position: relative;
-  width: 38px;
-}
-
-.x2a-planning-phase-introduction-abc .union {
-  height: 38px;
-  left: 0;
-  position: absolute;
-  top: 0;
+.x2a-planning-phase-introduction-abc .union-NvattV {
+  height: 100.00%;
+  left: 0px;
+  mix-blend-mode: normal;
+  top: 0px;
   transform: rotate(90.00deg);
-  width: 38px;
+  width: 100.00%;
 }
 
-.x2a-planning-phase-introduction-abc .rectangle-315 {
+.x2a-planning-phase-introduction-abc .rectangle-315-NvattV {
+  background-color: transparent;
   border: 1px solid;
   border-color: var(--white);
-  border-radius: 5px;
-  height: 4px;
-  left: 10px;
-  position: absolute;
-  top: 17px;
-  width: 4px;
+  height: 11.43%;
+  left: 25.71%;
+  top: 44.29%;
+  width: 11.43%;
 }
 
-.x2a-planning-phase-introduction-abc .rectangle-316 {
+.x2a-planning-phase-introduction-abc .rectangle-316-NvattV {
+  background-color: transparent;
   border: 1px solid;
   border-color: var(--white);
-  border-radius: 5px;
-  height: 4px;
-  left: 17px;
-  position: absolute;
-  top: 17px;
-  width: 4px;
+  height: 11.43%;
+  left: 44.29%;
+  top: 44.29%;
+  width: 11.43%;
 }
 
-.x2a-planning-phase-introduction-abc .rectangle-317 {
+.x2a-planning-phase-introduction-abc .rectangle-317-NvattV {
+  background-color: transparent;
   border: 1px solid;
   border-color: var(--white);
-  border-radius: 5px;
-  height: 4px;
-  left: 24px;
-  position: absolute;
-  top: 17px;
-  width: 4px;
+  height: 11.43%;
+  left: 62.86%;
+  top: 44.29%;
+  width: 11.43%;
 }
 
-.x2a-planning-phase-introduction-abc .rectangle-315-1 {
+.x2a-planning-phase-introduction-abc .rectangle-315-KxNPZY {
   background-color: var(--blue-violet);
-  border-radius: 5px;
-  height: 4px;
-  left: 64px;
-  position: absolute;
-  top: 79px;
-  width: 4px;
+  height: 2.21%;
+  left: 31.98%;
+  mix-blend-mode: normal;
+  top: 52.96%;
+  width: 2.03%;
 }
 
-.x2a-planning-phase-introduction-abc .rectangle-316-1 {
+.x2a-planning-phase-introduction-abc .rectangle-316-KxNPZY {
   background-color: var(--blue-violet);
-  border-radius: 5px;
-  height: 4px;
-  left: 71px;
-  position: absolute;
-  top: 79px;
-  width: 4px;
+  height: 2.21%;
+  left: 35.28%;
+  mix-blend-mode: normal;
+  top: 52.96%;
+  width: 2.03%;
 }
 
-.x2a-planning-phase-introduction-abc .rectangle-317-1 {
+.x2a-planning-phase-introduction-abc .rectangle-317-KxNPZY {
   background-color: var(--blue-violet);
-  border-radius: 5px;
-  height: 4px;
-  left: 78px;
-  position: absolute;
-  top: 79px;
-  width: 4px;
+  height: 2.21%;
+  left: 38.58%;
+  mix-blend-mode: normal;
+  top: 52.96%;
+  width: 2.03%;
 }
 
-.x2a-planning-phase-introduction-abc .ellipse-1 {
+.x2a-planning-phase-introduction-abc .ellipse-8G23O4 {
   background-color: var(--fpchlyellow);
   border-radius: 7.39px;
-  height: 15px;
-  left: 57px;
+  height: 7.45%;
+  left: 28.68%;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 53px;
-  width: 15px;
+  top: 39.71%;
+  width: 6.85%;
 }
 
-.x2a-planning-phase-introduction-abc .symbol-dev {
-  align-items: flex-start;
-  display: flex;
-  height: 12px;
-  justify-content: center;
-  left: 85px;
-  min-width: 26px;
-  position: absolute;
-  top: 13px;
+.x2a-planning-phase-introduction-abc .symbol-dev-KxNPZY {
+  height: 5.80%;
+  left: 41.63%;
+  top: 19.84%;
+  width: 12.18%;
 }
 
-.x2a-planning-phase-introduction-abc .rectangle-2 {
-  height: 13px;
-  margin-top: -0.99px;
-  width: 8px;
+.x2a-planning-phase-introduction-abc .rectangle-dxZCSU {
+  height: 117.20%;
+  left: -12.18%;
+  top: -8.60%;
+  width: 30.06%;
 }
 
-.x2a-planning-phase-introduction-abc .ellipse-2 {
-  align-self: center;
+.x2a-planning-phase-introduction-abc .rectangle-2Auq6W {
+  height: 117.20%;
+  left: 82.11%;
+  top: -8.60%;
+  width: 30.06%;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse-dxZCSU {
   background-color: var(--fpchlyellow);
   border-radius: 4.11px;
-  height: 8px;
-  margin-bottom: 0;
-  margin-left: 4px;
-  width: 8px;
-}
-
-.x2a-planning-phase-introduction-abc .rectangle-3 {
-  height: 13px;
-  margin-left: 5px;
-  margin-top: -0.99px;
-  width: 8px;
-}
-
-.x2a-planning-phase-introduction-abc .ellipse-3 {
-  height: 88px;
-  left: 32px;
+  height: 71.43%;
+  left: 33.33%;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 44px;
-  width: 157px;
+  top: 14.29%;
+  width: 31.25%;
 }
 
-.x2a-planning-phase-introduction-abc .ellipse-4 {
-  height: 56px;
-  left: 87px;
+.x2a-planning-phase-introduction-abc .ellipse-Ec67tf {
+  background-color: transparent;
+  height: 44.25%;
+  left: 17.31%;
   position: absolute;
-  top: 53px;
-  width: 77px;
+  top: 35.07%;
+  width: 72.64%;
 }
 
-.x2a-planning-phase-introduction-abc .ellipse-5 {
-  height: 157px;
-  left: 57px;
+.x2a-planning-phase-introduction-abc .ellipse-9kPH6d {
+  background-color: transparent;
+  height: 28.23%;
+  left: 42.69%;
   position: absolute;
-  top: 3px;
-  width: 125px;
+  top: 39.87%;
+  width: 35.70%;
 }
 
-.x2a-planning-phase-introduction-abc .vector-3 {
-  height: 56px;
-  left: 0;
+.x2a-planning-phase-introduction-abc .ellipse-QMH3Yw {
+  background-color: transparent;
+  height: 78.90%;
+  left: 28.54%;
   position: absolute;
-  top: 60px;
-  width: 65px;
+  top: 14.70%;
+  width: 58.05%;
 }
 
-.x2a-planning-phase-introduction-abc .ellipse-6 {
+.x2a-planning-phase-introduction-abc .vector-9kPH6d {
+  height: 28.23%;
+  left: 2.33%;
+  top: 43.07%;
+  width: 30.25%;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse-dz3yLG {
   background-color: var(--fpchlyellow);
   border-radius: 6.57px;
-  height: 13px;
-  left: 91px;
+  height: 6.63%;
+  left: 44.42%;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 143px;
-  width: 13px;
+  top: 85.26%;
+  width: 6.09%;
 }
 
-.x2a-planning-phase-introduction-abc .group {
-  height: 15px;
-  left: 166px;
-  position: absolute;
-  top: 134px;
-  width: 15px;
+.x2a-planning-phase-introduction-abc .group-KxNPZY {
+  height: 7.63%;
+  left: 79.24%;
+  top: 80.62%;
+  width: 7.02%;
 }
 
-.x2a-planning-phase-introduction-abc .vector-4 {
-  height: 48px;
-  left: 1px;
-  position: absolute;
-  top: 0;
-  width: 86px;
+.x2a-planning-phase-introduction-abc .vector-QMH3Yw {
+  height: 24.22%;
+  left: 3.01%;
+  mix-blend-mode: normal;
+  top: 13.07%;
+  width: 39.67%;
 }
 
-.x2a-planning-phase-introduction-abc .group-1 {
-  height: 13px;
-  left: 5px;
-  position: absolute;
-  top: 4px;
-  width: 13px;
+.x2a-planning-phase-introduction-abc .group-8G23O4 {
+  height: 6.66%;
+  left: 4.87%;
+  top: 14.92%;
+  width: 6.12%;
 }
 
-.x2a-planning-phase-introduction-abc .rectangle-9 {
+.x2a-planning-phase-introduction-abc .rectangle-9-KxNPZY {
   background-color: var(--blue-violet);
-  height: 19px;
-  left: 98px;
+  height: 9.39%;
+  left: 47.72%;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 85px;
-  width: 31px;
+  top: 55.72%;
+  width: 14.21%;
 }
 
-.x2a-planning-phase-introduction-abc .symbol-dev-1 {
-  left: 104px;
-  top: 90px;
+.x2a-planning-phase-introduction-abc .symbol-dev-8G23O4 {
+  height: 4.42%;
+  left: 50.51%;
+  top: 58.21%;
+  width: 8.88%;
 }
 
-.x2a-planning-phase-introduction-abc .rectangle {
-  height: 11px;
-  margin-bottom: -1.01px;
-  width: 6px;
+.x2a-planning-phase-introduction-abc .rectangle-jr4Btn {
+  height: 123.07%;
+  left: -5.16%;
+  top: -11.54%;
+  width: 32.69%;
 }
 
-.x2a-planning-phase-introduction-abc .line {
-  height: 9px;
-  margin-bottom: -0.36px;
-  margin-left: 2px;
-  width: 6px;
+.x2a-planning-phase-introduction-abc .rectangle-GRfefn {
+  height: 123.07%;
+  left: 72.47%;
+  top: -11.54%;
+  width: 32.69%;
 }
 
-.x2a-planning-phase-introduction-abc .rectangle-1 {
-  height: 11px;
-  margin-bottom: -1.01px;
-  margin-left: 1px;
-  width: 6px;
-}
-
-.x2a-planning-phase-introduction-abc .rectangle-10 {
+.x2a-planning-phase-introduction-abc .rectangle-10-KxNPZY {
   background-color: var(--carnation);
-  height: 19px;
-  left: 27px;
+  height: 9.39%;
+  left: 14.98%;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 99px;
-  width: 31px;
+  top: 62.90%;
+  width: 14.21%;
 }
 
-.x2a-planning-phase-introduction-abc .symbol-dev-2 {
-  left: 33px;
-  top: 104px;
+.x2a-planning-phase-introduction-abc .symbol-dev-Ec67tf {
+  height: 4.42%;
+  left: 17.77%;
+  top: 65.39%;
+  width: 8.88%;
 }
 
-.x2a-planning-phase-introduction-abc .ellipse-2-1 {
+.x2a-planning-phase-introduction-abc .rectangle-cXvPpC {
+  height: 123.07%;
+  left: -5.16%;
+  top: -11.54%;
+  width: 32.69%;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle-6cvlGR {
+  height: 123.07%;
+  left: 72.47%;
+  top: -11.54%;
+  width: 32.69%;
+}
+
+.x2a-planning-phase-introduction-abc .ellipse-2-KxNPZY {
   background-color: var(--bittersweet);
   border-radius: 3.29px;
-  height: 7px;
-  left: 95px;
+  height: 3.31%;
+  left: 46.20%;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 91px;
-  width: 7px;
+  top: 59.04%;
+  width: 3.05%;
 }
 
-.x2a-planning-phase-introduction-abc .ellipse-5-1 {
+.x2a-planning-phase-introduction-abc .ellipse-5-KxNPZY {
   background-color: var(--bittersweet);
   border-radius: 3.29px;
-  height: 7px;
-  left: 55px;
+  height: 3.31%;
+  left: 27.67%;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 78px;
-  width: 7px;
+  top: 52.41%;
+  width: 3.05%;
 }
 
-.x2a-planning-phase-introduction-abc .ellipse-3-1 {
+.x2a-planning-phase-introduction-abc .ellipse-3-KxNPZY {
   background-color: var(--blue-violet);
   border-radius: 3.29px;
-  height: 7px;
-  left: 55px;
+  height: 3.31%;
+  left: 27.67%;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 105px;
-  width: 7px;
+  top: 66.22%;
+  width: 3.05%;
 }
 
-.x2a-planning-phase-introduction-abc .ellipse-4-1 {
+.x2a-planning-phase-introduction-abc .ellipse-4-KxNPZY {
   background-color: var(--blue-violet);
   border-radius: 3.29px;
-  height: 7px;
-  left: 94px;
+  height: 3.31%;
+  left: 45.94%;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 146px;
-  width: 7px;
+  top: 86.92%;
+  width: 3.05%;
 }
 
-.x2a-planning-phase-introduction-abc .ellipse-7 {
+.x2a-planning-phase-introduction-abc .ellipse-XX4uQM {
   background-color: var(--fpchlyellow);
   border-radius: 4.11px;
-  height: 8px;
-  left: 29px;
+  height: 4.14%;
+  left: 15.74%;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 79px;
-  width: 8px;
+  top: 52.96%;
+  width: 3.81%;
 }
 
-.x2a-planning-phase-introduction-abc .vector-3-1 {
-  height: 17px;
-  left: 57px;
+.x2a-planning-phase-introduction-abc .vector-3-KxNPZY {
+  background-color: transparent;
+  height: 8.32%;
+  left: 28.60%;
   position: absolute;
-  top: 93px;
-  width: 42px;
+  top: 60.19%;
+  width: 19.58%;
 }
 
-.x2a-planning-phase-introduction-abc .vector-5 {
-  height: 23px;
-  left: 24px;
+.x2a-planning-phase-introduction-abc .vector-5-KxNPZY {
+  background-color: transparent;
+  height: 11.50%;
+  left: 13.62%;
   position: absolute;
-  top: 60px;
-  width: 35px;
+  top: 43.07%;
+  width: 16.16%;
 }
 
-.x2a-planning-phase-introduction-abc .vector-4-1 {
-  height: 43px;
-  left: 57px;
+.x2a-planning-phase-introduction-abc .vector-4-KxNPZY {
+  background-color: transparent;
+  height: 21.71%;
+  left: 28.73%;
   position: absolute;
-  top: 108px;
-  width: 41px;
+  top: 67.51%;
+  width: 19.08%;
 }
 
-.x2a-planning-phase-introduction-abc .ellipse-8 {
+.x2a-planning-phase-introduction-abc .ellipse-nA7JB9 {
   background-color: var(--fpchlyellow);
   border-radius: 4.11px;
-  height: 8px;
-  left: 159px;
+  height: 4.14%;
+  left: 75.90%;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 79px;
-  width: 8px;
+  top: 52.96%;
+  width: 3.81%;
 }
 
-.x2a-planning-phase-introduction-abc .ellipse-9 {
+.x2a-planning-phase-introduction-abc .ellipse-KTLxRp {
   background-color: var(--fpchlyellow);
   border-radius: 4.11px;
-  height: 8px;
-  left: 48px;
+  height: 4.14%;
+  left: 24.62%;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 127px;
-  width: 8px;
+  top: 76.98%;
+  width: 3.81%;
 }
 
-.x2a-planning-phase-introduction-abc .ellipse-10 {
+.x2a-planning-phase-introduction-abc .ellipse-adgrbo {
   background-color: var(--fpchlyellow);
   border-radius: 12.32px;
-  height: 25px;
-  left: 109px;
+  height: 12.42%;
+  left: 53.05%;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 33px;
-  width: 25px;
+  top: 29.50%;
+  width: 11.42%;
 }
 
-.x2a-planning-phase-introduction-abc .comment-1 {
-  align-items: flex-start;
-  display: flex;
-  height: 31px;
-  justify-content: flex-end;
-  left: 106px;
-  min-width: 31px;
-  position: absolute;
-  top: 29px;
+.x2a-planning-phase-introduction-abc .comment-8G23O4 {
+  height: 15.74%;
+  left: 51.53%;
+  top: 27.84%;
   transform: rotate(180deg);
+  width: 14.47%;
 }
 
-.x2a-planning-phase-introduction-abc .overlap-group1 {
-  height: 33px;
-  margin-top: -1.0px;
-  position: relative;
-  width: 33px;
-}
-
-.x2a-planning-phase-introduction-abc .union-1 {
-  height: 33px;
-  left: 0;
-  position: absolute;
-  top: 0;
+.x2a-planning-phase-introduction-abc .union-UQthfj {
+  height: 106.41%;
+  left: -3.20%;
+  top: -3.20%;
   transform: rotate(-180deg);
-  width: 33px;
+  width: 106.41%;
 }
 
-.x2a-planning-phase-introduction-abc .group-2-1 {
-  height: 12px;
-  left: 11px;
-  position: absolute;
-  top: 11px;
+.x2a-planning-phase-introduction-abc .group-2-UQthfj {
+  height: 37.84%;
+  left: 31.08%;
+  top: 31.08%;
   transform: rotate(-180deg);
-  width: 12px;
+  width: 37.84%;
 }
 
-.x2a-planning-phase-introduction-abc .the-previous-phase-c {
+.x2a-planning-phase-introduction-abc .the-previous-phase-c-y0xHJ9 {
+  background-color: transparent;
   color: var(--black);
   flex: 1;
+  font-style: normal;
   font-weight: 400;
   line-height: 24px;
   margin-top: -1.00px;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
 }
 
-.x2a-planning-phase-introduction-abc .span-1 {
-  letter-spacing: 0;
+.x2a-planning-phase-introduction-abc .span0-EwXNrQ {
+  font-style: normal;
 }
 
-.x2a-planning-phase-introduction-abc .way-to-finding-an-ex {
+.x2a-planning-phase-introduction-abc .span1-EwXNrQ {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x2a-planning-phase-introduction-abc .span2-EwXNrQ {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction-abc .span3-EwXNrQ {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x2a-planning-phase-introduction-abc .span4-EwXNrQ {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction-abc .way-to-finding-an-ex-0w70Bn {
   align-self: stretch;
+  background-color: transparent;
   color: var(--black);
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-m);
+  font-style: normal;
   font-weight: 400;
-  letter-spacing: 0;
+  letter-spacing: 0.00px;
   line-height: 16px;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
 }
 
-.x2a-planning-phase-introduction-abc .footer-nav {
+.x2a-planning-phase-introduction-abc .footer-nav-EYVVzK {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
+  height: auto;
   justify-content: space-between;
   position: relative;
 }
 
-.x2a-planning-phase-introduction-abc .navfooterprev {
+.x2a-planning-phase-introduction-abc .navfooterprev-uuaWr7 {
   align-items: center;
   background-color: var(--fpcgreen);
   border-radius: 32px 4px 4px 32px;
   cursor: pointer;
   display: flex;
   gap: 15px;
+  height: auto;
+  mix-blend-mode: normal;
   padding: 10px 15px;
   position: relative;
   width: fit-content;
 }
 
-.x2a-planning-phase-introduction-abc .arrow-32 {
-  height: 12.47px;
+.x2a-planning-phase-introduction-abc .arrow-32-jzlfQB {
   margin-left: -0.85px;
-  min-width: 15.24px;
-  position: relative;
 }
 
-.x2a-planning-phase-introduction-abc .group-134 {
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
-  height: 38px;
+.x2a-planning-phase-introduction-abc .group-134-jzlfQB {
   margin-right: -4.00px;
   min-width: 167px;
-  position: relative;
 }
 
-.x2a-planning-phase-introduction-abc .x1a-welcome {
-  height: 20px;
-  letter-spacing: 0;
+.x2a-planning-phase-introduction-abc .x1a-welcome-wWIP0y {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
   line-height: normal;
-  width: 163px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
 }
 
-.x2a-planning-phase-introduction-abc .navfooternext {
+.x2a-planning-phase-introduction-abc .previous-wWIP0y {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x2a-planning-phase-introduction-abc .navfooternext-uuaWr7 {
   align-items: center;
   background-color: var(--fpcblue);
   border-radius: 4px 32px 32px 4px;
   cursor: pointer;
   display: flex;
   gap: 15px;
+  height: auto;
+  mix-blend-mode: normal;
   padding: 10px 15px;
   position: relative;
   width: fit-content;
 }
 
-.x2a-planning-phase-introduction-abc .group-134-1 {
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
-  height: 38px;
+.x2a-planning-phase-introduction-abc .group-134-NF2iq0 {
   min-width: 147px;
-  position: relative;
 }
 
-.x2a-planning-phase-introduction-abc .x1b-discovery-research {
-  height: 20px;
-  letter-spacing: 0;
+.x2a-planning-phase-introduction-abc .x1b-discovery-research-aN64Ks {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
   line-height: normal;
-  width: 143px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
 }
 
-.x2a-planning-phase-introduction-abc .sidebarv2 {
+.x2a-planning-phase-introduction-abc .next-aN64Ks {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x2a-planning-phase-introduction-abc .arrow-32-NF2iq0 {
+  margin-right: -0.85px;
+}
+
+.x2a-planning-phase-introduction-abc .sidebarv2-uHvOGw {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--cultured-pearl);
@@ -626,160 +846,891 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  mix-blend-mode: normal;
   padding: 20px;
   position: relative;
   width: fit-content;
 }
 
-.x2a-planning-phase-introduction-abc .navsubsectionv2-1 {
-  align-items: center;
-  background-color: var(--fpcblue50);
-  border-radius: 4px;
-  cursor: pointer;
+.x2a-planning-phase-introduction-abc .top-ZHlIxk {
+  align-items: flex-start;
+  background-color: transparent;
   display: flex;
-  gap: 5px;
-  padding: 2px 8px 3px;
+  flex-direction: column;
+  gap: 60px;
+  height: auto;
   position: relative;
   width: fit-content;
 }
 
-.x2a-planning-phase-introduction-abc .flex-col {
+.x2a-planning-phase-introduction-abc .navsidebarexpanded-qCbroZ {
   align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  position: relative;
+  width: 240px;
+}
+
+.x2a-planning-phase-introduction-abc .navmainv3-1Oltat {
+  background-color: var(--algae-green);
+}
+
+.x2a-planning-phase-introduction-abc .x1-section-name-sFSt05 {
+  color: var(--black);
+}
+
+.x2a-planning-phase-introduction-abc .navsubsectionv2-mPS0pp {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction-abc .navsubsectionv2-O4nxxU {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction-abc .navsubsectionv2-XiY7Wx {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction-abc .navsubsectionv2-xxtcf3 {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction-abc .navsubsectionv2-jlwmzT {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction-abc .navmainv3-koCRY3 {
+  background-color: var(--fpcbluehl);
+}
+
+.x2a-planning-phase-introduction-abc .x1-section-name-Yubdyn {
+  color: var(--black-2);
+}
+
+.x2a-planning-phase-introduction-abc .navsubsectionv2-MGLPZb {
+  background-color: var(--fpcblue50);
+}
+
+.x2a-planning-phase-introduction-abc .navsubsectionv2-FII4ha {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction-abc .navsubsectionv2-HoxzY6 {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction-abc .navmainv3-L74IyI {
+  background-color: var(--fpchlpeach);
+}
+
+.x2a-planning-phase-introduction-abc .x1-section-name-zx4Gcm {
+  color: var(--black);
+}
+
+.x2a-planning-phase-introduction-abc .navsubsectionv2-878hf4 {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction-abc .navsubsectionv2-P6CjFZ {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction-abc .navsubsectionv2-2luQbi {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction-abc .navsubsectionv2-CQSVbg {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction-abc .span0-z5n0Pn {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction-abc .navmainv3-KtVUBm {
+  background-color: var(--periwinkle-gray);
+}
+
+.x2a-planning-phase-introduction-abc .x1-section-name-zuI6qp {
+  color: var(--black-2);
+}
+
+.x2a-planning-phase-introduction-abc .navsubsectionv2-boljXN {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction-abc .navsubsectionv2-8iQ6xM {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction-abc .navsubsectionv2-YspzY7 {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction-abc .sidebarbottom-ZHlIxk {
+  align-items: flex-start;
+  background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 60px;
-  left: 180px;
-  min-height: 796px;
+  height: auto;
   position: relative;
-  top: 60px;
-  width: 1080px;
+  width: fit-content;
 }
 
-.x2a-planning-phase-introduction-abc .content {
+.x2a-planning-phase-introduction-abc .have-a-question-UZzITV {
   align-items: flex-start;
-  align-self: stretch;
   display: flex;
   flex-direction: column;
-  gap: 15px;
-  position: relative;
-}
-
-.x2a-planning-phase-introduction-abc .links {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
   gap: 10px;
-  justify-content: flex-end;
+  height: auto;
+  width: 240px;
+}
+
+.x2a-planning-phase-introduction-abc .have-a-question-PQBySM {
+  align-self: stretch;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.x2a-planning-phase-introduction-abc .email-us-PQBySM {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .footer-KmlyGg {
+  align-self: stretch;
+  background-color: transparent;
+  height: 916px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
   position: relative;
 }
 
-.x2a-planning-phase-introduction-abc .links-1 {
-  align-items: flex-end;
-  align-self: stretch;
-  flex-direction: column;
-  gap: 15px;
+.x2a-planning-phase-introduction-abc .base-DC5rmQ {
+  background-color: var(--concrete);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
 }
 
-.x2a-planning-phase-introduction-abc .links-2 {
-  align-items: flex-end;
-  align-self: stretch;
-  gap: 10px;
-  justify-content: flex-end;
+.x2a-planning-phase-introduction-abc .information-DC5rmQ {
+  background-color: transparent;
+  height: 281px;
+  left: calc(50.00% - 540px);
+  position: absolute;
+  top: 575px;
+  width: 1024px;
 }
 
-.x2a-planning-phase-introduction-abc .frame-201 {
+.x2a-planning-phase-introduction-abc .metadata-uYXCpn {
   align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  left: calc(50.00% - 142px);
+  position: absolute;
+  top: 196px;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .updated-8o7njH {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 8px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .icon-clock-RfYmvE {
+  background-color: transparent;
+  height: 16px;
+  min-width: 16px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction-abc .last-updated-15-february-2021-RfYmvE {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x2a-planning-phase-introduction-abc .copyright-8o7njH {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .text_label-EzsL20 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .x2021-foundation-for-public-code-EzsL20 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x2a-planning-phase-introduction-abc .span0-kC99ZM {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction-abc .span1-kC99ZM {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2a-planning-phase-introduction-abc .license-8o7njH {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 8px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .iconlicense-rf2iTH {
+  background-color: transparent;
+  height: 14.5px;
+  min-width: 16px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction-abc .creative-commons-zero-v10-universal-rf2iTH {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 299px;
+}
+
+.x2a-planning-phase-introduction-abc .organizational-notes-uYXCpn {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 142px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 650px;
+}
+
+.x2a-planning-phase-introduction-abc .foundation-for-publi-uYXCpn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 142px);
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 650px;
+}
+
+.x2a-planning-phase-introduction-abc .span0-ecIFK8 {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction-abc .span1-ecIFK8 {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2a-planning-phase-introduction-abc .span2-ecIFK8 {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction-abc .span3-ecIFK8 {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2a-planning-phase-introduction-abc .span4-ecIFK8 {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction-abc .span5-ecIFK8 {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2a-planning-phase-introduction-abc .span6-ecIFK8 {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction-abc .span7-ecIFK8 {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2a-planning-phase-introduction-abc .span8-ecIFK8 {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction-abc .contact-uYXCpn {
+  height: 201px;
+  left: calc(50.00% - 512px);
+  width: 345px;
+}
+
+.x2a-planning-phase-introduction-abc .contact-6gWGCs {
+  height: auto;
+  left: calc(50.00% - 172px);
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  mix-blend-mode: normal;
+  text-align: left;
+  white-space: nowrap;
+  width: 120px;
+}
+
+.x2a-planning-phase-introduction-abc .frame-201-6gWGCs {
+  align-items: flex-start;
+  background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 15px;
-  height: 165px;
-  margin-left: -2px;
-  position: relative;
-  width: 343px;
+  height: auto;
+  left: calc(50.00% - 172px);
+  position: absolute;
+  top: 36px;
+  width: fit-content;
 }
 
-.x2a-planning-phase-introduction-abc .group-196 {
-  display: flex;
-  gap: 18px;
+.x2a-planning-phase-introduction-abc .group-196-52NN2Z {
+  background-color: transparent;
   height: 20px;
   margin-right: -4.00px;
   min-width: 347px;
   position: relative;
 }
 
-.x2a-planning-phase-introduction-abc .group-197 {
-  display: flex;
-  gap: 52px;
+.x2a-planning-phase-introduction-abc .join-our-mailing-list-WzS0mX {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  width: 240px;
+}
+
+.x2a-planning-phase-introduction-abc .newsletter-WzS0mX {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x2a-planning-phase-introduction-abc .group-197-52NN2Z {
+  background-color: transparent;
   height: 20px;
   margin-right: -4.00px;
   min-width: 347px;
   position: relative;
 }
 
-.x2a-planning-phase-introduction-abc .group-200 {
-  display: flex;
-  gap: 58px;
+.x2a-planning-phase-introduction-abc .x31-20-2-444-500-Emq23S {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  width: 240px;
+}
+
+.x2a-planning-phase-introduction-abc .phone-Emq23S {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x2a-planning-phase-introduction-abc .group-200-52NN2Z {
+  background-color: transparent;
   height: 20px;
   margin-right: -4.00px;
   min-width: 347px;
   position: relative;
 }
 
-.x2a-planning-phase-introduction-abc .group-199 {
+.x2a-planning-phase-introduction-abc .infopubliccodenet-Fq6Rde {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  width: 240px;
+}
+
+.x2a-planning-phase-introduction-abc .email-Fq6Rde {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x2a-planning-phase-introduction-abc .group-199-52NN2Z {
+  background-color: transparent;
   height: 60px;
   margin-right: -4.00px;
   min-width: 347px;
   position: relative;
 }
 
-.x2a-planning-phase-introduction-abc .flex-col-1 {
-  left: 103px;
-  min-height: 60px;
-  position: absolute;
-  top: 0;
-  width: 240px;
-}
-
-.x2a-planning-phase-introduction-abc .links-3 {
+.x2a-planning-phase-introduction-abc .links-k5tzCf {
   align-items: flex-start;
   gap: 10px;
+  left: 103px;
+  position: absolute;
+  top: 40px;
   width: fit-content;
 }
 
-.x2a-planning-phase-introduction-abc .text-14 {
-  color: var(--black);
+.x2a-planning-phase-introduction-abc .open-street-map-crMBNI {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
   font-weight: 400;
   line-height: normal;
   margin-top: -1.00px;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
+  text-decoration: underline;
   width: fit-content;
 }
 
-.x2a-planning-phase-introduction-abc .flex-col-2 {
-  min-height: 281px;
-  width: 650px;
+.x2a-planning-phase-introduction-abc .x-crMBNI {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
 }
 
-.x2a-planning-phase-introduction-abc .span-2 {
+.x2a-planning-phase-introduction-abc .google-crMBNI {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
   text-decoration: underline;
+  width: fit-content;
 }
 
-.x2a-planning-phase-introduction-abc .flex-col-3 {
+.x2a-planning-phase-introduction-abc .keizersgracht-617-10-k5tzCf {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 240px;
+}
+
+.x2a-planning-phase-introduction-abc .address-k5tzCf {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x2a-planning-phase-introduction-abc .block-trio-DC5rmQ {
   align-items: flex-start;
+  background-color: transparent;
   display: flex;
-  flex-direction: column;
+  gap: 20px;
+  height: 340px;
+  left: calc(50.00% - 540px);
+  position: absolute;
+  top: 175px;
+  width: 1080px;
 }
 
-.x2a-planning-phase-introduction-abc .links-4 {
+.x2a-planning-phase-introduction-abc .about-us-9RWxAD {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
   display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x2a-planning-phase-introduction-abc .content-rUctID {
+  align-self: stretch;
+  gap: 15px;
+}
+
+.x2a-planning-phase-introduction-abc .about-us-7L6Q0y {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction-abc .all-of-our-staff-inf-7L6Q0y {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction-abc .links-rUctID {
+  align-items: flex-start;
+  align-self: stretch;
+  gap: 10px;
+  justify-content: flex-end;
   position: relative;
 }
 
-.x2a-planning-phase-introduction-abc .symbol-dev-3 {
+.x2a-planning-phase-introduction-abc .how-we-work-lxyihq {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .project-resources-9RWxAD {
   align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
   display: flex;
-  height: 9px;
-  justify-content: center;
-  min-width: 19px;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x2a-planning-phase-introduction-abc .content-kLV6KX {
+  align-self: stretch;
+  gap: 15px;
+}
+
+.x2a-planning-phase-introduction-abc .project-resources-x2E8dK {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction-abc .open-products-were-r-x2E8dK {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction-abc .links-kLV6KX {
+  align-items: flex-end;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction-abc .free-to-use-and-modify-DNtsaw {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+}
+
+.x2a-planning-phase-introduction-abc .see-all-our-work-on-git-hub-DNtsaw {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+}
+
+.x2a-planning-phase-introduction-abc .careers-9RWxAD {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x2a-planning-phase-introduction-abc .content-k3DxG6 {
+  align-self: stretch;
+  gap: 15px;
+}
+
+.x2a-planning-phase-introduction-abc .careers-2CJrvP {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction-abc .calling-all-publicly-2CJrvP {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction-abc .links-k3DxG6 {
+  align-items: flex-end;
+  align-self: stretch;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction-abc .open-positions-6nAnzZ {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction-abc .logo-title-DC5rmQ {
+  left: calc(50.00% - 540px);
+  position: absolute;
+  top: 60px;
+  width: 410px;
+}
+
+.x2a-planning-phase-introduction-abc .arrow-32 {
+  background-color: transparent;
+  height: 12.468994140625px;
+  min-width: 15.23828125px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction-abc .comment {
+  background-color: transparent;
+  position: absolute;
+}
+
+.x2a-planning-phase-introduction-abc .content {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction-abc .group-2 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.x2a-planning-phase-introduction-abc .line {
+  background-color: transparent;
+  height: 99.93%;
+  left: 37.17%;
+  position: absolute;
+  top: 4.23%;
+  width: 30.21%;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle {
+  background-color: transparent;
+  position: absolute;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle-315 {
+  border-radius: 5px;
+  position: absolute;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle-316 {
+  border-radius: 5px;
+  position: absolute;
+}
+
+.x2a-planning-phase-introduction-abc .rectangle-317 {
+  border-radius: 5px;
+  position: absolute;
+}
+
+.x2a-planning-phase-introduction-abc .union {
+  background-color: transparent;
   position: absolute;
 }

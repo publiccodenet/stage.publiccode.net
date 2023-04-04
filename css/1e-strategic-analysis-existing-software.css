@@ -7,730 +7,1498 @@
   display: flex;
   flex-direction: column;
   gap: 60px;
+  height: auto;
+  left: 0px;
   min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
   padding: 60px 0px 0px;
   position: relative;
+  top: 0px;
 }
 
-.x1e-strategic-analysis-existing-software .title-3 {
-  color: var(--black);
-  font-weight: 700;
-  line-height: normal;
+.x1e-strategic-analysis-existing-software .header-WIwdKW {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
   position: relative;
   width: 1080px;
 }
 
-.x1e-strategic-analysis-existing-software .main-frame {
+.x1e-strategic-analysis-existing-software .logo-title-gusP2y {
+  min-width: 410px;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .navigation-gusP2y {
+  background-color: transparent;
+  height: 24px;
+  min-width: 534px;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .links-BFvdox {
   align-items: flex-start;
+  gap: 30px;
+  justify-content: flex-end;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .stewardship-Age70j {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .resources-Age70j {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .who-we-are-Age70j {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .join-us-Age70j {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .services-BFvdox {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 20px;
+  height: auto;
+  left: 422px;
+  position: absolute;
+  top: 0px;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .mastodon-APnZvq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .twitter-APnZvq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .github-APnZvq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .title-WIwdKW {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  mix-blend-mode: normal;
+  text-align: left;
+  width: 1080px;
+}
+
+.x1e-strategic-analysis-existing-software .main-frame-WIwdKW {
+  align-items: flex-start;
+  background-color: transparent;
   display: flex;
   gap: 60px;
+  height: auto;
   padding: 0px 0px 60px;
   position: relative;
   width: 1080px;
 }
 
-.x1e-strategic-analysis-existing-software .content-3 {
+.x1e-strategic-analysis-existing-software .content-JQypK5 {
+  background-color: transparent;
   flex: 1;
   gap: 60px;
 }
 
-.x1e-strategic-analysis-existing-software .intro {
+.x1e-strategic-analysis-existing-software .intro-Ih8hnu {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 30px;
+  height: auto;
   position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .title {
+.x1e-strategic-analysis-existing-software .titlepage-XNYFMj {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   border-bottom-style: solid;
   border-bottom-width: 1px;
   border-color: var(--fpcgraydark);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
   display: flex;
   gap: 10px;
+  height: auto;
   padding: 0px 0px 10px;
   position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .content-4 {
+.x1e-strategic-analysis-existing-software .page-title-KQEXG2 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .content-XNYFMj {
   align-self: stretch;
   background-color: var(--fpcgraywhitesmoke);
   border-radius: 12px;
   gap: 10px;
+  mix-blend-mode: normal;
   padding: 20px;
 }
 
-.x1e-strategic-analysis-existing-software .cluster-2 {
-  gap: 10px;
-}
-
-.x1e-strategic-analysis-existing-software .group-193 {
-  align-items: flex-start;
-  display: flex;
-  height: 24px;
-  justify-content: flex-end;
-  left: 2px;
-  min-width: 30px;
-  padding: 0.0px 0;
-  position: relative;
-}
-
-.x1e-strategic-analysis-existing-software .span-1 {
-  letter-spacing: 0;
-}
-
-.x1e-strategic-analysis-existing-software .content-5 {
-  align-self: stretch;
-  gap: 20px;
-}
-
-.x1e-strategic-analysis-existing-software .you-may-encounter-th {
-  align-self: stretch;
-  color: var(--black);
-  font-weight: 400;
-  line-height: 16px;
-  margin-top: -1.00px;
-  position: relative;
-}
-
-.x1e-strategic-analysis-existing-software .span-2 {
+.x1e-strategic-analysis-existing-software .this-section-will-help-you-V9KTk2 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 24px;
-}
-
-.x1e-strategic-analysis-existing-software .span1 {
-  font-weight: 600;
-}
-
-.x1e-strategic-analysis-existing-software .overlap-group {
-  height: 24px;
-  left: 3px;
-  position: relative;
-  top: 1px;
-  width: 27px;
-}
-
-.x1e-strategic-analysis-existing-software .content {
-  align-items: flex-start;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  gap: 2px;
-  position: relative;
-}
-
-.x1e-strategic-analysis-existing-software .title-1 {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
   margin-top: -1.00px;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 650px;
 }
 
-.x1e-strategic-analysis-existing-software .lorem-ipsum {
-  align-self: stretch;
-  color: var(--black);
-  font-weight: 400;
-  line-height: 21px;
-  position: relative;
+.x1e-strategic-analysis-existing-software .cluster-V9KTk2 {
+  gap: 10px;
+  height: auto;
 }
 
-.x1e-strategic-analysis-existing-software .lorem-ipsum-1 {
-  color: var(--black);
-  font-weight: 400;
-  line-height: 21px;
+.x1e-strategic-analysis-existing-software .span0-8LSSKH {
+  font-style: normal;
 }
 
-.x1e-strategic-analysis-existing-software .x-2 {
-  height: 14px;
-  left: 12px;
-  position: absolute;
-  top: 6px;
-  width: 2px;
+.x1e-strategic-analysis-existing-software .span1-8LSSKH {
+  font-style: normal;
+  letter-spacing: 0.00px;
 }
 
-.x1e-strategic-analysis-existing-software .lorem-ipsum-2 {
-  color: var(--black);
-  font-weight: 400;
-  line-height: 21px;
-}
-
-.x1e-strategic-analysis-existing-software .pathways {
+.x1e-strategic-analysis-existing-software .challenges-Ih8hnu {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 30px;
+  height: auto;
   position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .at-the-end-of-this-p {
-  letter-spacing: 0;
+.x1e-strategic-analysis-existing-software .content-YvVnRt {
+  align-self: stretch;
+  background-color: transparent;
+  gap: 20px;
+}
+
+.x1e-strategic-analysis-existing-software .you-may-encounter-th-UXx3js {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .span0-1UNuQB {
+  font-style: normal;
+  line-height: 24px;
+}
+
+.x1e-strategic-analysis-existing-software .span1-1UNuQB {
+  font-style: normal;
+  font-weight: 600;
+}
+
+.x1e-strategic-analysis-existing-software .span2-1UNuQB {
+  font-style: normal;
+  line-height: 24px;
+}
+
+.x1e-strategic-analysis-existing-software .x-U9V2mA {
+  background-color: transparent;
+  height: 44.56%;
+  left: 46.80%;
+  position: absolute;
+  top: 21.88%;
+  width: 7.81%;
+}
+
+.x1e-strategic-analysis-existing-software .content-yWpBej {
+  background-color: transparent;
+  flex: 1;
+  gap: 2px;
+}
+
+.x1e-strategic-analysis-existing-software .title-uvqCFx {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .lorem-ipsum-uvqCFx {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.x1e-strategic-analysis-existing-software .x-Y1qO6i {
+  background-color: transparent;
+  height: 44.56%;
+  left: 46.80%;
+  position: absolute;
+  top: 21.88%;
+  width: 7.81%;
+}
+
+.x1e-strategic-analysis-existing-software .content-otBSLv {
+  background-color: transparent;
+  flex: 1;
+  gap: 2px;
+}
+
+.x1e-strategic-analysis-existing-software .title-pxdHWn {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .lorem-ipsum-pxdHWn {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.x1e-strategic-analysis-existing-software .x-Y3Qo8F {
+  background-color: transparent;
+  height: 44.56%;
+  left: 46.80%;
+  position: absolute;
+  top: 21.88%;
+  width: 7.81%;
+}
+
+.x1e-strategic-analysis-existing-software .content-6b9HDA {
+  background-color: transparent;
+  flex: 1;
+  gap: 2px;
+}
+
+.x1e-strategic-analysis-existing-software .title-rac9Gh {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .lorem-ipsum-rac9Gh {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.x1e-strategic-analysis-existing-software .pathways-Ih8hnu {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: auto;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .at-the-end-of-this-p-TlTP84 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 24px;
   margin-top: -1.00px;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
   white-space: nowrap;
   width: 690px;
 }
 
-.x1e-strategic-analysis-existing-software .cluster {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
+.x1e-strategic-analysis-existing-software .cluster-8MlD43 {
   gap: 20px;
   height: 104px;
-  position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .span-3 {
+.x1e-strategic-analysis-existing-software .span0-21n5P5 {
+  font-style: normal;
   font-weight: 700;
 }
 
-.x1e-strategic-analysis-existing-software .overlap-group3 {
-  height: 51px;
+.x1e-strategic-analysis-existing-software .span1-21n5P5 {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .paper-te69ly {
   left: 7px;
-  position: relative;
   top: 7px;
-  width: 50px;
 }
 
-.x1e-strategic-analysis-existing-software .union {
-  height: 11px;
-  left: 0;
+.x1e-strategic-analysis-existing-software .union-taNd5w {
+  height: 21.57%;
+  left: -1.81%;
+  top: -1.54%;
+  width: 25.40%;
+}
+
+.x1e-strategic-analysis-existing-software .union-dqYunN {
+  height: 103.31%;
+  left: 9.08%;
+  top: -1.77%;
+  width: 74.26%;
+}
+
+.x1e-strategic-analysis-existing-software .union-ermZey {
+  height: 23.21%;
+  left: 33.38%;
+  top: 78.56%;
+  width: 68.43%;
+}
+
+.x1e-strategic-analysis-existing-software .x-te69ly {
+  background-color: transparent;
+  height: 24.10%;
+  left: 57.81%;
   position: absolute;
-  top: 0;
-  width: 13px;
+  top: 43.75%;
+  width: 9.38%;
 }
 
-.x1e-strategic-analysis-existing-software .union-1 {
-  height: 53px;
-  left: 5px;
-  position: absolute;
-  top: 0;
-  width: 37px;
+.x1e-strategic-analysis-existing-software .vector-G6xg2x {
+  height: 75.39%;
+  left: -16.66%;
+  top: 12.46%;
+  width: 133.31%;
 }
 
-.x1e-strategic-analysis-existing-software .union-2 {
-  height: 12px;
-  left: 18px;
-  position: absolute;
-  top: 41px;
-  width: 34px;
-}
-
-.x1e-strategic-analysis-existing-software .overlap-group1 {
-  height: 15px;
-  left: 29px;
-  position: absolute;
-  top: 21px;
-  width: 8px;
-}
-
-.x1e-strategic-analysis-existing-software .vector {
-  height: 12px;
-  left: 0;
-  position: absolute;
-  top: 2px;
-  width: 8px;
-}
-
-.x1e-strategic-analysis-existing-software .overlap-group2 {
-  height: 30px;
-  margin-top: -0.91px;
-  position: relative;
-  width: 18px;
-}
-
-.x1e-strategic-analysis-existing-software .ellipse-193 {
-  border: 1.81px solid;
-  border-color: var(--black);
+.x1e-strategic-analysis-existing-software .ellipse-193-xmdpmv {
+  border: 1.8102669715881348px solid;
   border-radius: 3.41px;
-  height: 7px;
-  left: 0;
-  position: absolute;
-  top: 23px;
-  width: 7px;
+  height: 24.32%;
+  left: -5.66%;
+  top: 78.91%;
+  width: 42.56%;
 }
 
-.x1e-strategic-analysis-existing-software .vector-1 {
-  height: 18px;
-  left: 2px;
-  position: absolute;
-  top: 6px;
-  width: 2px;
+.x1e-strategic-analysis-existing-software .vector-xmdpmv {
+  height: 64.29%;
+  left: 9.38%;
+  top: 17.86%;
+  width: 12.50%;
 }
 
-.x1e-strategic-analysis-existing-software .vector-2 {
-  height: 15px;
-  left: 2px;
-  position: absolute;
-  top: 6px;
-  width: 12px;
+.x1e-strategic-analysis-existing-software .vector-kN96UG {
+  height: 53.57%;
+  left: 9.38%;
+  top: 17.86%;
+  width: 78.12%;
 }
 
-.x1e-strategic-analysis-existing-software .group-146 {
-  align-items: flex-start;
-  display: flex;
-  height: 51px;
-  justify-content: flex-end;
-  left: 7px;
-  min-width: 50px;
-  position: relative;
-  top: 7px;
-}
-
-.x1e-strategic-analysis-existing-software .overlap-group-3 {
-  align-items: flex-end;
-  background-image: url(../img/union-29@2x.png);
-  background-size: 100% 100%;
-  display: flex;
-  height: 54px;
-  left: 2px;
-  min-width: 61px;
-  padding: 10.6px 15.4px;
-  position: relative;
-  top: 4px;
-}
-
-.x1e-strategic-analysis-existing-software .frame-114 {
-  align-self: stretch;
-  flex-direction: column;
-  gap: 20px;
-}
-
-.x1e-strategic-analysis-existing-software .x1-performing-a-tota {
-  align-self: stretch;
-  color: var(--black);
+.x1e-strategic-analysis-existing-software .span0-tZiZby {
+  font-style: normal;
   font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .software-ownership-c {
-  align-self: stretch;
-  color: var(--black);
-  font-weight: 400;
-  line-height: 24px;
-  position: relative;
+.x1e-strategic-analysis-existing-software .span1-tZiZby {
+  font-style: normal;
 }
 
-.x1e-strategic-analysis-existing-software .lorem-ipsum-3 {
-  color: var(--black);
-  font-weight: 400;
-  line-height: 21px;
-}
-
-.x1e-strategic-analysis-existing-software .frame-138 {
-  align-self: stretch;
-  flex-direction: column;
+.x1e-strategic-analysis-existing-software .cluster-KwDlG7 {
   gap: 20px;
+  height: 104px;
 }
 
-.x1e-strategic-analysis-existing-software .x2-performing-a-tota {
-  align-self: stretch;
-  color: var(--black);
+.x1e-strategic-analysis-existing-software .paper-E7IeBT {
+  left: 0px;
+  top: 0px;
+}
+
+.x1e-strategic-analysis-existing-software .union-hTPjcj {
+  height: 21.62%;
+  left: -1.81%;
+  top: -1.77%;
+  width: 25.40%;
+}
+
+.x1e-strategic-analysis-existing-software .union-48wlqa {
+  height: 103.55%;
+  left: 9.08%;
+  top: -1.77%;
+  width: 74.26%;
+}
+
+.x1e-strategic-analysis-existing-software .union-gz0xnX {
+  height: 23.26%;
+  left: 33.38%;
+  top: 78.52%;
+  width: 68.43%;
+}
+
+.x1e-strategic-analysis-existing-software .x-E7IeBT {
+  background-color: transparent;
+  height: 30.23%;
+  left: 60.00%;
+  position: absolute;
+  top: 41.16%;
+  width: 12.01%;
+}
+
+.x1e-strategic-analysis-existing-software .vector-x2NcJX {
+  height: 75.39%;
+  left: -16.66%;
+  top: 12.46%;
+  width: 133.31%;
+}
+
+.x1e-strategic-analysis-existing-software .span0-oe9gNO {
+  font-style: normal;
   font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .if-your-research-did {
-  align-self: stretch;
-  color: var(--black);
-  font-weight: 400;
-  line-height: 24px;
-  position: relative;
+.x1e-strategic-analysis-existing-software .span1-oe9gNO {
+  font-style: normal;
 }
 
-.x1e-strategic-analysis-existing-software .lorem-ipsum-4 {
-  color: var(--black);
-  font-weight: 400;
-  line-height: 21px;
+.x1e-strategic-analysis-existing-software .gear-2-Uafz9s {
+  height: 42.77%;
+  left: 26.49%;
+  top: 31.25%;
+  width: 47.02%;
 }
 
-.x1e-strategic-analysis-existing-software .title-2 {
-  align-items: center;
-  display: flex;
-  gap: 10px;
-  position: relative;
-  width: fit-content;
-}
-
-.x1e-strategic-analysis-existing-software .overlap-group-1 {
-  height: 26px;
-  left: 6px;
-  position: relative;
-  top: 2px;
-  width: 26px;
-}
-
-.x1e-strategic-analysis-existing-software .x-3 {
-  height: 8px;
-  left: 18px;
-  position: absolute;
-  top: 3px;
-  width: 2px;
-}
-
-.x1e-strategic-analysis-existing-software .ellipse-193-1 {
-  border: 1.5px solid;
-  border-color: var(--black);
-  border-radius: 6.75px;
-  height: 14px;
-  left: 12px;
-  position: absolute;
-  top: 0;
-  width: 14px;
-}
-
-.x1e-strategic-analysis-existing-software .line {
-  height: 22px;
-  left: 0;
-  position: absolute;
-  top: 2px;
-  width: 15px;
-}
-
-.x1e-strategic-analysis-existing-software .line-1 {
-  height: 13px;
-  left: 0;
-  position: absolute;
-  top: 13px;
-  width: 20px;
-}
-
-.x1e-strategic-analysis-existing-software .line-2 {
-  height: 4px;
-  left: 0;
-  position: absolute;
-  top: 20px;
-  width: 18px;
-}
-
-.x1e-strategic-analysis-existing-software .bullet-sub-bullet-sub-bullet-bullet {
-  align-self: stretch;
-  color: var(--black);
-  font-weight: 400;
-  line-height: 21px;
-  position: relative;
-}
-
-.x1e-strategic-analysis-existing-software .frame-139 {
-  align-self: stretch;
-  flex-direction: column;
-  gap: 20px;
-}
-
-.x1e-strategic-analysis-existing-software .x3-comparing-options {
-  align-self: stretch;
-  color: var(--black);
+.x1e-strategic-analysis-existing-software .span0-jFZ9BG {
+  font-style: normal;
   font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .your-tco-licensing {
-  align-self: stretch;
-  color: var(--black);
-  font-weight: 400;
-  line-height: 24px;
-  position: relative;
+.x1e-strategic-analysis-existing-software .span1-jFZ9BG {
+  font-style: normal;
 }
 
-.x1e-strategic-analysis-existing-software .overlap-group-2 {
-  align-items: flex-start;
-  background-image: url(../img/union@2x.png);
-  background-size: 100% 100%;
-  display: flex;
-  height: 20px;
-  min-width: 18px;
-  padding: 7.2px 5.2px;
-}
-
-.x1e-strategic-analysis-existing-software .a-knowledge-acquisit {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-}
-
-.x1e-strategic-analysis-existing-software .lorem-ipsum-5 {
-  letter-spacing: 0;
-  line-height: 14px;
-}
-
-.x1e-strategic-analysis-existing-software .lorem-ipsum-6 {
-  color: var(--black);
-  font-weight: 400;
-  line-height: 21px;
-  white-space: nowrap;
-}
-
-.x1e-strategic-analysis-existing-software .bullet-sub-bullet-sub-bullet-bullet-1 {
-  align-self: stretch;
-  color: var(--black);
-  font-weight: 400;
-  line-height: 21px;
-  position: relative;
-}
-
-.x1e-strategic-analysis-existing-software .frame-140 {
-  align-self: stretch;
-  flex-direction: column;
-  gap: 20px;
-}
-
-.x1e-strategic-analysis-existing-software .x4-co-procurement {
-  align-self: stretch;
-  color: var(--black);
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-}
-
-.x1e-strategic-analysis-existing-software .peer-jurisdictions {
-  align-self: stretch;
-  color: var(--black);
-  font-weight: 400;
-  line-height: 24px;
-  position: relative;
-}
-
-.x1e-strategic-analysis-existing-software .lorem-ipsum-7 {
-  color: var(--black);
-  font-weight: 400;
-  line-height: 21px;
-}
-
-.x1e-strategic-analysis-existing-software .lorem-ipsum-8 {
-  color: var(--black);
-  font-weight: 400;
-  line-height: 21px;
-}
-
-.x1e-strategic-analysis-existing-software .lorem-ipsum-9 {
-  color: var(--black);
-  font-weight: 400;
-  line-height: 21px;
-}
-
-.x1e-strategic-analysis-existing-software .frame-139-1 {
+.x1e-strategic-analysis-existing-software .actions-Ih8hnu {
   align-items: flex-start;
   align-self: stretch;
-  display: flex;
-  gap: 20px;
-  position: relative;
-}
-
-.x1e-strategic-analysis-existing-software .this-is-an-outcome-t {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: 24px;
-  position: relative;
-}
-
-.x1e-strategic-analysis-existing-software .v2-1 {
-  background-image: url(../img/gear-2-18@2x.png);
-}
-
-.x1e-strategic-analysis-existing-software .v2-2 {
-  background-image: url(../img/gear-2-19@2x.png);
-}
-
-.x1e-strategic-analysis-existing-software .frame-140-1 {
-  align-items: flex-start;
-  align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 30px;
+  height: auto;
   position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .text-15 {
-  text-align: right;
-  width: 30px;
+.x1e-strategic-analysis-existing-software .frame-114-DT5jJ2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: auto;
+  position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .content-1 {
+.x1e-strategic-analysis-existing-software .x1-performing-a-total-z9N9Qx {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .software-ownership-c-z9N9Qx {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .span0-4b1QIS {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span1-4b1QIS {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x1e-strategic-analysis-existing-software .span2-4b1QIS {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .content-TQee9G {
+  background-color: transparent;
+  flex: 1;
+  gap: 2px;
+}
+
+.x1e-strategic-analysis-existing-software .lorem-ipsum-ENk0Vz {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.x1e-strategic-analysis-existing-software .span0-zxf2Se {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x1e-strategic-analysis-existing-software .span1-zxf2Se {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span2-zxf2Se {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x1e-strategic-analysis-existing-software .span3-zxf2Se {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span4-zxf2Se {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x1e-strategic-analysis-existing-software .span5-zxf2Se {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span6-zxf2Se {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x1e-strategic-analysis-existing-software .span7-zxf2Se {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span8-zxf2Se {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x1e-strategic-analysis-existing-software .span9-zxf2Se {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span10-zxf2Se {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x1e-strategic-analysis-existing-software .span11-zxf2Se {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span12-zxf2Se {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x1e-strategic-analysis-existing-software .span13-zxf2Se {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .frame-138-DT5jJ2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: auto;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .x2-performing-a-total-yVKOxR {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .if-your-research-did-yVKOxR {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .span0-bWtKLT {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span1-bWtKLT {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x1e-strategic-analysis-existing-software .span2-bWtKLT {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .content-wvRp6r {
+  background-color: transparent;
+  flex: 1;
+  gap: 2px;
+}
+
+.x1e-strategic-analysis-existing-software .lorem-ipsum-O0i70S {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.x1e-strategic-analysis-existing-software .span0-2bXxkM {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x1e-strategic-analysis-existing-software .span1-2bXxkM {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span2-2bXxkM {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x1e-strategic-analysis-existing-software .span3-2bXxkM {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span4-2bXxkM {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x1e-strategic-analysis-existing-software .span5-2bXxkM {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x1e-strategic-analysis-existing-software .span6-2bXxkM {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span7-2bXxkM {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x1e-strategic-analysis-existing-software .title-3JWjbl {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: auto;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .x-pQmsAB {
+  background-color: transparent;
+  height: 25.81%;
+  left: 74.20%;
+  position: absolute;
+  top: 15.62%;
+  width: 7.81%;
+}
+
+.x1e-strategic-analysis-existing-software .ellipse-193-pQmsAB {
+  border: 1.5px solid;
+  border-radius: 6.75px;
+  height: 14px;
+  left: 18px;
+  top: 2px;
+  width: 14px;
+}
+
+.x1e-strategic-analysis-existing-software .line-pQmsAB {
+  height: 22px;
+  top: 4px;
+  width: 15px;
+}
+
+.x1e-strategic-analysis-existing-software .line-yhk3m3 {
+  height: 13px;
+  top: 15px;
+  width: 20px;
+}
+
+.x1e-strategic-analysis-existing-software .line-f9xAkA {
+  height: 4px;
+  top: 22px;
+  width: 18px;
+}
+
+.x1e-strategic-analysis-existing-software .frame-139-DT5jJ2 {
+  flex-direction: column;
+}
+
+.x1e-strategic-analysis-existing-software .x3-comparing-options-9NyQFO {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .your-tco-licensing-a-9NyQFO {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .union-ScLDdQ {
+  height: 83.64%;
+  left: 0px;
+  mix-blend-mode: normal;
+  top: 0px;
+  width: 100%;
+}
+
+.x1e-strategic-analysis-existing-software .content-0blBzY {
+  background-color: transparent;
+  flex: 1;
+  gap: 2px;
+}
+
+.x1e-strategic-analysis-existing-software .lorem-ipsum-fLHq2q {
+  letter-spacing: 0.00px;
+  line-height: 14px;
+}
+
+.x1e-strategic-analysis-existing-software .content-BfFGTm {
+  background-color: transparent;
+  flex: 1;
+  gap: 2px;
+}
+
+.x1e-strategic-analysis-existing-software .lorem-ipsum-xpdz0t {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.x1e-strategic-analysis-existing-software .title-Hc9VmH {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: auto;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .x-rYtKUx {
+  background-color: transparent;
+  height: 25.81%;
+  left: 74.20%;
+  position: absolute;
+  top: 15.62%;
+  width: 7.81%;
+}
+
+.x1e-strategic-analysis-existing-software .ellipse-193-rYtKUx {
+  border: 1.5px solid;
+  border-radius: 6.75px;
+  height: 14px;
+  left: 18px;
+  top: 2px;
+  width: 14px;
+}
+
+.x1e-strategic-analysis-existing-software .line-rYtKUx {
+  height: 22px;
+  top: 4px;
+  width: 15px;
+}
+
+.x1e-strategic-analysis-existing-software .line-zw64M4 {
+  height: 13px;
+  top: 15px;
+  width: 20px;
+}
+
+.x1e-strategic-analysis-existing-software .line-8B4Rwl {
+  height: 4px;
+  top: 22px;
+  width: 18px;
+}
+
+.x1e-strategic-analysis-existing-software .span0-98QX6Y {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span1-98QX6Y {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x1e-strategic-analysis-existing-software .span2-98QX6Y {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span3-98QX6Y {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x1e-strategic-analysis-existing-software .span4-98QX6Y {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span5-98QX6Y {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x1e-strategic-analysis-existing-software .span6-98QX6Y {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .frame-140-DT5jJ2 {
+  gap: 20px;
+}
+
+.x1e-strategic-analysis-existing-software .x4-co-procurement-syVAye {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .peer-jurisdictions-t-syVAye {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .span0-NHkSPp {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span1-NHkSPp {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x1e-strategic-analysis-existing-software .span2-NHkSPp {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span3-NHkSPp {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x1e-strategic-analysis-existing-software .span4-NHkSPp {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .union-MQKiCO {
+  height: 83.64%;
+  left: 0px;
+  mix-blend-mode: normal;
+  top: 0px;
+  width: 100%;
+}
+
+.x1e-strategic-analysis-existing-software .content-Z6mMgb {
+  background-color: transparent;
+  flex: 1;
+  gap: 2px;
+}
+
+.x1e-strategic-analysis-existing-software .lorem-ipsum-ON5DRP {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.x1e-strategic-analysis-existing-software .union-Rxuw4g {
+  height: 83.64%;
+  left: 0px;
+  mix-blend-mode: normal;
+  top: 0px;
+  width: 100%;
+}
+
+.x1e-strategic-analysis-existing-software .content-kPsT4e {
+  background-color: transparent;
+  flex: 1;
+  gap: 2px;
+}
+
+.x1e-strategic-analysis-existing-software .lorem-ipsum-xVOhzH {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.x1e-strategic-analysis-existing-software .content-x8I1fl {
+  background-color: transparent;
+  flex: 1;
+  gap: 2px;
+}
+
+.x1e-strategic-analysis-existing-software .lorem-ipsum-f39P43 {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.x1e-strategic-analysis-existing-software .outcomes-Ih8hnu {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: auto;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .gear-2-1GSzdV {
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  width: 100.00%;
+}
+
+.x1e-strategic-analysis-existing-software .icon-check_mark-1GSzdV {
+  background-color: transparent;
+  height: 33.77%;
+  left: 28.39%;
+  position: absolute;
+  top: 34.62%;
+  width: 44.21%;
+}
+
+.x1e-strategic-analysis-existing-software .gear-2-fmM5dA {
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  width: 100.00%;
+}
+
+.x1e-strategic-analysis-existing-software .gear-2-vHlPEd {
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  width: 100.00%;
+}
+
+.x1e-strategic-analysis-existing-software .references-Ih8hnu {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: auto;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .frame-140-xTamXc {
+  gap: 30px;
+}
+
+.x1e-strategic-analysis-existing-software .content-QgxE81 {
+  background-color: transparent;
   flex: 1;
   gap: 5px;
 }
 
-.x1e-strategic-analysis-existing-software .frame-163 {
-  background-color: var(--fpcgraymed);
-  border-radius: 4px;
-  gap: 10px;
-  padding: 1px 5px;
-  width: fit-content;
+.x1e-strategic-analysis-existing-software .content-44WqX4 {
+  background-color: transparent;
+  flex: 1;
+  gap: 5px;
 }
 
-.x1e-strategic-analysis-existing-software .strategic-paths {
+.x1e-strategic-analysis-existing-software .content-XZxQov {
+  background-color: transparent;
+  flex: 1;
+  gap: 5px;
+}
+
+.x1e-strategic-analysis-existing-software .content-1mUYel {
+  background-color: transparent;
+  flex: 1;
+  gap: 5px;
+}
+
+.x1e-strategic-analysis-existing-software .content-w0L0OS {
+  background-color: transparent;
+  flex: 1;
+  gap: 5px;
+}
+
+.x1e-strategic-analysis-existing-software .content-WqX6RU {
+  background-color: transparent;
+  flex: 1;
+  gap: 5px;
+}
+
+.x1e-strategic-analysis-existing-software .content-wxT3Ee {
+  background-color: transparent;
+  flex: 1;
+  gap: 5px;
+}
+
+.x1e-strategic-analysis-existing-software .content-WvJEKp {
+  background-color: transparent;
+  flex: 1;
+  gap: 5px;
+}
+
+.x1e-strategic-analysis-existing-software .content-toNbgN {
+  background-color: transparent;
+  flex: 1;
+  gap: 5px;
+}
+
+.x1e-strategic-analysis-existing-software .strategic-paths-Ih8hnu {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 30px;
+  height: auto;
   position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .cluster-3 {
+.x1e-strategic-analysis-existing-software .cluster-mZE6e5 {
   flex-direction: column;
   gap: 20px;
+  height: auto;
 }
 
-.x1e-strategic-analysis-existing-software .you-should-now-have {
+.x1e-strategic-analysis-existing-software .you-should-now-have-px5tLI {
   align-self: stretch;
+  background-color: transparent;
   color: var(--black);
+  font-style: normal;
   font-weight: 400;
   line-height: 24px;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
 }
 
-.x1e-strategic-analysis-existing-software .boxes-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-  position: relative;
-}
-
-.x1e-strategic-analysis-existing-software .cluster-1 {
+.x1e-strategic-analysis-existing-software .cluster-2xNkxx {
   gap: 20px;
   height: 99px;
 }
 
-.x1e-strategic-analysis-existing-software .purchase-existing-bu-1 {
-  color: var(--black);
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  width: 216px;
+.x1e-strategic-analysis-existing-software .span0-2xt2E2 {
+  font-style: normal;
+  font-weight: 700;
 }
 
-.x1e-strategic-analysis-existing-software .customize-oss-contra-1 {
-  color: var(--black);
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  width: 216px;
+.x1e-strategic-analysis-existing-software .span1-2xt2E2 {
+  font-style: normal;
 }
 
-.x1e-strategic-analysis-existing-software .custom-software-cont-1 {
-  color: var(--black);
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  width: 216px;
+.x1e-strategic-analysis-existing-software .paper-ZzR0K6 {
+  left: 7px;
+  top: 7px;
 }
 
-.x1e-strategic-analysis-existing-software .overlap-group-4 {
-  align-items: flex-end;
-  background-image: url(../img/union-34@2x.png);
-  background-size: 100% 100%;
-  display: flex;
-  height: 54px;
-  left: 2px;
-  min-width: 61px;
-  padding: 10.6px 15.4px;
-  position: relative;
-  top: 4px;
+.x1e-strategic-analysis-existing-software .union-2AfVWk {
+  height: 21.57%;
+  left: -1.81%;
+  top: -1.54%;
+  width: 25.40%;
 }
 
-.x1e-strategic-analysis-existing-software .build-in-house-build-1 {
-  color: var(--black);
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  width: 216px;
+.x1e-strategic-analysis-existing-software .union-2fTStT {
+  height: 103.31%;
+  left: 9.08%;
+  top: -1.77%;
+  width: 74.26%;
 }
 
-.x1e-strategic-analysis-existing-software .footer-nav {
+.x1e-strategic-analysis-existing-software .union-htw9Du {
+  height: 23.21%;
+  left: 33.38%;
+  top: 78.56%;
+  width: 68.43%;
+}
+
+.x1e-strategic-analysis-existing-software .x-ZzR0K6 {
+  background-color: transparent;
+  height: 24.10%;
+  left: 57.81%;
+  position: absolute;
+  top: 43.75%;
+  width: 9.38%;
+}
+
+.x1e-strategic-analysis-existing-software .vector-KDxGJC {
+  height: 75.39%;
+  left: -16.66%;
+  top: 12.46%;
+  width: 133.31%;
+}
+
+.x1e-strategic-analysis-existing-software .ellipse-193-IE5GS4 {
+  border: 1.8102669715881348px solid;
+  border-radius: 3.41px;
+  height: 24.32%;
+  left: -5.66%;
+  top: 78.91%;
+  width: 42.56%;
+}
+
+.x1e-strategic-analysis-existing-software .vector-IE5GS4 {
+  height: 64.29%;
+  left: 9.38%;
+  top: 17.86%;
+  width: 12.50%;
+}
+
+.x1e-strategic-analysis-existing-software .vector-ShofsI {
+  height: 53.57%;
+  left: 9.38%;
+  top: 17.86%;
+  width: 78.12%;
+}
+
+.x1e-strategic-analysis-existing-software .span0-XWJxzG {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x1e-strategic-analysis-existing-software .span1-XWJxzG {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .cluster-8uSRFR {
+  gap: 20px;
+  height: 99px;
+}
+
+.x1e-strategic-analysis-existing-software .paper-0RSSUU {
+  left: 0px;
+  top: 0px;
+}
+
+.x1e-strategic-analysis-existing-software .union-hxdfNc {
+  height: 21.62%;
+  left: -1.81%;
+  top: -1.77%;
+  width: 25.40%;
+}
+
+.x1e-strategic-analysis-existing-software .union-xvm7Ge {
+  height: 103.55%;
+  left: 9.08%;
+  top: -1.77%;
+  width: 74.26%;
+}
+
+.x1e-strategic-analysis-existing-software .union-u0wkaW {
+  height: 23.26%;
+  left: 33.38%;
+  top: 78.52%;
+  width: 68.43%;
+}
+
+.x1e-strategic-analysis-existing-software .x-0RSSUU {
+  background-color: transparent;
+  height: 30.23%;
+  left: 60.00%;
+  position: absolute;
+  top: 41.16%;
+  width: 12.01%;
+}
+
+.x1e-strategic-analysis-existing-software .vector-sd37zr {
+  height: 75.39%;
+  left: -16.66%;
+  top: 12.46%;
+  width: 133.31%;
+}
+
+.x1e-strategic-analysis-existing-software .span0-GsDFOA {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x1e-strategic-analysis-existing-software .span1-GsDFOA {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .gear-2-5xFp3v {
+  height: 42.77%;
+  left: 26.49%;
+  top: 31.25%;
+  width: 47.02%;
+}
+
+.x1e-strategic-analysis-existing-software .span0-THFlVI {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x1e-strategic-analysis-existing-software .span1-THFlVI {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .footer-nav-Ih8hnu {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
+  height: auto;
   justify-content: space-between;
   padding: 60px 0px 0px;
   position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .navfooterprev {
+.x1e-strategic-analysis-existing-software .navfooterprev-Y6la72 {
   align-items: center;
   background-color: var(--fpcgreen);
   border-radius: 32px 4px 4px 32px;
   cursor: pointer;
   display: flex;
   gap: 15px;
+  height: auto;
+  mix-blend-mode: normal;
   padding: 10px 15px;
   position: relative;
   width: fit-content;
 }
 
-.x1e-strategic-analysis-existing-software .arrow-32 {
-  height: 12.47px;
+.x1e-strategic-analysis-existing-software .arrow-32-tO3AMD {
   margin-left: -0.85px;
-  min-width: 15.24px;
-  position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .group-134 {
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
-  height: 38px;
+.x1e-strategic-analysis-existing-software .group-134-tO3AMD {
   margin-right: -4.00px;
   min-width: 156px;
-  position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .x1a-welcome {
-  height: 20px;
-  letter-spacing: 0;
+.x1e-strategic-analysis-existing-software .x1a-welcome-S4Kxi5 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
   line-height: normal;
-  width: 152px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
 }
 
-.x1e-strategic-analysis-existing-software .navfooternext {
+.x1e-strategic-analysis-existing-software .previous-S4Kxi5 {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x1e-strategic-analysis-existing-software .navfooternext-Y6la72 {
   align-items: center;
   background-color: var(--fpcblue);
   border-radius: 4px 32px 32px 4px;
   cursor: pointer;
   display: flex;
   gap: 15px;
+  height: auto;
+  mix-blend-mode: normal;
   padding: 10px 15px;
   position: relative;
   width: fit-content;
 }
 
-.x1e-strategic-analysis-existing-software .group-134-1 {
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
-  height: 38px;
+.x1e-strategic-analysis-existing-software .group-134-8Bu5g9 {
   min-width: 151px;
-  position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .x1b-discovery-research {
-  height: 20px;
-  letter-spacing: 0;
+.x1e-strategic-analysis-existing-software .x1b-discovery-research-ZBRIg1 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
   line-height: normal;
-  width: 147px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
 }
 
-.x1e-strategic-analysis-existing-software .sidebarv2 {
+.x1e-strategic-analysis-existing-software .next-ZBRIg1 {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x1e-strategic-analysis-existing-software .arrow-32-8Bu5g9 {
+  margin-right: -0.85px;
+}
+
+.x1e-strategic-analysis-existing-software .sidebarv2-JQypK5 {
   align-items: center;
   align-self: stretch;
   background-color: var(--cultured-pearl);
@@ -738,213 +1506,1181 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  mix-blend-mode: normal;
   padding: 20px;
   position: relative;
   width: fit-content;
 }
 
-.x1e-strategic-analysis-existing-software .navsubsectionv2-1 {
-  align-items: center;
-  background-color: var(--fpcgreen50);
-  border-radius: 4px;
-  cursor: pointer;
+.x1e-strategic-analysis-existing-software .top-EdZBe6 {
+  align-items: flex-start;
+  background-color: transparent;
   display: flex;
-  gap: 5px;
-  padding: 2px 8px 3px;
+  flex-direction: column;
+  gap: 60px;
+  height: auto;
   position: relative;
   width: fit-content;
 }
 
-.x1e-strategic-analysis-existing-software .flex-col {
+.x1e-strategic-analysis-existing-software .navsidebarexpanded-wlY58g {
   align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  position: relative;
+  width: 240px;
+}
+
+.x1e-strategic-analysis-existing-software .navmainv3-862ow1 {
+  background-color: var(--algae-green);
+}
+
+.x1e-strategic-analysis-existing-software .x1-section-name-dtcETA {
+  color: var(--black);
+}
+
+.x1e-strategic-analysis-existing-software .navsubsectionv2-62iu5v {
+  background-color: transparent;
+}
+
+.x1e-strategic-analysis-existing-software .navsubsectionv2-6xF1WA {
+  background-color: transparent;
+}
+
+.x1e-strategic-analysis-existing-software .navsubsectionv2-sya8Cm {
+  background-color: transparent;
+}
+
+.x1e-strategic-analysis-existing-software .navsubsectionv2-UbkXSL {
+  background-color: transparent;
+}
+
+.x1e-strategic-analysis-existing-software .navsubsectionv2-5EMxTw {
+  background-color: var(--fpcgreen50);
+}
+
+.x1e-strategic-analysis-existing-software .navmainv3-NCyN06 {
+  background-color: var(--fpcbluehl);
+}
+
+.x1e-strategic-analysis-existing-software .x1-section-name-L9OOiK {
+  color: var(--black-2);
+}
+
+.x1e-strategic-analysis-existing-software .navsubsectionv2-vDiPVR {
+  background-color: transparent;
+}
+
+.x1e-strategic-analysis-existing-software .navsubsectionv2-x9XCXm {
+  background-color: transparent;
+}
+
+.x1e-strategic-analysis-existing-software .navsubsectionv2-fmNDuB {
+  background-color: transparent;
+}
+
+.x1e-strategic-analysis-existing-software .navmainv3-1qERi4 {
+  background-color: var(--fpchlpeach);
+}
+
+.x1e-strategic-analysis-existing-software .x1-section-name-sBYc7I {
+  color: var(--black);
+}
+
+.x1e-strategic-analysis-existing-software .navsubsectionv2-PwHRo2 {
+  background-color: transparent;
+}
+
+.x1e-strategic-analysis-existing-software .navsubsectionv2-pfWw64 {
+  background-color: transparent;
+}
+
+.x1e-strategic-analysis-existing-software .navsubsectionv2-zfxAk8 {
+  background-color: transparent;
+}
+
+.x1e-strategic-analysis-existing-software .navsubsectionv2-L1hAgN {
+  background-color: transparent;
+}
+
+.x1e-strategic-analysis-existing-software .span0-vPQhmt {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .navmainv3-pC5u8x {
+  background-color: var(--periwinkle-gray);
+}
+
+.x1e-strategic-analysis-existing-software .x1-section-name-8hQeqR {
+  color: var(--black-2);
+}
+
+.x1e-strategic-analysis-existing-software .navsubsectionv2-icm0Q3 {
+  background-color: transparent;
+}
+
+.x1e-strategic-analysis-existing-software .navsubsectionv2-nMemgz {
+  background-color: transparent;
+}
+
+.x1e-strategic-analysis-existing-software .navsubsectionv2-Y25Tpk {
+  background-color: transparent;
+}
+
+.x1e-strategic-analysis-existing-software .sidebarbottom-EdZBe6 {
+  align-items: flex-start;
+  background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 60px;
-  left: 180px;
-  min-height: 796px;
+  height: auto;
   position: relative;
-  top: 60px;
-  width: 1080px;
+  width: fit-content;
 }
 
-.x1e-strategic-analysis-existing-software .content-2 {
-  align-self: stretch;
-  gap: 15px;
-}
-
-.x1e-strategic-analysis-existing-software .links {
+.x1e-strategic-analysis-existing-software .have-a-question-KZfzHy {
   align-items: flex-start;
-  align-self: stretch;
   display: flex;
+  flex-direction: column;
   gap: 10px;
-  justify-content: flex-end;
+  height: auto;
+  width: 240px;
+}
+
+.x1e-strategic-analysis-existing-software .have-a-question-Jmq1EL {
+  align-self: stretch;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.x1e-strategic-analysis-existing-software .email-us-Jmq1EL {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .footer-WIwdKW {
+  align-self: stretch;
+  background-color: transparent;
+  height: 916px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
   position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .links-1 {
-  align-items: flex-end;
-  align-self: stretch;
+.x1e-strategic-analysis-existing-software .base-P8RZn7 {
+  background-color: var(--concrete);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.x1e-strategic-analysis-existing-software .information-P8RZn7 {
+  background-color: transparent;
+  height: 281px;
+  left: calc(50.00% - 540px);
+  position: absolute;
+  top: 575px;
+  width: 1024px;
+}
+
+.x1e-strategic-analysis-existing-software .metadata-uG7Um1 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  left: calc(50.00% - 142px);
+  position: absolute;
+  top: 196px;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .updated-EQwrhe {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 8px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .icon-clock-p8srUx {
+  background-color: transparent;
+  height: 16px;
+  min-width: 16px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .last-updated-15-february-2021-p8srUx {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x1e-strategic-analysis-existing-software .copyright-EQwrhe {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .text_label-wu9gFk {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .x2021-foundation-for-public-code-wu9gFk {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x1e-strategic-analysis-existing-software .span0-zFFryy {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span1-zFFryy {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1e-strategic-analysis-existing-software .license-EQwrhe {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 8px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .iconlicense-3ebFdg {
+  background-color: transparent;
+  height: 14.5px;
+  min-width: 16px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .creative-commons-zero-v10-universal-3ebFdg {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 299px;
+}
+
+.x1e-strategic-analysis-existing-software .organizational-notes-uG7Um1 {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 142px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 650px;
+}
+
+.x1e-strategic-analysis-existing-software .foundation-for-publi-uG7Um1 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 142px);
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 650px;
+}
+
+.x1e-strategic-analysis-existing-software .span0-CCKVYK {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span1-CCKVYK {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1e-strategic-analysis-existing-software .span2-CCKVYK {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span3-CCKVYK {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1e-strategic-analysis-existing-software .span4-CCKVYK {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span5-CCKVYK {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1e-strategic-analysis-existing-software .span6-CCKVYK {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .span7-CCKVYK {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1e-strategic-analysis-existing-software .span8-CCKVYK {
+  font-style: normal;
+}
+
+.x1e-strategic-analysis-existing-software .contact-uG7Um1 {
+  height: 201px;
+  left: calc(50.00% - 512px);
+  width: 345px;
+}
+
+.x1e-strategic-analysis-existing-software .contact-4xJcpt {
+  height: auto;
+  left: calc(50.00% - 172px);
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  mix-blend-mode: normal;
+  text-align: left;
+  white-space: nowrap;
+  width: 120px;
+}
+
+.x1e-strategic-analysis-existing-software .frame-201-4xJcpt {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
   flex-direction: column;
   gap: 15px;
+  height: auto;
+  left: calc(50.00% - 172px);
+  position: absolute;
+  top: 36px;
+  width: fit-content;
 }
 
-.x1e-strategic-analysis-existing-software .links-2 {
-  align-items: flex-end;
-  align-self: stretch;
-  gap: 10px;
-  justify-content: flex-end;
-}
-
-.x1e-strategic-analysis-existing-software .frame-201 {
-  flex-direction: column;
-  gap: 15px;
-  height: 165px;
-  margin-left: -2px;
-  width: 343px;
-}
-
-.x1e-strategic-analysis-existing-software .group-196 {
-  display: flex;
-  gap: 18px;
+.x1e-strategic-analysis-existing-software .group-196-PNBx03 {
+  background-color: transparent;
   height: 20px;
   margin-right: -4.00px;
   min-width: 347px;
   position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .group-197 {
-  display: flex;
-  gap: 52px;
+.x1e-strategic-analysis-existing-software .join-our-mailing-list-KgrOhS {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  width: 240px;
+}
+
+.x1e-strategic-analysis-existing-software .newsletter-KgrOhS {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x1e-strategic-analysis-existing-software .group-197-PNBx03 {
+  background-color: transparent;
   height: 20px;
   margin-right: -4.00px;
   min-width: 347px;
   position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .group-200 {
-  display: flex;
-  gap: 58px;
+.x1e-strategic-analysis-existing-software .x31-20-2-444-500-Y0RNxk {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  width: 240px;
+}
+
+.x1e-strategic-analysis-existing-software .phone-Y0RNxk {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x1e-strategic-analysis-existing-software .group-200-PNBx03 {
+  background-color: transparent;
   height: 20px;
   margin-right: -4.00px;
   min-width: 347px;
   position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .group-199 {
+.x1e-strategic-analysis-existing-software .infopubliccodenet-Bs7W4x {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  width: 240px;
+}
+
+.x1e-strategic-analysis-existing-software .email-Bs7W4x {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x1e-strategic-analysis-existing-software .group-199-PNBx03 {
+  background-color: transparent;
   height: 60px;
   margin-right: -4.00px;
   min-width: 347px;
   position: relative;
 }
 
-.x1e-strategic-analysis-existing-software .flex-col-1 {
+.x1e-strategic-analysis-existing-software .links-8mKhEH {
+  align-items: flex-start;
+  gap: 10px;
   left: 103px;
-  min-height: 60px;
   position: absolute;
-  top: 0;
+  top: 40px;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .open-street-map-xhLhdc {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .x-xhLhdc {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .google-xhLhdc {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1e-strategic-analysis-existing-software .keizersgracht-617-10-8mKhEH {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
   width: 240px;
 }
 
-.x1e-strategic-analysis-existing-software .links-3 {
+.x1e-strategic-analysis-existing-software .address-8mKhEH {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x1e-strategic-analysis-existing-software .block-trio-P8RZn7 {
   align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 20px;
+  height: 340px;
+  left: calc(50.00% - 540px);
+  position: absolute;
+  top: 175px;
+  width: 1080px;
+}
+
+.x1e-strategic-analysis-existing-software .about-us-hRoQCv {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x1e-strategic-analysis-existing-software .content-r8GJSl {
+  align-self: stretch;
+  background-color: transparent;
+  gap: 15px;
+}
+
+.x1e-strategic-analysis-existing-software .about-us-NIUKxx {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .all-of-our-staff-inf-NIUKxx {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .links-r8GJSl {
+  align-items: flex-start;
+  align-self: stretch;
   gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .how-we-work-KBWnrf {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
   width: fit-content;
 }
 
-.x1e-strategic-analysis-existing-software .text-16 {
+.x1e-strategic-analysis-existing-software .project-resources-hRoQCv {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x1e-strategic-analysis-existing-software .content-TMlbEa {
+  align-self: stretch;
+  background-color: transparent;
+  gap: 15px;
+}
+
+.x1e-strategic-analysis-existing-software .project-resources-LHMXHx {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .open-products-were-r-LHMXHx {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .links-TMlbEa {
+  align-items: flex-end;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .free-to-use-and-modify-o5X31S {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+}
+
+.x1e-strategic-analysis-existing-software .see-all-our-work-on-git-hub-o5X31S {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+}
+
+.x1e-strategic-analysis-existing-software .careers-hRoQCv {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x1e-strategic-analysis-existing-software .content-Uk3X9e {
+  align-self: stretch;
+  background-color: transparent;
+  gap: 15px;
+}
+
+.x1e-strategic-analysis-existing-software .careers-sHP8au {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .calling-all-publicly-sHP8au {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .links-Uk3X9e {
+  align-items: flex-end;
+  align-self: stretch;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .open-positions-JOWVVa {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
   width: fit-content;
 }
 
-.x1e-strategic-analysis-existing-software .flex-col-2 {
-  min-height: 281px;
-  width: 650px;
+.x1e-strategic-analysis-existing-software .logo-title-P8RZn7 {
+  left: calc(50.00% - 540px);
+  position: absolute;
+  top: 60px;
+  width: 410px;
 }
 
-.x1e-strategic-analysis-existing-software .span-4 {
+.x1e-strategic-analysis-existing-software .a-knowledge-acquisit {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.x1e-strategic-analysis-existing-software .an-action-that-requires-high-engagement {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.x1e-strategic-analysis-existing-software .arrow-32 {
+  background-color: transparent;
+  height: 12.46875px;
+  min-width: 15.23828125px;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .arrowdown {
+  background-color: transparent;
+  height: 8.414306640625px;
+  margin-right: -1.00px;
+  min-width: 14px;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .box-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcgraywhitesmoke);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 15px;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding: 15px 30px;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .box-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcgraywhitesmoke);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 15px;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding: 15px 30px;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .box-3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcgraywhitesmoke);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 15px;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding: 15px 30px;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .box-4 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcgraywhitesmoke);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 15px;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding: 15px 30px;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .boxes {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: auto;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .build-in-house-build {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 216px;
+}
+
+.x1e-strategic-analysis-existing-software .bullet-sub-bullet-sub-bullet-bullet {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1e-strategic-analysis-existing-software .cluster {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .code {
+  background-color: transparent;
+  height: 52.24%;
+  left: 30.74%;
+  position: absolute;
+  top: 14.18%;
+  width: 41.59%;
+}
+
+.x1e-strategic-analysis-existing-software .content {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .custom-software-cont {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 216px;
+}
+
+.x1e-strategic-analysis-existing-software .customize-oss-contra {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 216px;
+}
+
+.x1e-strategic-analysis-existing-software .ellipse-192 {
+  background-color: transparent;
+  border: 1.8102669715881348px solid;
+  border-color: var(--black);
+  border-radius: 3.41px;
+  height: 24.32%;
+  left: -5.66%;
+  position: absolute;
+  top: -3.23%;
+  width: 42.56%;
+}
+
+.x1e-strategic-analysis-existing-software .ellipse-193 {
+  background-color: transparent;
+  border-color: var(--black);
+  position: absolute;
+}
+
+.x1e-strategic-analysis-existing-software .fork-standard {
+  background-color: transparent;
+  height: 43.75%;
+  left: 40.62%;
+  position: absolute;
+  top: 23.44%;
+  width: 25.00%;
+}
+
+.x1e-strategic-analysis-existing-software .frame-139 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  gap: 20px;
+  height: auto;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .frame-140 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .gear-2 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.x1e-strategic-analysis-existing-software .group-146 {
+  background-color: transparent;
+  height: 51px;
+  left: 7px;
+  position: relative;
+  top: 7px;
+  width: 50px;
+}
+
+.x1e-strategic-analysis-existing-software .icon-home {
+  background-color: transparent;
+  height: 83.81%;
+  left: 2.43%;
+  position: absolute;
+  top: 6.81%;
+  width: 95.15%;
+}
+
+.x1e-strategic-analysis-existing-software .iconpathinhouse {
+  background-color: transparent;
+  height: 64px;
+  min-width: 64px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .iconpathoff-the-shelf {
+  background-color: transparent;
+  height: 64px;
+  min-width: 64px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .iconpathvendor {
+  background-color: transparent;
+  height: 64px;
+  min-width: 64px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .iconpathvendor-oss {
+  background-color: transparent;
+  height: 64px;
+  min-width: 64px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x1e-strategic-analysis-existing-software .line {
+  background-color: transparent;
+  left: 6px;
+  position: absolute;
+}
+
+.x1e-strategic-analysis-existing-software .link-title-here {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
   text-decoration: underline;
 }
 
-.x1e-strategic-analysis-existing-software .a-knowledge-acquisit-3 {
+.x1e-strategic-analysis-existing-software .lorem-ipsum {
   align-self: stretch;
-  letter-spacing: 0;
-  line-height: 24px;
-  margin-top: -1.00px;
+  background-color: transparent;
+  mix-blend-mode: normal;
   position: relative;
-  white-space: nowrap;
+  text-align: left;
 }
 
-.x1e-strategic-analysis-existing-software .an-action-that-requires-high-engagement-4 {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-}
-
-.x1e-strategic-analysis-existing-software .cluster-4 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  position: relative;
-}
-
-.x1e-strategic-analysis-existing-software .content-6 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  position: relative;
-}
-
-.x1e-strategic-analysis-existing-software .flex-col-3 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-}
-
-.x1e-strategic-analysis-existing-software .frame {
-  align-items: flex-start;
-  display: flex;
-  position: relative;
-}
-
-.x1e-strategic-analysis-existing-software .links-4 {
-  display: flex;
-  position: relative;
-}
-
-.x1e-strategic-analysis-existing-software .lorem-ipsum-10 {
-  align-self: stretch;
-  position: relative;
-}
-
-.x1e-strategic-analysis-existing-software .source-name-9 {
+.x1e-strategic-analysis-existing-software .purchase-existing-bu {
+  background-color: transparent;
   color: var(--black);
+  font-style: normal;
   font-weight: 400;
   line-height: normal;
   margin-top: -1.00px;
+  mix-blend-mode: normal;
   position: relative;
-  width: fit-content;
+  text-align: left;
+  width: 216px;
 }
 
-.x1e-strategic-analysis-existing-software .v2-3 {
-  align-items: flex-end;
-  background-size: 100% 100%;
-  display: flex;
-  height: 26px;
-  justify-content: flex-end;
-  left: 4px;
-  min-width: 24px;
-  padding: 8.2px 6.5px;
+.x1e-strategic-analysis-existing-software .this-is-an-outcome-t {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
 }
 
-.x1e-strategic-analysis-existing-software .x1-8 {
-  color: var(--black);
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: right;
-  width: 30px;
+.x1e-strategic-analysis-existing-software .union {
+  background-color: transparent;
+  position: absolute;
+}
+
+.x1e-strategic-analysis-existing-software .vector-6 {
+  background-color: transparent;
+  height: 17.86%;
+  left: 56.25%;
+  position: absolute;
+  top: 14.29%;
+  width: 50.00%;
 }

@@ -7,622 +7,786 @@
   display: flex;
   flex-direction: column;
   gap: 60px;
+  height: auto;
+  left: 0px;
   min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
   padding: 60px 0px 0px;
   position: relative;
+  top: 0px;
 }
 
-.x00-process-codes-landing-page .intro {
+.x00-process-codes-landing-page .header-kTDj0x {
   align-items: center;
-  background-color: var(--melon);
-  border-radius: 12px;
+  background-color: transparent;
   display: flex;
-  gap: 3px;
-  justify-content: center;
-  overflow: hidden;
-  padding: 30px 60px;
+  height: auto;
+  justify-content: space-between;
   position: relative;
   width: 1080px;
 }
 
-.x00-process-codes-landing-page .process-codes-are-fl {
+.x00-process-codes-landing-page .logo-title-Fhdipx {
+  min-width: 410px;
+  position: relative;
+}
+
+.x00-process-codes-landing-page .navigation-Fhdipx {
+  background-color: transparent;
+  height: 24px;
+  min-width: 534px;
+  position: relative;
+}
+
+.x00-process-codes-landing-page .links-7xXpBr {
+  align-items: flex-start;
+  gap: 30px;
+  justify-content: flex-end;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: fit-content;
+}
+
+.x00-process-codes-landing-page .stewardship-YiIqMV {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x00-process-codes-landing-page .resources-YiIqMV {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x00-process-codes-landing-page .who-we-are-YiIqMV {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x00-process-codes-landing-page .join-us-YiIqMV {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x00-process-codes-landing-page .services-7xXpBr {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 20px;
+  height: auto;
+  left: 422px;
+  position: absolute;
+  top: 0px;
+  width: fit-content;
+}
+
+.x00-process-codes-landing-page .mastodon-FkV70q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x00-process-codes-landing-page .twitter-FkV70q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x00-process-codes-landing-page .github-FkV70q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x00-process-codes-landing-page .intro-kTDj0x {
+  align-items: center;
+  background-color: var(--melon);
+  border-radius: 12px;
+  gap: 3px;
+  justify-content: center;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 30px 60px;
+  width: 1080px;
+}
+
+.x00-process-codes-landing-page .headline-GHJUHq {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.x00-process-codes-landing-page .title-W8KSM3 {
+  background-color: transparent;
   color: var(--black);
+  font-style: normal;
   font-weight: 400;
   line-height: normal;
   margin-top: -1.00px;
+  mix-blend-mode: normal;
   position: relative;
-  width: 487.85px;
+  text-align: left;
+  width: 487.8515625px;
 }
 
-.x00-process-codes-landing-page .span0 {
+.x00-process-codes-landing-page .span0-7SSsTv {
+  font-style: normal;
   font-weight: 700;
 }
 
-.x00-process-codes-landing-page .span1 {
+.x00-process-codes-landing-page .span1-7SSsTv {
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-xxxl);
-  letter-spacing: 0;
+  font-style: normal;
+  letter-spacing: 0.00px;
 }
 
-.x00-process-codes-landing-page .we-invite-you-to-tes {
+.x00-process-codes-landing-page .we-invite-you-to-tes-W8KSM3 {
+  background-color: transparent;
   color: var(--black);
+  font-style: normal;
   font-weight: 400;
   line-height: 24px;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
   width: 420px;
 }
 
-.x00-process-codes-landing-page .overlap-group2 {
-  height: 325px;
-  left: 40px;
+.x00-process-codes-landing-page .eco-system-1-GHJUHq {
+  background-color: var(--melon);
+  height: 433.1015319824219px;
+  min-width: 433.1015319824219px;
+  mix-blend-mode: normal;
+  overflow: hidden;
   position: relative;
-  top: 55px;
-  width: 354px;
 }
 
-.x00-process-codes-landing-page .rectangle-11 {
+.x00-process-codes-landing-page .rectangle-11-jYl086 {
   background-color: var(--white);
   height: 35px;
-  left: 108px;
+  left: 148px;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 136px;
+  top: 191px;
   width: 58px;
 }
 
-.x00-process-codes-landing-page .vector {
-  height: 33px;
-  left: 78px;
-  position: absolute;
-  top: 39px;
-  width: 50px;
+.x00-process-codes-landing-page .vector-jYl086 {
+  height: 7.64%;
+  left: 27.29%;
+  mix-blend-mode: normal;
+  top: 21.75%;
+  width: 11.53%;
 }
 
-.x00-process-codes-landing-page .vector-1 {
-  height: 49px;
-  left: 79px;
-  position: absolute;
-  top: 33px;
-  width: 62px;
+.x00-process-codes-landing-page .vector-TFAQdg {
+  height: 11.23%;
+  left: 27.62%;
+  mix-blend-mode: normal;
+  top: 20.45%;
+  width: 14.36%;
 }
 
-.x00-process-codes-landing-page .vector-2 {
-  height: 44px;
-  left: 80px;
-  position: absolute;
-  top: 35px;
-  width: 74px;
+.x00-process-codes-landing-page .vector-o55sa3 {
+  height: 10.17%;
+  left: 27.64%;
+  mix-blend-mode: normal;
+  top: 20.71%;
+  width: 17.13%;
 }
 
-.x00-process-codes-landing-page .group-2 {
+.x00-process-codes-landing-page .group-2-jYl086 {
   height: 86px;
-  left: 141px;
-  position: absolute;
-  top: 239px;
+  left: 181px;
+  top: 294px;
   width: 211px;
 }
 
-.x00-process-codes-landing-page .ellipse {
-  border: 2.06px solid;
+.x00-process-codes-landing-page .ellipse-jYl086 {
+  background-color: transparent;
+  border: 2.0623884201049805px solid;
   border-color: var(--blue-violet);
   border-radius: 123.23px/123.74px;
   height: 247px;
-  left: 61px;
+  left: 101px;
   position: absolute;
-  top: 36px;
+  top: 91px;
   width: 246px;
 }
 
-.x00-process-codes-landing-page .comment {
-  align-items: flex-start;
-  display: flex;
+.x00-process-codes-landing-page .comment-jYl086 {
   height: 72px;
-  left: 26px;
-  min-width: 72px;
-  position: absolute;
-  top: 246px;
+  left: 66px;
+  top: 301px;
   transform: rotate(-90.00deg);
-}
-
-.x00-process-codes-landing-page .overlap-group {
-  height: 72px;
-  margin-top: 0;
-  position: relative;
   width: 72px;
 }
 
-.x00-process-codes-landing-page .union {
-  height: 72px;
-  left: 0;
-  position: absolute;
-  top: 0;
+.x00-process-codes-landing-page .union-FXaZxh {
+  height: 100.00%;
+  left: 0px;
+  mix-blend-mode: normal;
+  top: 0px;
   transform: rotate(90.00deg);
-  width: 72px;
+  width: 100.00%;
 }
 
-.x00-process-codes-landing-page .rectangle-315 {
-  border: 1.03px solid;
+.x00-process-codes-landing-page .rectangle-315-FXaZxh {
+  background-color: transparent;
+  border: 1.0311942100524902px solid;
   border-color: var(--white);
-  border-radius: 5.16px;
-  height: 8px;
-  left: 19px;
-  position: absolute;
-  top: 32px;
-  width: 8px;
+  height: 11.43%;
+  left: 25.71%;
+  top: 44.29%;
+  width: 11.43%;
 }
 
-.x00-process-codes-landing-page .rectangle-316 {
-  border: 1.03px solid;
+.x00-process-codes-landing-page .rectangle-316-FXaZxh {
+  background-color: transparent;
+  border: 1.0311942100524902px solid;
   border-color: var(--white);
-  border-radius: 5.16px;
-  height: 8px;
-  left: 32px;
-  position: absolute;
-  top: 32px;
-  width: 8px;
+  height: 11.43%;
+  left: 44.29%;
+  top: 44.29%;
+  width: 11.43%;
 }
 
-.x00-process-codes-landing-page .rectangle-317 {
-  border: 1.03px solid;
+.x00-process-codes-landing-page .rectangle-317-FXaZxh {
+  background-color: transparent;
+  border: 1.0311942100524902px solid;
   border-color: var(--white);
-  border-radius: 5.16px;
-  height: 8px;
-  left: 45px;
-  position: absolute;
-  top: 32px;
-  width: 8px;
+  height: 11.43%;
+  left: 62.86%;
+  top: 44.29%;
+  width: 11.43%;
 }
 
-.x00-process-codes-landing-page .rectangle-315-1 {
+.x00-process-codes-landing-page .rectangle-315-jYl086 {
   background-color: var(--blue-violet);
-  border-radius: 5.16px;
-  height: 8px;
-  left: 120px;
-  position: absolute;
-  top: 149px;
-  width: 8px;
+  height: 1.90%;
+  left: 36.90%;
+  mix-blend-mode: normal;
+  top: 47.14%;
+  width: 1.90%;
 }
 
-.x00-process-codes-landing-page .rectangle-316-1 {
+.x00-process-codes-landing-page .rectangle-316-jYl086 {
   background-color: var(--blue-violet);
-  border-radius: 5.16px;
-  height: 8px;
-  left: 133px;
-  position: absolute;
-  top: 149px;
-  width: 8px;
+  height: 1.90%;
+  left: 40.00%;
+  mix-blend-mode: normal;
+  top: 47.14%;
+  width: 1.90%;
 }
 
-.x00-process-codes-landing-page .rectangle-317-1 {
+.x00-process-codes-landing-page .rectangle-317-jYl086 {
   background-color: var(--blue-violet);
-  border-radius: 5.16px;
-  height: 8px;
-  left: 146px;
-  position: absolute;
-  top: 149px;
-  width: 8px;
+  height: 1.90%;
+  left: 43.10%;
+  mix-blend-mode: normal;
+  top: 47.14%;
+  width: 1.90%;
 }
 
-.x00-process-codes-landing-page .ellipse-1 {
+.x00-process-codes-landing-page .ellipse-TFAQdg {
   background-color: var(--fpchlyellow);
   border-radius: 13.92px;
   height: 28px;
-  left: 106px;
+  left: 146px;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 100px;
+  top: 155px;
   width: 28px;
 }
 
-.x00-process-codes-landing-page .symbol-dev {
-  align-items: flex-start;
-  display: flex;
+.x00-process-codes-landing-page .symbol-dev-jYl086 {
   height: 22px;
-  justify-content: center;
-  left: 159px;
-  min-width: 49px;
-  position: absolute;
-  top: 25px;
+  left: 199px;
+  top: 80px;
+  width: 49px;
 }
 
-.x00-process-codes-landing-page .rectangle-1 {
-  height: 24px;
-  margin-top: -1.02px;
-  width: 13px;
+.x00-process-codes-landing-page .rectangle-ffzbVD {
+  height: 109.42%;
+  left: -10.44%;
+  top: -4.71%;
+  width: 26.58%;
 }
 
-.x00-process-codes-landing-page .ellipse-2 {
-  align-self: center;
+.x00-process-codes-landing-page .rectangle-qUPK5u {
+  height: 109.42%;
+  left: 83.86%;
+  top: -4.71%;
+  width: 26.58%;
+}
+
+.x00-process-codes-landing-page .ellipse-ffzbVD {
   background-color: var(--fpchlyellow);
   border-radius: 7.73px;
-  height: 15px;
-  margin-left: 9px;
-  margin-top: 0;
-  width: 15px;
-}
-
-.x00-process-codes-landing-page .rectangle-2 {
-  height: 24px;
-  margin-left: 10px;
-  margin-top: -1.02px;
-  width: 13px;
-}
-
-.x00-process-codes-landing-page .ellipse-3 {
-  height: 158px;
-  left: 61px;
+  height: 71.43%;
+  left: 33.33%;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 83px;
+  top: 14.29%;
+  width: 31.25%;
+}
+
+.x00-process-codes-landing-page .ellipse-o55sa3 {
+  background-color: transparent;
+  height: 158px;
+  left: 101px;
+  position: absolute;
+  top: 138px;
   width: 293px;
 }
 
-.x00-process-codes-landing-page .ellipse-4 {
+.x00-process-codes-landing-page .ellipse-ceqPu1 {
+  background-color: transparent;
   height: 98px;
-  left: 164px;
+  left: 204px;
   position: absolute;
-  top: 106px;
+  top: 162px;
   width: 143px;
 }
 
-.x00-process-codes-landing-page .ellipse-5 {
+.x00-process-codes-landing-page .ellipse-guvnK2 {
+  background-color: transparent;
   height: 291px;
-  left: 106px;
+  left: 147px;
   position: absolute;
-  top: 7px;
+  top: 62px;
   width: 234px;
 }
 
-.x00-process-codes-landing-page .vector-3 {
+.x00-process-codes-landing-page .vector-ceqPu1 {
   height: 98px;
-  left: 0;
-  position: absolute;
-  top: 113px;
+  left: 40px;
+  top: 168px;
   width: 121px;
 }
 
-.x00-process-codes-landing-page .ellipse-6 {
+.x00-process-codes-landing-page .ellipse-ugnKgA {
   background-color: var(--fpchlyellow);
   border-radius: 12.37px;
   height: 25px;
-  left: 170px;
+  left: 210px;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 270px;
+  top: 325px;
   width: 25px;
 }
 
-.x00-process-codes-landing-page .group {
-  height: 27px;
-  left: 312px;
-  position: absolute;
-  top: 253px;
-  width: 27px;
+.x00-process-codes-landing-page .group-jYl086 {
+  height: 6.19%;
+  left: 81.43%;
+  top: 71.19%;
+  width: 6.19%;
 }
 
-.x00-process-codes-landing-page .vector-4 {
-  height: 90px;
-  left: 2px;
-  position: absolute;
-  top: 0;
-  width: 161px;
+.x00-process-codes-landing-page .vector-guvnK2 {
+  height: 20.89%;
+  left: 9.73%;
+  mix-blend-mode: normal;
+  top: 12.74%;
+  width: 37.21%;
 }
 
-.x00-process-codes-landing-page .group-1 {
-  height: 23px;
-  left: 10px;
-  position: absolute;
-  top: 8px;
-  width: 23px;
+.x00-process-codes-landing-page .group-TFAQdg {
+  height: 5.35%;
+  left: 11.67%;
+  top: 14.52%;
+  width: 5.35%;
 }
 
-.x00-process-codes-landing-page .rectangle-9 {
+.x00-process-codes-landing-page .rectangle-9-jYl086 {
   background-color: var(--blue-violet);
   height: 35px;
-  left: 184px;
+  left: 224px;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 159px;
+  top: 214px;
   width: 58px;
 }
 
-.x00-process-codes-landing-page .symbol-dev-1 {
-  left: 195px;
-  top: 169px;
-}
-
-.x00-process-codes-landing-page .rectangle {
-  height: 19px;
-  margin-bottom: -1.04px;
-  width: 10px;
-}
-
-.x00-process-codes-landing-page .line {
+.x00-process-codes-landing-page .symbol-dev-TFAQdg {
   height: 16px;
-  margin-bottom: -0.14px;
-  width: 10px;
+  left: 235px;
+  top: 224px;
+  width: 36px;
 }
 
-.x00-process-codes-landing-page .rectangle-10 {
+.x00-process-codes-landing-page .rectangle-YR9FPa {
+  height: 112.63%;
+  left: -2.83%;
+  top: -6.32%;
+  width: 28.02%;
+}
+
+.x00-process-codes-landing-page .rectangle-xUSEXS {
+  height: 112.63%;
+  left: 74.81%;
+  top: -6.32%;
+  width: 28.02%;
+}
+
+.x00-process-codes-landing-page .rectangle-10-jYl086 {
   background-color: var(--carnation);
   height: 35px;
-  left: 51px;
+  left: 91px;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 186px;
+  top: 241px;
   width: 58px;
 }
 
-.x00-process-codes-landing-page .symbol-dev-2 {
-  left: 62px;
-  top: 195px;
+.x00-process-codes-landing-page .symbol-dev-o55sa3 {
+  height: 16px;
+  left: 102px;
+  top: 251px;
+  width: 36px;
 }
 
-.x00-process-codes-landing-page .ellipse-2-1 {
+.x00-process-codes-landing-page .rectangle-GHDyf2 {
+  height: 112.63%;
+  left: -2.83%;
+  top: -6.32%;
+  width: 28.02%;
+}
+
+.x00-process-codes-landing-page .rectangle-JMXxI4 {
+  height: 112.63%;
+  left: 74.81%;
+  top: -6.32%;
+  width: 28.02%;
+}
+
+.x00-process-codes-landing-page .ellipse-2-jYl086 {
   background-color: var(--bittersweet);
   border-radius: 6.19px;
   height: 12px;
-  left: 177px;
+  left: 218px;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 172px;
+  top: 227px;
   width: 12px;
 }
 
-.x00-process-codes-landing-page .ellipse-5-1 {
+.x00-process-codes-landing-page .ellipse-5-jYl086 {
   background-color: var(--bittersweet);
   border-radius: 6.19px;
   height: 12px;
-  left: 102px;
+  left: 142px;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 147px;
+  top: 202px;
   width: 12px;
 }
 
-.x00-process-codes-landing-page .ellipse-3-1 {
+.x00-process-codes-landing-page .ellipse-3-jYl086 {
   background-color: var(--blue-violet);
   border-radius: 6.19px;
   height: 12px;
-  left: 102px;
+  left: 142px;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 199px;
+  top: 254px;
   width: 12px;
 }
 
-.x00-process-codes-landing-page .ellipse-4-1 {
+.x00-process-codes-landing-page .ellipse-4-jYl086 {
   background-color: var(--blue-violet);
   border-radius: 6.19px;
   height: 12px;
-  left: 176px;
+  left: 217px;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 276px;
+  top: 331px;
   width: 12px;
 }
 
-.x00-process-codes-landing-page .ellipse-7 {
+.x00-process-codes-landing-page .ellipse-zhhp7Y {
   background-color: var(--fpchlyellow);
   border-radius: 7.73px;
   height: 15px;
-  left: 54px;
+  left: 94px;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 149px;
+  top: 204px;
   width: 15px;
 }
 
-.x00-process-codes-landing-page .vector-3-1 {
+.x00-process-codes-landing-page .vector-3-jYl086 {
+  background-color: transparent;
   height: 29px;
-  left: 107px;
+  left: 147px;
   position: absolute;
-  top: 177px;
+  top: 232px;
   width: 78px;
 }
 
-.x00-process-codes-landing-page .vector-5 {
+.x00-process-codes-landing-page .vector-5-jYl086 {
+  background-color: transparent;
   height: 41px;
-  left: 46px;
+  left: 86px;
   position: absolute;
-  top: 113px;
+  top: 168px;
   width: 64px;
 }
 
-.x00-process-codes-landing-page .vector-4-1 {
+.x00-process-codes-landing-page .vector-4-jYl086 {
+  background-color: transparent;
   height: 79px;
-  left: 107px;
+  left: 147px;
   position: absolute;
-  top: 204px;
+  top: 259px;
   width: 76px;
 }
 
-.x00-process-codes-landing-page .ellipse-8 {
+.x00-process-codes-landing-page .ellipse-1AsnVk {
   background-color: var(--fpchlyellow);
   border-radius: 7.73px;
   height: 15px;
-  left: 298px;
+  left: 338px;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 149px;
+  top: 204px;
   width: 15px;
 }
 
-.x00-process-codes-landing-page .ellipse-9 {
+.x00-process-codes-landing-page .ellipse-GvAoCj {
   background-color: var(--fpchlyellow);
   border-radius: 7.73px;
   height: 15px;
-  left: 90px;
+  left: 130px;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 239px;
+  top: 294px;
   width: 15px;
 }
 
-.x00-process-codes-landing-page .ellipse-10 {
+.x00-process-codes-landing-page .ellipse-6vKu8V {
   background-color: var(--fpchlyellow);
   border-radius: 23.2px;
-  height: 46px;
-  left: 205px;
+  height: 10.71%;
+  left: 56.67%;
+  mix-blend-mode: normal;
   position: absolute;
-  top: 61px;
-  width: 46px;
+  top: 26.90%;
+  width: 10.71%;
 }
 
-.x00-process-codes-landing-page .comment-1 {
-  align-items: flex-start;
-  display: flex;
+.x00-process-codes-landing-page .comment-TFAQdg {
   height: 59px;
-  justify-content: flex-end;
-  left: 199px;
-  min-width: 59px;
-  position: absolute;
-  top: 55px;
+  left: 239px;
+  top: 110px;
   transform: rotate(180deg);
+  width: 59px;
 }
 
-.x00-process-codes-landing-page .overlap-group1 {
-  height: 61px;
-  margin-top: -1.03px;
-  position: relative;
-  width: 61px;
-}
-
-.x00-process-codes-landing-page .union-1 {
-  height: 61px;
-  left: 0;
-  position: absolute;
-  top: 0;
+.x00-process-codes-landing-page .union-xChV9Z {
+  height: 103.51%;
+  left: -1.75%;
+  top: -1.75%;
   transform: rotate(-180deg);
-  width: 61px;
+  width: 103.51%;
 }
 
-.x00-process-codes-landing-page .group-2-1 {
-  height: 21px;
-  left: 20px;
-  position: absolute;
-  top: 20px;
+.x00-process-codes-landing-page .group-2-xChV9Z {
+  height: 34.94%;
+  left: 32.53%;
+  top: 32.53%;
   transform: rotate(-180deg);
-  width: 21px;
+  width: 34.94%;
 }
 
-.x00-process-codes-landing-page .main-frame {
+.x00-process-codes-landing-page .main-frame-kTDj0x {
   align-items: flex-start;
+  background-color: transparent;
   display: flex;
   gap: 58px;
+  height: auto;
   padding: 0px 0px 60px;
   position: relative;
   width: 1080px;
 }
 
-.x00-process-codes-landing-page .content-1 {
-  align-items: flex-start;
-  display: flex;
+.x00-process-codes-landing-page .content-UxYnq6 {
   flex: 1;
-  flex-direction: column;
   gap: 30px;
-  position: relative;
 }
 
-.x00-process-codes-landing-page .intro-1 {
+.x00-process-codes-landing-page .intro-G9FcWJ {
   align-items: flex-start;
   align-self: stretch;
-  display: flex;
+  background-color: transparent;
   flex-direction: column;
   gap: 20px;
-  position: relative;
 }
 
-.x00-process-codes-landing-page .what-is-a-process-code {
+.x00-process-codes-landing-page .what-is-a-process-code-crDKiX {
   align-self: stretch;
+  background-color: transparent;
   color: var(--black);
+  font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
 }
 
-.x00-process-codes-landing-page .every-day-public-se {
+.x00-process-codes-landing-page .every-day-public-sec-crDKiX {
   align-self: stretch;
+  background-color: transparent;
   color: var(--black);
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-m);
+  font-style: normal;
   font-weight: 400;
-  letter-spacing: 0;
+  letter-spacing: 0.00px;
   line-height: 16px;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
 }
 
-.x00-process-codes-landing-page .module {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: var(--white);
+.x00-process-codes-landing-page .module-G9FcWJ {
   border: 2px solid;
   border-color: var(--black);
-  border-radius: 6px;
   box-shadow: 0px 4px 0px #00000026;
   cursor: pointer;
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-  padding: 30px;
-  position: relative;
 }
 
-.x00-process-codes-landing-page .pc01-software-procurement {
+.x00-process-codes-landing-page .pc01-software-procurement-mCQUxp {
   align-self: stretch;
+  background-color: transparent;
   color: var(--black);
+  font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -2.00px;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
 }
 
-.x00-process-codes-landing-page .this-process-code-wi {
+.x00-process-codes-landing-page .this-process-code-wi-mCQUxp {
   align-self: stretch;
+  background-color: transparent;
   color: var(--black);
+  font-style: normal;
   font-weight: 400;
   line-height: normal;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
 }
 
-.x00-process-codes-landing-page .see-this-process-code {
+.x00-process-codes-landing-page .see-this-process-code-mCQUxp {
+  background-color: transparent;
   cursor: pointer;
-  letter-spacing: 0;
+  letter-spacing: 0.00px;
   line-height: normal;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
   width: fit-content;
 }
 
-.x00-process-codes-landing-page .module-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: var(--white);
+.x00-process-codes-landing-page .module-fsCnRx {
   border: 2px dashed;
   border-color: var(--fpchlyellow);
-  border-radius: 6px;
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
   margin-bottom: -1.00px;
   margin-left: -1.00px;
   margin-right: -1.00px;
-  padding: 30px;
-  position: relative;
 }
 
-.x00-process-codes-landing-page .have-a-suggestion {
+.x00-process-codes-landing-page .have-a-suggestion-SOBOJJ {
   align-self: stretch;
+  background-color: transparent;
   color: var(--black);
+  font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
 }
 
-.x00-process-codes-landing-page .if-you-or-your-organ {
+.x00-process-codes-landing-page .if-you-or-your-organ-SOBOJJ {
   align-self: stretch;
+  background-color: transparent;
   color: var(--black);
+  font-style: normal;
   font-weight: 400;
   line-height: normal;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
 }
 
-.x00-process-codes-landing-page .contact-us {
+.x00-process-codes-landing-page .contact-us-SOBOJJ {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
 }
 
-.x00-process-codes-landing-page .sidebarv2 {
+.x00-process-codes-landing-page .sidebarv2-UxYnq6 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--cultured-pearl);
@@ -630,178 +794,845 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  mix-blend-mode: normal;
   padding: 20px;
   position: relative;
   width: fit-content;
 }
 
-.x00-process-codes-landing-page .frame-115 {
-  gap: 10px;
-  padding: 0px 10px;
+.x00-process-codes-landing-page .top-Fw2DTG {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: auto;
+  position: relative;
   width: fit-content;
 }
 
-.x00-process-codes-landing-page .related-pages-codeba {
+.x00-process-codes-landing-page .frame-115-qmkOkU {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: auto;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.x00-process-codes-landing-page .related-pages-codeba-8lhxRx {
+  background-color: transparent;
   color: transparent;
+  font-style: normal;
   font-weight: 400;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
   width: fit-content;
 }
 
-.x00-process-codes-landing-page .span0-1 {
+.x00-process-codes-landing-page .span0-1ngikr {
   color: var(--black);
+  font-style: normal;
   font-weight: 700;
 }
 
-.x00-process-codes-landing-page .span {
+.x00-process-codes-landing-page .span1-1ngikr {
   color: var(--fpclinkblue);
+  font-style: normal;
   font-weight: 600;
   text-decoration: underline;
 }
 
-.x00-process-codes-landing-page .flex-col {
+.x00-process-codes-landing-page .span2-1ngikr {
+  color: var(--fpclinkblue);
+  font-style: normal;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.x00-process-codes-landing-page .span3-1ngikr {
+  color: var(--fpclinkblue);
+  font-weight: 600;
+}
+
+.x00-process-codes-landing-page .sidebarbottom-Fw2DTG {
   align-items: flex-start;
+  background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 60px;
-  left: 180px;
-  min-height: 796px;
+  height: auto;
   position: relative;
-  top: 60px;
-  width: 1080px;
+  width: fit-content;
 }
 
-.x00-process-codes-landing-page .content {
+.x00-process-codes-landing-page .have-a-question-qIIxy5 {
   align-items: flex-start;
-  align-self: stretch;
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  gap: 10px;
+  height: auto;
+  width: 240px;
+}
+
+.x00-process-codes-landing-page .have-a-question-kOCNR4 {
+  align-self: stretch;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.x00-process-codes-landing-page .email-us-kOCNR4 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x00-process-codes-landing-page .footer-kTDj0x {
+  align-self: stretch;
+  background-color: transparent;
+  height: 916px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
   position: relative;
 }
 
-.x00-process-codes-landing-page .links {
+.x00-process-codes-landing-page .base-dbgaBi {
+  background-color: var(--concrete);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.x00-process-codes-landing-page .information-dbgaBi {
+  background-color: transparent;
+  height: 281px;
+  left: calc(50.00% - 540px);
+  position: absolute;
+  top: 575px;
+  width: 1024px;
+}
+
+.x00-process-codes-landing-page .metadata-Od89iT {
   align-items: flex-start;
-  align-self: stretch;
+  background-color: transparent;
   display: flex;
+  flex-direction: column;
   gap: 10px;
-  justify-content: flex-end;
+  height: auto;
+  left: calc(50.00% - 142px);
+  position: absolute;
+  top: 196px;
+  width: fit-content;
+}
+
+.x00-process-codes-landing-page .updated-7Uy3Bn {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 8px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.x00-process-codes-landing-page .icon-clock-PkxJxZ {
+  background-color: transparent;
+  height: 16px;
+  min-width: 16px;
+  mix-blend-mode: normal;
   position: relative;
 }
 
-.x00-process-codes-landing-page .links-1 {
-  align-items: flex-end;
-  align-self: stretch;
+.x00-process-codes-landing-page .last-updated-15-february-2021-PkxJxZ {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x00-process-codes-landing-page .copyright-7Uy3Bn {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.x00-process-codes-landing-page .text_label-uX4tt4 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x00-process-codes-landing-page .x2021-foundation-for-public-code-uX4tt4 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x00-process-codes-landing-page .span0-NgmDI6 {
+  font-style: normal;
+}
+
+.x00-process-codes-landing-page .span1-NgmDI6 {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x00-process-codes-landing-page .license-7Uy3Bn {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 8px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.x00-process-codes-landing-page .iconlicense-IPpGnM {
+  background-color: transparent;
+  height: 14.5px;
+  min-width: 16px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x00-process-codes-landing-page .creative-commons-zero-v10-universal-IPpGnM {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 299px;
+}
+
+.x00-process-codes-landing-page .organizational-notes-Od89iT {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 142px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 650px;
+}
+
+.x00-process-codes-landing-page .foundation-for-publi-Od89iT {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 142px);
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 650px;
+}
+
+.x00-process-codes-landing-page .span0-6axrGu {
+  font-style: normal;
+}
+
+.x00-process-codes-landing-page .span1-6axrGu {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x00-process-codes-landing-page .span2-6axrGu {
+  font-style: normal;
+}
+
+.x00-process-codes-landing-page .span4-6axrGu {
+  font-style: normal;
+}
+
+.x00-process-codes-landing-page .span5-6axrGu {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x00-process-codes-landing-page .span6-6axrGu {
+  font-style: normal;
+}
+
+.x00-process-codes-landing-page .span7-6axrGu {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x00-process-codes-landing-page .span8-6axrGu {
+  font-style: normal;
+}
+
+.x00-process-codes-landing-page .contact-Od89iT {
+  height: 201px;
+  left: calc(50.00% - 512px);
+  width: 345px;
+}
+
+.x00-process-codes-landing-page .contact-ALH8so {
+  height: auto;
+  left: calc(50.00% - 172px);
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  mix-blend-mode: normal;
+  text-align: left;
+  white-space: nowrap;
+  width: 120px;
+}
+
+.x00-process-codes-landing-page .frame-201-ALH8so {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
   flex-direction: column;
   gap: 15px;
+  height: auto;
+  left: calc(50.00% - 172px);
+  position: absolute;
+  top: 36px;
+  width: fit-content;
 }
 
-.x00-process-codes-landing-page .links-2 {
-  align-items: flex-end;
-  align-self: stretch;
-  gap: 10px;
-  justify-content: flex-end;
-}
-
-.x00-process-codes-landing-page .frame-201 {
-  flex-direction: column;
-  gap: 15px;
-  height: 165px;
-  margin-left: -2px;
-  width: 343px;
-}
-
-.x00-process-codes-landing-page .group-196 {
-  display: flex;
-  gap: 18px;
+.x00-process-codes-landing-page .group-196-xFAsXW {
+  background-color: transparent;
   height: 20px;
   margin-right: -4.00px;
   min-width: 347px;
   position: relative;
 }
 
-.x00-process-codes-landing-page .group-197 {
-  display: flex;
-  gap: 52px;
+.x00-process-codes-landing-page .join-our-mailing-list-rs4HE4 {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  width: 240px;
+}
+
+.x00-process-codes-landing-page .newsletter-rs4HE4 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x00-process-codes-landing-page .group-197-xFAsXW {
+  background-color: transparent;
   height: 20px;
   margin-right: -4.00px;
   min-width: 347px;
   position: relative;
 }
 
-.x00-process-codes-landing-page .group-200 {
-  display: flex;
-  gap: 58px;
+.x00-process-codes-landing-page .x31-20-2-444-500-smyyv2 {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  width: 240px;
+}
+
+.x00-process-codes-landing-page .phone-smyyv2 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x00-process-codes-landing-page .group-200-xFAsXW {
+  background-color: transparent;
   height: 20px;
   margin-right: -4.00px;
   min-width: 347px;
   position: relative;
 }
 
-.x00-process-codes-landing-page .group-199 {
+.x00-process-codes-landing-page .infopubliccodenet-94Nc96 {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  width: 240px;
+}
+
+.x00-process-codes-landing-page .email-94Nc96 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x00-process-codes-landing-page .group-199-xFAsXW {
+  background-color: transparent;
   height: 60px;
   margin-right: -4.00px;
   min-width: 347px;
   position: relative;
 }
 
-.x00-process-codes-landing-page .flex-col-1 {
-  left: 103px;
-  min-height: 60px;
-  position: absolute;
-  top: 0;
-  width: 240px;
-}
-
-.x00-process-codes-landing-page .links-3 {
+.x00-process-codes-landing-page .links-Hbhx42 {
   align-items: flex-start;
   gap: 10px;
+  left: 103px;
+  position: absolute;
+  top: 40px;
   width: fit-content;
 }
 
-.x00-process-codes-landing-page .text-3 {
-  color: var(--black);
+.x00-process-codes-landing-page .open-street-map-kLTQdR {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
   font-weight: 400;
   line-height: normal;
   margin-top: -1.00px;
+  mix-blend-mode: normal;
   position: relative;
+  text-align: left;
+  text-decoration: underline;
   width: fit-content;
 }
 
-.x00-process-codes-landing-page .flex-col-2 {
-  min-height: 281px;
-  width: 650px;
+.x00-process-codes-landing-page .x-kLTQdR {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
 }
 
-.x00-process-codes-landing-page .span-2 {
+.x00-process-codes-landing-page .google-kLTQdR {
+  background-color: transparent;
+  color: var(--fpclinkblue);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x00-process-codes-landing-page .keizersgracht-617-10-Hbhx42 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 240px;
+}
+
+.x00-process-codes-landing-page .address-Hbhx42 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x00-process-codes-landing-page .block-trio-dbgaBi {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 20px;
+  height: 340px;
+  left: calc(50.00% - 540px);
+  position: absolute;
+  top: 175px;
+  width: 1080px;
+}
+
+.x00-process-codes-landing-page .about-us-sd6hK5 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x00-process-codes-landing-page .content-xrGJRL {
+  align-self: stretch;
+  gap: 15px;
+}
+
+.x00-process-codes-landing-page .about-us-Hba0so {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x00-process-codes-landing-page .all-of-our-staff-inf-Hba0so {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x00-process-codes-landing-page .links-xrGJRL {
+  align-items: flex-start;
+  align-self: stretch;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.x00-process-codes-landing-page .how-we-work-JPUkzG {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.x00-process-codes-landing-page .project-resources-sd6hK5 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x00-process-codes-landing-page .content-SchQxx {
+  align-self: stretch;
+  gap: 15px;
+}
+
+.x00-process-codes-landing-page .project-resources-DJJzLg {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x00-process-codes-landing-page .open-products-were-r-DJJzLg {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x00-process-codes-landing-page .links-SchQxx {
+  align-items: flex-end;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+}
+
+.x00-process-codes-landing-page .free-to-use-and-modify-46LEav {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+}
+
+.x00-process-codes-landing-page .see-all-our-work-on-git-hub-46LEav {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+}
+
+.x00-process-codes-landing-page .careers-sd6hK5 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x00-process-codes-landing-page .content-6WpOiX {
+  align-self: stretch;
+  gap: 15px;
+}
+
+.x00-process-codes-landing-page .careers-xeRM8Q {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x00-process-codes-landing-page .calling-all-publicly-xeRM8Q {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x00-process-codes-landing-page .links-6WpOiX {
+  align-items: flex-end;
+  align-self: stretch;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.x00-process-codes-landing-page .open-positions-bJdJnk {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.x00-process-codes-landing-page .logo-title-dbgaBi {
+  left: calc(50.00% - 540px);
+  position: absolute;
+  top: 60px;
+  width: 410px;
+}
+
+.x00-process-codes-landing-page .comment {
+  background-color: transparent;
+  position: absolute;
+}
+
+.x00-process-codes-landing-page .content {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  position: relative;
+}
+
+.x00-process-codes-landing-page .group-2 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.x00-process-codes-landing-page .intro {
+  display: flex;
+  height: auto;
+  position: relative;
+}
+
+.x00-process-codes-landing-page .line {
+  background-color: transparent;
+  height: 98.51%;
+  left: 36.31%;
+  position: absolute;
+  top: 2.32%;
+  width: 27.86%;
+}
+
+.x00-process-codes-landing-page .module {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: auto;
+  mix-blend-mode: normal;
+  padding: 30px;
+  position: relative;
+}
+
+.x00-process-codes-landing-page .rectangle {
+  background-color: transparent;
+  position: absolute;
+}
+
+.x00-process-codes-landing-page .rectangle-315 {
+  border-radius: 5.16px;
+  position: absolute;
+}
+
+.x00-process-codes-landing-page .rectangle-316 {
+  border-radius: 5.16px;
+  position: absolute;
+}
+
+.x00-process-codes-landing-page .rectangle-317 {
+  border-radius: 5.16px;
+  position: absolute;
+}
+
+.x00-process-codes-landing-page .span3 {
+  font-style: normal;
   text-decoration: underline;
 }
 
-.x00-process-codes-landing-page .flex-col-3 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-}
-
-.x00-process-codes-landing-page .frame {
-  align-items: flex-start;
-  display: flex;
-  position: relative;
-}
-
-.x00-process-codes-landing-page .links-4 {
-  display: flex;
-  position: relative;
-}
-
-.x00-process-codes-landing-page .symbol-dev-3 {
-  align-items: flex-end;
-  display: flex;
-  gap: 4px;
-  height: 16px;
-  justify-content: center;
-  min-width: 36px;
+.x00-process-codes-landing-page .union {
+  background-color: transparent;
   position: absolute;
 }
