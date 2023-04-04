@@ -1,7 +1,7 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 @import url("https://fonts.googleapis.com/css?family=Mulish:400,600italic,700,400italic,600,700italic");
 /* The following line is used to measure usage of this code in production. For more info see our usage billing page */
-@import url("https://px.animaapp.com/6406baa484a3afe9c63921de.6406baa605cc73851b593804.u0IxDzb.hcp.png");
+@import url("https://px.animaapp.com/6406baa484a3afe9c63921de.6406baa605cc73851b593804.WV5wQYL.hcp.png");
 
 
 
@@ -215,14 +215,6 @@
   width: 2px;
 }
 
-.title-4 {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-}
-
 .actions {
   align-items: flex-start;
   align-self: stretch;
@@ -245,6 +237,28 @@
   height: 32px;
   min-width: 32px;
   position: relative;
+}
+
+.bulb {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 7px;
+  min-height: 24px;
+  position: relative;
+  top: 3px;
+  width: 18px;
+}
+
+.group-194 {
+  height: 4px;
+  width: 8px;
+}
+
+.line-48 {
+  height: 2px;
+  width: 7px;
 }
 
 .an-action-that-requires-high-engagement {
@@ -283,34 +297,20 @@
   position: relative;
 }
 
-.bulb {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  gap: 2px;
-  left: 7px;
-  min-height: 24px;
-  position: relative;
-  top: 3px;
-  width: 18px;
-}
-
-.group-194 {
-  height: 4px;
-  width: 8px;
-}
-
-.line-48 {
-  height: 2px;
-  width: 7px;
-}
-
 .outcomes {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
   flex-direction: column;
   gap: 30px;
+  position: relative;
+}
+
+.goals {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 20px;
   position: relative;
 }
 
@@ -401,21 +401,6 @@
   height: 15px;
   line-height: normal;
   width: 48px;
-}
-
-.next {
-  color: var(--white);
-  font-weight: 400;
-  height: 15px;
-  line-height: normal;
-  width: 27px;
-}
-
-.arrow-32-1 {
-  height: 12.47px;
-  margin-right: -0.85px;
-  min-width: 15.24px;
-  position: relative;
 }
 
 .sidebarv2-item {
@@ -583,6 +568,22 @@
   position: relative;
   text-decoration: underline;
   width: fit-content;
+}
+
+.headline {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.eco-system-1 {
+  background-color: var(--melon);
+  height: 433.1px;
+  min-width: 433.1px;
+  position: relative;
 }
 
 .footer {
@@ -965,21 +966,12 @@
   position: relative;
 }
 
-.outcome-3 {
+.outcome-4 {
   align-items: flex-start;
   display: flex;
   flex: 1;
   flex-direction: column;
   position: relative;
-}
-
-.source-name-6 {
-  color: var(--black);
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  width: fit-content;
 }
 
 .text {
@@ -995,6 +987,19 @@
   color: var(--black);
   font-weight: 400;
   line-height: 21px;
+  position: relative;
+}
+
+.v2-4 {
+  align-items: flex-end;
+  background-image: url(../img/gear-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 4px;
+  min-width: 24px;
+  padding: 8.2px 6.5px;
   position: relative;
 }
 
@@ -1152,6 +1157,14 @@
   width: 216px;
 }
 
+.next {
+  color: var(--white);
+  font-weight: 400;
+  height: 15px;
+  line-height: normal;
+  width: 27px;
+}
+
 .e-subsection-name {
   color: var(--black);
   font-weight: 400;
@@ -1190,12 +1203,12 @@
   width: 2px;
 }
 
-.goals {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  gap: 20px;
-  position: relative;
+.x-5 {
+  height: 8px;
+  left: 18px;
+  position: absolute;
+  top: 3px;
+  width: 2px;
 }
 
 .arrow-2 {
@@ -1206,6 +1219,37 @@
 .arrow-2-1 {
   height: 9px;
   width: 11px;
+}
+
+.arrow-32-1 {
+  height: 12.47px;
+  margin-right: -0.85px;
+  min-width: 15.24px;
+  position: relative;
+}
+
+.challenge-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.outcome-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  position: relative;
+}
+
+.title-4 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
 }
 
 .you-should-read-this {
@@ -1235,14 +1279,6 @@
   width: fit-content;
 }
 
-.challenge-4 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  gap: 10px;
-  position: relative;
-}
-
 .source-name-4 {
   color: var(--black);
   font-weight: 400;
@@ -1252,65 +1288,22 @@
   width: fit-content;
 }
 
-.headline {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
-  position: relative;
-  width: fit-content;
-}
-
-.eco-system-1 {
-  background-color: var(--melon);
-  height: 433.1px;
-  min-width: 433.1px;
-  position: relative;
-}
-
-.outcome-4 {
-  align-items: flex-start;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  position: relative;
-}
-
-.v2-4 {
-  align-items: flex-end;
-  background-image: url(../img/gear-2@2x.png);
-  background-size: 100% 100%;
-  display: flex;
-  height: 26px;
-  justify-content: flex-end;
-  left: 4px;
-  min-width: 24px;
-  padding: 8.2px 6.5px;
-  position: relative;
-}
-
-.goal-1 {
-  align-items: flex-start;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  position: relative;
-}
-
-.this-is-a-goal-for-a-1 {
+.an-action-that-requires-high-engagement-11 {
   align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.source-name-6 {
   color: var(--black);
   font-weight: 400;
-  line-height: 21px;
+  line-height: normal;
+  margin-top: -1.00px;
   position: relative;
-}
-
-.x-5 {
-  height: 8px;
-  left: 18px;
-  position: absolute;
-  top: 3px;
-  width: 2px;
+  width: fit-content;
 }
 
 .outcome-1 {
@@ -1319,15 +1312,6 @@
   flex: 1;
   flex-direction: column;
   position: relative;
-}
-
-.an-action-that-requires-high-engagement-11 {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
 }
 
 .goal-4 {
@@ -1365,6 +1349,22 @@
   margin-top: -1.00px;
   position: relative;
   width: fit-content;
+}
+
+.goal-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  position: relative;
+}
+
+.this-is-a-goal-for-a-1 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
 }
 
 .challenge-1 {

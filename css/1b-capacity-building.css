@@ -336,11 +336,11 @@
 }
 
 .x1b-capacity-building .v2-1 {
-  background-image: url(../img/gear-2-6@2x.png);
+  background-image: url(../img/gear-2-9@2x.png);
 }
 
 .x1b-capacity-building .v2-2 {
-  background-image: url(../img/gear-2-5@2x.png);
+  background-image: url(../img/gear-2-10@2x.png);
 }
 
 .x1b-capacity-building .frame-140 {
@@ -349,7 +349,7 @@
   gap: 30px;
 }
 
-.x1b-capacity-building .text-4 {
+.x1b-capacity-building .text-6 {
   text-align: right;
   width: 30px;
 }
@@ -561,7 +561,7 @@
   width: fit-content;
 }
 
-.x1b-capacity-building .text-5 {
+.x1b-capacity-building .text-7 {
   width: fit-content;
 }
 
