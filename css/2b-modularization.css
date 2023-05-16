@@ -234,6 +234,14 @@
   gap: 10px;
 }
 
+.x2b-modularization .icongoal-L76VSg {
+  min-width: 32.009765625px;
+}
+
+.x2b-modularization .icongoal-eWpiVU {
+  min-width: 32.009765625px;
+}
+
 .x2b-modularization .challenges-XySe0b {
   align-items: flex-start;
   align-self: stretch;
@@ -281,15 +289,6 @@
   line-height: 24px;
 }
 
-.x2b-modularization .x-O2XAYx {
-  background-color: transparent;
-  height: 44.56%;
-  left: 46.80%;
-  position: absolute;
-  top: 21.88%;
-  width: 7.81%;
-}
-
 .x2b-modularization .content-SoWaAr {
   background-color: transparent;
   flex: 1;
@@ -303,15 +302,6 @@
   margin-top: -1.00px;
   mix-blend-mode: normal;
   text-align: left;
-}
-
-.x2b-modularization .x-eUR6cH {
-  background-color: transparent;
-  height: 44.56%;
-  left: 46.80%;
-  position: absolute;
-  top: 21.88%;
-  width: 7.81%;
 }
 
 .x2b-modularization .content-CvyBx0 {
@@ -400,16 +390,27 @@
   text-align: left;
 }
 
-.x2b-modularization .in-a-contemporary-ag-XTFOq1 {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x2b-modularization .flex-container-XTFOq1 {
+  height: 154px;
+  width: 742px;
+}
+
+.x2b-modularization .text0-csjuwx {
   line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
+  width: 742px;
+}
+
+.x2b-modularization .span0-YDXPBL {
+  font-style: normal;
+}
+
+.x2b-modularization .text1-csjuwx {
+  line-height: 24px;
+  width: 742px;
+}
+
+.x2b-modularization .span1-rTDDw3 {
+  font-style: normal;
 }
 
 .x2b-modularization .content-JYoTEY {
@@ -456,33 +457,6 @@
   width: fit-content;
 }
 
-.x2b-modularization .x-od2vPL {
-  background-color: transparent;
-  height: 25.81%;
-  left: 74.20%;
-  position: absolute;
-  top: 15.62%;
-  width: 7.81%;
-}
-
-.x2b-modularization .line-od2vPL {
-  height: 22px;
-  top: 4px;
-  width: 15px;
-}
-
-.x2b-modularization .line-WuDe8f {
-  height: 13px;
-  top: 15px;
-  width: 20px;
-}
-
-.x2b-modularization .line-tSu59E {
-  height: 4px;
-  top: 22px;
-  width: 18px;
-}
-
 .x2b-modularization .span0-IWhoCZ {
 }
 
@@ -496,51 +470,54 @@
   height: 8.4141845703125px;
 }
 
-.x2b-modularization .bullet-sub-bullet-sub-bullet-bullet-ZdvJhg {
-  line-height: 16px;
+.x2b-modularization .flex-container-ZdvJhg {
+  height: 209px;
+  width: 702px;
 }
 
-.x2b-modularization .span0-xvSPQq {
-  font-style: normal;
-  line-height: 24px;
-}
-
-.x2b-modularization .span1-xvSPQq {
-  font-style: normal;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-}
-
-.x2b-modularization .span2-xvSPQq {
-  font-style: normal;
-  line-height: 24px;
-}
-
-.x2b-modularization .span3-xvSPQq {
-  font-style: normal;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-}
-
-.x2b-modularization .span4-xvSPQq {
-  font-style: normal;
-  line-height: 24px;
-}
-
-.x2b-modularization .span5-xvSPQq {
-  font-style: normal;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-}
-
-.x2b-modularization .span6-xvSPQq {
-  font-style: normal;
-  line-height: 24px;
-}
-
-.x2b-modularization .span7-xvSPQq {
-  font-style: normal;
+.x2b-modularization .text0-ofi62T {
   line-height: 21px;
+  width: 702px;
+}
+
+.x2b-modularization .span0-WBneTk {
+  font-style: normal;
+}
+
+.x2b-modularization .text1-ofi62T {
+  line-height: 21px;
+  width: 702px;
+}
+
+.x2b-modularization .span1-35gj3C {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x2b-modularization .span2-35gj3C {
+  font-style: normal;
+}
+
+.x2b-modularization .text2-ofi62T {
+  width: 702px;
+}
+
+.x2b-modularization .span3-jA33wT {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x2b-modularization .span4-jA33wT {
+  font-style: normal;
+}
+
+.x2b-modularization .span5-dcl9Mb {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x2b-modularization .span6-dcl9Mb {
+  font-style: normal;
 }
 
 .x2b-modularization .cluster-Jdx1D7 {
@@ -583,30 +560,49 @@
   white-space: nowrap;
 }
 
-.x2b-modularization .span0-jda7WW {
+.x2b-modularization .flex-container-yQu8Zo {
+  height: 73px;
+  width: 655px;
+}
+
+.x2b-modularization .text0-KJ3tjA {
+  line-height: 21px;
+  width: 655px;
+}
+
+.x2b-modularization .span0-jrnZqx {
   font-style: normal;
   font-weight: 700;
 }
 
-.x2b-modularization .span1-jda7WW {
+.x2b-modularization .span1-jrnZqx {
   font-style: normal;
 }
 
-.x2b-modularization .span2-jda7WW {
-  font-style: normal;
-  font-weight: 700;
+.x2b-modularization .text1-KJ3tjA {
+  line-height: 21px;
+  width: 655px;
 }
 
-.x2b-modularization .span3-jda7WW {
-  font-style: normal;
-}
-
-.x2b-modularization .span4-jda7WW {
+.x2b-modularization .span2-giLEhP {
   font-style: normal;
   font-weight: 700;
 }
 
-.x2b-modularization .span5-jda7WW {
+.x2b-modularization .span3-giLEhP {
+  font-style: normal;
+}
+
+.x2b-modularization .text2-KJ3tjA {
+  width: 655px;
+}
+
+.x2b-modularization .span4-e68Eyn {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x2b-modularization .span5-e68Eyn {
   font-style: normal;
 }
 
@@ -624,55 +620,67 @@
   width: fit-content;
 }
 
-.x2b-modularization .x-lH3Q1x {
-  background-color: transparent;
-  height: 25.81%;
-  left: 74.20%;
-  position: absolute;
-  top: 15.62%;
-  width: 7.81%;
-}
-
-.x2b-modularization .line-lH3Q1x {
-  height: 22px;
-  top: 4px;
-  width: 15px;
-}
-
-.x2b-modularization .line-xc2wxd {
-  height: 13px;
-  top: 15px;
-  width: 20px;
-}
-
-.x2b-modularization .line-tsWutx {
-  height: 4px;
-  top: 22px;
-  width: 18px;
-}
-
 .x2b-modularization .arrowdown-3fDaSR {
   height: 8.414306640625px;
 }
 
-.x2b-modularization .bullet-sub-bullet-sub-bullet-bullet-cmxXMN {
-  line-height: 14px;
+.x2b-modularization .flex-container-cmxXMN {
+  height: 193px;
+  width: 702px;
 }
 
-.x2b-modularization .span0-IsxHBq {
-  font-style: normal;
+.x2b-modularization .text0-5z06n4 {
   line-height: 21px;
+  width: 702px;
 }
 
-.x2b-modularization .span1-IsxHBq {
+.x2b-modularization .span0-jtNAGJ {
   font-style: normal;
-  letter-spacing: 0.00px;
-  line-height: 24px;
 }
 
-.x2b-modularization .span2-IsxHBq {
+.x2b-modularization .span1-jtNAGJ {
   font-style: normal;
+  font-weight: 700;
+}
+
+.x2b-modularization .text1-5z06n4 {
   line-height: 21px;
+  white-space: nowrap;
+  width: 702px;
+}
+
+.x2b-modularization .span2-2IesRh {
+  font-style: normal;
+}
+
+.x2b-modularization .text2-5z06n4 {
+  white-space: nowrap;
+  width: 702px;
+}
+
+.x2b-modularization .span3-c4hPC1 {
+  font-style: normal;
+}
+
+.x2b-modularization .span4-6y76Ay {
+  font-style: normal;
+}
+
+.x2b-modularization .text4-5z06n4 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 702px;
+}
+
+.x2b-modularization .span5-xkMeg3 {
+  font-style: normal;
 }
 
 .x2b-modularization .outcomes-XySe0b {
@@ -688,6 +696,14 @@
 
 .x2b-modularization .cluster-CPY0Ig {
   gap: 20px;
+}
+
+.x2b-modularization .icongoal-OUbjqh {
+  min-width: 32.00901794433594px;
+}
+
+.x2b-modularization .icongoal-vEBQ2z {
+  min-width: 32.00901794433594px;
 }
 
 .x2b-modularization .this-is-an-outcome-t-vEBQ2z {
@@ -1193,58 +1209,65 @@
   width: 650px;
 }
 
-.x2b-modularization .foundation-for-publi-xVbWNA {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: calc(50.00% - 142px);
-  line-height: 24px;
-  mix-blend-mode: normal;
+.x2b-modularization .flex-container-xVbWNA {
+  height: 130px;
+  left: 370px;
   position: absolute;
-  text-align: left;
   top: 36px;
   width: 650px;
 }
 
-.x2b-modularization .span0-xXuxtE {
+.x2b-modularization .text0-cb7x5R {
+  line-height: 24px;
+  width: 650px;
+}
+
+.x2b-modularization .span0-DuGPIe {
   font-style: normal;
 }
 
-.x2b-modularization .span1-xXuxtE {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2b-modularization .span2-xXuxtE {
-  font-style: normal;
-}
-
-.x2b-modularization .span3-xXuxtE {
+.x2b-modularization .span1-DuGPIe {
   font-style: normal;
   text-decoration: underline;
 }
 
-.x2b-modularization .span4-xXuxtE {
+.x2b-modularization .span2-DuGPIe {
   font-style: normal;
 }
 
-.x2b-modularization .span5-xXuxtE {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2b-modularization .span6-xXuxtE {
-  font-style: normal;
-}
-
-.x2b-modularization .span7-xXuxtE {
+.x2b-modularization .span3-DuGPIe {
   font-style: normal;
   text-decoration: underline;
 }
 
-.x2b-modularization .span8-xXuxtE {
+.x2b-modularization .span4-DuGPIe {
+  font-style: normal;
+}
+
+.x2b-modularization .text1-cb7x5R {
+  line-height: 24px;
+  width: 650px;
+}
+
+.x2b-modularization .span5-KAxjby {
+  font-style: normal;
+}
+
+.x2b-modularization .span6-KAxjby {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2b-modularization .span7-KAxjby {
+  font-style: normal;
+}
+
+.x2b-modularization .span8-KAxjby {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2b-modularization .span9-KAxjby {
   font-style: normal;
 }
 
@@ -1528,16 +1551,27 @@
   text-align: left;
 }
 
-.x2b-modularization .all-of-our-staff-inf-6XSfk7 {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x2b-modularization .flex-container-6XSfk7 {
+  height: 170px;
+  width: 286.6666564941406px;
+}
+
+.x2b-modularization .text0-s8bgTx {
   line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
+  width: 286.6666564941406px;
+}
+
+.x2b-modularization .span0-bfVX5U {
+  font-style: normal;
+}
+
+.x2b-modularization .text1-s8bgTx {
+  line-height: normal;
+  width: 286.6666564941406px;
+}
+
+.x2b-modularization .span1-eMaCUZ {
+  font-style: normal;
 }
 
 .x2b-modularization .links-iUENoU {
@@ -1735,17 +1769,6 @@
   position: relative;
 }
 
-.x2b-modularization .bullet-sub-bullet-sub-bullet-bullet {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
 .x2b-modularization .cluster {
   align-items: flex-start;
   align-self: stretch;
@@ -1763,16 +1786,12 @@
   position: relative;
 }
 
-.x2b-modularization .ellipse-193 {
+.x2b-modularization .flex-container {
+  align-items: flex-start;
   background-color: transparent;
-  border: 1.5px solid;
-  border-color: var(--black);
-  border-radius: 6.75px;
-  height: 14px;
-  left: 18px;
-  position: absolute;
-  top: 2px;
-  width: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
 .x2b-modularization .gear-2 {
@@ -1784,10 +1803,18 @@
   width: 100.00%;
 }
 
-.x2b-modularization .line {
+.x2b-modularization .icon-caution {
   background-color: transparent;
-  left: 6px;
-  position: absolute;
+  height: 32px;
+  min-width: 32.009765625px;
+  position: relative;
+}
+
+.x2b-modularization .iconguidelines {
+  background-color: transparent;
+  height: 32px;
+  min-width: 32.009765625px;
+  position: relative;
 }
 
 .x2b-modularization .link-title-here {
@@ -1812,6 +1839,49 @@
   mix-blend-mode: normal;
   position: relative;
   text-align: left;
+}
+
+.x2b-modularization .text0 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x2b-modularization .text1 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x2b-modularization .text2 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x2b-modularization .text3 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 702px;
 }
 
 .x2b-modularization .this-is-an-outcome-t {

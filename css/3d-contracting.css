@@ -234,6 +234,18 @@
   gap: 10px;
 }
 
+.x3d-contracting .icongoal-xkGTWg {
+  min-width: 32.0078125px;
+}
+
+.x3d-contracting .icongoal-h9DV2J {
+  min-width: 32.0078125px;
+}
+
+.x3d-contracting .icongoal-StVyzi {
+  min-width: 32.0078125px;
+}
+
 .x3d-contracting .challenges-WINxyX {
   align-items: flex-start;
   align-self: stretch;
@@ -275,15 +287,6 @@
   line-height: 24px;
 }
 
-.x3d-contracting .x-MmQxtm {
-  background-color: transparent;
-  height: 44.56%;
-  left: 46.80%;
-  position: absolute;
-  top: 21.88%;
-  width: 7.81%;
-}
-
 .x3d-contracting .content-uIzhB9 {
   background-color: transparent;
   flex: 1;
@@ -305,15 +308,6 @@
   font-weight: 400;
 }
 
-.x3d-contracting .x-F2J3o2 {
-  background-color: transparent;
-  height: 44.56%;
-  left: 46.80%;
-  position: absolute;
-  top: 21.88%;
-  width: 7.81%;
-}
-
 .x3d-contracting .content-WTQGX7 {
   background-color: transparent;
   flex: 1;
@@ -333,15 +327,6 @@
   color: var(--black);
   font-style: normal;
   font-weight: 400;
-}
-
-.x3d-contracting .x-VReIkq {
-  background-color: transparent;
-  height: 44.56%;
-  left: 46.80%;
-  position: absolute;
-  top: 21.88%;
-  width: 7.81%;
 }
 
 .x3d-contracting .content-yaTPAn {
@@ -400,16 +385,27 @@
   text-align: left;
 }
 
-.x3d-contracting .contracts-should-lay-TUnpNk {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x3d-contracting .flex-container-TUnpNk {
+  height: 130px;
+  width: 740px;
+}
+
+.x3d-contracting .text0-sQGHjx {
   line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
+  width: 740px;
+}
+
+.x3d-contracting .span0-RuyYKB {
+  font-style: normal;
+}
+
+.x3d-contracting .text1-sQGHjx {
+  line-height: 24px;
+  width: 740px;
+}
+
+.x3d-contracting .span1-4en7Wa {
+  font-style: normal;
 }
 
 .x3d-contracting .content-bSV7kP {
@@ -433,38 +429,35 @@
   width: fit-content;
 }
 
-.x3d-contracting .x-bU0TCJ {
-  background-color: transparent;
-  height: 25.81%;
-  left: 74.20%;
-  position: absolute;
-  top: 15.62%;
-  width: 7.81%;
-}
-
-.x3d-contracting .line-bU0TCJ {
-  height: 22px;
-  left: 6px;
-  top: 4px;
-  width: 15px;
-}
-
-.x3d-contracting .line-8LOEwc {
-  height: 13px;
-  left: 6px;
-  top: 15px;
-  width: 20px;
-}
-
-.x3d-contracting .line-YNlQ8l {
-  height: 4px;
-  left: 7px;
-  top: 22px;
-  width: 18px;
-}
-
 .x3d-contracting .arrowdown-6BAKrE {
   height: 8.4141845703125px;
+}
+
+.x3d-contracting .flex-container-MVR40w {
+  height: 157px;
+  width: 700px;
+}
+
+.x3d-contracting .text0-x1mBxc {
+  line-height: 21px;
+  width: 700px;
+}
+
+.x3d-contracting .span0-B2y7J8 {
+  font-style: normal;
+}
+
+.x3d-contracting .text1-x1mBxc {
+  line-height: 21px;
+  width: 700px;
+}
+
+.x3d-contracting .span1-TPjJmj {
+  font-style: normal;
+}
+
+.x3d-contracting .span2-iSBxou {
+  font-style: normal;
 }
 
 .x3d-contracting .frame-143-xSEmjM {
@@ -522,38 +515,53 @@
   width: fit-content;
 }
 
-.x3d-contracting .x-FwD8co {
-  background-color: transparent;
-  height: 25.81%;
-  left: 74.20%;
-  position: absolute;
-  top: 15.62%;
-  width: 7.81%;
-}
-
-.x3d-contracting .line-FwD8co {
-  height: 22px;
-  left: 6px;
-  top: 4px;
-  width: 15px;
-}
-
-.x3d-contracting .line-hnqKEW {
-  height: 13px;
-  left: 6px;
-  top: 15px;
-  width: 20px;
-}
-
-.x3d-contracting .line-qxktxC {
-  height: 4px;
-  left: 7px;
-  top: 22px;
-  width: 18px;
-}
-
 .x3d-contracting .arrowdown-1TNofg {
   height: 8.4141845703125px;
+}
+
+.x3d-contracting .flex-container-I4BZFd {
+  height: 162px;
+  width: 700px;
+}
+
+.x3d-contracting .text0-2ygI7C {
+  line-height: 21px;
+  white-space: nowrap;
+  width: 700px;
+}
+
+.x3d-contracting .span0-dlErwu {
+  font-style: normal;
+}
+
+.x3d-contracting .text1-2ygI7C {
+  line-height: 21px;
+  white-space: nowrap;
+  width: 700px;
+}
+
+.x3d-contracting .span1-bt82HB {
+  font-style: normal;
+}
+
+.x3d-contracting .span2-1hrT3v {
+  font-style: normal;
+}
+
+.x3d-contracting .text3-2ygI7C {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 700px;
+}
+
+.x3d-contracting .span3-QnFoAz {
+  font-style: normal;
 }
 
 .x3d-contracting .frame-144-xSEmjM {
@@ -713,50 +721,43 @@
   width: fit-content;
 }
 
-.x3d-contracting .x-78i5ic {
-  background-color: transparent;
-  height: 25.81%;
-  left: 74.20%;
-  position: absolute;
-  top: 15.62%;
-  width: 7.81%;
-}
-
-.x3d-contracting .line-78i5ic {
-  height: 22px;
-  left: 6px;
-  top: 4px;
-  width: 15px;
-}
-
-.x3d-contracting .line-dtxoYg {
-  height: 13px;
-  left: 6px;
-  top: 15px;
-  width: 20px;
-}
-
-.x3d-contracting .line-9EbNgq {
-  height: 4px;
-  left: 7px;
-  top: 22px;
-  width: 18px;
-}
-
 .x3d-contracting .arrowdown-6ltFRW {
   height: 8.414306640625px;
 }
 
-.x3d-contracting .span0-bo5x5p {
+.x3d-contracting .flex-container-Fr0PWV {
+  height: 157px;
+  width: 700px;
+}
+
+.x3d-contracting .text0-lGhSuR {
+  line-height: 21px;
+  width: 700px;
+}
+
+.x3d-contracting .span0-mYkgeT {
   font-style: normal;
 }
 
-.x3d-contracting .span1-bo5x5p {
+.x3d-contracting .span1-mYkgeT {
   font-style: normal;
   letter-spacing: 0.00px;
 }
 
-.x3d-contracting .span2-bo5x5p {
+.x3d-contracting .span2-mYkgeT {
+  font-style: normal;
+}
+
+.x3d-contracting .text1-lGhSuR {
+  line-height: 21px;
+  width: 700px;
+}
+
+.x3d-contracting .span3-4xW47f {
+  font-style: normal;
+}
+
+.x3d-contracting .span4-eV2xjA {
   font-style: normal;
 }
 
@@ -800,8 +801,16 @@
   position: relative;
 }
 
+.x3d-contracting .icongoal-Qa57Ul {
+  min-width: 32.00901794433594px;
+}
+
 .x3d-contracting .this-is-an-outcome-t-Qa57Ul {
   white-space: nowrap;
+}
+
+.x3d-contracting .icongoal-CQJ9pj {
+  min-width: 32.00901794433594px;
 }
 
 .x3d-contracting .references-WINxyX {
@@ -1311,58 +1320,65 @@
   width: 650px;
 }
 
-.x3d-contracting .foundation-for-publi-gn5SlU {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: calc(50.00% - 142px);
-  line-height: 24px;
-  mix-blend-mode: normal;
+.x3d-contracting .flex-container-gn5SlU {
+  height: 130px;
+  left: 370px;
   position: absolute;
-  text-align: left;
   top: 36px;
   width: 650px;
 }
 
-.x3d-contracting .span0-KZl35u {
+.x3d-contracting .text0-PmCS3w {
+  line-height: 24px;
+  width: 650px;
+}
+
+.x3d-contracting .span0-OsQIwi {
   font-style: normal;
 }
 
-.x3d-contracting .span1-KZl35u {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x3d-contracting .span2-KZl35u {
-  font-style: normal;
-}
-
-.x3d-contracting .span3-KZl35u {
+.x3d-contracting .span1-OsQIwi {
   font-style: normal;
   text-decoration: underline;
 }
 
-.x3d-contracting .span4-KZl35u {
+.x3d-contracting .span2-OsQIwi {
   font-style: normal;
 }
 
-.x3d-contracting .span5-KZl35u {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x3d-contracting .span6-KZl35u {
-  font-style: normal;
-}
-
-.x3d-contracting .span7-KZl35u {
+.x3d-contracting .span3-OsQIwi {
   font-style: normal;
   text-decoration: underline;
 }
 
-.x3d-contracting .span8-KZl35u {
+.x3d-contracting .span4-OsQIwi {
+  font-style: normal;
+}
+
+.x3d-contracting .text1-PmCS3w {
+  line-height: 24px;
+  width: 650px;
+}
+
+.x3d-contracting .span5-OB0yiU {
+  font-style: normal;
+}
+
+.x3d-contracting .span6-OB0yiU {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x3d-contracting .span7-OB0yiU {
+  font-style: normal;
+}
+
+.x3d-contracting .span8-OB0yiU {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x3d-contracting .span9-OB0yiU {
   font-style: normal;
 }
 
@@ -1646,16 +1662,27 @@
   text-align: left;
 }
 
-.x3d-contracting .all-of-our-staff-inf-ibDuRq {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x3d-contracting .flex-container-ibDuRq {
+  height: 170px;
+  width: 286.6666564941406px;
+}
+
+.x3d-contracting .text0-xW1o4h {
   line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
+  width: 286.6666564941406px;
+}
+
+.x3d-contracting .span0-e1Lxfx {
+  font-style: normal;
+}
+
+.x3d-contracting .text1-xW1o4h {
+  line-height: normal;
+  width: 286.6666564941406px;
+}
+
+.x3d-contracting .span1-5CgO9O {
+  font-style: normal;
 }
 
 .x3d-contracting .links-65vrFK {
@@ -1842,18 +1869,6 @@
   position: relative;
 }
 
-.x3d-contracting .bullet-sub-bullet-sub-bullet-bullet {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
 .x3d-contracting .cluster {
   align-items: flex-start;
   align-self: stretch;
@@ -1871,16 +1886,12 @@
   position: relative;
 }
 
-.x3d-contracting .ellipse-193 {
+.x3d-contracting .flex-container {
+  align-items: flex-start;
   background-color: transparent;
-  border: 1.5px solid;
-  border-color: var(--black);
-  border-radius: 6.75px;
-  height: 14px;
-  left: 18px;
-  position: absolute;
-  top: 2px;
-  width: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
 .x3d-contracting .gear-2 {
@@ -1892,9 +1903,18 @@
   width: 100.01%;
 }
 
-.x3d-contracting .line {
+.x3d-contracting .icon-caution {
   background-color: transparent;
-  position: absolute;
+  height: 32px;
+  min-width: 32.0078125px;
+  position: relative;
+}
+
+.x3d-contracting .iconguidelines {
+  background-color: transparent;
+  height: 32px;
+  min-width: 32.0078125px;
+  position: relative;
 }
 
 .x3d-contracting .link-title-here {
@@ -1916,6 +1936,38 @@
   mix-blend-mode: normal;
   position: relative;
   text-align: left;
+}
+
+.x3d-contracting .text0 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .text1 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .text2 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 700px;
 }
 
 .x3d-contracting .this-is-an-outcome-t {

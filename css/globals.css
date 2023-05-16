@@ -1,7 +1,7 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
-@import url("https://fonts.googleapis.com/css?family=Mulish:400,600italic,700,400italic,600,700italic");
+@import url("https://fonts.googleapis.com/css?family=Mulish:400italic,400,600italic,600,700italic,700");
 /* The following line is used to measure usage of this code in production. For more info see our usage billing page */
-@import url("https://px.animaapp.com/6406baa484a3afe9c63921de.6406baa605cc73851b593804.WV5wQYL.hcp.png");
+@import url("https://px.animaapp.com/6406baa484a3afe9c63921de.6406baa605cc73851b593804.HKtYnxM.hcp.png");
 
 
 
@@ -134,24 +134,6 @@
   width: fit-content;
 }
 
-.ellipse-201 {
-  background-color: transparent;
-  height: 9px;
-  left: 6px;
-  position: absolute;
-  top: 7px;
-  width: 8px;
-}
-
-.ellipse-202 {
-  background-color: transparent;
-  height: 19px;
-  left: 2px;
-  position: absolute;
-  top: 2px;
-  width: 17px;
-}
-
 .foundation-for-public-code {
   background-color: transparent;
   height: 61.82%;
@@ -194,24 +176,6 @@
   position: absolute;
 }
 
-.group-192 {
-  background-color: transparent;
-  height: 15px;
-  left: 10px;
-  position: absolute;
-  top: 1px;
-  width: 20px;
-}
-
-.group-193 {
-  background-color: transparent;
-  height: 24px;
-  left: 2px;
-  position: relative;
-  top: 0px;
-  width: 30px;
-}
-
 .group-194 {
   background-color: transparent;
   height: 16.68%;
@@ -242,17 +206,9 @@
   position: relative;
 }
 
-.iconchallenge {
-  background-color: transparent;
-  height: 32px;
-  min-width: 32.00901794433594px;
-  position: relative;
-}
-
 .icongoal {
   background-color: transparent;
   height: 32px;
-  min-width: 32.00901794433594px;
   position: relative;
 }
 
@@ -343,15 +299,6 @@
   position: relative;
 }
 
-.polygon-1 {
-  background-color: transparent;
-  height: 24px;
-  left: 3px;
-  position: absolute;
-  top: 1px;
-  width: 27px;
-}
-
 .project-resources {
   align-self: stretch;
   mix-blend-mode: normal;
@@ -367,15 +314,6 @@
   height: auto;
   mix-blend-mode: normal;
   position: relative;
-}
-
-.rings-v2 {
-  background-color: transparent;
-  height: 23px;
-  left: 0px;
-  position: absolute;
-  top: 1px;
-  width: 21px;
 }
 
 .section-title {
@@ -503,31 +441,6 @@
   width: fit-content;
 }
 
-.line-10 {
-  background-color: transparent;
-  height: 22.08%;
-  left: 36.04%;
-  position: absolute;
-  top: 0px;
-  width: 33.31%;
-}
-
-.line-11 {
-  background-color: transparent;
-  height: 22.08%;
-  left: 36.04%;
-  position: absolute;
-  top: 77.92%;
-  width: 33.31%;
-}
-
-.paper {
-  background-color: transparent;
-  height: 51px;
-  position: absolute;
-  width: 50px;
-}
-
 .arrow-2 {
   background-color: transparent;
   height: 33.77%;
@@ -568,14 +481,27 @@
   position: relative;
 }
 
-.iconguidelines {
+.line-10 {
   background-color: transparent;
-  height: 32px;
-  min-width: 32.00901794433594px;
-  position: relative;
+  height: 22.08%;
+  left: 36.04%;
+  position: absolute;
+  top: 0px;
+  width: 33.31%;
 }
 
-.span1 {
-  font-style: normal;
-  text-decoration: underline;
+.line-11 {
+  background-color: transparent;
+  height: 22.08%;
+  left: 36.04%;
+  position: absolute;
+  top: 77.92%;
+  width: 33.31%;
+}
+
+.paper {
+  background-color: transparent;
+  height: 51px;
+  position: absolute;
+  width: 50px;
 }

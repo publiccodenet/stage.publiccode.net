@@ -240,6 +240,26 @@
   position: relative;
 }
 
+.x1c-discovery-research-and-problem-statement .icongoal-Oo2MFD {
+  min-width: 32.0087890625px;
+}
+
+.x1c-discovery-research-and-problem-statement .icongoal-LDXcxn {
+  min-width: 32.0087890625px;
+}
+
+.x1c-discovery-research-and-problem-statement .icongoal-mYgxU1 {
+  min-width: 32.0087890625px;
+}
+
+.x1c-discovery-research-and-problem-statement .icongoal-J8u0lG {
+  min-width: 32.0087890625px;
+}
+
+.x1c-discovery-research-and-problem-statement .icongoal-wIyVgc {
+  min-width: 32.0087890625px;
+}
+
 .x1c-discovery-research-and-problem-statement .challenges-bOfIDm {
   align-items: flex-start;
   align-self: stretch;
@@ -290,15 +310,6 @@
   line-height: 24px;
 }
 
-.x1c-discovery-research-and-problem-statement .x-sbJhxk {
-  background-color: transparent;
-  height: 44.56%;
-  left: 46.80%;
-  position: absolute;
-  top: 21.88%;
-  width: 7.81%;
-}
-
 .x1c-discovery-research-and-problem-statement .content-UdiH4r {
   background-color: transparent;
   flex: 1;
@@ -312,15 +323,6 @@
   margin-top: -1.00px;
   mix-blend-mode: normal;
   text-align: left;
-}
-
-.x1c-discovery-research-and-problem-statement .x-fACxiJ {
-  background-color: transparent;
-  height: 44.56%;
-  left: 46.80%;
-  position: absolute;
-  top: 21.88%;
-  width: 7.81%;
 }
 
 .x1c-discovery-research-and-problem-statement .content-b2sz4G {
@@ -338,15 +340,6 @@
   text-align: left;
 }
 
-.x1c-discovery-research-and-problem-statement .x-a5EGmD {
-  background-color: transparent;
-  height: 44.56%;
-  left: 46.80%;
-  position: absolute;
-  top: 21.88%;
-  width: 7.81%;
-}
-
 .x1c-discovery-research-and-problem-statement .content-aVMpmh {
   background-color: transparent;
   flex: 1;
@@ -360,15 +353,6 @@
   margin-top: -1.00px;
   mix-blend-mode: normal;
   text-align: left;
-}
-
-.x1c-discovery-research-and-problem-statement .x-pt0z4A {
-  background-color: transparent;
-  height: 44.56%;
-  left: 46.80%;
-  position: absolute;
-  top: 21.88%;
-  width: 7.81%;
 }
 
 .x1c-discovery-research-and-problem-statement .content-BeCI9x {
@@ -598,19 +582,31 @@
 }
 
 .x1c-discovery-research-and-problem-statement .visualaiduserprofile-P2oHbQ {
+  align-items: flex-start;
   background-color: transparent;
-  height: 249px;
-  min-width: 532px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
   mix-blend-mode: normal;
+  padding: 1px;
+  position: relative;
+  width: fit-content;
+}
+
+.x1c-discovery-research-and-problem-statement .group-201-LIrHL0 {
+  background-color: transparent;
+  height: 279px;
+  min-width: 530px;
   position: relative;
 }
 
-.x1c-discovery-research-and-problem-statement .visualaidmatrixbox-LIrHL0 {
+.x1c-discovery-research-and-problem-statement .visualaidmatrixbox-Xhggz9 {
   left: calc(50.00% - 266px);
-  top: calc(50.00% - 124px);
+  top: calc(50.00% - 140px);
 }
 
-.x1c-discovery-research-and-problem-statement .noun_secretary_simpler-0buAaU {
+.x1c-discovery-research-and-problem-statement .noun_secretary_simpler-VynK3i {
   background-color: transparent;
   height: 65.639404296875px;
   min-width: 79.3134765625px;
@@ -618,7 +614,7 @@
   position: relative;
 }
 
-.x1c-discovery-research-and-problem-statement .name-0buAaU {
+.x1c-discovery-research-and-problem-statement .name-VynK3i {
   background-color: transparent;
   height: 81px;
   margin-right: -2.00px;
@@ -626,7 +622,7 @@
   position: relative;
 }
 
-.x1c-discovery-research-and-problem-statement .meta-0wG6AI {
+.x1c-discovery-research-and-problem-statement .meta-wjEb1K {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -637,29 +633,59 @@
   width: fit-content;
 }
 
-.x1c-discovery-research-and-problem-statement .edu-loc-r9bjxS {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
+.x1c-discovery-research-and-problem-statement .flex-container-ZzWQpy {
+  gap: 1px;
+  height: 33px;
   width: 38px;
 }
 
-.x1c-discovery-research-and-problem-statement .college-degree-mathematics-oslo-norway-r9bjxS {
-  background-color: transparent;
+.x1c-discovery-research-and-problem-statement .text0-5xHiyD {
   letter-spacing: 0.00px;
   line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.x1c-discovery-research-and-problem-statement .span0-TLXB02 {
+}
+
+.x1c-discovery-research-and-problem-statement .text1-5xHiyD {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.x1c-discovery-research-and-problem-statement .span1-zxxDAA {
+}
+
+.x1c-discovery-research-and-problem-statement .flex-container-I6l1Iz {
+  gap: 1px;
+  height: 33px;
   width: 195px;
 }
 
-.x1c-discovery-research-and-problem-statement .greta-hansen-27-0wG6AI {
+.x1c-discovery-research-and-problem-statement .text0-qcOCAL {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  white-space: nowrap;
+  width: 195px;
+}
+
+.x1c-discovery-research-and-problem-statement .span0-opBDN4 {
+}
+
+.x1c-discovery-research-and-problem-statement .text1-qcOCAL {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  white-space: nowrap;
+  width: 195px;
+}
+
+.x1c-discovery-research-and-problem-statement .span1-jlP6Tw {
+}
+
+.x1c-discovery-research-and-problem-statement .greta-hansen-27-wjEb1K {
   background-color: transparent;
   color: var(--black);
   font-family: var(--font-family-mulish);
@@ -677,7 +703,7 @@
   width: 245px;
 }
 
-.x1c-discovery-research-and-problem-statement .front-end-developer-0wG6AI {
+.x1c-discovery-research-and-problem-statement .transit-data-analyst-wjEb1K {
   background-color: transparent;
   height: auto;
   left: 0px;
@@ -690,51 +716,96 @@
   width: 245px;
 }
 
-.x1c-discovery-research-and-problem-statement .visualaidmatrixbox-KFvao7 {
+.x1c-discovery-research-and-problem-statement .visualaidmatrixbox-IWYnsx {
   left: calc(50.00% - 1px);
-  top: calc(50.00% - 124px);
+  top: calc(50.00% - 140px);
 }
 
-.x1c-discovery-research-and-problem-statement .motivations-necessit-7xXJ3G {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
+.x1c-discovery-research-and-problem-statement .flex-container-6mFy8H {
+  gap: 4px;
+  height: 57px;
   width: 245px;
 }
 
-.x1c-discovery-research-and-problem-statement .span0-BDt1Ub {
-}
-
-.x1c-discovery-research-and-problem-statement .span1-BDt1Ub {
-}
-
-.x1c-discovery-research-and-problem-statement .visualaidmatrixbox-ctvHqu {
-  left: calc(50.00% - 1px);
-  top: calc(50.00% - 48px);
-}
-
-.x1c-discovery-research-and-problem-statement .risks-at-vero-eos-et-v6CjzE {
-  background-color: transparent;
+.x1c-discovery-research-and-problem-statement .text0-GDw7Ev {
   letter-spacing: 0.00px;
   line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
+  white-space: nowrap;
   width: 245px;
 }
 
-.x1c-discovery-research-and-problem-statement .span0-JJ00KZ {
+.x1c-discovery-research-and-problem-statement .span0-vZLmn9 {
 }
 
-.x1c-discovery-research-and-problem-statement .span1-JJ00KZ {
+.x1c-discovery-research-and-problem-statement .text1-GDw7Ev {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  white-space: nowrap;
+  width: 245px;
 }
 
-.x1c-discovery-research-and-problem-statement .frame-196-LIrHL0 {
+.x1c-discovery-research-and-problem-statement .span1-jVxM4M {
+}
+
+.x1c-discovery-research-and-problem-statement .text2-GDw7Ev {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  width: 245px;
+}
+
+.x1c-discovery-research-and-problem-statement .span2-tGgcvB {
+}
+
+.x1c-discovery-research-and-problem-statement .visualaidmatrixbox-l1Y0Ax {
+  left: calc(50.00% - 1px);
+  top: calc(50.00% - 64px);
+}
+
+.x1c-discovery-research-and-problem-statement .flex-container-FdkoDX {
+  gap: 4px;
+  height: 78px;
+  width: 245px;
+}
+
+.x1c-discovery-research-and-problem-statement .text0-8u7JZW {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  white-space: nowrap;
+  width: 245px;
+}
+
+.x1c-discovery-research-and-problem-statement .span0-1Pv091 {
+}
+
+.x1c-discovery-research-and-problem-statement .text1-8u7JZW {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  white-space: nowrap;
+  width: 245px;
+}
+
+.x1c-discovery-research-and-problem-statement .span1-QxJvvI {
+}
+
+.x1c-discovery-research-and-problem-statement .text2-8u7JZW {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  width: 245px;
+}
+
+.x1c-discovery-research-and-problem-statement .span2-mxxqrX {
+}
+
+.x1c-discovery-research-and-problem-statement .text3-8u7JZW {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  width: 245px;
+}
+
+.x1c-discovery-research-and-problem-statement .span3-GM68FH {
+}
+
+.x1c-discovery-research-and-problem-statement .frame-196-Xhggz9 {
   align-items: flex-start;
   background-color: transparent;
   border: 2px solid;
@@ -743,29 +814,37 @@
   flex-direction: column;
   gap: 10px;
   height: auto;
-  left: 0px;
+  left: -1px;
   mix-blend-mode: normal;
   padding: 10px;
   position: absolute;
-  top: 175px;
+  top: 174px;
   width: fit-content;
 }
 
-.x1c-discovery-research-and-problem-statement .user-story-ut-enim-a-pKMjdc {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
+.x1c-discovery-research-and-problem-statement .flex-container-ZVugQQ {
+  gap: 4px;
+  height: 84px;
   width: 510px;
 }
 
-.x1c-discovery-research-and-problem-statement .span0-NJ7fXf {
+.x1c-discovery-research-and-problem-statement .text0-SwVmjL {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  white-space: nowrap;
+  width: 510px;
 }
 
-.x1c-discovery-research-and-problem-statement .span1-NJ7fXf {
+.x1c-discovery-research-and-problem-statement .span0-O5QZQu {
+}
+
+.x1c-discovery-research-and-problem-statement .text1-SwVmjL {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  width: 510px;
+}
+
+.x1c-discovery-research-and-problem-statement .span1-WhjSq4 {
 }
 
 .x1c-discovery-research-and-problem-statement .frame-137-BxnujK {
@@ -967,50 +1046,8 @@
 .x1c-discovery-research-and-problem-statement .iconguidelines-qvHGNp {
   background-color: transparent;
   height: 32px;
-  min-width: 32.00901794433594px;
+  min-width: 32.0087890625px;
   position: relative;
-}
-
-.x1c-discovery-research-and-problem-statement .x-4liFlx {
-  background-color: transparent;
-  height: 25.81%;
-  left: 74.20%;
-  position: absolute;
-  top: 15.62%;
-  width: 7.81%;
-}
-
-.x1c-discovery-research-and-problem-statement .ellipse-193-4liFlx {
-  background-color: transparent;
-  border: 1.5px solid;
-  border-color: var(--black);
-  border-radius: 6.75px;
-  height: 14px;
-  left: 18px;
-  position: absolute;
-  top: 2px;
-  width: 14px;
-}
-
-.x1c-discovery-research-and-problem-statement .line-4liFlx {
-  height: 22px;
-  left: 6px;
-  top: 4px;
-  width: 15px;
-}
-
-.x1c-discovery-research-and-problem-statement .line-2muJ2i {
-  height: 13px;
-  left: 6px;
-  top: 15px;
-  width: 20px;
-}
-
-.x1c-discovery-research-and-problem-statement .line-HLMpG4 {
-  height: 4px;
-  left: 7px;
-  top: 22px;
-  width: 18px;
 }
 
 .x1c-discovery-research-and-problem-statement .guidelines-qvHGNp {
@@ -1032,16 +1069,59 @@
   position: relative;
 }
 
-.x1c-discovery-research-and-problem-statement .bullet-sub-bullet-sub-bullet-bullet-4V7V41 {
-  align-self: stretch;
-  background-color: transparent;
+.x1c-discovery-research-and-problem-statement .flex-container-4V7V41 {
+  gap: 10px;
+  height: 167px;
+  width: 700px;
+}
+
+.x1c-discovery-research-and-problem-statement .text0-8zl553 {
   color: var(--black);
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
+  width: 700px;
+}
+
+.x1c-discovery-research-and-problem-statement .span0-AiZKKL {
+  font-style: normal;
+}
+
+.x1c-discovery-research-and-problem-statement .text1-8zl553 {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  white-space: nowrap;
+  width: 700px;
+}
+
+.x1c-discovery-research-and-problem-statement .span1-5JMp67 {
+  font-style: normal;
+}
+
+.x1c-discovery-research-and-problem-statement .text2-8zl553 {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  width: 700px;
+}
+
+.x1c-discovery-research-and-problem-statement .span2-x7ojMu {
+  font-style: normal;
+}
+
+.x1c-discovery-research-and-problem-statement .text3-8zl553 {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  width: 700px;
+}
+
+.x1c-discovery-research-and-problem-statement .span3-iwGJi0 {
+  font-style: normal;
 }
 
 .x1c-discovery-research-and-problem-statement .outcomes-bOfIDm {
@@ -1078,8 +1158,24 @@
   position: relative;
 }
 
+.x1c-discovery-research-and-problem-statement .icongoal-mqHuMX {
+  min-width: 32.00901794433594px;
+}
+
+.x1c-discovery-research-and-problem-statement .icongoal-xRJhIh {
+  min-width: 32.00901794433594px;
+}
+
+.x1c-discovery-research-and-problem-statement .icongoal-7BHhDx {
+  min-width: 32.00901794433594px;
+}
+
 .x1c-discovery-research-and-problem-statement .this-is-an-outcome-t-7BHhDx {
   white-space: nowrap;
+}
+
+.x1c-discovery-research-and-problem-statement .icongoal-wibWqG {
+  min-width: 32.00901794433594px;
 }
 
 .x1c-discovery-research-and-problem-statement .references-bOfIDm {
@@ -1611,58 +1707,72 @@
   width: 650px;
 }
 
-.x1c-discovery-research-and-problem-statement .foundation-for-publi-eSQgjd {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: calc(50.00% - 142px);
-  line-height: 24px;
-  mix-blend-mode: normal;
+.x1c-discovery-research-and-problem-statement .flex-container-eSQgjd {
+  gap: 10px;
+  height: 130px;
+  left: 370px;
   position: absolute;
-  text-align: left;
   top: 36px;
   width: 650px;
 }
 
-.x1c-discovery-research-and-problem-statement .span0-P8KBcZ {
+.x1c-discovery-research-and-problem-statement .text0-BCCM5d {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  width: 650px;
+}
+
+.x1c-discovery-research-and-problem-statement .span0-aZYM8b {
   font-style: normal;
 }
 
-.x1c-discovery-research-and-problem-statement .span1-P8KBcZ {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x1c-discovery-research-and-problem-statement .span2-P8KBcZ {
-  font-style: normal;
-}
-
-.x1c-discovery-research-and-problem-statement .span3-P8KBcZ {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x1c-discovery-research-and-problem-statement .span4-P8KBcZ {
-  font-style: normal;
-}
-
-.x1c-discovery-research-and-problem-statement .span5-P8KBcZ {
+.x1c-discovery-research-and-problem-statement .span1-aZYM8b {
   font-style: normal;
   text-decoration: underline;
 }
 
-.x1c-discovery-research-and-problem-statement .span6-P8KBcZ {
+.x1c-discovery-research-and-problem-statement .span2-aZYM8b {
   font-style: normal;
 }
 
-.x1c-discovery-research-and-problem-statement .span7-P8KBcZ {
+.x1c-discovery-research-and-problem-statement .span3-aZYM8b {
   font-style: normal;
   text-decoration: underline;
 }
 
-.x1c-discovery-research-and-problem-statement .span8-P8KBcZ {
+.x1c-discovery-research-and-problem-statement .span4-aZYM8b {
+  font-style: normal;
+}
+
+.x1c-discovery-research-and-problem-statement .text1-BCCM5d {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  width: 650px;
+}
+
+.x1c-discovery-research-and-problem-statement .span5-0D964F {
+  font-style: normal;
+}
+
+.x1c-discovery-research-and-problem-statement .span6-0D964F {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1c-discovery-research-and-problem-statement .span7-0D964F {
+  font-style: normal;
+}
+
+.x1c-discovery-research-and-problem-statement .span8-0D964F {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1c-discovery-research-and-problem-statement .span9-0D964F {
   font-style: normal;
 }
 
@@ -1946,16 +2056,34 @@
   text-align: left;
 }
 
-.x1c-discovery-research-and-problem-statement .all-of-our-staff-inf-sYEvrF {
-  align-self: stretch;
-  background-color: transparent;
+.x1c-discovery-research-and-problem-statement .flex-container-sYEvrF {
+  gap: 10px;
+  height: 170px;
+  width: 286.6666564941406px;
+}
+
+.x1c-discovery-research-and-problem-statement .text0-eRgHxL {
   color: var(--black);
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
+  width: 286.6666564941406px;
+}
+
+.x1c-discovery-research-and-problem-statement .span0-AFSxjA {
+  font-style: normal;
+}
+
+.x1c-discovery-research-and-problem-statement .text1-eRgHxL {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 286.6666564941406px;
+}
+
+.x1c-discovery-research-and-problem-statement .span1-JJxcXx {
+  font-style: normal;
 }
 
 .x1c-discovery-research-and-problem-statement .links-SbcA4d {
@@ -2143,6 +2271,13 @@
   position: relative;
 }
 
+.x1c-discovery-research-and-problem-statement .flex-container {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+}
+
 .x1c-discovery-research-and-problem-statement .gear-2 {
   background-color: transparent;
   height: 100%;
@@ -2152,9 +2287,11 @@
   width: 100.00%;
 }
 
-.x1c-discovery-research-and-problem-statement .line {
+.x1c-discovery-research-and-problem-statement .icon-caution {
   background-color: transparent;
-  position: absolute;
+  height: 32px;
+  min-width: 32.0087890625px;
+  position: relative;
 }
 
 .x1c-discovery-research-and-problem-statement .link-title-here {
@@ -2179,6 +2316,36 @@
   mix-blend-mode: normal;
   position: relative;
   text-align: left;
+}
+
+.x1c-discovery-research-and-problem-statement .text0 {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1c-discovery-research-and-problem-statement .text1 {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1c-discovery-research-and-problem-statement .text2 {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.x1c-discovery-research-and-problem-statement .text3 {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
 }
 
 .x1c-discovery-research-and-problem-statement .this-is-an-outcome-t {

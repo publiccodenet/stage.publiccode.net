@@ -479,7 +479,7 @@
   color: var(--black);
   font-style: normal;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 16px;
   mix-blend-mode: normal;
   position: relative;
   text-align: left;
@@ -881,6 +881,11 @@
   font-style: normal;
 }
 
+.x4a-implementation-phase .span1-fXIJqt {
+  font-style: normal;
+  text-decoration: underline;
+}
+
 .x4a-implementation-phase .license-ZAJcf2 {
   align-items: center;
   background-color: transparent;
@@ -926,53 +931,65 @@
   width: 650px;
 }
 
-.x4a-implementation-phase .foundation-for-publi-YCoUlZ {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: calc(50.00% - 142px);
-  line-height: 24px;
-  mix-blend-mode: normal;
+.x4a-implementation-phase .flex-container-YCoUlZ {
+  height: 130px;
+  left: 370px;
   position: absolute;
-  text-align: left;
   top: 36px;
   width: 650px;
 }
 
-.x4a-implementation-phase .span0-64eXeG {
+.x4a-implementation-phase .text0-YHHHSf {
+  line-height: 24px;
+  width: 650px;
+}
+
+.x4a-implementation-phase .span0-kVhLiM {
   font-style: normal;
 }
 
-.x4a-implementation-phase .span2-64eXeG {
-  font-style: normal;
-}
-
-.x4a-implementation-phase .span3-64eXeG {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x4a-implementation-phase .span4-64eXeG {
-  font-style: normal;
-}
-
-.x4a-implementation-phase .span5-64eXeG {
+.x4a-implementation-phase .span1-kVhLiM {
   font-style: normal;
   text-decoration: underline;
 }
 
-.x4a-implementation-phase .span6-64eXeG {
+.x4a-implementation-phase .span2-kVhLiM {
   font-style: normal;
 }
 
-.x4a-implementation-phase .span7-64eXeG {
+.x4a-implementation-phase .span3-kVhLiM {
   font-style: normal;
   text-decoration: underline;
 }
 
-.x4a-implementation-phase .span8-64eXeG {
+.x4a-implementation-phase .span4-kVhLiM {
+  font-style: normal;
+}
+
+.x4a-implementation-phase .text1-YHHHSf {
+  line-height: 24px;
+  width: 650px;
+}
+
+.x4a-implementation-phase .span5-C5DSTZ {
+  font-style: normal;
+}
+
+.x4a-implementation-phase .span6-C5DSTZ {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x4a-implementation-phase .span7-C5DSTZ {
+  font-style: normal;
+}
+
+.x4a-implementation-phase .span8-C5DSTZ {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x4a-implementation-phase .span9-C5DSTZ {
   font-style: normal;
 }
 
@@ -1255,16 +1272,27 @@
   text-align: left;
 }
 
-.x4a-implementation-phase .all-of-our-staff-inf-HYBbVc {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x4a-implementation-phase .flex-container-HYBbVc {
+  height: 170px;
+  width: 286.6666564941406px;
+}
+
+.x4a-implementation-phase .text0-iojpxV {
   line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
+  width: 286.6666564941406px;
+}
+
+.x4a-implementation-phase .span0-wkaLe9 {
+  font-style: normal;
+}
+
+.x4a-implementation-phase .text1-iojpxV {
+  line-height: normal;
+  width: 286.6666564941406px;
+}
+
+.x4a-implementation-phase .span1-uPCWom {
+  font-style: normal;
 }
 
 .x4a-implementation-phase .links-76Y0J8 {
@@ -1445,6 +1473,14 @@
   position: relative;
 }
 
+.x4a-implementation-phase .flex-container {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
 .x4a-implementation-phase .group-2 {
   background-color: transparent;
   position: absolute;
@@ -1458,6 +1494,26 @@
   position: absolute;
   top: 27.76%;
   width: 6.02%;
+}
+
+.x4a-implementation-phase .text0 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x4a-implementation-phase .text1 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
 }
 
 .x4a-implementation-phase .union {

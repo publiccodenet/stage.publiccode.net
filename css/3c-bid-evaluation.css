@@ -234,6 +234,18 @@
   gap: 10px;
 }
 
+.x3c-bid-evaluation .icongoal-xzPKwU {
+  min-width: 32.009765625px;
+}
+
+.x3c-bid-evaluation .icongoal-wo0597 {
+  min-width: 32.009765625px;
+}
+
+.x3c-bid-evaluation .icongoal-d9cAbl {
+  min-width: 32.009765625px;
+}
+
 .x3c-bid-evaluation .challenges-bW9o9G {
   align-items: flex-start;
   align-self: stretch;
@@ -281,15 +293,6 @@
   line-height: 24px;
 }
 
-.x3c-bid-evaluation .x-klBS8e {
-  background-color: transparent;
-  height: 44.56%;
-  left: 46.80%;
-  position: absolute;
-  top: 21.88%;
-  width: 7.81%;
-}
-
 .x3c-bid-evaluation .content-73YgRW {
   background-color: transparent;
   flex: 1;
@@ -303,15 +306,6 @@
   margin-top: -1.00px;
   mix-blend-mode: normal;
   text-align: left;
-}
-
-.x3c-bid-evaluation .x-Zz1rox {
-  background-color: transparent;
-  height: 44.56%;
-  left: 46.80%;
-  position: absolute;
-  top: 21.88%;
-  width: 7.81%;
 }
 
 .x3c-bid-evaluation .content-0AMfMF {
@@ -329,15 +323,6 @@
   text-align: left;
 }
 
-.x3c-bid-evaluation .x-AlMhDg {
-  background-color: transparent;
-  height: 44.56%;
-  left: 46.80%;
-  position: absolute;
-  top: 21.88%;
-  width: 7.81%;
-}
-
 .x3c-bid-evaluation .content-xuqo2o {
   background-color: transparent;
   flex: 1;
@@ -351,15 +336,6 @@
   margin-top: -1.00px;
   mix-blend-mode: normal;
   text-align: left;
-}
-
-.x3c-bid-evaluation .x-EIjn9n {
-  background-color: transparent;
-  height: 44.56%;
-  left: 46.80%;
-  position: absolute;
-  top: 21.88%;
-  width: 7.81%;
 }
 
 .x3c-bid-evaluation .content-91N7SC {
@@ -459,47 +435,8 @@
 .x3c-bid-evaluation .iconguidelines-eRwvIv {
   background-color: transparent;
   height: 32px;
-  min-width: 32.00901794433594px;
+  min-width: 32.009765625px;
   position: relative;
-}
-
-.x3c-bid-evaluation .x-kwgQws {
-  background-color: transparent;
-  height: 25.81%;
-  left: 74.20%;
-  position: absolute;
-  top: 15.62%;
-  width: 7.81%;
-}
-
-.x3c-bid-evaluation .ellipse-193-kwgQws {
-  background-color: transparent;
-  border: 1.5px solid;
-  border-color: var(--black);
-  border-radius: 6.75px;
-  height: 14px;
-  left: 18px;
-  position: absolute;
-  top: 2px;
-  width: 14px;
-}
-
-.x3c-bid-evaluation .line-kwgQws {
-  height: 22px;
-  top: 4px;
-  width: 15px;
-}
-
-.x3c-bid-evaluation .line-IpevXe {
-  height: 13px;
-  top: 15px;
-  width: 20px;
-}
-
-.x3c-bid-evaluation .line-MCxF8e {
-  height: 4px;
-  top: 22px;
-  width: 18px;
 }
 
 .x3c-bid-evaluation .guidelines-eRwvIv {
@@ -521,8 +458,33 @@
   position: relative;
 }
 
-.x3c-bid-evaluation .bullet-sub-bullet-sub-bullet-bullet-nQeNGp {
-  align-self: stretch;
+.x3c-bid-evaluation .flex-container-nQeNGp {
+  height: 327px;
+  width: 700px;
+}
+
+.x3c-bid-evaluation .text0-ot88xn {
+  line-height: 21px;
+  white-space: nowrap;
+  width: 700px;
+}
+
+.x3c-bid-evaluation .span0-GTiFxD {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x3c-bid-evaluation .text1-ot88xn {
+  line-height: 21px;
+  white-space: nowrap;
+  width: 700px;
+}
+
+.x3c-bid-evaluation .span1-RKBHmg {
+  font-style: normal;
+}
+
+.x3c-bid-evaluation .text2-ot88xn {
   background-color: transparent;
   color: var(--black);
   font-style: normal;
@@ -531,32 +493,148 @@
   mix-blend-mode: normal;
   position: relative;
   text-align: left;
+  white-space: nowrap;
+  width: 700px;
 }
 
-.x3c-bid-evaluation .span0-jbU8xL {
+.x3c-bid-evaluation .span2-wZKXpQ {
+  font-style: normal;
+}
+
+.x3c-bid-evaluation .text3-ot88xn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 700px;
+}
+
+.x3c-bid-evaluation .span3-9l4ihs {
+  font-style: normal;
+}
+
+.x3c-bid-evaluation .text4-ot88xn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 700px;
+}
+
+.x3c-bid-evaluation .span4-eQLExE {
+  font-style: normal;
+}
+
+.x3c-bid-evaluation .text5-ot88xn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 700px;
+}
+
+.x3c-bid-evaluation .span5-ISaJXj {
   font-style: normal;
   font-weight: 700;
 }
 
-.x3c-bid-evaluation .span1-jbU8xL {
+.x3c-bid-evaluation .text6-ot88xn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 700px;
+}
+
+.x3c-bid-evaluation .span6-xKUYrv {
   font-style: normal;
 }
 
-.x3c-bid-evaluation .span2-jbU8xL {
+.x3c-bid-evaluation .text7-ot88xn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 700px;
+}
+
+.x3c-bid-evaluation .span7-NZzsy8 {
   font-style: normal;
   font-weight: 700;
 }
 
-.x3c-bid-evaluation .span3-jbU8xL {
+.x3c-bid-evaluation .text8-ot88xn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 700px;
+}
+
+.x3c-bid-evaluation .span8-RgwwX5 {
   font-style: normal;
 }
 
-.x3c-bid-evaluation .span4-jbU8xL {
+.x3c-bid-evaluation .text9-ot88xn {
+  background-color: transparent;
+  color: var(--black);
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 700px;
 }
 
-.x3c-bid-evaluation .span5-jbU8xL {
+.x3c-bid-evaluation .span9-Fvz3Mx {
+  font-style: normal;
+}
+
+.x3c-bid-evaluation .text10-ot88xn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 700px;
+}
+
+.x3c-bid-evaluation .span10-tbZkNC {
   font-style: normal;
 }
 
@@ -836,6 +914,10 @@
   position: relative;
 }
 
+.x3c-bid-evaluation .icongoal-Xo0wov {
+  min-width: 32.00901794433594px;
+}
+
 .x3c-bid-evaluation .icon-check_mark-J55cZP {
   background-color: transparent;
   height: 33.77%;
@@ -843,6 +925,14 @@
   position: absolute;
   top: 34.62%;
   width: 44.21%;
+}
+
+.x3c-bid-evaluation .icongoal-R0Iw0L {
+  min-width: 32.00901794433594px;
+}
+
+.x3c-bid-evaluation .icongoal-WzAk7v {
+  min-width: 32.00901794433594px;
 }
 
 .x3c-bid-evaluation .this-is-an-outcome-t-WzAk7v {
@@ -1351,58 +1441,65 @@
   width: 650px;
 }
 
-.x3c-bid-evaluation .foundation-for-publi-AjFxY4 {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: calc(50.00% - 142px);
-  line-height: 24px;
-  mix-blend-mode: normal;
+.x3c-bid-evaluation .flex-container-AjFxY4 {
+  height: 130px;
+  left: 370px;
   position: absolute;
-  text-align: left;
   top: 36px;
   width: 650px;
 }
 
-.x3c-bid-evaluation .span0-zSjLNj {
+.x3c-bid-evaluation .text0-3UWdFM {
+  line-height: 24px;
+  width: 650px;
+}
+
+.x3c-bid-evaluation .span0-8A6Knm {
   font-style: normal;
 }
 
-.x3c-bid-evaluation .span1-zSjLNj {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x3c-bid-evaluation .span2-zSjLNj {
-  font-style: normal;
-}
-
-.x3c-bid-evaluation .span3-zSjLNj {
+.x3c-bid-evaluation .span1-8A6Knm {
   font-style: normal;
   text-decoration: underline;
 }
 
-.x3c-bid-evaluation .span4-zSjLNj {
+.x3c-bid-evaluation .span2-8A6Knm {
   font-style: normal;
 }
 
-.x3c-bid-evaluation .span5-zSjLNj {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x3c-bid-evaluation .span6-zSjLNj {
-  font-style: normal;
-}
-
-.x3c-bid-evaluation .span7-zSjLNj {
+.x3c-bid-evaluation .span3-8A6Knm {
   font-style: normal;
   text-decoration: underline;
 }
 
-.x3c-bid-evaluation .span8-zSjLNj {
+.x3c-bid-evaluation .span4-8A6Knm {
+  font-style: normal;
+}
+
+.x3c-bid-evaluation .text1-3UWdFM {
+  line-height: 24px;
+  width: 650px;
+}
+
+.x3c-bid-evaluation .span5-5Q5PaC {
+  font-style: normal;
+}
+
+.x3c-bid-evaluation .span6-5Q5PaC {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x3c-bid-evaluation .span7-5Q5PaC {
+  font-style: normal;
+}
+
+.x3c-bid-evaluation .span8-5Q5PaC {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x3c-bid-evaluation .span9-5Q5PaC {
   font-style: normal;
 }
 
@@ -1686,16 +1783,27 @@
   text-align: left;
 }
 
-.x3c-bid-evaluation .all-of-our-staff-inf-GtPFGR {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x3c-bid-evaluation .flex-container-GtPFGR {
+  height: 170px;
+  width: 286.6666564941406px;
+}
+
+.x3c-bid-evaluation .text0-0jzuZ8 {
   line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
+  width: 286.6666564941406px;
+}
+
+.x3c-bid-evaluation .span0-syptxx {
+  font-style: normal;
+}
+
+.x3c-bid-evaluation .text1-0jzuZ8 {
+  line-height: normal;
+  width: 286.6666564941406px;
+}
+
+.x3c-bid-evaluation .span1-PGTlry {
+  font-style: normal;
 }
 
 .x3c-bid-evaluation .links-xEf2vx {
@@ -1892,6 +2000,14 @@
   position: relative;
 }
 
+.x3c-bid-evaluation .flex-container {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
 .x3c-bid-evaluation .gear-2 {
   background-color: transparent;
   height: 100%;
@@ -1901,10 +2017,11 @@
   width: 100.00%;
 }
 
-.x3c-bid-evaluation .line {
+.x3c-bid-evaluation .icon-caution {
   background-color: transparent;
-  left: 6px;
-  position: absolute;
+  height: 32px;
+  min-width: 32.009765625px;
+  position: relative;
 }
 
 .x3c-bid-evaluation .link-title-here {
@@ -1926,6 +2043,26 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x3c-bid-evaluation .text0 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x3c-bid-evaluation .text1 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
   mix-blend-mode: normal;
   position: relative;
   text-align: left;

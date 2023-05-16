@@ -234,6 +234,18 @@
   gap: 10px;
 }
 
+.x4b-agile-development .icongoal-xDvUEu {
+  min-width: 32.0078125px;
+}
+
+.x4b-agile-development .icongoal-ienjHJ {
+  min-width: 32.0078125px;
+}
+
+.x4b-agile-development .icongoal-DHZ75D {
+  min-width: 32.0078125px;
+}
+
 .x4b-agile-development .challenges-AJdIZV {
   align-items: flex-start;
   align-self: stretch;
@@ -275,15 +287,6 @@
   line-height: 24px;
 }
 
-.x4b-agile-development .x-o7Bttb {
-  background-color: transparent;
-  height: 44.56%;
-  left: 46.80%;
-  position: absolute;
-  top: 21.88%;
-  width: 7.81%;
-}
-
 .x4b-agile-development .content-K6Ce4Z {
   background-color: transparent;
   flex: 1;
@@ -303,15 +306,6 @@
   color: var(--black);
   font-style: normal;
   font-weight: 400;
-}
-
-.x4b-agile-development .x-xtNPba {
-  background-color: transparent;
-  height: 44.56%;
-  left: 46.80%;
-  position: absolute;
-  top: 21.88%;
-  width: 7.81%;
 }
 
 .x4b-agile-development .content-vxAb8f {
@@ -335,15 +329,6 @@
   font-weight: 400;
 }
 
-.x4b-agile-development .x-MjUUF7 {
-  background-color: transparent;
-  height: 44.56%;
-  left: 46.80%;
-  position: absolute;
-  top: 21.88%;
-  width: 7.81%;
-}
-
 .x4b-agile-development .content-IvJpIp {
   background-color: transparent;
   flex: 1;
@@ -363,15 +348,6 @@
   color: var(--black);
   font-style: normal;
   font-weight: 400;
-}
-
-.x4b-agile-development .x-s5AMlj {
-  background-color: transparent;
-  height: 44.56%;
-  left: 46.80%;
-  position: absolute;
-  top: 21.88%;
-  width: 7.81%;
 }
 
 .x4b-agile-development .content-TWiwJo {
@@ -545,22 +521,71 @@
   gap: 2px;
 }
 
-.x4b-agile-development .lorem-ipsum-MNTzFc {
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x4b-agile-development .flex-container-MNTzFc {
+  height: 151px;
+  width: 653px;
 }
 
-.x4b-agile-development .span0-cGlvlF {
+.x4b-agile-development .text0-2QQAUd {
+  line-height: 21px;
+  white-space: nowrap;
+  width: 653px;
+}
+
+.x4b-agile-development .span0-HMrxG8 {
   font-style: normal;
 }
 
-.x4b-agile-development .span1-cGlvlF {
+.x4b-agile-development .text1-2QQAUd {
+  line-height: 21px;
+  white-space: nowrap;
+  width: 653px;
+}
+
+.x4b-agile-development .span1-AWYbMY {
+  font-style: normal;
+}
+
+.x4b-agile-development .text2-2QQAUd {
+  width: 653px;
+}
+
+.x4b-agile-development .span2-VkiZA0 {
+  font-style: normal;
+}
+
+.x4b-agile-development .text3-2QQAUd {
+  width: 653px;
+}
+
+.x4b-agile-development .span3-PTiUDh {
+  font-style: normal;
+}
+
+.x4b-agile-development .span4-PTiUDh {
   font-style: normal;
   letter-spacing: 0.00px;
 }
 
-.x4b-agile-development .span2-cGlvlF {
+.x4b-agile-development .span5-PTiUDh {
+  font-style: normal;
+}
+
+.x4b-agile-development .text4-2QQAUd {
+  white-space: nowrap;
+  width: 653px;
+}
+
+.x4b-agile-development .span6-Anjbw6 {
+  font-style: normal;
+}
+
+.x4b-agile-development .text5-2QQAUd {
+  white-space: nowrap;
+  width: 653px;
+}
+
+.x4b-agile-development .span7-ulNZq3 {
   font-style: normal;
 }
 
@@ -583,39 +608,89 @@
   width: fit-content;
 }
 
-.x4b-agile-development .x-zH5pox {
-  background-color: transparent;
-  height: 25.81%;
-  left: 74.20%;
-  position: absolute;
-  top: 15.62%;
-  width: 7.81%;
+.x4b-agile-development .flex-container-0H2630 {
+  height: 319px;
+  width: 700px;
 }
 
-.x4b-agile-development .line-zH5pox {
-  height: 22px;
-  left: 6px;
-  top: 4px;
-  width: 15px;
+.x4b-agile-development .text0-ztLvWG {
+  line-height: 21px;
+  width: 700px;
 }
 
-.x4b-agile-development .line-yjMDJG {
-  height: 13px;
-  left: 6px;
-  top: 15px;
-  width: 20px;
+.x4b-agile-development .span0-otrY8H {
+  font-style: normal;
 }
 
-.x4b-agile-development .line-hQbTJV {
-  height: 4px;
-  left: 7px;
-  top: 22px;
-  width: 18px;
+.x4b-agile-development .text1-ztLvWG {
+  line-height: 21px;
+  width: 700px;
 }
 
-.x4b-agile-development .bullet-sub-bullet-sub-bullet-bullet-0H2630 {
+.x4b-agile-development .span1-6RuyxE {
+  font-style: normal;
   letter-spacing: 0.00px;
-  line-height: 14px;
+}
+
+.x4b-agile-development .text2-ztLvWG {
+  width: 700px;
+}
+
+.x4b-agile-development .span2-Kzm1id {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x4b-agile-development .text3-ztLvWG {
+  width: 700px;
+}
+
+.x4b-agile-development .span3-0GxDg6 {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x4b-agile-development .text4-ztLvWG {
+  width: 700px;
+}
+
+.x4b-agile-development .span4-bbrcxg {
+  font-style: normal;
+}
+
+.x4b-agile-development .span5-bbrcxg {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x4b-agile-development .span6-bbrcxg {
+  font-style: normal;
+}
+
+.x4b-agile-development .text5-ztLvWG {
+  width: 700px;
+}
+
+.x4b-agile-development .span7-1xf4Fm {
+  font-style: normal;
+}
+
+.x4b-agile-development .span8-1xf4Fm {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x4b-agile-development .span9-1xf4Fm {
+  font-style: normal;
+}
+
+.x4b-agile-development .span10-1xf4Fm {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x4b-agile-development .span11-1xf4Fm {
+  font-style: normal;
 }
 
 .x4b-agile-development .frame-144-aAEx52 {
@@ -711,41 +786,80 @@
   width: fit-content;
 }
 
-.x4b-agile-development .x-0A2cxm {
+.x4b-agile-development .flex-container-8axrxN {
+  height: 224px;
+  width: 700px;
+}
+
+.x4b-agile-development .text0-BeEVmx {
+  line-height: 21px;
+  width: 700px;
+}
+
+.x4b-agile-development .span0-7rDBtC {
+  font-style: normal;
+}
+
+.x4b-agile-development .text1-BeEVmx {
+  line-height: 21px;
+  white-space: nowrap;
+  width: 700px;
+}
+
+.x4b-agile-development .span1-wXVdhj {
+  font-style: normal;
+}
+
+.x4b-agile-development .text2-BeEVmx {
+  width: 700px;
+}
+
+.x4b-agile-development .span2-P4EQlW {
+  font-style: normal;
+}
+
+.x4b-agile-development .text3-BeEVmx {
+  white-space: nowrap;
+  width: 700px;
+}
+
+.x4b-agile-development .span3-POT1LG {
+  font-style: normal;
+}
+
+.x4b-agile-development .text4-BeEVmx {
+  white-space: nowrap;
+  width: 700px;
+}
+
+.x4b-agile-development .span4-vujDev {
+  font-style: normal;
+}
+
+.x4b-agile-development .text5-BeEVmx {
+  white-space: nowrap;
+  width: 700px;
+}
+
+.x4b-agile-development .span5-efoyDp {
+  font-style: normal;
+}
+
+.x4b-agile-development .text6-BeEVmx {
   background-color: transparent;
-  height: 25.81%;
-  left: 74.20%;
-  position: absolute;
-  top: 15.62%;
-  width: 7.81%;
-}
-
-.x4b-agile-development .line-0A2cxm {
-  height: 22px;
-  left: 6px;
-  top: 4px;
-  width: 15px;
-}
-
-.x4b-agile-development .line-uXeynR {
-  height: 13px;
-  left: 6px;
-  top: 15px;
-  width: 20px;
-}
-
-.x4b-agile-development .line-7Bj2xx {
-  height: 4px;
-  left: 7px;
-  top: 22px;
-  width: 18px;
-}
-
-.x4b-agile-development .bullet-sub-bullet-sub-bullet-bullet-8axrxN {
   color: var(--black);
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 700px;
+}
+
+.x4b-agile-development .span6-B9vNMY {
+  font-style: normal;
 }
 
 .x4b-agile-development .outcomes-AJdIZV {
@@ -788,6 +902,10 @@
   position: relative;
 }
 
+.x4b-agile-development .icongoal-QvFCWD {
+  min-width: 32.00901794433594px;
+}
+
 .x4b-agile-development .icon-check_mark-FqlUzS {
   background-color: transparent;
   height: 33.77%;
@@ -797,8 +915,16 @@
   width: 44.21%;
 }
 
+.x4b-agile-development .icongoal-v7a8PI {
+  min-width: 32.00901794433594px;
+}
+
 .x4b-agile-development .this-is-an-outcome-t-v7a8PI {
   white-space: nowrap;
+}
+
+.x4b-agile-development .icongoal-vTSgnT {
+  min-width: 32.00901794433594px;
 }
 
 .x4b-agile-development .references-AJdIZV {
@@ -1318,58 +1444,65 @@
   width: 650px;
 }
 
-.x4b-agile-development .foundation-for-publi-rZi3i2 {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: calc(50.00% - 142px);
-  line-height: 24px;
-  mix-blend-mode: normal;
+.x4b-agile-development .flex-container-rZi3i2 {
+  height: 130px;
+  left: 370px;
   position: absolute;
-  text-align: left;
   top: 36px;
   width: 650px;
 }
 
-.x4b-agile-development .span0-lejXlC {
+.x4b-agile-development .text0-rJ2KUL {
+  line-height: 24px;
+  width: 650px;
+}
+
+.x4b-agile-development .span0-juZFhb {
   font-style: normal;
 }
 
-.x4b-agile-development .span1-lejXlC {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x4b-agile-development .span2-lejXlC {
-  font-style: normal;
-}
-
-.x4b-agile-development .span3-lejXlC {
+.x4b-agile-development .span1-juZFhb {
   font-style: normal;
   text-decoration: underline;
 }
 
-.x4b-agile-development .span4-lejXlC {
+.x4b-agile-development .span2-juZFhb {
   font-style: normal;
 }
 
-.x4b-agile-development .span5-lejXlC {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x4b-agile-development .span6-lejXlC {
-  font-style: normal;
-}
-
-.x4b-agile-development .span7-lejXlC {
+.x4b-agile-development .span3-juZFhb {
   font-style: normal;
   text-decoration: underline;
 }
 
-.x4b-agile-development .span8-lejXlC {
+.x4b-agile-development .span4-juZFhb {
+  font-style: normal;
+}
+
+.x4b-agile-development .text1-rJ2KUL {
+  line-height: 24px;
+  width: 650px;
+}
+
+.x4b-agile-development .span5-OkMPsl {
+  font-style: normal;
+}
+
+.x4b-agile-development .span6-OkMPsl {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x4b-agile-development .span7-OkMPsl {
+  font-style: normal;
+}
+
+.x4b-agile-development .span8-OkMPsl {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x4b-agile-development .span9-OkMPsl {
   font-style: normal;
 }
 
@@ -1653,16 +1786,27 @@
   text-align: left;
 }
 
-.x4b-agile-development .all-of-our-staff-inf-G55pbA {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x4b-agile-development .flex-container-G55pbA {
+  height: 170px;
+  width: 286.6666564941406px;
+}
+
+.x4b-agile-development .text0-EiAR8k {
   line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
+  width: 286.6666564941406px;
+}
+
+.x4b-agile-development .span0-FcIkmO {
+  font-style: normal;
+}
+
+.x4b-agile-development .text1-EiAR8k {
+  line-height: normal;
+  width: 286.6666564941406px;
+}
+
+.x4b-agile-development .span1-HxzxMK {
+  font-style: normal;
 }
 
 .x4b-agile-development .links-oy9CK9 {
@@ -1850,14 +1994,6 @@
   position: relative;
 }
 
-.x4b-agile-development .bullet-sub-bullet-sub-bullet-bullet {
-  align-self: stretch;
-  background-color: transparent;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
 .x4b-agile-development .cluster {
   align-items: flex-start;
   align-self: stretch;
@@ -1875,16 +2011,12 @@
   position: relative;
 }
 
-.x4b-agile-development .ellipse-193 {
+.x4b-agile-development .flex-container {
+  align-items: flex-start;
   background-color: transparent;
-  border: 1.5px solid;
-  border-color: var(--black);
-  border-radius: 6.75px;
-  height: 14px;
-  left: 18px;
-  position: absolute;
-  top: 2px;
-  width: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
 .x4b-agile-development .gear-2 {
@@ -1896,9 +2028,18 @@
   width: 100.01%;
 }
 
-.x4b-agile-development .line {
+.x4b-agile-development .icon-caution {
   background-color: transparent;
-  position: absolute;
+  height: 32px;
+  min-width: 32.0078125px;
+  position: relative;
+}
+
+.x4b-agile-development .iconguidelines {
+  background-color: transparent;
+  height: 32px;
+  min-width: 32.0078125px;
+  position: relative;
 }
 
 .x4b-agile-development .link-title-here {
@@ -1916,6 +2057,71 @@
 .x4b-agile-development .lorem-ipsum {
   align-self: stretch;
   background-color: transparent;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x4b-agile-development .text0 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x4b-agile-development .text1 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x4b-agile-development .text2 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.x4b-agile-development .text3 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x4b-agile-development .text4 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x4b-agile-development .text5 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
   line-height: 21px;
   mix-blend-mode: normal;
   position: relative;
