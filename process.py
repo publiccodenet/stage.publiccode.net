@@ -16,7 +16,9 @@ patterns = [
 (r"""    <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
     <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
     <meta name="viewport" content="width=1440, maximum-scale=1.0" />
-    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />""", '    <meta name="viewport" content="width=1440, maximum-scale=1.0" />'),
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />""","""    <meta name="viewport" content="width=1440, maximum-scale=1.0" />"""),
+(r"""  </body>""","""     <script src="collapsible.js"></script>
+  </body>"""),
 ]
 
 for root, dirs, files in os.walk(directory):
@@ -26,6 +28,22 @@ for root, dirs, files in os.walk(directory):
       with open(filepath) as f:
         s = f.read()
         for pattern, replacement in patterns:
+          s = re.sub(pattern, replacement, s)
+      with open(filepath, "w") as f:
+        f.write(s)
+
+cssdirectory = './css/'
+csspatterns = [
+(r"""@import url\("https://px.animaapp.com/6406baa484a3afe9c63921de.6406baa605cc73851b593804.HKtYnxM.hcp.png"\);""", ''),
+]
+# process css
+for root, dirs, files in os.walk(cssdirectory):
+  for file in files:
+    if file.endswith('.css'):
+      filepath = os.path.join(root, file)
+      with open(filepath) as f:
+        s = f.read()
+        for pattern, replacement in csspatterns:
           s = re.sub(pattern, replacement, s)
       with open(filepath, "w") as f:
         f.write(s)
