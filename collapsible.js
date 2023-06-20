@@ -1,7 +1,9 @@
 let arrows = document.querySelectorAll('img[alt="arrow.down"]');
+console.log('arrows', arrows);
 Array.from(arrows).forEach(arrow => {
   let title = arrow.parentNode;
-  let container = title.parentNode.querySelectorAll('div')[1];
+  let container = title.parentNode.querySelectorAll('div.flex-container')[0];
+  // console.log(arrow, title, container);
   container.style.overflow = 'hidden';
   container.style.height = '0px';
   container.style.transition = '0.2s'
