@@ -19,6 +19,48 @@ patterns = [
     <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />""","""    <meta name="viewport" content="width=1440, maximum-scale=1.0" />"""),
 (r"""  </body>""","""     <script src="collapsible.js"></script>
   </body>"""),
+(r"""<div class="iconpathvendor-oss-LaQMVA">
+                    <div class="paper-AURMxU paper">
+                      <img class="union-QGxxzp union" src="img/union-16@2x.png" alt="Union" />
+                      <img class="union-8fzHDA union" src="img/union-11@2x.png" alt="Union" />
+                      <img class="union-8NkbQB union" src="img/union-12@2x.png" alt="Union" />
+                    </div>
+                    <div class="x-AURMxU">
+                      <img class="vector-kehPhm vector" src="img/vector-15@2x.png" alt="Vector" />
+                      <img class="line-10" src="img/line-10@2x.png" alt="Line 10" />
+                      <img class="line-11" src="img/line-11@2x.png" alt="Line 11" />
+                    </div>
+                    <div class="fork-standard-AURMxU">
+                      <div class="ellipse-192-fmmRzO"></div>
+                      <div class="ellipse-193-fmmRzO"></div>
+                      <img class="vector-6-fmmRzO" src="img/vector-6-1@2x.png" alt="Vector 6" />
+                      <img class="vector-fmmRzO vector" src="img/vector-16@2x.png" alt="Vector" />
+                      <img class="vector-H8u4P1 vector" src="img/vector-17@2x.png" alt="Vector" />
+                    </div>
+                  </div>""","""<img
+                    class="iconpathoff-the-shelf-6tRMEp"
+                    src="img/icon.path.vendor.png"
+                    alt="icon.path.off-the-shelf"
+                  />"""),
+(r"""<div class="iconpathvendor-xJm1MO">
+                    <div class="group-146-FfxTRb">
+                      <div class="paper-4ChY5a paper">
+                        <img class="union-Rf9Og4 union" src="img/union-17@2x.png" alt="Union" />
+                        <img class="union-mcmxHP union" src="img/union-13@2x.png" alt="Union" />
+                        <img class="union-34gfT2 union" src="img/union-14@2x.png" alt="Union" />
+                      </div>
+                      <img class="code-4ChY5a" src="img/code@2x.png" alt="code" />
+                      <div class="x-4ChY5a">
+                        <img class="vector-5jjppE vector" src="img/vector-15@2x.png" alt="Vector" />
+                        <img class="line-10" src="img/line-10@2x.png" alt="Line 10" />
+                        <img class="line-11" src="img/line-11@2x.png" alt="Line 11" />
+                      </div>
+                    </div>
+                  </div>""","""<img
+                    class="iconpathoff-the-shelf-6tRMEp"
+                    src="img/icon.path.vendor-oss.png"
+                    alt="icon.path.off-the-shelf"
+                  />"""),
 ]
 
 for root, dirs, files in os.walk(directory):
