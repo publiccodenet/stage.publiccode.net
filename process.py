@@ -18,7 +18,17 @@ patterns = [
     <meta name="viewport" content="width=1440, maximum-scale=1.0" />
     <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />""","""    <meta name="viewport" content="width=1440, maximum-scale=1.0" />"""),
 (r"""  </body>""","""     <script src="collapsible.js"></script>
-  </body>"""),
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3580815,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+</body>"""),
 (r"""<div class="iconpathvendor-oss-LaQMVA">
                     <div class="paper-AURMxU paper">
                       <img class="union-QGxxzp union" src="img/union-16@2x.png" alt="Union" />
