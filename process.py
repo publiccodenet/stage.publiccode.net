@@ -71,6 +71,7 @@ patterns = [
                     src="img/icon.path.vendor-oss.png"
                     alt="icon.path.off-the-shelf"
                   />"""),
+(r"""00-process-codes-landing-page.html""", """index.html"""),
 ]
 
 for root, dirs, files in os.walk(directory):
