@@ -1,0 +1,1623 @@
+/* screen - 4au46-implementation-phase */
+
+.x4au46-implementation-phase {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  padding: 60px 0px 0px;
+  position: relative;
+  top: 0px;
+}
+
+.x4au46-implementation-phase .header-O7f6gm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 1080px;
+}
+
+.x4au46-implementation-phase .logo-title-kjfv7h {
+  position: relative;
+}
+
+.x4au46-implementation-phase .navigation-kjfv7h {
+  background-color: transparent;
+  height: 24px;
+  position: relative;
+  width: 534px;
+}
+
+.x4au46-implementation-phase .links-d58UcO {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 30px;
+  justify-content: flex-end;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+}
+
+.x4au46-implementation-phase .stewardship-cXZm1w {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .resources-cXZm1w {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .who-we-are-cXZm1w {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .join-us-cXZm1w {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .services-d58UcO {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 20px;
+  left: 422px;
+  position: absolute;
+  top: 0px;
+}
+
+.x4au46-implementation-phase .mastodon-ZgnvRO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 24px;
+}
+
+.x4au46-implementation-phase .twitter-ZgnvRO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 24px;
+}
+
+.x4au46-implementation-phase .github-ZgnvRO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 24px;
+}
+
+.x4au46-implementation-phase .title-O7f6gm {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 1080px;
+}
+
+.x4au46-implementation-phase .main-frame-O7f6gm {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 60px;
+  padding: 0px 0px 60px;
+  position: relative;
+  width: 1080px;
+}
+
+.x4au46-implementation-phase .content-UvB4P6 {
+  flex: 1;
+  flex-grow: 1;
+  gap: 60px;
+}
+
+.x4au46-implementation-phase .intro-UpLTKb {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .titlepage-ljdyhp {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .page-title-VoxCAY {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .cluster-ljdyhp {
+  background-color: transparent;
+  height: 230px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 744px;
+}
+
+.x4au46-implementation-phase .the-fourth-and-final-at5PNZ {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 260px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 482px;
+}
+
+.x4au46-implementation-phase .phaseimplementation-at5PNZ {
+  background-color: var(--fpcpurple);
+  border-radius: 12px;
+  height: 230px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 230px;
+}
+
+.x4au46-implementation-phase .group-149-6PK3hT {
+  background-color: transparent;
+  height: 79.76%;
+  left: 11.90%;
+  position: relative;
+  top: 6.19%;
+  width: 79.05%;
+}
+
+.x4au46-implementation-phase .rectangle-M1W0xv {
+  background-color: var(--black);
+  left: 20.48%;
+  top: 28.06%;
+}
+
+.x4au46-implementation-phase .rectangle-KAiJCR {
+  background-color: var(--persian-green);
+  left: 17.47%;
+  top: 25.07%;
+}
+
+.x4au46-implementation-phase .comment-M1W0xv {
+  height: 25.07%;
+  left: 74.70%;
+  top: 0px;
+  width: 25.30%;
+}
+
+.x4au46-implementation-phase .union-tWFQhT {
+  height: 104.35%;
+  left: -2.17%;
+  top: -2.17%;
+  width: 104.35%;
+}
+
+.x4au46-implementation-phase .group-2-tWFQhT {
+  height: 35.78%;
+  left: 32.12%;
+  top: 32.11%;
+  width: 35.78%;
+}
+
+.x4au46-implementation-phase .comment-KAiJCR {
+  height: 17.01%;
+  left: 75.00%;
+  top: 51.64%;
+  width: 17.17%;
+}
+
+.x4au46-implementation-phase .union-I9Vewu {
+  height: 106.41%;
+  left: -3.20%;
+  top: -3.20%;
+  width: 106.41%;
+}
+
+.x4au46-implementation-phase .group-2-I9Vewu {
+  height: 37.84%;
+  left: 31.08%;
+  top: 31.08%;
+  width: 37.83%;
+}
+
+.x4au46-implementation-phase .symbol-dev-M1W0xv {
+  background-color: transparent;
+  height: 16.26%;
+  left: 28.69%;
+  position: absolute;
+  top: 53.21%;
+  width: 34.79%;
+}
+
+.x4au46-implementation-phase .rectangle-2-M1W0xv {
+  background-color: transparent;
+  height: 22.57%;
+  left: 11.14%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 19.10%;
+  width: 22.85%;
+}
+
+.x4au46-implementation-phase .ellipse-M1W0xv {
+  background-color: transparent;
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 32.21px;
+  height: 35.12%;
+  left: -0.55%;
+  position: absolute;
+  top: 7.51%;
+  width: 35.44%;
+}
+
+.x4au46-implementation-phase .abstract-lines-M1W0xv {
+  background-color: transparent;
+  height: 12.54%;
+  left: 15.06%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23.28%;
+  width: 19.28%;
+}
+
+.x4au46-implementation-phase .rectangle-3-Exc7L1 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 4.76%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .rectangle-31-Exc7L1 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 4.76%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.91%;
+  width: 26.92%;
+}
+
+.x4au46-implementation-phase .rectangle-35-Exc7L1 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 4.76%;
+  left: 57.69%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 55.81%;
+  width: 26.92%;
+}
+
+.x4au46-implementation-phase .rectangle-32-Exc7L1 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 4.76%;
+  left: 35.90%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.91%;
+  width: 64.10%;
+}
+
+.x4au46-implementation-phase .rectangle-37-Exc7L1 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 4.76%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 86.05%;
+  transform: rotate(180deg);
+  width: 64.10%;
+}
+
+.x4au46-implementation-phase .rectangle-33-Exc7L1 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 4.76%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 55.81%;
+  width: 50.00%;
+}
+
+.x4au46-implementation-phase .star-M1W0xv {
+  left: 41.42%;
+}
+
+.x4au46-implementation-phase .star-KAiJCR {
+  left: 49.55%;
+}
+
+.x4au46-implementation-phase .star-ZQWM9p {
+  left: 57.38%;
+}
+
+.x4au46-implementation-phase .star-Nyxe3B {
+  left: 65.21%;
+}
+
+.x4au46-implementation-phase .that-sounds-like-a-l-ljdyhp {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x4au46-implementation-phase .footer-nav-UpLTKb {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .navfooterprev-KeSUDI {
+  align-items: center;
+  background-color: var(--fpcbgpeach);
+  border-radius: 32px 4px 4px 32px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  mix-blend-mode: normal;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.x4au46-implementation-phase .arrow-32-uoIl1Y {
+  margin-left: -0.85px;
+}
+
+.x4au46-implementation-phase .group-134-uoIl1Y {
+  margin-right: -4.00px;
+  width: 122px;
+}
+
+.x4au46-implementation-phase .x1a-welcome-Tm2Sao {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.x4au46-implementation-phase .previous-Tm2Sao {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x4au46-implementation-phase .navfooternext-KeSUDI {
+  align-items: center;
+  background-color: var(--fpcpurple);
+  border-radius: 4px 32px 32px 4px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  mix-blend-mode: normal;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.x4au46-implementation-phase .group-134-WbCLzh {
+  width: 174px;
+}
+
+.x4au46-implementation-phase .x1b-discovery-research-sSAWV9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.x4au46-implementation-phase .next-sSAWV9 {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x4au46-implementation-phase .arrow-32-WbCLzh {
+  margin-right: -0.85px;
+}
+
+.x4au46-implementation-phase .sidebarv2-UvB4P6 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--cultured-pearl);
+  border-radius: 6px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: space-between;
+  mix-blend-mode: normal;
+  padding: 20px;
+  position: relative;
+}
+
+.x4au46-implementation-phase .top-KrxUZg {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+}
+
+.x4au46-implementation-phase .navsidebarexpanded-3pZL0j {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 240px;
+}
+
+.x4au46-implementation-phase .navmainv3-HcG1HU {
+  background-color: var(--algae-green);
+}
+
+.x4au46-implementation-phase .x1-section-name-KCyM6J {
+  color: var(--black);
+}
+
+.x4au46-implementation-phase .navsubsectionv2-rIQVaO {
+  background-color: transparent;
+}
+
+.x4au46-implementation-phase .navsubsectionv2-NPUHuq {
+  background-color: transparent;
+}
+
+.x4au46-implementation-phase .navsubsectionv2-NGxfds {
+  background-color: transparent;
+}
+
+.x4au46-implementation-phase .navsubsectionv2-CxQXRU {
+  background-color: transparent;
+}
+
+.x4au46-implementation-phase .navsubsectionv2-ODgQSi {
+  background-color: transparent;
+}
+
+.x4au46-implementation-phase .navmainv3-E3oirj {
+  background-color: var(--fpcbluehl);
+}
+
+.x4au46-implementation-phase .x1-section-name-uasMPS {
+  color: var(--black-2);
+}
+
+.x4au46-implementation-phase .navsubsectionv2-3aEc0Q {
+  background-color: transparent;
+}
+
+.x4au46-implementation-phase .navsubsectionv2-YPTdPL {
+  background-color: transparent;
+}
+
+.x4au46-implementation-phase .navsubsectionv2-gnxLzx {
+  background-color: transparent;
+}
+
+.x4au46-implementation-phase .navmainv3-6kHcat {
+  background-color: var(--fpchlpeach);
+}
+
+.x4au46-implementation-phase .x1-section-name-p8Bx8x {
+  color: var(--black);
+}
+
+.x4au46-implementation-phase .navsubsectionv2-FunTQ0 {
+  background-color: transparent;
+}
+
+.x4au46-implementation-phase .navsubsectionv2-N4c85C {
+  background-color: transparent;
+}
+
+.x4au46-implementation-phase .navsubsectionv2-iOcoEh {
+  background-color: transparent;
+}
+
+.x4au46-implementation-phase .navsubsectionv2-39meUL {
+  background-color: transparent;
+}
+
+.x4au46-implementation-phase .span0-62v9Ym {
+  font-style: normal;
+}
+
+.x4au46-implementation-phase .navmainv3-fxyYx3 {
+  background-color: var(--periwinkle-gray);
+}
+
+.x4au46-implementation-phase .x1-section-name-ArDXuB {
+  color: var(--black-2);
+}
+
+.x4au46-implementation-phase .navsubsectionv2-CI4Vlz {
+  background-color: var(--fpcpurple50);
+}
+
+.x4au46-implementation-phase .navsubsectionv2-GxMCy5 {
+  background-color: transparent;
+}
+
+.x4au46-implementation-phase .navsubsectionv2-vKZ4Hf {
+  background-color: transparent;
+}
+
+.x4au46-implementation-phase .sidebarbottom-KrxUZg {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+}
+
+.x4au46-implementation-phase .have-a-question-2Xtf6Z {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  width: 240px;
+}
+
+.x4au46-implementation-phase .have-a-question-eFdTTP {
+  align-self: stretch;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  text-align: left;
+}
+
+.x4au46-implementation-phase .email-us-eFdTTP {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .footer-O7f6gm {
+  align-self: stretch;
+  background-color: transparent;
+  height: 916px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .base-7qrL9x {
+  background-color: var(--machine-grey);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .information-7qrL9x {
+  background-color: transparent;
+  height: 281px;
+  left: calc(50.00% - 540px);
+  position: absolute;
+  top: 575px;
+  width: 1024px;
+}
+
+.x4au46-implementation-phase .metadata-kQ3tqJ {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: calc(50.00% - 142px);
+  position: absolute;
+  top: 196px;
+}
+
+.x4au46-implementation-phase .updated-AU7esu {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x4au46-implementation-phase .iconupdated-HUKCnh {
+  background-color: transparent;
+  height: 16px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 16px;
+}
+
+.x4au46-implementation-phase .last-updated-15-february-2021-HUKCnh {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x4au46-implementation-phase .copyright-AU7esu {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+}
+
+.x4au46-implementation-phase .text_label-5A6wUM {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .x2021-foundation-for-public-code-5A6wUM {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x4au46-implementation-phase .span0-rGAyVs {
+  font-style: normal;
+}
+
+.x4au46-implementation-phase .span1-rGAyVs {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x4au46-implementation-phase .license-AU7esu {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x4au46-implementation-phase .iconlicense-knPKcl {
+  background-color: transparent;
+  height: 14.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 16px;
+}
+
+.x4au46-implementation-phase .creative-commons-zero-v10-universal-knPKcl {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 299px;
+}
+
+.x4au46-implementation-phase .organizational-notes-kQ3tqJ {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 142px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 650px;
+}
+
+.x4au46-implementation-phase .flex-container-i8593884285932358-kQ3tqJ {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 130px;
+  left: 370px;
+  position: absolute;
+  top: 36px;
+  width: 650px;
+}
+
+.x4au46-implementation-phase .text0-i8593884285932358-vGo375 {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x4au46-implementation-phase .span0-4jXse0 {
+  font-style: normal;
+}
+
+.x4au46-implementation-phase .span1-4jXse0 {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x4au46-implementation-phase .span2-4jXse0 {
+  font-style: normal;
+}
+
+.x4au46-implementation-phase .span3-4jXse0 {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x4au46-implementation-phase .span4-4jXse0 {
+  font-style: normal;
+}
+
+.x4au46-implementation-phase .text1-i8593884285932358-vGo375 {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x4au46-implementation-phase .span5-EXToJB {
+  font-style: normal;
+}
+
+.x4au46-implementation-phase .span6-EXToJB {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x4au46-implementation-phase .span7-EXToJB {
+  font-style: normal;
+}
+
+.x4au46-implementation-phase .span8-EXToJB {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x4au46-implementation-phase .span9-EXToJB {
+  font-style: normal;
+}
+
+.x4au46-implementation-phase .contact-kQ3tqJ {
+  height: 201px;
+  left: calc(50.00% - 512px);
+  width: 345px;
+}
+
+.x4au46-implementation-phase .contact-piuTfy {
+  height: auto;
+  left: calc(50.00% - 172px);
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  mix-blend-mode: normal;
+  text-align: left;
+  width: 120px;
+}
+
+.x4au46-implementation-phase .frame-201-piuTfy {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 15px;
+  left: calc(50.00% - 172px);
+  position: absolute;
+  top: 36px;
+}
+
+.x4au46-implementation-phase .group-196-6wCDET {
+  background-color: transparent;
+  height: 20px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x4au46-implementation-phase .join-our-mailing-list-DAUboP {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  width: 240px;
+}
+
+.x4au46-implementation-phase .newsletter-DAUboP {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x4au46-implementation-phase .group-197-6wCDET {
+  background-color: transparent;
+  height: 20px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x4au46-implementation-phase .x31-20-2-444-500-02Xsxb {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  width: 240px;
+}
+
+.x4au46-implementation-phase .phone-02Xsxb {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x4au46-implementation-phase .group-200-6wCDET {
+  background-color: transparent;
+  height: 20px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x4au46-implementation-phase .infopubliccodenet-Hu4KIt {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  width: 240px;
+}
+
+.x4au46-implementation-phase .email-Hu4KIt {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x4au46-implementation-phase .group-199-6wCDET {
+  background-color: transparent;
+  height: 60px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x4au46-implementation-phase .links-AiTjz8 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 10px;
+  left: 103px;
+  position: absolute;
+  top: 40px;
+}
+
+.x4au46-implementation-phase .open-street-map-C533MW {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .x-C533MW {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .google-C533MW {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .keizersgracht-617-10-AiTjz8 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 103px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 240px;
+}
+
+.x4au46-implementation-phase .address-AiTjz8 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x4au46-implementation-phase .block-trio-7qrL9x {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 20px;
+  left: calc(50.00% - 540px);
+  position: absolute;
+  top: 175px;
+  width: 1080px;
+}
+
+.x4au46-implementation-phase .about-us-a8oiIo {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x4au46-implementation-phase .content-fanpvA {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 15px;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .about-us-eaLNYX {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x4au46-implementation-phase .flex-container-i8593884285932298-eaLNYX {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x4au46-implementation-phase .text0-i8593884285932298-LjC5fa {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x4au46-implementation-phase .span0-n9D14K {
+  font-style: normal;
+}
+
+.x4au46-implementation-phase .text1-i8593884285932298-LjC5fa {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x4au46-implementation-phase .span1-2WRhR5 {
+  font-style: normal;
+}
+
+.x4au46-implementation-phase .links-fanpvA {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .how-we-work-MeAKwU {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .project-resources-a8oiIo {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x4au46-implementation-phase .content-CRWxxv {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 15px;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .project-resources-7JNUQe {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x4au46-implementation-phase .open-products-were-r-7JNUQe {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x4au46-implementation-phase .links-CRWxxv {
+  align-items: flex-end;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .free-to-use-and-modify-3dWGSC {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+}
+
+.x4au46-implementation-phase .see-all-our-work-on-git-hub-3dWGSC {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+}
+
+.x4au46-implementation-phase .careers-a8oiIo {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x4au46-implementation-phase .content-O8xEa4 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 15px;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .careers-DcDrvs {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x4au46-implementation-phase .calling-all-publicly-DcDrvs {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x4au46-implementation-phase .links-O8xEa4 {
+  align-items: flex-end;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .open-positions-PNjXm5 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .logo-title-7qrL9x {
+  left: calc(50.00% - 540px);
+  position: absolute;
+  top: 60px;
+}
+
+.x4au46-implementation-phase .arrow-32 {
+  background-color: transparent;
+  height: 12.468994140625px;
+  position: relative;
+  width: 15.2421875px;
+}
+
+.x4au46-implementation-phase .b-subsection-name {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .c-subsection-name {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .capacity-building {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .comment {
+  background-color: transparent;
+  position: absolute;
+  transform: rotate(180deg);
+}
+
+.x4au46-implementation-phase .content {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.x4au46-implementation-phase .d-subsection-name {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .group-2 {
+  background-color: transparent;
+  position: absolute;
+  transform: rotate(-180deg);
+}
+
+.x4au46-implementation-phase .have-a-question {
+  background-color: transparent;
+  position: relative;
+}
+
+.x4au46-implementation-phase .navmainv3 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  mix-blend-mode: normal;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .navsubsectionv2 {
+  align-items: center;
+  border-radius: 4px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  mix-blend-mode: normal;
+  padding: 2px 8px 3px;
+  position: relative;
+}
+
+.x4au46-implementation-phase .rectangle {
+  height: 71.94%;
+  mix-blend-mode: normal;
+  position: absolute;
+  width: 57.23%;
+}
+
+.x4au46-implementation-phase .section-title {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .star {
+  background-color: transparent;
+  height: 5.67%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.76%;
+  width: 6.02%;
+}
+
+.x4au46-implementation-phase .subsections {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+}
+
+.x4au46-implementation-phase .union {
+  background-color: transparent;
+  position: absolute;
+  transform: rotate(-180deg);
+}
+
+.x4au46-implementation-phase .x1-section-name {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
