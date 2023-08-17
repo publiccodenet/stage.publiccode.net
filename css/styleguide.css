@@ -54,7 +54,7 @@
   font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 700;
-  letter-spacing: 0;
+  letter-spacing: 0px;
 }
 
 .titlesection {
@@ -62,7 +62,7 @@
   font-size: var(--font-size-24px);
   font-style: normal;
   font-weight: 700;
-  letter-spacing: 0;
+  letter-spacing: 0px;
 }
 
 .titlesubsection {
@@ -70,7 +70,7 @@
   font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 700;
-  letter-spacing: 0;
+  letter-spacing: 0px;
 }
 
 .body {
@@ -78,7 +78,7 @@
   font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
-  letter-spacing: 0;
+  letter-spacing: 0px;
 }
 
 .bodylink {
@@ -86,7 +86,7 @@
   font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 600;
-  letter-spacing: 0;
+  letter-spacing: 0px;
 }
 
 .detail {
@@ -94,7 +94,7 @@
   font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 400;
-  letter-spacing: 0;
+  letter-spacing: 0px;
 }
 
 .subtext {
@@ -102,7 +102,7 @@
   font-size: var(--font-size-10px);
   font-style: normal;
   font-weight: 400;
-  letter-spacing: 0;
+  letter-spacing: 0px;
 }
 
 .titlesection-p {
@@ -110,7 +110,7 @@
   font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 700;
-  letter-spacing: 0;
+  letter-spacing: 0px;
 }
 
 .titlesubsection-p {
@@ -118,7 +118,7 @@
   font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 700;
-  letter-spacing: 0;
+  letter-spacing: 0px;
 }
 
 .body-p {
@@ -126,7 +126,7 @@
   font-size: var(--font-size-12px);
   font-style: normal;
   font-weight: 400;
-  letter-spacing: 0;
+  letter-spacing: 0px;
 }
 
 .mulish-bold-black-16px {
@@ -327,4 +327,7 @@
   font-size: 3.2px;
   font-style: normal;
   font-weight: 400;
+}
+
+:root {
 }
