@@ -1,23 +1,9 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
-@import url("https://fonts.googleapis.com/css?family=Mulish:700,600,400");
+@import url("https://fonts.googleapis.com/css?family=Mulish:400italic,400,600italic,600,700italic,700");
 /* The following line is used to measure usage of this code. You can remove it if you want. */
 @import url("https://px.animaapp.com/6406baa484a3afe9c63921de.6406baa605cc73851b593804.lZdzuKQ.hcp.png");
 
 
-
-.screen textarea:focus,
-.screen input:focus {
-  outline: none;
-}
-
-.screen * {
-  -webkit-font-smoothing: antialiased;
-  box-sizing: border-box;
-}
-
-.screen div {
-  -webkit-text-size-adjust: none;
-}
 
 .screen a {
   display: contents;
@@ -53,306 +39,138 @@
   box-sizing: border-box;
 }
 
-.about-us {
-  align-self: stretch;
-  mix-blend-mode: normal;
+.link {
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.x-title {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.this-section-will-help-you {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 650px;
+}
+
+.goal {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
   position: relative;
 }
 
-.action {
+.icon {
+  height: 32px;
+  position: relative;
+  width: 32.01px;
+}
+
+.this-is-a-goal-for-a {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.challenges {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
-  gap: 15px;
-  mix-blend-mode: normal;
-  padding: 0px 20px;
+  flex-direction: column;
+  gap: 30px;
   position: relative;
   width: 100%;
-}
-
-.arrow-2 {
-  background-color: transparent;
-  height: 33.77%;
-  left: 28.39%;
-  position: absolute;
-  top: 34.62%;
-  width: 44.21%;
-}
-
-.bulb {
-  background-color: transparent;
-  height: 24px;
-  left: 7px;
-  position: relative;
-  top: 3px;
-  width: 18px;
-}
-
-.careers {
-  align-self: stretch;
-  mix-blend-mode: normal;
-  position: relative;
 }
 
 .challenge {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   gap: 10px;
-  mix-blend-mode: normal;
   position: relative;
   width: 100%;
 }
 
-.contact {
-  background-color: transparent;
-  position: absolute;
-  top: 0px;
-}
-
-.foundation-for-public-code {
-  background-color: transparent;
-  height: 101.82%;
-  left: 14.88%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 85.12%;
-}
-
-.frame-163 {
-  align-items: flex-start;
-  background-color: var(--fpcgraymed);
-  border-radius: 4px;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  mix-blend-mode: normal;
-  padding: 1px 5px;
+.lorem-ipsum {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
   position: relative;
 }
 
-.goal {
+.actions {
   align-items: flex-start;
-  background-color: transparent;
+  align-self: stretch;
   display: flex;
-  flex: 1;
+  flex: 0 0 auto;
   flex-direction: column;
-  flex-grow: 1;
-  mix-blend-mode: normal;
+  gap: 30px;
   position: relative;
+  width: 100%;
 }
 
-.group {
-  background-color: transparent;
-  position: absolute;
+.action {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  padding: 0px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.icon-1 {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.bulb {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 7px;
+  min-height: 24px;
+  position: relative;
+  top: 3px;
+  width: 18px;
 }
 
 .group-194 {
-  background-color: transparent;
-  height: 16.68%;
-  left: 29.17%;
-  position: absolute;
-  top: 29.19%;
-  width: 41.67%;
-}
-
-.iconaction {
-  background-color: transparent;
-  height: 32px;
-  position: relative;
-  width: 32px;
-}
-
-.icongoal {
-  background-color: transparent;
-  height: 32px;
-  position: relative;
-}
-
-.iconknowledge {
-  background-color: transparent;
-  height: 32px;
-  position: relative;
-  width: 32px;
+  height: 4px;
+  width: 8px;
 }
 
 .line-48 {
-  background-color: transparent;
-  height: 8.16%;
-  left: 30.56%;
-  position: absolute;
-  top: 91.84%;
-  width: 38.89%;
+  height: 2px;
+  width: 7px;
 }
 
-.logo-symbol {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 11.63%;
-}
-
-.logo-title {
-  background-color: transparent;
-  cursor: pointer;
-  height: 55px;
-  width: 410px;
-}
-
-.number {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  padding: 0px 15px;
-  position: relative;
-  width: 60px;
-}
-
-.outcome {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  mix-blend-mode: normal;
-  position: relative;
-}
-
-.project-resources {
+.an-action-that-requires-high-engagement {
   align-self: stretch;
-  mix-blend-mode: normal;
-  position: relative;
-}
-
-.reference {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 5px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 100%;
-}
-
-.source-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.subsection-title {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.symbol-dev {
-  background-color: transparent;
-  position: absolute;
-}
-
-.this-is-a-goal-for-a-particular-activity {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.title {
-  background-color: transparent;
-  position: relative;
-}
-
-.titlesubsection {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  border-bottom-style: solid;
-  border-bottom-width: 1px;
-  border-color: var(--fpcgraydark);
-  border-left-style: none;
-  border-right-style: none;
-  border-top-style: none;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  padding: 0px 0px 10px;
-  position: relative;
-  width: 100%;
-}
-
-.v2 {
-  background-color: transparent;
-  height: 26px;
-  left: 4px;
-  position: relative;
-  top: 0px;
-  width: 24px;
-}
-
-.x1 {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: right;
-  width: 30px;
-}
-
-.group-134 {
-  background-color: transparent;
-  height: 38px;
-  position: relative;
-}
-
-.guidelines {
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: 24px;
-  mix-blend-mode: normal;
+  margin-top: -1.00px;
   position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
 }
 
 .guidelinessolo {
@@ -364,19 +182,900 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 15px 20px;
   position: relative;
   width: 100%;
 }
 
-.a-knowledge-acquisit {
+.guidelines {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.arrowdown {
+  height: 8.41px;
+  margin-right: -1.00px;
+  position: relative;
+  width: 14px;
+}
+
+.outcomes {
+  align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.goals {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.outcome {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.icongoal {
+  height: 32px;
+  position: relative;
+  width: 32.01px;
+}
+
+.v2 {
+  align-items: flex-end;
+  background-image: url(../img/gear-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 4px;
+  min-width: 24px;
+  padding: 8.2px 6.5px;
+  position: relative;
+}
+
+.arrow-2 {
+  height: 9px;
+  width: 11px;
+}
+
+.references {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.reference {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  position: relative;
+  width: 100%;
+}
+
+.number {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 15px;
+  position: relative;
+  width: 60px;
+}
+
+.source-name {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.link-title-here {
+  align-self: stretch;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-decoration: underline;
+}
+
+.x1 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: 30px;
+}
+
+.previous {
+  color: var(--white);
+  font-weight: 400;
+  height: 15px;
+  line-height: normal;
+  width: 48px;
+}
+
+.sidebarv2-item {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+}
+
+.section-title {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.d-subsection-name-1 {
+  color: var(--black);
+  font-weight: 400;
   line-height: 24px;
   margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.have-a-question-1 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 700;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.headline {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+.eco-system-1 {
+  background-color: var(--melon);
+  height: 433.1px;
+  position: relative;
+  width: 433.1px;
+}
+
+.footer {
+  align-self: stretch;
+  background-color: var(--machine-grey);
+  height: 916px;
   mix-blend-mode: normal;
   position: relative;
-  text-align: left;
+  width: 100%;
+}
+
+.logo-title-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  gap: 13px;
+  min-width: 410px;
+}
+
+.logo-symbol-1 {
+  height: 55px;
+  width: 48px;
+}
+
+.foundation-for-public-code-1 {
+  height: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 349px;
+}
+
+.block-trio {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  margin-top: 60px;
+  position: relative;
+  width: 1080px;
+}
+
+.about-us {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 30px;
+  position: relative;
+}
+
+.about-us-1 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.link-1 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.block-trio-item {
+  align-items: flex-end;
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 30px;
+  position: relative;
+}
+
+.project-resources {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.open-products-were {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+}
+
+.free-to-use-and-modify {
+  align-self: stretch;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+}
+
+.see-all-our-work-on-git-hub {
+  align-self: stretch;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: right;
+}
+
+.careers {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.calling-all-publicly {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+}
+
+.information {
+  align-items: flex-start;
+  display: flex;
+  gap: 25px;
+  height: 281px;
+  margin-top: 95px;
+  min-width: 1024px;
+}
+
+.contact {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 201px;
+  width: 345px;
+}
+
+.place {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: -225px;
+  width: 120px;
+}
+
+.newsletter {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  line-height: normal;
+  width: 85px;
+}
+
+.link-2 {
+  color: var(--basic-link);
+  font-weight: 400;
+  height: 20px;
+  text-decoration: underline;
+  width: 240px;
+}
+
+.phone {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  line-height: normal;
+  width: 51px;
+}
+
+.email {
+  color: var(--black);
+  font-weight: 400;
+  height: 20px;
+  line-height: normal;
+  width: 45px;
+}
+
+.keizersgracht-617-1 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 40px;
+  width: 240px;
+}
+
+.link-3 {
+  color: var(--basic-link);
+  font-weight: 400;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.address {
+  color: var(--black);
+  font-weight: 400;
+  left: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.organizational-notes {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 28px;
+  width: 650px;
+}
+
+.metadata {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 30px;
+  position: relative;
+}
+
+.metadata-item {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.iconupdated {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.last-updated-15-february-2021 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 299px;
+}
+
+.copyright {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+}
+
+.copyright-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.address-1 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  width: 299px;
+}
+
+.iconlicense {
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.creative-commons-zero-v10-universal {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  width: 299px;
+}
+
+.b-subsection-name-4 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.c-subsection-name-3 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.capacity-building-6 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.challenge-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.goal-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.link-4 {
+  cursor: pointer;
+  line-height: normal;
+}
+
+.outcome-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.this-is-a-goal-for-a-3 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.v2-4 {
+  align-items: flex-end;
+  background-image: url(../img/gear-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 4px;
+  min-width: 24px;
+  padding: 8.2px 6.5px;
+  position: relative;
+}
+
+.ellipse-29 {
+  background-color: #fff400e6;
+  border-radius: 23.55px;
+  height: 47px;
+  left: 88px;
+  position: absolute;
+  top: 22px;
+  width: 47px;
+}
+
+.ellipse-11 {
+  background-color: var(--fpchlyellow);
+  border-radius: 2.74px;
+  height: 5px;
+  left: 176px;
+  position: absolute;
+  top: 92px;
+  width: 5px;
+}
+
+.ellipse-33 {
+  background-color: var(--governor-bay);
+  border-radius: 2.19px;
+  height: 4px;
+  left: 134px;
+  position: absolute;
+  top: 180px;
+  width: 4px;
+}
+
+.ellipse-34 {
+  background-color: var(--governor-bay);
+  border-radius: 4.38px;
+  height: 9px;
+  left: 153px;
+  position: absolute;
+  top: 193px;
+  width: 9px;
+}
+
+.cluster-4 {
+  flex-direction: column;
+  gap: 20px;
+}
+
+.boxes {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.box {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcgraywhitesmoke);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 15px;
+  justify-content: center;
+  padding: 15px 30px;
+  position: relative;
+}
+
+.iconpath {
+  height: 64px;
+  position: relative;
+  width: 64px;
+}
+
+.x {
+  height: 15px;
+  left: 29px;
+  position: absolute;
+  top: 21px;
+  width: 8px;
+}
+
+.x-1 {
+  height: 15px;
+  left: 30px;
+  position: absolute;
+  top: 22px;
+  width: 8px;
+}
+
+.gear-2 {
+  height: 27px;
+  width: 30px;
+}
+
+.c-subsection-name-4 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.lorem-ipsum-1 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.lorem-ipsum-2 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.lorem-ipsum-3 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.lorem-ipsum-5 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.arrow-32-1 {
+  height: 12.47px;
+  margin-right: -0.85px;
+  position: relative;
+  width: 15.24px;
+}
+
+.challenge-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.outcome-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.text4 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.text5 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.title-4 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.you-should-read-this {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.source-name-4 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.flex-container-i {
+  gap: 10px;
+}
+
+.an-action-that-requires-high-engagement-11 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.lorem-ipsum-15 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.source-name-6 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.outcome-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.span-4 {
+  text-decoration: underline;
+}
+
+.a-knowledge-acquisit-3 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.goal-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.this-is-a-goal-for-a-4 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.titlepage {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.goal-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.this-is-a-goal-for-a-1 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.challenge-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.arrowdown-1 {
+  height: 8.41px;
+  margin-right: -1.00px;
+  position: relative;
+  width: 14px;
+}
+
+.capacity-building-7 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
 }

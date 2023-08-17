@@ -7,16 +7,11 @@
   display: flex;
   flex-direction: column;
   gap: 60px;
-  left: 0px;
-  mix-blend-mode: normal;
-  overflow: hidden;
-  overflow-x: hidden;
   padding: 60px 0px 0px;
   position: relative;
-  top: 0px;
 }
 
-.x4bu46-agile-development .header-06u1jU {
+.x4bu46-agile-development .header {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -26,130 +21,79 @@
   width: 1080px;
 }
 
-.x4bu46-agile-development .logo-title-M4B0ht {
+.x4bu46-agile-development .logo-title {
+  cursor: pointer;
+  height: 55px;
   position: relative;
+  width: 410px;
 }
 
-.x4bu46-agile-development .navigation-M4B0ht {
-  background-color: transparent;
+.x4bu46-agile-development .foundation-for-public-code {
+  height: 56px;
+  left: 61px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 349px;
+}
+
+.x4bu46-agile-development .logo-symbol {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.x4bu46-agile-development .navigation {
+  display: flex;
+  gap: 51px;
   height: 24px;
   position: relative;
   width: 534px;
 }
 
-.x4bu46-agile-development .links-tvG48L {
+.x4bu46-agile-development .navbar {
   align-items: flex-start;
-  background-color: transparent;
   display: inline-flex;
   gap: 30px;
+  height: 19px;
   justify-content: flex-end;
-  left: 0px;
-  position: absolute;
-  top: 2px;
+  margin-top: 2.5px;
+  position: relative;
+  width: 371px;
 }
 
-.x4bu46-agile-development .stewardship-V8znAx {
-  background-color: transparent;
+.x4bu46-agile-development .navbar-link {
   cursor: pointer;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x4bu46-agile-development .resources-V8znAx {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x4bu46-agile-development .who-we-are-V8znAx {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x4bu46-agile-development .join-us-V8znAx {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x4bu46-agile-development .services-tvG48L {
+.x4bu46-agile-development .services {
   align-items: flex-start;
-  background-color: transparent;
   display: inline-flex;
   gap: 20px;
-  left: 422px;
-  position: absolute;
-  top: 0px;
-}
-
-.x4bu46-agile-development .mastodon-2Saf47 {
-  background-color: transparent;
-  cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
-  width: 24px;
+  width: 112px;
 }
 
-.x4bu46-agile-development .twitter-2Saf47 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 24px;
-}
-
-.x4bu46-agile-development .github-2Saf47 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 24px;
-}
-
-.x4bu46-agile-development .title-06u1jU {
+.x4bu46-agile-development .title-3 {
   color: var(--black);
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
-  mix-blend-mode: normal;
-  text-align: left;
+  position: relative;
   width: 1080px;
 }
 
-.x4bu46-agile-development .main-frame-06u1jU {
+.x4bu46-agile-development .main-frame {
   align-items: flex-start;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   gap: 60px;
@@ -158,17 +102,15 @@
   width: 1080px;
 }
 
-.x4bu46-agile-development .content-00NKxK {
-  background-color: transparent;
+.x4bu46-agile-development .content-3 {
   flex: 1;
   flex-grow: 1;
   gap: 60px;
 }
 
-.x4bu46-agile-development .intro-s2Nisa {
+.x4bu46-agile-development .intro {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -177,16 +119,12 @@
   width: 100%;
 }
 
-.x4bu46-agile-development .titlepage-4SWPW9 {
+.x4bu46-agile-development .title {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   border-bottom-style: solid;
   border-bottom-width: 1px;
   border-color: var(--fpcgraydark);
-  border-left-style: none;
-  border-right-style: none;
-  border-top-style: none;
   display: flex;
   flex: 0 0 auto;
   gap: 10px;
@@ -195,963 +133,300 @@
   width: 100%;
 }
 
-.x4bu46-agile-development .page-title-OJxUnP {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x4bu46-agile-development .content-4SWPW9 {
+.x4bu46-agile-development .content-4 {
   align-self: stretch;
   background-color: var(--fpcgraywhitesmoke);
   border-radius: 12px;
   flex: 0 0 auto;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 20px;
   width: 100%;
 }
 
-.x4bu46-agile-development .this-section-will-help-you-4G0tCA {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 650px;
-}
-
-.x4bu46-agile-development .cluster-4G0tCA {
-  gap: 10px;
-}
-
-.x4bu46-agile-development .icongoal-x8x5iy {
-  width: 32.0078125px;
-}
-
-.x4bu46-agile-development .icongoal-DSKLWy {
-  width: 32.0078125px;
-}
-
-.x4bu46-agile-development .icongoal-bu4rrh {
-  width: 32.0078125px;
-}
-
-.x4bu46-agile-development .challenges-s2Nisa {
+.x4bu46-agile-development .cluster {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 30px;
+  gap: 10px;
   position: relative;
   width: 100%;
 }
 
-.x4bu46-agile-development .you-may-encounter-th-xwoxm5 {
+.x4bu46-agile-development .you-may-encounter-th {
   align-self: stretch;
-  background-color: transparent;
   color: var(--red);
-  font-style: normal;
   font-weight: 400;
   line-height: 16px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x4bu46-agile-development .span0-rLvERE {
+.x4bu46-agile-development .span {
   color: var(--black);
-  font-style: normal;
   line-height: 24px;
 }
 
-.x4bu46-agile-development .span1-rLvERE {
+.x4bu46-agile-development .span1 {
   color: var(--black);
-  font-style: normal;
   font-weight: 600;
 }
 
-.x4bu46-agile-development .span2-rLvERE {
-  color: var(--black);
-  font-style: normal;
-  line-height: 24px;
-}
-
-.x4bu46-agile-development .content-r53L2x {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x4bu46-agile-development .title-HGzpra {
-  align-self: stretch;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  text-align: left;
-}
-
-.x4bu46-agile-development .lorem-ipsum-HGzpra {
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.x4bu46-agile-development .content-FUPnNK {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x4bu46-agile-development .title-pqbGRN {
-  align-self: stretch;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  text-align: left;
-}
-
-.x4bu46-agile-development .lorem-ipsum-pqbGRN {
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.x4bu46-agile-development .content-7HbPfT {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x4bu46-agile-development .title-JUsAd6 {
-  align-self: stretch;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  text-align: left;
-}
-
-.x4bu46-agile-development .lorem-ipsum-JUsAd6 {
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.x4bu46-agile-development .content-JAzDqv {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x4bu46-agile-development .title-gLSJ6D {
-  align-self: stretch;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  text-align: left;
-}
-
-.x4bu46-agile-development .lorem-ipsum-gLSJ6D {
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.x4bu46-agile-development .actions-s2Nisa {
+.x4bu46-agile-development .content {
   align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
+  flex: 1;
   flex-direction: column;
-  gap: 30px;
+  flex-grow: 1;
+  gap: 2px;
   position: relative;
-  width: 100%;
 }
 
-.x4bu46-agile-development .frame-142-wl2xsO {
-  align-items: flex-start;
+.x4bu46-agile-development .title-1 {
   align-self: stretch;
-  background-color: transparent;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.x4bu46-agile-development .frame-142 {
+  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 20px;
-  position: relative;
   width: 100%;
 }
 
-.x4bu46-agile-development .x1-supporting-the-agile-work-plan-h1Bjd0 {
+.x4bu46-agile-development .x1-supporting-the-agile-work-plan {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x4bu46-agile-development .your-software-develo-h1Bjd0 {
+.x4bu46-agile-development .your-software-develo {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x4bu46-agile-development .content-CDbrzB {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x4bu46-agile-development .lorem-ipsum-Iyccub {
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.x4bu46-agile-development .content-huxqSc {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x4bu46-agile-development .lorem-ipsum-637dpL {
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.x4bu46-agile-development .content-dxlHYh {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x4bu46-agile-development .lorem-ipsum-VTXXsy {
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.x4bu46-agile-development .content-bdgUUt {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x4bu46-agile-development .lorem-ipsum-FTOxOB {
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.x4bu46-agile-development .content-Km5r0B {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x4bu46-agile-development .lorem-ipsum-Y3jrq2 {
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.x4bu46-agile-development .frame-143-wl2xsO {
+.x4bu46-agile-development .overlap-group {
   align-items: flex-start;
+  background-image: url(../img/union@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 20px;
+  min-width: 18px;
+  padding: 7.2px 5.2px;
+}
+
+.x4bu46-agile-development .lorem-ipsum-4 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x4bu46-agile-development .lorem-ipsum-6 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x4bu46-agile-development .lorem-ipsum-7 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x4bu46-agile-development .lorem-ipsum-8 {
+  color: var(--black);
+  font-weight: 400;
+}
+
+.x4bu46-agile-development .frame-143 {
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 20px;
-  position: relative;
   width: 100%;
 }
 
-.x4bu46-agile-development .x2-sprint-planning-XtQb6C {
+.x4bu46-agile-development .x2-sprint-planning {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x4bu46-agile-development .your-development-par-XtQb6C {
+.x4bu46-agile-development .your-development-par {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x4bu46-agile-development .content-DsD2qm {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x4bu46-agile-development .flex-container-i231689960214892-vjeqSN {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.x4bu46-agile-development .text0-i231689960214892-MPAp1V {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x4bu46-agile-development .text0-i231689960214892 {
   line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
 }
 
-.x4bu46-agile-development .span0-EbXhgH {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .text1-i231689960214892-MPAp1V {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x4bu46-agile-development .text1-i231689960214892 {
   line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
 }
 
-.x4bu46-agile-development .span1-3fpt4B {
-  font-style: normal;
+.x4bu46-agile-development .span-2 {
+  letter-spacing: 0;
 }
 
-.x4bu46-agile-development .text2-i231689960214892-MPAp1V {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
+.x4bu46-agile-development .lorem-ipsum-9 {
+  letter-spacing: 0;
 }
 
-.x4bu46-agile-development .span2-wT8qMA {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .text3-i231689960214892-MPAp1V {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .span3-bPxeI9 {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .span4-bPxeI9 {
-  font-style: normal;
-  letter-spacing: 0.00px;
-}
-
-.x4bu46-agile-development .span5-bPxeI9 {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .text4-i231689960214892-MPAp1V {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .span6-7z0Dh9 {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .text5-i231689960214892-MPAp1V {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .span7-MBlTOU {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .content-Clmk7I {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x4bu46-agile-development .lorem-ipsum-PFjHmx {
-  letter-spacing: 0.00px;
-}
-
-.x4bu46-agile-development .title-TxZnaD {
+.x4bu46-agile-development .title-2 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
   gap: 10px;
-}
-
-.x4bu46-agile-development .flex-container-i21175332117085-TxZnaD {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.x4bu46-agile-development .text0-i21175332117085-P6JYaM {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x4bu46-agile-development .span0-B4BKdW {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .text1-i21175332117085-P6JYaM {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x4bu46-agile-development .text0-i21175332117085 {
   line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
 }
 
-.x4bu46-agile-development .span1-xLMZtM {
-  font-style: normal;
-  letter-spacing: 0.00px;
-}
-
-.x4bu46-agile-development .text2-i21175332117085-P6JYaM {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x4bu46-agile-development .text1-i21175332117085 {
   line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
 }
 
-.x4bu46-agile-development .span2-f4kIgu {
-  font-style: normal;
-  letter-spacing: 0.00px;
-}
-
-.x4bu46-agile-development .text3-i21175332117085-P6JYaM {
+.x4bu46-agile-development .frame-144 {
   align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .span3-LuCpsu {
-  font-style: normal;
-  letter-spacing: 0.00px;
-}
-
-.x4bu46-agile-development .text4-i21175332117085-P6JYaM {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .span4-lewA18 {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .span5-lewA18 {
-  font-style: normal;
-  letter-spacing: 0.00px;
-}
-
-.x4bu46-agile-development .span6-lewA18 {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .text5-i21175332117085-P6JYaM {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .span7-Hx8CEH {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .span8-Hx8CEH {
-  font-style: normal;
-  letter-spacing: 0.00px;
-}
-
-.x4bu46-agile-development .span9-Hx8CEH {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .span10-Hx8CEH {
-  font-style: normal;
-  letter-spacing: 0.00px;
-}
-
-.x4bu46-agile-development .span11-Hx8CEH {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .frame-144-wl2xsO {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 20px;
-  position: relative;
   width: 100%;
 }
 
-.x4bu46-agile-development .x3-using-a-dev-ops-approach-cBIDCb {
+.x4bu46-agile-development .x3-using-a-dev-ops-approach {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x4bu46-agile-development .dev-ops-short-for-de-cBIDCb {
+.x4bu46-agile-development .dev-ops-short-for-d {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x4bu46-agile-development .span0-9xTkHT {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .span1-9xTkHT {
-  font-style: normal;
-  letter-spacing: 0.00px;
-}
-
-.x4bu46-agile-development .span2-9xTkHT {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .content-8ikehh {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x4bu46-agile-development .lorem-ipsum-q0Vg4x {
+.x4bu46-agile-development .lorem-ipsum-10 {
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
 }
 
-.x4bu46-agile-development .content-xSnejx {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x4bu46-agile-development .lorem-ipsum-xfE1Wv {
+.x4bu46-agile-development .lorem-ipsum-11 {
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
 }
 
-.x4bu46-agile-development .content-9frdif {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x4bu46-agile-development .lorem-ipsum-8uG2wH {
+.x4bu46-agile-development .lorem-ipsum-12 {
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
 }
 
-.x4bu46-agile-development .title-BDlPAD {
-  align-items: center;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
+.x4bu46-agile-development .text0-i23973782117085 {
+  line-height: 21px;
 }
 
-.x4bu46-agile-development .flex-container-i23973782117085-BDlPAD {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
+.x4bu46-agile-development .text1-i23973782117085 {
+  line-height: 21px;
 }
 
-.x4bu46-agile-development .text0-i23973782117085-jhdMs5 {
+.x4bu46-agile-development .text6-i23973782117085 {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x4bu46-agile-development .span0-YoImK9 {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .text1-i23973782117085-jhdMs5 {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .span1-cG2uwk {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .text2-i23973782117085-jhdMs5 {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .span2-ZnFTV6 {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .text3-i23973782117085-jhdMs5 {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .span3-NeOZxV {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .text4-i23973782117085-jhdMs5 {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .span4-Uard3g {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .text5-i23973782117085-jhdMs5 {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .span5-zbpdj1 {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .text6-i23973782117085-jhdMs5 {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .span6-wD3p1d {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .outcomes-s2Nisa {
+.x4bu46-agile-development .cluster-1 {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
-  gap: 30px;
+  gap: 20px;
   position: relative;
   width: 100%;
 }
 
-.x4bu46-agile-development .cluster-B4Fx4s {
-  flex-direction: column;
-  gap: 20px;
-}
-
-.x4bu46-agile-development .create-or-complete-t-xakm69 {
-  background-color: transparent;
+.x4bu46-agile-development .create-or-complete-t {
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 24px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
   width: 690px;
 }
 
-.x4bu46-agile-development .goals-xakm69 {
-  align-items: flex-start;
+.x4bu46-agile-development .this-is-an-outcome-t {
   align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 20px;
+  letter-spacing: 0;
+  line-height: 24px;
   position: relative;
-  width: 100%;
 }
 
-.x4bu46-agile-development .icongoal-On30Xp {
-  width: 32.00901794433594px;
+.x4bu46-agile-development .v2-1 {
+  background-image: url(../img/gear-2-9@2x.png);
 }
 
-.x4bu46-agile-development .icongoal-jYuGxf {
-  width: 32.00901794433594px;
+.x4bu46-agile-development .v2-2 {
+  background-image: url(../img/gear-2-10@2x.png);
 }
 
-.x4bu46-agile-development .icongoal-eOkUk7 {
-  width: 32.00901794433594px;
-}
-
-.x4bu46-agile-development .references-s2Nisa {
-  align-items: flex-start;
+.x4bu46-agile-development .frame-141 {
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 30px;
-  position: relative;
   width: 100%;
 }
 
-.x4bu46-agile-development .frame-141-ujwaKg {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
+.x4bu46-agile-development .text-5 {
+  text-align: right;
+  width: 30px;
+}
+
+.x4bu46-agile-development .content-1 {
+  flex: 1;
+  flex-grow: 1;
+  gap: 5px;
+}
+
+.x4bu46-agile-development .frame-163 {
+  background-color: var(--fpcgraymed);
+  border-radius: 4px;
+  display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 30px;
-  position: relative;
-  width: 100%;
+  gap: 10px;
+  padding: 1px 5px;
 }
 
-.x4bu46-agile-development .content-Ybmxd0 {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x4bu46-agile-development .content-KViuGg {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x4bu46-agile-development .content-6zlcOa {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x4bu46-agile-development .content-d55mmr {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x4bu46-agile-development .content-CRmXMh {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x4bu46-agile-development .content-lqje1t {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x4bu46-agile-development .content-XLaqP9 {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x4bu46-agile-development .content-EaLtB2 {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x4bu46-agile-development .footer-nav-s2Nisa {
+.x4bu46-agile-development .footer-nav {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   justify-content: space-between;
@@ -1160,7 +435,7 @@
   width: 100%;
 }
 
-.x4bu46-agile-development .navfooterprev-DQfkhN {
+.x4bu46-agile-development .navfooterprev {
   align-items: center;
   background-color: var(--fpcpurple);
   border-radius: 32px 4px 4px 32px;
@@ -1168,49 +443,35 @@
   display: inline-flex;
   flex: 0 0 auto;
   gap: 15px;
-  mix-blend-mode: normal;
   padding: 10px 15px;
   position: relative;
 }
 
-.x4bu46-agile-development .arrow-32-eowd6Q {
+.x4bu46-agile-development .arrow-32 {
+  height: 12.47px;
   margin-left: -0.85px;
+  position: relative;
+  width: 15.24px;
 }
 
-.x4bu46-agile-development .group-134-eowd6Q {
+.x4bu46-agile-development .group-134 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
   margin-right: -4.00px;
+  position: relative;
   width: 203px;
 }
 
-.x4bu46-agile-development .x1a-welcome-vjnIAx {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
+.x4bu46-agile-development .x1a-welcome {
+  height: 20px;
+  letter-spacing: 0;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 18px;
-  width: auto;
+  width: 199px;
 }
 
-.x4bu46-agile-development .previous-vjnIAx {
-  background-color: transparent;
-  color: var(--white);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x4bu46-agile-development .navfooternext-DQfkhN {
+.x4bu46-agile-development .navfooternext {
   align-items: center;
   background-color: var(--fpcpurple);
   border-radius: 4px 32px 32px 4px;
@@ -1218,48 +479,35 @@
   display: inline-flex;
   flex: 0 0 auto;
   gap: 15px;
-  mix-blend-mode: normal;
   padding: 10px 15px;
   position: relative;
 }
 
-.x4bu46-agile-development .group-134-XiK5ib {
+.x4bu46-agile-development .group-134-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
+  position: relative;
   width: 115px;
 }
 
-.x4bu46-agile-development .x1b-discovery-research-tkeKwH {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 18px;
-  width: auto;
-}
-
-.x4bu46-agile-development .next-tkeKwH {
-  background-color: transparent;
+.x4bu46-agile-development .next {
   color: var(--white);
-  font-style: normal;
   font-weight: 400;
-  height: auto;
-  left: 0px;
+  height: 15px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
+  width: 27px;
 }
 
-.x4bu46-agile-development .arrow-32-XiK5ib {
-  margin-right: -0.85px;
+.x4bu46-agile-development .x1b-discovery-research {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 111px;
 }
 
-.x4bu46-agile-development .sidebarv2-00NKxK {
+.x4bu46-agile-development .sidebarv2 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--cultured-pearl);
@@ -1268,1060 +516,51 @@
   flex: 0 0 auto;
   flex-direction: column;
   justify-content: space-between;
-  mix-blend-mode: normal;
   padding: 20px;
   position: relative;
 }
 
-.x4bu46-agile-development .top-r3g0Ax {
+.x4bu46-agile-development .navsidebarexpanded {
   align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 60px;
-  position: relative;
-}
-
-.x4bu46-agile-development .navsidebarexpanded-WcbzxB {
-  align-items: flex-start;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
   position: relative;
   width: 240px;
-}
-
-.x4bu46-agile-development .navmainv3-T11F9x {
-  background-color: var(--algae-green);
-}
-
-.x4bu46-agile-development .x1-section-name-KAxELc {
-  color: var(--black);
-}
-
-.x4bu46-agile-development .navsubsectionv2-NCst2M {
-  background-color: transparent;
-}
-
-.x4bu46-agile-development .navsubsectionv2-jhtmXB {
-  background-color: transparent;
-}
-
-.x4bu46-agile-development .navsubsectionv2-BG6PjH {
-  background-color: transparent;
-}
-
-.x4bu46-agile-development .navsubsectionv2-uOfsXD {
-  background-color: transparent;
-}
-
-.x4bu46-agile-development .navsubsectionv2-KZPrBQ {
-  background-color: transparent;
-}
-
-.x4bu46-agile-development .navmainv3-WTmXl3 {
-  background-color: var(--fpcbluehl);
-}
-
-.x4bu46-agile-development .x1-section-name-yYtSjI {
-  color: var(--black-2);
-}
-
-.x4bu46-agile-development .navsubsectionv2-40iSsX {
-  background-color: transparent;
-}
-
-.x4bu46-agile-development .navsubsectionv2-3dcT3l {
-  background-color: transparent;
-}
-
-.x4bu46-agile-development .navsubsectionv2-jBoaWh {
-  background-color: transparent;
-}
-
-.x4bu46-agile-development .navmainv3-0j2JTx {
-  background-color: var(--fpchlpeach);
-}
-
-.x4bu46-agile-development .x1-section-name-t1egkG {
-  color: var(--black);
-}
-
-.x4bu46-agile-development .navsubsectionv2-0ojwy9 {
-  background-color: transparent;
-}
-
-.x4bu46-agile-development .navsubsectionv2-tBwDzg {
-  background-color: transparent;
-}
-
-.x4bu46-agile-development .navsubsectionv2-QygeDy {
-  background-color: transparent;
-}
-
-.x4bu46-agile-development .navsubsectionv2-A8tb2A {
-  background-color: transparent;
-}
-
-.x4bu46-agile-development .span0-WblyGF {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .navmainv3-NwxxEZ {
-  background-color: var(--periwinkle-gray);
-}
-
-.x4bu46-agile-development .x1-section-name-9yypoU {
-  color: var(--black-2);
-}
-
-.x4bu46-agile-development .navsubsectionv2-4gxPpJ {
-  background-color: transparent;
-}
-
-.x4bu46-agile-development .navsubsectionv2-fsdsQT {
-  background-color: var(--fpcpurple50);
-}
-
-.x4bu46-agile-development .navsubsectionv2-CZhmyp {
-  background-color: transparent;
-}
-
-.x4bu46-agile-development .sidebarbottom-r3g0Ax {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 60px;
-  position: relative;
-}
-
-.x4bu46-agile-development .have-a-question-yU8aWA {
-  align-items: flex-start;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  width: 240px;
-}
-
-.x4bu46-agile-development .have-a-question-n4Fr32 {
-  align-self: stretch;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: 30px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  text-align: left;
-}
-
-.x4bu46-agile-development .email-us-n4Fr32 {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: -0.16px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x4bu46-agile-development .footer-06u1jU {
-  align-self: stretch;
-  background-color: transparent;
-  height: 916px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 100%;
-}
-
-.x4bu46-agile-development .base-PoS1Om {
-  background-color: var(--machine-grey);
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.x4bu46-agile-development .information-PoS1Om {
-  background-color: transparent;
-  height: 281px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 575px;
-  width: 1024px;
-}
-
-.x4bu46-agile-development .metadata-ImE5ah {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 10px;
-  left: calc(50.00% - 142px);
-  position: absolute;
-  top: 196px;
-}
-
-.x4bu46-agile-development .updated-UamClx {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x4bu46-agile-development .iconupdated-Kqfnbx {
-  background-color: transparent;
-  height: 16px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x4bu46-agile-development .last-updated-15-february-2021-Kqfnbx {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x4bu46-agile-development .copyright-UamClx {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 7px;
-  position: relative;
-}
-
-.x4bu46-agile-development .text_label-lvbx73 {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x4bu46-agile-development .x2021-foundation-for-public-code-lvbx73 {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x4bu46-agile-development .span0-pxLXVs {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .span1-pxLXVs {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x4bu46-agile-development .license-UamClx {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x4bu46-agile-development .iconlicense-PHvXkj {
-  background-color: transparent;
-  height: 14.5px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x4bu46-agile-development .creative-commons-zero-v10-universal-PHvXkj {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: 299px;
-}
-
-.x4bu46-agile-development .organizational-notes-ImE5ah {
-  background-color: transparent;
-  height: auto;
-  left: calc(50.00% - 142px);
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 650px;
-}
-
-.x4bu46-agile-development .flex-container-i8593897285932358-ImE5ah {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  height: 130px;
-  left: 370px;
-  position: absolute;
-  top: 36px;
-  width: 650px;
-}
-
-.x4bu46-agile-development .text0-i8593897285932358-1Tj9tR {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .span0-yqVv7n {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .span1-yqVv7n {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x4bu46-agile-development .span2-yqVv7n {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .span3-yqVv7n {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x4bu46-agile-development .span4-yqVv7n {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .text1-i8593897285932358-1Tj9tR {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .span5-RsWZCH {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .span6-RsWZCH {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x4bu46-agile-development .span7-RsWZCH {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .span8-RsWZCH {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x4bu46-agile-development .span9-RsWZCH {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .contact-ImE5ah {
-  height: 201px;
-  left: calc(50.00% - 512px);
-  width: 345px;
-}
-
-.x4bu46-agile-development .contact-xRorFD {
-  height: auto;
-  left: calc(50.00% - 172px);
-  letter-spacing: 0.00px;
-  line-height: 26px;
-  mix-blend-mode: normal;
-  text-align: left;
-  width: 120px;
-}
-
-.x4bu46-agile-development .frame-201-xRorFD {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 15px;
-  left: calc(50.00% - 172px);
-  position: absolute;
-  top: 36px;
-}
-
-.x4bu46-agile-development .group-196-cxLPtk {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x4bu46-agile-development .join-our-mailing-list-GMdltJ {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x4bu46-agile-development .newsletter-GMdltJ {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x4bu46-agile-development .group-197-cxLPtk {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x4bu46-agile-development .x31-20-2-444-500-DCe6Ke {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x4bu46-agile-development .phone-DCe6Ke {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x4bu46-agile-development .group-200-cxLPtk {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x4bu46-agile-development .infopubliccodenet-V2eMYq {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x4bu46-agile-development .email-V2eMYq {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x4bu46-agile-development .group-199-cxLPtk {
-  background-color: transparent;
-  height: 60px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x4bu46-agile-development .links-r9zFNx {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  gap: 10px;
-  left: 103px;
-  position: absolute;
-  top: 40px;
-}
-
-.x4bu46-agile-development .open-street-map-6sv2NG {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x4bu46-agile-development .x-6sv2NG {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x4bu46-agile-development .google-6sv2NG {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x4bu46-agile-development .keizersgracht-617-10-r9zFNx {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 240px;
-}
-
-.x4bu46-agile-development .address-r9zFNx {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x4bu46-agile-development .block-trio-PoS1Om {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  gap: 20px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 175px;
-  width: 1080px;
-}
-
-.x4bu46-agile-development .about-us-MHJ5yI {
-  align-items: center;
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  justify-content: space-between;
-  padding: 30px;
-}
-
-.x4bu46-agile-development .content-xpphwj {
-  align-self: stretch;
-  background-color: transparent;
-  flex: 0 0 auto;
-  gap: 15px;
-  width: 100%;
-}
-
-.x4bu46-agile-development .about-us-QjJfo8 {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-}
-
-.x4bu46-agile-development .flex-container-i8593897285932298-QjJfo8 {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.x4bu46-agile-development .text0-i8593897285932298-0GJysq {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .span0-6g1wsC {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .text1-i8593897285932298-0GJysq {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .span1-zdPAG6 {
-  font-style: normal;
-}
-
-.x4bu46-agile-development .links-xpphwj {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: flex-end;
-  position: relative;
-  width: 100%;
-}
-
-.x4bu46-agile-development .how-we-work-xRRmVB {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: right;
-  width: fit-content;
-}
-
-.x4bu46-agile-development .project-resources-MHJ5yI {
-  align-items: flex-end;
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  justify-content: space-between;
-  padding: 30px;
-}
-
-.x4bu46-agile-development .content-VSODL9 {
-  align-self: stretch;
-  background-color: transparent;
-  flex: 0 0 auto;
-  gap: 15px;
-  width: 100%;
-}
-
-.x4bu46-agile-development .project-resources-TB7f25 {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-}
-
-.x4bu46-agile-development .open-products-were-r-TB7f25 {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .links-VSODL9 {
-  align-items: flex-end;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 15px;
-  position: relative;
-  width: 100%;
-}
-
-.x4bu46-agile-development .free-to-use-and-modify-xCkOjf {
-  align-self: stretch;
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: right;
-}
-
-.x4bu46-agile-development .see-all-our-work-on-git-hub-xCkOjf {
-  align-self: stretch;
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: right;
-}
-
-.x4bu46-agile-development .careers-MHJ5yI {
-  align-items: flex-end;
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  justify-content: space-between;
-  padding: 30px;
-}
-
-.x4bu46-agile-development .content-z3LfSD {
-  align-self: stretch;
-  background-color: transparent;
-  flex: 0 0 auto;
-  gap: 15px;
-  width: 100%;
-}
-
-.x4bu46-agile-development .careers-QIvnPn {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-}
-
-.x4bu46-agile-development .calling-all-publicly-QIvnPn {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .links-z3LfSD {
-  align-items: flex-end;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: flex-end;
-  position: relative;
-  width: 100%;
-}
-
-.x4bu46-agile-development .open-positions-6eJIf9 {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: right;
-  width: fit-content;
-}
-
-.x4bu46-agile-development .logo-title-PoS1Om {
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 60px;
-}
-
-.x4bu46-agile-development .an-action-that-requires-high-engagement {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4bu46-agile-development .arrow-32 {
-  background-color: transparent;
-  height: 12.46875px;
-  position: relative;
-  width: 15.2421875px;
-}
-
-.x4bu46-agile-development .arrowdown {
-  background-color: transparent;
-  height: 8.414306640625px;
-  margin-right: -1.00px;
-  position: relative;
-  width: 14px;
-}
-
-.x4bu46-agile-development .b-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x4bu46-agile-development .c-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x4bu46-agile-development .capacity-building {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x4bu46-agile-development .cluster {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  position: relative;
-  width: 100%;
-}
-
-.x4bu46-agile-development .content {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  position: relative;
-}
-
-.x4bu46-agile-development .d-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x4bu46-agile-development .gear-2 {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100.01%;
-}
-
-.x4bu46-agile-development .have-a-question {
-  background-color: transparent;
-  position: relative;
-}
-
-.x4bu46-agile-development .iconchallenge {
-  background-color: transparent;
-  height: 32px;
-  position: relative;
-  width: 32.0078125px;
-}
-
-.x4bu46-agile-development .iconguidelines {
-  background-color: transparent;
-  height: 32px;
-  position: relative;
-  width: 32.0078125px;
-}
-
-.x4bu46-agile-development .link-title-here {
-  align-self: stretch;
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.x4bu46-agile-development .lorem-ipsum {
-  align-self: stretch;
-  background-color: transparent;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
 }
 
 .x4bu46-agile-development .navmainv3 {
   align-items: flex-start;
   align-self: stretch;
+  background-color: var(--algae-green);
   border-radius: 4px;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 8px 15px 8px 10px;
   position: relative;
   width: 100%;
+}
+
+.x4bu46-agile-development .x1-section-name {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x4bu46-agile-development .subsections {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
 }
 
 .x4bu46-agile-development .navsubsectionv2 {
@@ -2331,60 +570,357 @@
   display: inline-flex;
   flex: 0 0 auto;
   gap: 5px;
-  mix-blend-mode: normal;
   padding: 2px 8px 3px;
   position: relative;
 }
 
-.x4bu46-agile-development .section-title {
-  align-items: center;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  position: relative;
-  width: 100%;
-}
-
-.x4bu46-agile-development .subsections {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 2px;
-  position: relative;
-}
-
-.x4bu46-agile-development .this-is-an-outcome-t {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+.x4bu46-agile-development .capacity-building {
+  color: var(--black);
+  font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
+  margin-top: -1.00px;
   position: relative;
-  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
 }
 
-.x4bu46-agile-development .union {
-  background-color: transparent;
-  height: 83.64%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 100%;
+.x4bu46-agile-development .b-subsection-name {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
 }
 
-.x4bu46-agile-development .x1-section-name {
-  background-color: transparent;
-  font-style: normal;
+.x4bu46-agile-development .c-subsection-name {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x4bu46-agile-development .d-subsection-name {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x4bu46-agile-development .navmainv3-1 {
+  background-color: var(--fpcbluehl);
+}
+
+.x4bu46-agile-development .x1-section-name-1 {
+  color: var(--black-2);
   font-weight: 700;
   line-height: 24px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
   white-space: nowrap;
   width: fit-content;
+}
+
+.x4bu46-agile-development .navmainv3-2 {
+  background-color: var(--fpchlpeach);
+}
+
+.x4bu46-agile-development .navmainv3-3 {
+  background-color: var(--periwinkle-gray);
+}
+
+.x4bu46-agile-development .navsubsectionv2-1 {
+  align-items: center;
+  background-color: var(--fpcpurple50);
+  border-radius: 4px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+}
+
+.x4bu46-agile-development .have-a-question {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 240px;
+}
+
+.x4bu46-agile-development .email-us {
+  cursor: pointer;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x4bu46-agile-development .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 180px;
+  min-height: 796px;
+  position: relative;
+  top: 60px;
+  width: 1080px;
+}
+
+.x4bu46-agile-development .content-2 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 15px;
+  width: 100%;
+}
+
+.x4bu46-agile-development .text0-i8593897285932298 {
+  line-height: normal;
+}
+
+.x4bu46-agile-development .text1-i8593897285932298 {
+  line-height: normal;
+}
+
+.x4bu46-agile-development .links {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.x4bu46-agile-development .links-1 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.x4bu46-agile-development .links-2 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.x4bu46-agile-development .frame-201 {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 165px;
+  margin-left: -2px;
+  width: 343px;
+}
+
+.x4bu46-agile-development .group-196 {
+  display: flex;
+  gap: 18px;
+  height: 20px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x4bu46-agile-development .group-197 {
+  display: flex;
+  gap: 52px;
+  height: 20px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x4bu46-agile-development .group-200 {
+  display: flex;
+  gap: 58px;
+  height: 20px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x4bu46-agile-development .group-199 {
+  height: 60px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x4bu46-agile-development .flex-col-1 {
+  left: 103px;
+  min-height: 60px;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.x4bu46-agile-development .links-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+  position: relative;
+}
+
+.x4bu46-agile-development .text-6 {
+  width: fit-content;
+}
+
+.x4bu46-agile-development .flex-col-2 {
+  min-height: 281px;
+  width: 650px;
+}
+
+.x4bu46-agile-development .flex-container-i8593897285932358 {
+  height: 130px;
+  margin-top: 8px;
+  position: relative;
+  width: 650px;
+}
+
+.x4bu46-agile-development .text0-i8593897285932358 {
+  line-height: 24px;
+}
+
+.x4bu46-agile-development .span-3 {
+  text-decoration: underline;
+}
+
+.x4bu46-agile-development .text1-i8593897285932358 {
+  line-height: 24px;
+}
+
+.x4bu46-agile-development .content-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.x4bu46-agile-development .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.x4bu46-agile-development .flex-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x4bu46-agile-development .frame {
+  align-items: flex-start;
+  position: relative;
+}
+
+.x4bu46-agile-development .lorem-ipsum-13 {
+  align-self: stretch;
+  line-height: 21px;
+  position: relative;
+}
+
+.x4bu46-agile-development .navmainv3-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x4bu46-agile-development .source-name-8 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.x4bu46-agile-development .text {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.x4bu46-agile-development .text0 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  position: relative;
+}
+
+.x4bu46-agile-development .text1 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  position: relative;
+}
+
+.x4bu46-agile-development .text2 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.x4bu46-agile-development .text3 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.x4bu46-agile-development .v2-3 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 4px;
+  min-width: 24px;
+  padding: 8.2px 6.5px;
+  position: relative;
+}
+
+.x4bu46-agile-development .x1-7 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: 30px;
 }

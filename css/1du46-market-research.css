@@ -7,16 +7,11 @@
   display: flex;
   flex-direction: column;
   gap: 60px;
-  left: 0px;
-  mix-blend-mode: normal;
-  overflow: hidden;
-  overflow-x: hidden;
   padding: 60px 0px 0px;
   position: relative;
-  top: 0px;
 }
 
-.x1du46-market-research .header-jv48tT {
+.x1du46-market-research .header {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -26,130 +21,79 @@
   width: 1080px;
 }
 
-.x1du46-market-research .logo-title-eXGYuQ {
+.x1du46-market-research .logo-title {
+  cursor: pointer;
+  height: 55px;
   position: relative;
+  width: 410px;
 }
 
-.x1du46-market-research .navigation-eXGYuQ {
-  background-color: transparent;
+.x1du46-market-research .foundation-for-public-code {
+  height: 56px;
+  left: 61px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 349px;
+}
+
+.x1du46-market-research .logo-symbol {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.x1du46-market-research .navigation {
+  display: flex;
+  gap: 51px;
   height: 24px;
   position: relative;
   width: 534px;
 }
 
-.x1du46-market-research .links-VtRy3w {
+.x1du46-market-research .navbar {
   align-items: flex-start;
-  background-color: transparent;
   display: inline-flex;
   gap: 30px;
+  height: 19px;
   justify-content: flex-end;
-  left: 0px;
-  position: absolute;
-  top: 2px;
+  margin-top: 2.5px;
+  position: relative;
+  width: 371px;
 }
 
-.x1du46-market-research .stewardship-tBcuPT {
-  background-color: transparent;
+.x1du46-market-research .navbar-link {
   cursor: pointer;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x1du46-market-research .resources-tBcuPT {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x1du46-market-research .who-we-are-tBcuPT {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x1du46-market-research .join-us-tBcuPT {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x1du46-market-research .services-VtRy3w {
+.x1du46-market-research .services {
   align-items: flex-start;
-  background-color: transparent;
   display: inline-flex;
   gap: 20px;
-  left: 422px;
-  position: absolute;
-  top: 0px;
-}
-
-.x1du46-market-research .mastodon-QCM1Jc {
-  background-color: transparent;
-  cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
-  width: 24px;
+  width: 112px;
 }
 
-.x1du46-market-research .twitter-QCM1Jc {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 24px;
-}
-
-.x1du46-market-research .github-QCM1Jc {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 24px;
-}
-
-.x1du46-market-research .title-jv48tT {
+.x1du46-market-research .title-3 {
   color: var(--black);
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
-  mix-blend-mode: normal;
-  text-align: left;
+  position: relative;
   width: 1080px;
 }
 
-.x1du46-market-research .main-frame-jv48tT {
+.x1du46-market-research .main-frame {
   align-items: flex-start;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   gap: 60px;
@@ -158,17 +102,15 @@
   width: 1080px;
 }
 
-.x1du46-market-research .content-Wk2PEl {
-  background-color: transparent;
+.x1du46-market-research .content-3 {
   flex: 1;
   flex-grow: 1;
   gap: 60px;
 }
 
-.x1du46-market-research .intro-b4osPl {
+.x1du46-market-research .intro {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -177,16 +119,12 @@
   width: 100%;
 }
 
-.x1du46-market-research .titlepage-6ix1EI {
+.x1du46-market-research .title {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   border-bottom-style: solid;
   border-bottom-width: 1px;
   border-color: var(--fpcgraydark);
-  border-left-style: none;
-  border-right-style: none;
-  border-top-style: none;
   display: flex;
   flex: 0 0 auto;
   gap: 10px;
@@ -195,1016 +133,349 @@
   width: 100%;
 }
 
-.x1du46-market-research .page-title-jdi2um {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x1du46-market-research .content-6ix1EI {
+.x1du46-market-research .content-4 {
   align-self: stretch;
   background-color: var(--fpcgraywhitesmoke);
   border-radius: 12px;
   flex: 0 0 auto;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 20px;
   width: 100%;
 }
 
-.x1du46-market-research .this-section-will-help-you-GCA5d7 {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 650px;
-}
-
-.x1du46-market-research .cluster-GCA5d7 {
-  gap: 10px;
-}
-
-.x1du46-market-research .icongoal-U4PZJd {
-  width: 32.0087890625px;
-}
-
-.x1du46-market-research .icongoal-AEcEeQ {
-  width: 32.0087890625px;
-}
-
-.x1du46-market-research .icongoal-QgK0eD {
-  width: 32.0087890625px;
-}
-
-.x1du46-market-research .icongoal-dvxvFt {
-  width: 32.0087890625px;
-}
-
-.x1du46-market-research .challenges-b4osPl {
+.x1du46-market-research .cluster {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 30px;
+  gap: 10px;
   position: relative;
   width: 100%;
 }
 
-.x1du46-market-research .cluster-llBhkU {
+.x1du46-market-research .cluster-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
   gap: 20px;
+  position: relative;
+  width: 100%;
 }
 
-.x1du46-market-research .you-may-encounter-th-yTqrVX {
+.x1du46-market-research .you-may-encounter-th {
   align-self: stretch;
-  background-color: transparent;
   color: var(--red);
-  font-style: normal;
   font-weight: 400;
   line-height: 16px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .span0-OEVkHV {
+.x1du46-market-research .span {
   color: var(--black);
-  font-style: normal;
   line-height: 24px;
 }
 
-.x1du46-market-research .span1-OEVkHV {
+.x1du46-market-research .span1 {
   color: var(--black);
-  font-style: normal;
   font-weight: 600;
 }
 
-.x1du46-market-research .span2-OEVkHV {
-  color: var(--black);
-  font-style: normal;
-  line-height: 24px;
-}
-
-.x1du46-market-research .content-AernKN {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x1du46-market-research .title-9jocNb {
-  align-self: stretch;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  text-align: left;
-}
-
-.x1du46-market-research .content-GnCqox {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x1du46-market-research .title-uxnQXa {
-  align-self: stretch;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  text-align: left;
-}
-
-.x1du46-market-research .content-vGLRxr {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x1du46-market-research .title-KM8CeT {
-  align-self: stretch;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  text-align: left;
-}
-
-.x1du46-market-research .content-Pos0F4 {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x1du46-market-research .title-ZJWUSD {
-  align-self: stretch;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  text-align: left;
-}
-
-.x1du46-market-research .actions-b4osPl {
+.x1du46-market-research .content {
   align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
+  flex: 1;
   flex-direction: column;
-  gap: 30px;
+  flex-grow: 1;
+  gap: 2px;
   position: relative;
-  width: 100%;
 }
 
-.x1du46-market-research .frame-142-ZaUx1x {
-  align-items: flex-start;
+.x1du46-market-research .title-1 {
   align-self: stretch;
-  background-color: transparent;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.x1du46-market-research .frame-142 {
+  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 20px;
-  position: relative;
   width: 100%;
 }
 
-.x1du46-market-research .x1-scanning-the-landscape-Dl5dWa {
+.x1du46-market-research .x1-scanning-the-landscape {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .become-familiar-with-Dl5dWa {
+.x1du46-market-research .become-familiar-with {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .content-gUgYFJ {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
+.x1du46-market-research .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/union@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 20px;
+  min-width: 18px;
+  padding: 7.2px 5.2px;
 }
 
-.x1du46-market-research .content-9I87KP {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
+.x1du46-market-research .a-knowledge-acquisit {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
 }
 
-.x1du46-market-research .content-wVhaRZ {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x1du46-market-research .content-Z4ZtNO {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x1du46-market-research .content-c4RCsZ {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x1du46-market-research .content-kSW6QY {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x1du46-market-research .content-Kgti2z {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x1du46-market-research .content-Gi1U6s {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x1du46-market-research .title-FTcoHm {
+.x1du46-market-research .title-2 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
   gap: 10px;
+  position: relative;
 }
 
-.x1du46-market-research .bullet-sub-bullet-sub-bullet-bullet-FTcoHm {
+.x1du46-market-research .bullet-sub-bullet-sub-bullet-bullet {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .frame-137-ZaUx1x {
-  align-items: flex-start;
+.x1du46-market-research .frame-137 {
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 20px;
-  position: relative;
   width: 100%;
 }
 
-.x1du46-market-research .x2-setting-internal-a-CqRqG7 {
+.x1du46-market-research .x2-setting-internal {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .before-you-start-wri-CqRqG7 {
+.x1du46-market-research .before-you-start-wri {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .content-oHsh58 {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x1du46-market-research .content-JKBC6q {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x1du46-market-research .content-Om9hqa {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x1du46-market-research .frame-144-ZaUx1x {
-  align-items: flex-start;
+.x1du46-market-research .frame-144 {
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 20px;
-  position: relative;
   width: 100%;
 }
 
-.x1du46-market-research .x3-mitigating-downstream-contract-issues-2ti1xR {
+.x1du46-market-research .x3-mitigating-downst {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .as-you-analyze-avail-2ti1xR {
+.x1du46-market-research .as-you-analyze-avail {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .content-WSRp9W {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x1du46-market-research .flex-container-i239739760214892-7piYv2 {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.x1du46-market-research .text0-i239739760214892-qwUkql {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x1du46-market-research .text0-i239739760214892 {
   line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .span0-tlxi1b {
-  font-style: normal;
+.x1du46-market-research .span-1 {
   font-weight: 700;
 }
 
-.x1du46-market-research .span1-tlxi1b {
-  font-style: normal;
+.x1du46-market-research .span-3 {
+  letter-spacing: 0;
 }
 
-.x1du46-market-research .span2-tlxi1b {
-  font-style: normal;
-  letter-spacing: 0.00px;
+.x1du46-market-research .text1-i239739760214892 {
+  line-height: 21px;
 }
 
-.x1du46-market-research .span3-tlxi1b {
-  font-style: normal;
+.x1du46-market-research .text0-i21082632117085 {
+  line-height: 21px;
 }
 
-.x1du46-market-research .text1-i239739760214892-qwUkql {
+.x1du46-market-research .text1-i21082632117085 {
+  line-height: 21px;
+}
+
+.x1du46-market-research .text5-i21082632117085 {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .span4-0bxvIt {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x1du46-market-research .span5-0bxvIt {
-  font-style: normal;
-}
-
-.x1du46-market-research .text2-i239739760214892-qwUkql {
+.x1du46-market-research .text6-i21082632117085 {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .span6-AN66VK {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x1du46-market-research .span7-AN66VK {
-  font-style: normal;
-}
-
-.x1du46-market-research .text3-i239739760214892-qwUkql {
+.x1du46-market-research .text7-i21082632117085 {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .span8-57VZqC {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x1du46-market-research .span9-57VZqC {
-  font-style: normal;
-}
-
-.x1du46-market-research .span10-57VZqC {
-  font-style: normal;
-  letter-spacing: 0.00px;
-}
-
-.x1du46-market-research .span11-57VZqC {
-  font-style: normal;
-}
-
-.x1du46-market-research .text4-i239739760214892-qwUkql {
+.x1du46-market-research .text8-i21082632117085 {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .span13-iGMN9w {
-  font-style: normal;
-}
-
-.x1du46-market-research .title-mD8Tqq {
-  align-items: center;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-}
-
-.x1du46-market-research .flex-container-i21082632117085-mD8Tqq {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.x1du46-market-research .text0-i21082632117085-vmWiXU {
+.x1du46-market-research .text9-i21082632117085 {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .span0-EZRsww {
-  font-style: normal;
-}
-
-.x1du46-market-research .text1-i21082632117085-vmWiXU {
+.x1du46-market-research .frame-138 {
   align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .span1-i7hdb7 {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x1du46-market-research .span2-i7hdb7 {
-  font-style: normal;
-}
-
-.x1du46-market-research .text2-i21082632117085-vmWiXU {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .span3-oVv7hM {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x1du46-market-research .span4-oVv7hM {
-  font-style: normal;
-}
-
-.x1du46-market-research .text3-i21082632117085-vmWiXU {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .span5-TfgDSC {
-  font-style: normal;
-}
-
-.x1du46-market-research .text4-i21082632117085-vmWiXU {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .span6-DeKcnL {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x1du46-market-research .span7-DeKcnL {
-  font-style: normal;
-}
-
-.x1du46-market-research .text5-i21082632117085-vmWiXU {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .span8-aVUmaS {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x1du46-market-research .span9-aVUmaS {
-  font-style: normal;
-}
-
-.x1du46-market-research .text6-i21082632117085-vmWiXU {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .span10-hoqqRc {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x1du46-market-research .span11-hoqqRc {
-  font-style: normal;
-}
-
-.x1du46-market-research .text7-i21082632117085-vmWiXU {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .span13-hixUDJ {
-  font-style: normal;
-}
-
-.x1du46-market-research .text8-i21082632117085-vmWiXU {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .span14-nBpqXP {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x1du46-market-research .span15-nBpqXP {
-  font-style: normal;
-}
-
-.x1du46-market-research .text9-i21082632117085-vmWiXU {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .span16-9foPNW {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x1du46-market-research .span17-9foPNW {
-  font-style: normal;
-}
-
-.x1du46-market-research .frame-138-ZaUx1x {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 20px;
-  position: relative;
   width: 100%;
 }
 
-.x1du46-market-research .x4-creating-a-market-analysis-report-Wbp1ok {
+.x1du46-market-research .x4-creating-a-market-analysis-report {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .map-out-the-landscap-Wbp1ok {
+.x1du46-market-research .map-out-the-landscap {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .content-ja9YIM {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x1du46-market-research .content-aIahF1 {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x1du46-market-research .flex-container-i128297560214892-w4PrVo {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.x1du46-market-research .text0-i128297560214892-7cFnzm {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x1du46-market-research .text0-i128297560214892 {
   line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .span0-xvnj6n {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x1du46-market-research .span1-xvnj6n {
-  font-style: normal;
-}
-
-.x1du46-market-research .text1-i128297560214892-7cFnzm {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x1du46-market-research .text1-i128297560214892 {
   line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
 }
 
-.x1du46-market-research .span2-Q4fcWv {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x1du46-market-research .span3-Q4fcWv {
-  font-style: normal;
-}
-
-.x1du46-market-research .text2-i128297560214892-7cFnzm {
+.x1du46-market-research .frame-139 {
   align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .span4-8ynSc7 {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x1du46-market-research .span5-8ynSc7 {
-  font-style: normal;
-}
-
-.x1du46-market-research .text3-i128297560214892-7cFnzm {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .span6-lbVtKy {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x1du46-market-research .span7-lbVtKy {
-  font-style: normal;
-}
-
-.x1du46-market-research .text4-i128297560214892-7cFnzm {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .span8-clWQ0x {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x1du46-market-research .span9-clWQ0x {
-  font-style: normal;
-}
-
-.x1du46-market-research .outcomes-b4osPl {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 30px;
-  position: relative;
-  width: 100%;
-}
-
-.x1du46-market-research .frame-139-lnmjdO {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   gap: 20px;
-  position: relative;
   width: 100%;
 }
 
-.x1du46-market-research .icongoal-rjA0Cx {
-  width: 32.00901794433594px;
+.x1du46-market-research .this-is-an-outcome-t {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
 }
 
-.x1du46-market-research .icongoal-xXRum9 {
-  width: 32.00901794433594px;
+.x1du46-market-research .v2-1 {
+  align-items: flex-end;
+  background-image: url(../img/gear-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 4px;
+  min-width: 24px;
+  padding: 8.2px 6.5px;
+  position: relative;
 }
 
-.x1du46-market-research .span0-eB5bSb {
-}
-
-.x1du46-market-research .span1-eB5bSb {
+.x1du46-market-research .span1-1 {
   color: var(--fpcpurple);
-  font-style: normal;
   font-weight: 400;
 }
 
-.x1du46-market-research .references-b4osPl {
-  align-items: flex-start;
+.x1du46-market-research .frame-140 {
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 30px;
-  position: relative;
   width: 100%;
 }
 
-.x1du46-market-research .frame-140-i6zuxA {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
+.x1du46-market-research .text-11 {
+  text-align: right;
+  width: 30px;
+}
+
+.x1du46-market-research .content-1 {
+  flex: 1;
+  flex-grow: 1;
+  gap: 5px;
+}
+
+.x1du46-market-research .frame-163 {
+  background-color: var(--fpcgraymed);
+  border-radius: 4px;
+  display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 30px;
-  position: relative;
-  width: 100%;
+  gap: 10px;
+  padding: 1px 5px;
 }
 
-.x1du46-market-research .content-lQA7BD {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x1du46-market-research .content-qAchx9 {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x1du46-market-research .content-KXWPdy {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x1du46-market-research .content-PeiKMD {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x1du46-market-research .content-xUSzxU {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x1du46-market-research .content-Z1CpMk {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x1du46-market-research .content-dnSFQU {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x1du46-market-research .footer-nav-b4osPl {
+.x1du46-market-research .footer-nav {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   justify-content: space-between;
@@ -1213,7 +484,7 @@
   width: 100%;
 }
 
-.x1du46-market-research .navfooterprev-E9KKtS {
+.x1du46-market-research .navfooterprev {
   align-items: center;
   background-color: var(--fpcgreen);
   border-radius: 32px 4px 4px 32px;
@@ -1221,49 +492,35 @@
   display: inline-flex;
   flex: 0 0 auto;
   gap: 15px;
-  mix-blend-mode: normal;
   padding: 10px 15px;
   position: relative;
 }
 
-.x1du46-market-research .arrow-32-SwH5ki {
+.x1du46-market-research .arrow-32 {
+  height: 12.47px;
   margin-left: -0.85px;
+  position: relative;
+  width: 15.24px;
 }
 
-.x1du46-market-research .group-134-SwH5ki {
+.x1du46-market-research .group-134 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
   margin-right: -4.00px;
+  position: relative;
   width: 176px;
 }
 
-.x1du46-market-research .x1a-welcome-3eUgLT {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
+.x1du46-market-research .x1a-welcome {
+  height: 20px;
+  letter-spacing: 0;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 18px;
-  width: auto;
+  width: 172px;
 }
 
-.x1du46-market-research .previous-3eUgLT {
-  background-color: transparent;
-  color: var(--white);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x1du46-market-research .navfooternext-E9KKtS {
+.x1du46-market-research .navfooternext {
   align-items: center;
   background-color: var(--fpcgreen);
   border-radius: 4px 32px 32px 4px;
@@ -1271,48 +528,35 @@
   display: inline-flex;
   flex: 0 0 auto;
   gap: 15px;
-  mix-blend-mode: normal;
   padding: 10px 15px;
   position: relative;
 }
 
-.x1du46-market-research .group-134-0QZOF1 {
+.x1du46-market-research .group-134-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
+  position: relative;
   width: 167px;
 }
 
-.x1du46-market-research .x1b-discovery-research-25eLvJ {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 18px;
-  width: auto;
-}
-
-.x1du46-market-research .next-25eLvJ {
-  background-color: transparent;
+.x1du46-market-research .next {
   color: var(--white);
-  font-style: normal;
   font-weight: 400;
-  height: auto;
-  left: 0px;
+  height: 15px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
+  width: 27px;
 }
 
-.x1du46-market-research .arrow-32-0QZOF1 {
-  margin-right: -0.85px;
+.x1du46-market-research .x1b-discovery-research {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 163px;
 }
 
-.x1du46-market-research .sidebarv2-Wk2PEl {
+.x1du46-market-research .sidebarv2 {
   align-items: center;
   align-self: stretch;
   background-color: var(--cultured-pearl);
@@ -1321,1077 +565,51 @@
   flex: 0 0 auto;
   flex-direction: column;
   justify-content: space-between;
-  mix-blend-mode: normal;
   padding: 20px;
   position: relative;
 }
 
-.x1du46-market-research .top-IxKsha {
+.x1du46-market-research .navsidebarexpanded {
   align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 60px;
-  position: relative;
-}
-
-.x1du46-market-research .navsidebarexpanded-1FXd67 {
-  align-items: flex-start;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
   position: relative;
   width: 240px;
-}
-
-.x1du46-market-research .navmainv3-inkx4n {
-  background-color: var(--algae-green);
-}
-
-.x1du46-market-research .x1-section-name-20vv49 {
-  color: var(--black);
-}
-
-.x1du46-market-research .navsubsectionv2-6PtI4L {
-  background-color: transparent;
-}
-
-.x1du46-market-research .navsubsectionv2-SzSGHM {
-  background-color: transparent;
-}
-
-.x1du46-market-research .navsubsectionv2-qgz0kn {
-  background-color: transparent;
-}
-
-.x1du46-market-research .navsubsectionv2-S0KzhT {
-  background-color: var(--fpcgreen50);
-}
-
-.x1du46-market-research .navsubsectionv2-n903Ni {
-  background-color: transparent;
-}
-
-.x1du46-market-research .e-subsection-name-WxJS6Y {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x1du46-market-research .navmainv3-jpkTw0 {
-  background-color: var(--fpcbluehl);
-}
-
-.x1du46-market-research .x1-section-name-lhmSPN {
-  color: var(--black-2);
-}
-
-.x1du46-market-research .navsubsectionv2-Fl0GIC {
-  background-color: transparent;
-}
-
-.x1du46-market-research .navsubsectionv2-B48GOi {
-  background-color: transparent;
-}
-
-.x1du46-market-research .navsubsectionv2-r3kO2i {
-  background-color: transparent;
-}
-
-.x1du46-market-research .navmainv3-ilP7B5 {
-  background-color: var(--fpchlpeach);
-}
-
-.x1du46-market-research .x1-section-name-FDGsx9 {
-  color: var(--black);
-}
-
-.x1du46-market-research .navsubsectionv2-U7SFjl {
-  background-color: transparent;
-}
-
-.x1du46-market-research .navsubsectionv2-tqmq7s {
-  background-color: transparent;
-}
-
-.x1du46-market-research .navsubsectionv2-Gu5TxP {
-  background-color: transparent;
-}
-
-.x1du46-market-research .navsubsectionv2-FwYTih {
-  background-color: transparent;
-}
-
-.x1du46-market-research .d-subsection-name-wOcrJf {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x1du46-market-research .span0-732zXg {
-  font-style: normal;
-}
-
-.x1du46-market-research .navmainv3-fxFbnH {
-  background-color: var(--periwinkle-gray);
-}
-
-.x1du46-market-research .x1-section-name-03ZMYT {
-  color: var(--black-2);
-}
-
-.x1du46-market-research .navsubsectionv2-J2WVia {
-  background-color: transparent;
-}
-
-.x1du46-market-research .navsubsectionv2-JPCqxP {
-  background-color: transparent;
-}
-
-.x1du46-market-research .navsubsectionv2-87Rddp {
-  background-color: transparent;
-}
-
-.x1du46-market-research .sidebarbottom-IxKsha {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 60px;
-  position: relative;
-}
-
-.x1du46-market-research .have-a-question-Yluxxc {
-  align-items: flex-start;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  width: 240px;
-}
-
-.x1du46-market-research .have-a-question-AJoNKD {
-  align-self: stretch;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: 30px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  text-align: left;
-}
-
-.x1du46-market-research .email-us-AJoNKD {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: -0.16px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x1du46-market-research .footer-jv48tT {
-  align-self: stretch;
-  background-color: transparent;
-  height: 916px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 100%;
-}
-
-.x1du46-market-research .base-tsw7TA {
-  background-color: var(--machine-grey);
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.x1du46-market-research .information-tsw7TA {
-  background-color: transparent;
-  height: 281px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 575px;
-  width: 1024px;
-}
-
-.x1du46-market-research .metadata-YxE03V {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 10px;
-  left: calc(50.00% - 142px);
-  position: absolute;
-  top: 196px;
-}
-
-.x1du46-market-research .updated-qY28mF {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x1du46-market-research .iconupdated-AFxSkB {
-  background-color: transparent;
-  height: 16px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x1du46-market-research .last-updated-15-february-2021-AFxSkB {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x1du46-market-research .copyright-qY28mF {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 7px;
-  position: relative;
-}
-
-.x1du46-market-research .text_label-nqKOaB {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x1du46-market-research .x2021-foundation-for-public-code-nqKOaB {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x1du46-market-research .span0-gN3LPC {
-  font-style: normal;
-}
-
-.x1du46-market-research .span1-gN3LPC {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x1du46-market-research .license-qY28mF {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x1du46-market-research .iconlicense-awARuM {
-  background-color: transparent;
-  height: 14.5px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x1du46-market-research .creative-commons-zero-v10-universal-awARuM {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: 299px;
-}
-
-.x1du46-market-research .organizational-notes-YxE03V {
-  background-color: transparent;
-  height: auto;
-  left: calc(50.00% - 142px);
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 650px;
-}
-
-.x1du46-market-research .flex-container-i8593825785932358-YxE03V {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  height: 130px;
-  left: 370px;
-  position: absolute;
-  top: 36px;
-  width: 650px;
-}
-
-.x1du46-market-research .text0-i8593825785932358-i0BOaB {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .span0-qzhQt2 {
-  font-style: normal;
-}
-
-.x1du46-market-research .span1-qzhQt2 {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x1du46-market-research .span2-qzhQt2 {
-  font-style: normal;
-}
-
-.x1du46-market-research .span3-qzhQt2 {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x1du46-market-research .span4-qzhQt2 {
-  font-style: normal;
-}
-
-.x1du46-market-research .text1-i8593825785932358-i0BOaB {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .span5-n7Jx3c {
-  font-style: normal;
-}
-
-.x1du46-market-research .span6-n7Jx3c {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x1du46-market-research .span7-n7Jx3c {
-  font-style: normal;
-}
-
-.x1du46-market-research .span8-n7Jx3c {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x1du46-market-research .span9-n7Jx3c {
-  font-style: normal;
-}
-
-.x1du46-market-research .contact-YxE03V {
-  height: 201px;
-  left: calc(50.00% - 512px);
-  width: 345px;
-}
-
-.x1du46-market-research .contact-bWi5cn {
-  height: auto;
-  left: calc(50.00% - 172px);
-  letter-spacing: 0.00px;
-  line-height: 26px;
-  mix-blend-mode: normal;
-  text-align: left;
-  width: 120px;
-}
-
-.x1du46-market-research .frame-201-bWi5cn {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 15px;
-  left: calc(50.00% - 172px);
-  position: absolute;
-  top: 36px;
-}
-
-.x1du46-market-research .group-196-1TE2jZ {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x1du46-market-research .join-our-mailing-list-mUMmPC {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x1du46-market-research .newsletter-mUMmPC {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x1du46-market-research .group-197-1TE2jZ {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x1du46-market-research .x31-20-2-444-500-LxvqPF {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x1du46-market-research .phone-LxvqPF {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x1du46-market-research .group-200-1TE2jZ {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x1du46-market-research .infopubliccodenet-Hxe1u0 {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x1du46-market-research .email-Hxe1u0 {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x1du46-market-research .group-199-1TE2jZ {
-  background-color: transparent;
-  height: 60px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x1du46-market-research .links-GnNm0t {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  gap: 10px;
-  left: 103px;
-  position: absolute;
-  top: 40px;
-}
-
-.x1du46-market-research .open-street-map-fkKnxU {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x1du46-market-research .x-fkKnxU {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x1du46-market-research .google-fkKnxU {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x1du46-market-research .keizersgracht-617-10-GnNm0t {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 240px;
-}
-
-.x1du46-market-research .address-GnNm0t {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x1du46-market-research .block-trio-tsw7TA {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  gap: 20px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 175px;
-  width: 1080px;
-}
-
-.x1du46-market-research .about-us-IheQx5 {
-  align-items: center;
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  justify-content: space-between;
-  padding: 30px;
-}
-
-.x1du46-market-research .content-CxpzQ0 {
-  align-self: stretch;
-  background-color: transparent;
-  flex: 0 0 auto;
-  gap: 15px;
-  width: 100%;
-}
-
-.x1du46-market-research .about-us-5E8i6x {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-}
-
-.x1du46-market-research .flex-container-i8593825785932298-5E8i6x {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.x1du46-market-research .text0-i8593825785932298-TXzxyT {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .span0-C2928g {
-  font-style: normal;
-}
-
-.x1du46-market-research .text1-i8593825785932298-TXzxyT {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .span1-PpJAnA {
-  font-style: normal;
-}
-
-.x1du46-market-research .links-CxpzQ0 {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: flex-end;
-  position: relative;
-  width: 100%;
-}
-
-.x1du46-market-research .how-we-work-U0eYZt {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: right;
-  width: fit-content;
-}
-
-.x1du46-market-research .project-resources-IheQx5 {
-  align-items: flex-end;
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  justify-content: space-between;
-  padding: 30px;
-}
-
-.x1du46-market-research .content-4umRVl {
-  align-self: stretch;
-  background-color: transparent;
-  flex: 0 0 auto;
-  gap: 15px;
-  width: 100%;
-}
-
-.x1du46-market-research .project-resources-0vBse8 {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-}
-
-.x1du46-market-research .open-products-were-r-0vBse8 {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .links-4umRVl {
-  align-items: flex-end;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 15px;
-  position: relative;
-  width: 100%;
-}
-
-.x1du46-market-research .free-to-use-and-modify-olayuw {
-  align-self: stretch;
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: right;
-}
-
-.x1du46-market-research .see-all-our-work-on-git-hub-olayuw {
-  align-self: stretch;
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: right;
-}
-
-.x1du46-market-research .careers-IheQx5 {
-  align-items: flex-end;
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  justify-content: space-between;
-  padding: 30px;
-}
-
-.x1du46-market-research .content-bPIYsr {
-  align-self: stretch;
-  background-color: transparent;
-  flex: 0 0 auto;
-  gap: 15px;
-  width: 100%;
-}
-
-.x1du46-market-research .careers-DiF3RQ {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-}
-
-.x1du46-market-research .calling-all-publicly-DiF3RQ {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .links-bPIYsr {
-  align-items: flex-end;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: flex-end;
-  position: relative;
-  width: 100%;
-}
-
-.x1du46-market-research .open-positions-2fAU7x {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: right;
-  width: fit-content;
-}
-
-.x1du46-market-research .logo-title-tsw7TA {
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 60px;
-}
-
-.x1du46-market-research .an-action-that-requires-high-engagement {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1du46-market-research .arrow-32 {
-  background-color: transparent;
-  height: 12.46875px;
-  position: relative;
-  width: 15.2392578125px;
-}
-
-.x1du46-market-research .arrowdown {
-  background-color: transparent;
-  height: 8.414306640625px;
-  margin-right: -1.00px;
-  position: relative;
-  width: 14px;
-}
-
-.x1du46-market-research .b-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x1du46-market-research .c-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x1du46-market-research .capacity-building {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x1du46-market-research .cluster {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  position: relative;
-  width: 100%;
-}
-
-.x1du46-market-research .content {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  position: relative;
-}
-
-.x1du46-market-research .gear-2 {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100.00%;
-}
-
-.x1du46-market-research .have-a-question {
-  background-color: transparent;
-  position: relative;
-}
-
-.x1du46-market-research .iconchallenge {
-  background-color: transparent;
-  height: 32px;
-  position: relative;
-  width: 32.0087890625px;
-}
-
-.x1du46-market-research .iconguidelines {
-  background-color: transparent;
-  height: 32px;
-  position: relative;
-  width: 32.0087890625px;
-}
-
-.x1du46-market-research .link-title-here {
-  align-self: stretch;
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.x1du46-market-research .lorem-ipsum {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
 }
 
 .x1du46-market-research .navmainv3 {
   align-items: flex-start;
   align-self: stretch;
+  background-color: var(--algae-green);
   border-radius: 4px;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 8px 15px 8px 10px;
   position: relative;
   width: 100%;
+}
+
+.x1du46-market-research .x1-section-name {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x1du46-market-research .subsections {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
 }
 
 .x1du46-market-research .navsubsectionv2 {
@@ -2401,65 +619,355 @@
   display: inline-flex;
   flex: 0 0 auto;
   gap: 5px;
-  mix-blend-mode: normal;
   padding: 2px 8px 3px;
   position: relative;
 }
 
-.x1du46-market-research .section-title {
-  align-items: center;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
+.x1du46-market-research .capacity-building {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
   position: relative;
-  width: 100%;
+  white-space: nowrap;
+  width: fit-content;
 }
 
-.x1du46-market-research .span12 {
-  font-style: normal;
-  font-weight: 700;
+.x1du46-market-research .b-subsection-name {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
 }
 
-.x1du46-market-research .subsections {
-  align-items: flex-start;
-  background-color: transparent;
+.x1du46-market-research .c-subsection-name {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x1du46-market-research .navsubsectionv2-1 {
+  align-items: center;
+  background-color: var(--fpcgreen50);
+  border-radius: 4px;
+  cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 2px;
+  gap: 5px;
+  padding: 2px 8px 3px;
   position: relative;
 }
 
-.x1du46-market-research .this-is-an-outcome-t {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+.x1du46-market-research .e-subsection-name {
+  color: var(--black);
+  font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
+  margin-top: -1.00px;
   position: relative;
-  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
 }
 
-.x1du46-market-research .union {
-  background-color: transparent;
-  height: 83.64%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 100%;
+.x1du46-market-research .navmainv3-1 {
+  background-color: var(--fpcbluehl);
 }
 
-.x1du46-market-research .x1-section-name {
-  background-color: transparent;
-  font-style: normal;
+.x1du46-market-research .x1-section-name-1 {
+  color: var(--black-2);
   font-weight: 700;
   line-height: 24px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
   white-space: nowrap;
   width: fit-content;
+}
+
+.x1du46-market-research .navmainv3-2 {
+  background-color: var(--fpchlpeach);
+}
+
+.x1du46-market-research .d-subsection-name {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x1du46-market-research .navmainv3-3 {
+  background-color: var(--periwinkle-gray);
+}
+
+.x1du46-market-research .have-a-question {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 240px;
+}
+
+.x1du46-market-research .email-us {
+  cursor: pointer;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1du46-market-research .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 180px;
+  min-height: 796px;
+  position: relative;
+  top: 60px;
+  width: 1080px;
+}
+
+.x1du46-market-research .content-2 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 15px;
+  width: 100%;
+}
+
+.x1du46-market-research .text0-i8593825785932298 {
+  line-height: normal;
+}
+
+.x1du46-market-research .text1-i8593825785932298 {
+  line-height: normal;
+}
+
+.x1du46-market-research .links {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.x1du46-market-research .links-1 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.x1du46-market-research .links-2 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.x1du46-market-research .frame-201 {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 165px;
+  margin-left: -2px;
+  width: 343px;
+}
+
+.x1du46-market-research .group-196 {
+  display: flex;
+  gap: 18px;
+  height: 20px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x1du46-market-research .group-197 {
+  display: flex;
+  gap: 52px;
+  height: 20px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x1du46-market-research .group-200 {
+  display: flex;
+  gap: 58px;
+  height: 20px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x1du46-market-research .group-199 {
+  height: 60px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x1du46-market-research .flex-col-1 {
+  left: 103px;
+  min-height: 60px;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.x1du46-market-research .links-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+  position: relative;
+}
+
+.x1du46-market-research .text-12 {
+  width: fit-content;
+}
+
+.x1du46-market-research .flex-col-2 {
+  min-height: 281px;
+  width: 650px;
+}
+
+.x1du46-market-research .flex-container-i8593825785932358 {
+  height: 130px;
+  margin-top: 8px;
+  position: relative;
+  width: 650px;
+}
+
+.x1du46-market-research .text0-i8593825785932358 {
+  line-height: 24px;
+}
+
+.x1du46-market-research .text1-i8593825785932358 {
+  line-height: 24px;
+}
+
+.x1du46-market-research .capacity-building-5 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x1du46-market-research .content-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.x1du46-market-research .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.x1du46-market-research .flex-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x1du46-market-research .frame {
+  align-items: flex-start;
+  position: relative;
+}
+
+.x1du46-market-research .navmainv3-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x1du46-market-research .source-name-7 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.x1du46-market-research .text {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.x1du46-market-research .text0 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  position: relative;
+}
+
+.x1du46-market-research .text1 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  position: relative;
+}
+
+.x1du46-market-research .text2 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.x1du46-market-research .text3 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.x1du46-market-research .x1-6 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: 30px;
 }

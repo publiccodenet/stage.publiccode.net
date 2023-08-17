@@ -7,16 +7,11 @@
   display: flex;
   flex-direction: column;
   gap: 60px;
-  left: 0px;
-  mix-blend-mode: normal;
-  overflow: hidden;
-  overflow-x: hidden;
   padding: 60px 0px 0px;
   position: relative;
-  top: 0px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .header-wqea70 {
+.x2au46-planning-phase-introduction-u40abcu41 .header {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -26,132 +21,79 @@
   width: 1080px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .logo-title-i9Mgt5 {
+.x2au46-planning-phase-introduction-u40abcu41 .logo-title {
+  cursor: pointer;
+  height: 55px;
   position: relative;
+  width: 410px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .navigation-i9Mgt5 {
-  background-color: transparent;
+.x2au46-planning-phase-introduction-u40abcu41 .foundation-for-public-code {
+  height: 56px;
+  left: 61px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 349px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .logo-symbol {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .navigation {
+  display: flex;
+  gap: 51px;
   height: 24px;
   position: relative;
   width: 534px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .links-juxzQR {
+.x2au46-planning-phase-introduction-u40abcu41 .navbar {
   align-items: flex-start;
-  background-color: transparent;
   display: inline-flex;
   gap: 30px;
+  height: 19px;
   justify-content: flex-end;
-  left: 0px;
-  position: absolute;
-  top: 2px;
+  margin-top: 2.5px;
+  position: relative;
+  width: 371px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .stewardship-uS1pNt {
-  background-color: transparent;
+.x2au46-planning-phase-introduction-u40abcu41 .navbar-link {
   cursor: pointer;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .resources-uS1pNt {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .who-we-are-uS1pNt {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .join-us-uS1pNt {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .services-juxzQR {
+.x2au46-planning-phase-introduction-u40abcu41 .services {
   align-items: flex-start;
-  background-color: transparent;
   display: inline-flex;
   gap: 20px;
-  left: 422px;
-  position: absolute;
-  top: 0px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .mastodon-cnB30X {
-  background-color: transparent;
-  cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
-  width: 24px;
+  width: 112px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .twitter-cnB30X {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 24px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .github-cnB30X {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 24px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .title-wqea70 {
-  background-color: transparent;
+.x2au46-planning-phase-introduction-u40abcu41 .title {
   color: var(--black);
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
   width: 1080px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .main-frame-wqea70 {
+.x2au46-planning-phase-introduction-u40abcu41 .main-frame {
   align-items: flex-start;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   gap: 58px;
@@ -160,16 +102,19 @@
   width: 1080px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .content-pa57Sx {
+.x2au46-planning-phase-introduction-u40abcu41 .content-1 {
+  align-items: flex-start;
+  display: flex;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 60px;
+  position: relative;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .intro-MHbsgx {
+.x2au46-planning-phase-introduction-u40abcu41 .intro {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -178,41 +123,18 @@
   width: 100%;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .titlepage-4HUmcO {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  border-bottom-style: solid;
-  border-bottom-width: 1px;
-  border-color: var(--fpcgraydark);
-  border-left-style: none;
-  border-right-style: none;
-  border-top-style: none;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  padding: 0px 0px 10px;
-  position: relative;
-  width: 100%;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .page-title-U51xxx {
-  background-color: transparent;
+.x2au46-planning-phase-introduction-u40abcu41 .page-title {
   color: var(--black);
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
   width: fit-content;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .cluster-4HUmcO {
+.x2au46-planning-phase-introduction-u40abcu41 .cluster {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   gap: 30px;
@@ -220,565 +142,472 @@
   width: 100%;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .phaseplanning-mQdrsT {
+.x2au46-planning-phase-introduction-u40abcu41 .phaseplanning {
   background-color: var(--fpcblue);
   border-radius: 12px;
   height: 230px;
-  mix-blend-mode: normal;
   overflow: hidden;
   position: relative;
   width: 230px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .group-148-MgcGiD {
-  background-color: transparent;
-  height: 86.25%;
-  left: 7.38%;
+.x2au46-planning-phase-introduction-u40abcu41 .group-148 {
+  align-items: flex-end;
+  display: flex;
+  height: 198px;
+  left: 17px;
+  min-width: 216px;
+  padding: 0 5.0px;
   position: relative;
-  top: 1.46%;
-  width: 93.80%;
+  top: 3px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .rectangle-11-RNfwbh {
+.x2au46-planning-phase-introduction-u40abcu41 .overlap-group2 {
+  height: 172px;
+  position: relative;
+  width: 189px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .rectangle-11 {
   background-color: var(--white);
-  height: 9.39%;
-  left: 29.19%;
-  mix-blend-mode: normal;
+  height: 19px;
+  left: 58px;
   position: absolute;
-  top: 49.38%;
-  width: 14.21%;
+  top: 72px;
+  width: 31px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .vector-RNfwbh {
-  height: 8.86%;
-  left: 21.73%;
-  mix-blend-mode: normal;
-  top: 23.52%;
-  width: 12.30%;
+.x2au46-planning-phase-introduction-u40abcu41 .vector {
+  height: 18px;
+  left: 42px;
+  position: absolute;
+  top: 21px;
+  width: 27px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .vector-1CfC4X {
-  height: 13.02%;
-  left: 22.09%;
-  mix-blend-mode: normal;
-  top: 22.01%;
-  width: 15.31%;
+.x2au46-planning-phase-introduction-u40abcu41 .vector-1 {
+  height: 26px;
+  left: 43px;
+  position: absolute;
+  top: 18px;
+  width: 33px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .vector-NjhRif {
-  height: 11.79%;
-  left: 22.11%;
-  mix-blend-mode: normal;
-  top: 22.32%;
-  width: 18.26%;
+.x2au46-planning-phase-introduction-u40abcu41 .vector-2 {
+  height: 23px;
+  left: 43px;
+  position: absolute;
+  top: 18px;
+  width: 39px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .group-2-RNfwbh {
-  height: 23.02%;
-  left: 37.31%;
-  top: 76.98%;
-  width: 51.84%;
+.x2au46-planning-phase-introduction-u40abcu41 .group-2 {
+  height: 46px;
+  left: 75px;
+  position: absolute;
+  top: 127px;
+  width: 112px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .ellipse-RNfwbh {
-  background-color: transparent;
+.x2au46-planning-phase-introduction-u40abcu41 .ellipse {
   border: 2px solid;
   border-color: var(--blue-violet);
   border-radius: 65.89px/66.17px;
-  height: 66.71%;
-  left: 17.31%;
+  height: 132px;
+  left: 32px;
   position: absolute;
-  top: 22.37%;
-  width: 61.09%;
+  top: 18px;
+  width: 132px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .comment-RNfwbh {
-  height: 19.32%;
-  left: 8.88%;
-  top: 78.91%;
+.x2au46-planning-phase-introduction-u40abcu41 .comment {
+  align-items: flex-start;
+  display: flex;
+  height: 38px;
+  left: 14px;
+  min-width: 38px;
+  position: absolute;
+  top: 131px;
   transform: rotate(-90.00deg);
-  width: 17.77%;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .union-hk8fmF {
-  height: 100.00%;
-  left: 0px;
-  mix-blend-mode: normal;
-  top: 0px;
+.x2au46-planning-phase-introduction-u40abcu41 .overlap-group {
+  height: 38px;
+  margin-top: 0;
+  position: relative;
+  width: 38px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .union {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
   transform: rotate(90.00deg);
-  width: 100.00%;
+  width: 38px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .rectangle-315-hk8fmF {
-  background-color: transparent;
+.x2au46-planning-phase-introduction-u40abcu41 .rectangle-315 {
   border: 1px solid;
   border-color: var(--white);
-  height: 11.43%;
-  left: 25.71%;
-  top: 44.29%;
-  width: 11.43%;
+  border-radius: 5px;
+  height: 4px;
+  left: 10px;
+  position: absolute;
+  top: 17px;
+  width: 4px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .rectangle-316-hk8fmF {
-  background-color: transparent;
+.x2au46-planning-phase-introduction-u40abcu41 .rectangle-316 {
   border: 1px solid;
   border-color: var(--white);
-  height: 11.43%;
-  left: 44.29%;
-  top: 44.29%;
-  width: 11.43%;
+  border-radius: 5px;
+  height: 4px;
+  left: 17px;
+  position: absolute;
+  top: 17px;
+  width: 4px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .rectangle-317-hk8fmF {
-  background-color: transparent;
+.x2au46-planning-phase-introduction-u40abcu41 .rectangle-317 {
   border: 1px solid;
   border-color: var(--white);
-  height: 11.43%;
-  left: 62.86%;
-  top: 44.29%;
-  width: 11.43%;
+  border-radius: 5px;
+  height: 4px;
+  left: 24px;
+  position: absolute;
+  top: 17px;
+  width: 4px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .rectangle-315-RNfwbh {
+.x2au46-planning-phase-introduction-u40abcu41 .rectangle-315-1 {
   background-color: var(--blue-violet);
-  height: 2.21%;
-  left: 31.98%;
-  mix-blend-mode: normal;
-  top: 52.96%;
-  width: 2.03%;
+  border-radius: 5px;
+  height: 4px;
+  left: 64px;
+  position: absolute;
+  top: 79px;
+  width: 4px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .rectangle-316-RNfwbh {
+.x2au46-planning-phase-introduction-u40abcu41 .rectangle-316-1 {
   background-color: var(--blue-violet);
-  height: 2.21%;
-  left: 35.28%;
-  mix-blend-mode: normal;
-  top: 52.96%;
-  width: 2.03%;
+  border-radius: 5px;
+  height: 4px;
+  left: 71px;
+  position: absolute;
+  top: 79px;
+  width: 4px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .rectangle-317-RNfwbh {
+.x2au46-planning-phase-introduction-u40abcu41 .rectangle-317-1 {
   background-color: var(--blue-violet);
-  height: 2.21%;
-  left: 38.58%;
-  mix-blend-mode: normal;
-  top: 52.96%;
-  width: 2.03%;
+  border-radius: 5px;
+  height: 4px;
+  left: 78px;
+  position: absolute;
+  top: 79px;
+  width: 4px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .ellipse-1CfC4X {
+.x2au46-planning-phase-introduction-u40abcu41 .ellipse-1 {
   background-color: var(--fpchlyellow);
   border-radius: 7.39px;
-  height: 7.45%;
-  left: 28.68%;
-  mix-blend-mode: normal;
+  height: 15px;
+  left: 57px;
   position: absolute;
-  top: 39.71%;
-  width: 6.85%;
+  top: 53px;
+  width: 15px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .symbol-dev-RNfwbh {
-  height: 5.80%;
-  left: 41.63%;
-  top: 19.84%;
-  width: 12.18%;
+.x2au46-planning-phase-introduction-u40abcu41 .symbol-dev {
+  align-items: flex-start;
+  display: flex;
+  height: 12px;
+  justify-content: center;
+  left: 85px;
+  min-width: 26px;
+  position: absolute;
+  top: 13px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .rectangle-lylZAN {
-  left: -12.18%;
+.x2au46-planning-phase-introduction-u40abcu41 .rectangle {
+  height: 13px;
+  margin-top: -0.99px;
+  width: 8px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .rectangle-XhlV2x {
-  left: 82.11%;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .ellipse-lylZAN {
+.x2au46-planning-phase-introduction-u40abcu41 .ellipse-2 {
+  align-self: center;
   background-color: var(--fpchlyellow);
   border-radius: 4.11px;
-  height: 71.43%;
-  left: 33.33%;
-  mix-blend-mode: normal;
+  height: 8px;
+  margin-bottom: 0;
+  margin-left: 4px;
+  width: 8px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .rectangle-1 {
+  height: 13px;
+  margin-left: 5px;
+  margin-top: -0.99px;
+  width: 8px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .ellipse-3 {
+  height: 88px;
+  left: 32px;
   position: absolute;
-  top: 14.29%;
-  width: 31.25%;
+  top: 44px;
+  width: 157px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .ellipse-NjhRif {
-  background-color: transparent;
-  height: 44.25%;
-  left: 17.31%;
+.x2au46-planning-phase-introduction-u40abcu41 .ellipse-4 {
+  height: 56px;
+  left: 87px;
   position: absolute;
-  top: 35.07%;
-  width: 72.64%;
+  top: 53px;
+  width: 77px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .ellipse-xbpTQk {
-  background-color: transparent;
-  height: 28.23%;
-  left: 42.69%;
+.x2au46-planning-phase-introduction-u40abcu41 .ellipse-5 {
+  height: 157px;
+  left: 57px;
   position: absolute;
-  top: 39.87%;
-  width: 35.70%;
+  top: 3px;
+  width: 125px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .ellipse-yJjX20 {
-  background-color: transparent;
-  height: 78.90%;
-  left: 28.54%;
+.x2au46-planning-phase-introduction-u40abcu41 .vector-3 {
+  height: 56px;
+  left: 0;
   position: absolute;
-  top: 14.70%;
-  width: 58.05%;
+  top: 60px;
+  width: 65px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .vector-xbpTQk {
-  height: 28.23%;
-  left: 2.33%;
-  top: 43.07%;
-  width: 30.25%;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .ellipse-UkHxsS {
+.x2au46-planning-phase-introduction-u40abcu41 .ellipse-6 {
   background-color: var(--fpchlyellow);
   border-radius: 6.57px;
-  height: 6.63%;
-  left: 44.42%;
-  mix-blend-mode: normal;
+  height: 13px;
+  left: 91px;
   position: absolute;
-  top: 85.26%;
-  width: 6.09%;
+  top: 143px;
+  width: 13px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .group-RNfwbh {
-  height: 7.63%;
-  left: 79.24%;
-  top: 80.62%;
-  width: 7.02%;
+.x2au46-planning-phase-introduction-u40abcu41 .group {
+  height: 15px;
+  left: 166px;
+  position: absolute;
+  top: 134px;
+  width: 15px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .vector-yJjX20 {
-  height: 24.22%;
-  left: 3.01%;
-  mix-blend-mode: normal;
-  top: 13.07%;
-  width: 39.67%;
+.x2au46-planning-phase-introduction-u40abcu41 .vector-4 {
+  height: 48px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 86px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .group-1CfC4X {
-  height: 6.66%;
-  left: 4.87%;
-  top: 14.92%;
-  width: 6.12%;
+.x2au46-planning-phase-introduction-u40abcu41 .group-1 {
+  height: 13px;
+  left: 5px;
+  position: absolute;
+  top: 4px;
+  width: 13px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .rectangle-9-RNfwbh {
+.x2au46-planning-phase-introduction-u40abcu41 .rectangle-9 {
   background-color: var(--blue-violet);
-  height: 9.39%;
-  left: 47.72%;
-  mix-blend-mode: normal;
+  height: 19px;
+  left: 98px;
   position: absolute;
-  top: 55.72%;
-  width: 14.21%;
+  top: 85px;
+  width: 31px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .symbol-dev-1CfC4X {
-  height: 5.44%;
-  left: 50.05%;
-  top: 57.70%;
-  width: 9.80%;
+.x2au46-planning-phase-introduction-u40abcu41 .symbol-dev-1 {
+  left: 103px;
+  top: 89px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .rectangle-10-RNfwbh {
+.x2au46-planning-phase-introduction-u40abcu41 .rectangle-10 {
   background-color: var(--carnation);
-  height: 9.39%;
-  left: 14.98%;
-  mix-blend-mode: normal;
+  height: 19px;
+  left: 27px;
   position: absolute;
-  top: 62.90%;
-  width: 14.21%;
+  top: 99px;
+  width: 31px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .symbol-dev-NjhRif {
-  height: 5.44%;
-  left: 17.31%;
-  top: 64.88%;
-  width: 9.80%;
+.x2au46-planning-phase-introduction-u40abcu41 .symbol-dev-2 {
+  left: 32px;
+  top: 103px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .ellipse-2-RNfwbh {
+.x2au46-planning-phase-introduction-u40abcu41 .ellipse-2-1 {
   background-color: var(--bittersweet);
   border-radius: 3.29px;
-  height: 3.31%;
-  left: 46.20%;
-  mix-blend-mode: normal;
+  height: 7px;
+  left: 95px;
   position: absolute;
-  top: 59.04%;
-  width: 3.05%;
+  top: 91px;
+  width: 7px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .ellipse-5-RNfwbh {
+.x2au46-planning-phase-introduction-u40abcu41 .ellipse-5-1 {
   background-color: var(--bittersweet);
   border-radius: 3.29px;
-  height: 3.31%;
-  left: 27.67%;
-  mix-blend-mode: normal;
+  height: 7px;
+  left: 55px;
   position: absolute;
-  top: 52.41%;
-  width: 3.05%;
+  top: 78px;
+  width: 7px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .ellipse-3-RNfwbh {
+.x2au46-planning-phase-introduction-u40abcu41 .ellipse-3-1 {
   background-color: var(--blue-violet);
   border-radius: 3.29px;
-  height: 3.31%;
-  left: 27.67%;
-  mix-blend-mode: normal;
+  height: 7px;
+  left: 55px;
   position: absolute;
-  top: 66.22%;
-  width: 3.05%;
+  top: 105px;
+  width: 7px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .ellipse-4-RNfwbh {
+.x2au46-planning-phase-introduction-u40abcu41 .ellipse-4-1 {
   background-color: var(--blue-violet);
   border-radius: 3.29px;
-  height: 3.31%;
-  left: 45.94%;
-  mix-blend-mode: normal;
+  height: 7px;
+  left: 94px;
   position: absolute;
-  top: 86.92%;
-  width: 3.05%;
+  top: 146px;
+  width: 7px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .ellipse-dMWCU0 {
+.x2au46-planning-phase-introduction-u40abcu41 .ellipse-7 {
   background-color: var(--fpchlyellow);
   border-radius: 4.11px;
-  height: 4.14%;
-  left: 15.74%;
-  mix-blend-mode: normal;
+  height: 8px;
+  left: 29px;
   position: absolute;
-  top: 52.96%;
-  width: 3.81%;
+  top: 79px;
+  width: 8px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .vector-3-RNfwbh {
-  background-color: transparent;
-  height: 8.32%;
-  left: 28.60%;
+.x2au46-planning-phase-introduction-u40abcu41 .vector-3-1 {
+  height: 17px;
+  left: 57px;
   position: absolute;
-  top: 60.19%;
-  width: 19.58%;
+  top: 93px;
+  width: 42px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .vector-5-RNfwbh {
-  background-color: transparent;
-  height: 11.50%;
-  left: 13.62%;
+.x2au46-planning-phase-introduction-u40abcu41 .vector-5 {
+  height: 23px;
+  left: 24px;
   position: absolute;
-  top: 43.07%;
-  width: 16.16%;
+  top: 60px;
+  width: 35px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .vector-4-RNfwbh {
-  background-color: transparent;
-  height: 21.71%;
-  left: 28.73%;
+.x2au46-planning-phase-introduction-u40abcu41 .vector-4-1 {
+  height: 43px;
+  left: 57px;
   position: absolute;
-  top: 67.51%;
-  width: 19.08%;
+  top: 108px;
+  width: 41px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .ellipse-oB0xMM {
+.x2au46-planning-phase-introduction-u40abcu41 .ellipse-8 {
   background-color: var(--fpchlyellow);
   border-radius: 4.11px;
-  height: 4.14%;
-  left: 75.90%;
-  mix-blend-mode: normal;
+  height: 8px;
+  left: 159px;
   position: absolute;
-  top: 52.96%;
-  width: 3.81%;
+  top: 79px;
+  width: 8px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .ellipse-FKDxmg {
+.x2au46-planning-phase-introduction-u40abcu41 .ellipse-9 {
   background-color: var(--fpchlyellow);
   border-radius: 4.11px;
-  height: 4.14%;
-  left: 24.62%;
-  mix-blend-mode: normal;
+  height: 8px;
+  left: 48px;
   position: absolute;
-  top: 76.98%;
-  width: 3.81%;
+  top: 127px;
+  width: 8px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .ellipse-5XldUD {
+.x2au46-planning-phase-introduction-u40abcu41 .ellipse-10 {
   background-color: var(--fpchlyellow);
   border-radius: 12.32px;
-  height: 12.42%;
-  left: 53.05%;
-  mix-blend-mode: normal;
+  height: 25px;
+  left: 109px;
   position: absolute;
-  top: 29.50%;
-  width: 11.42%;
+  top: 33px;
+  width: 25px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .comment-1CfC4X {
-  height: 15.74%;
-  left: 51.53%;
-  top: 27.84%;
+.x2au46-planning-phase-introduction-u40abcu41 .comment-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 31px;
+  justify-content: flex-end;
+  left: 106px;
+  min-width: 31px;
+  position: absolute;
+  top: 29px;
   transform: rotate(180deg);
-  width: 14.47%;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .union-hq1k52 {
-  height: 106.41%;
-  left: -3.20%;
-  top: -3.20%;
+.x2au46-planning-phase-introduction-u40abcu41 .overlap-group1 {
+  height: 33px;
+  margin-top: -1.0px;
+  position: relative;
+  width: 33px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .union-1 {
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
   transform: rotate(-180deg);
-  width: 106.41%;
+  width: 33px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .group-2-hq1k52 {
-  height: 37.84%;
-  left: 31.08%;
-  top: 31.08%;
+.x2au46-planning-phase-introduction-u40abcu41 .group-2-1 {
+  height: 12px;
+  left: 11px;
+  position: absolute;
+  top: 11px;
   transform: rotate(-180deg);
-  width: 37.84%;
+  width: 12px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .flex-container-1483862-mQdrsT {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
+.x2au46-planning-phase-introduction-u40abcu41 .flex-container {
   gap: 10px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .text0-1483862-xFJca3 {
+.x2au46-planning-phase-introduction-u40abcu41 .text {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .span0-F2jk32 {
-  font-style: normal;
+.x2au46-planning-phase-introduction-u40abcu41 .span-1 {
+  letter-spacing: 0;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .span1-F2jk32 {
-  font-style: normal;
-  letter-spacing: 0.00px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span2-F2jk32 {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span3-F2jk32 {
-  font-style: normal;
-  letter-spacing: 0.00px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span4-F2jk32 {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .text1-1483862-xFJca3 {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span5-78VCpQ {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .flex-container-2259843-4HUmcO {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .text0-2259843-GO0Sch {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span0-2oSx7g {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .text1-2259843-GO0Sch {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span1-V5huto {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span2-V5huto {
-  font-style: normal;
-  letter-spacing: 0.00px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span3-V5huto {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span4-V5huto {
-  font-style: normal;
-  letter-spacing: 0.00px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span5-V5huto {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .text2-2259843-GO0Sch {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span6-qRcD19 {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .footer-nav-MHbsgx {
+.x2au46-planning-phase-introduction-u40abcu41 .footer-nav {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   justify-content: space-between;
@@ -786,7 +615,7 @@
   width: 100%;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .navfooterprev-kxNc7N {
+.x2au46-planning-phase-introduction-u40abcu41 .navfooterprev {
   align-items: center;
   background-color: var(--fpcgreen);
   border-radius: 32px 4px 4px 32px;
@@ -794,49 +623,35 @@
   display: inline-flex;
   flex: 0 0 auto;
   gap: 15px;
-  mix-blend-mode: normal;
   padding: 10px 15px;
   position: relative;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .arrow-32-yN9qpQ {
+.x2au46-planning-phase-introduction-u40abcu41 .arrow-32 {
+  height: 12.47px;
   margin-left: -0.85px;
+  position: relative;
+  width: 15.24px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .group-134-yN9qpQ {
+.x2au46-planning-phase-introduction-u40abcu41 .group-134 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
   margin-right: -4.00px;
+  position: relative;
   width: 167px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .x1a-welcome-umncJM {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
+.x2au46-planning-phase-introduction-u40abcu41 .x1a-welcome {
+  height: 20px;
+  letter-spacing: 0;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 18px;
-  width: auto;
+  width: 163px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .previous-umncJM {
-  background-color: transparent;
-  color: var(--white);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navfooternext-kxNc7N {
+.x2au46-planning-phase-introduction-u40abcu41 .navfooternext {
   align-items: center;
   background-color: var(--fpcblue);
   border-radius: 4px 32px 32px 4px;
@@ -844,48 +659,35 @@
   display: inline-flex;
   flex: 0 0 auto;
   gap: 15px;
-  mix-blend-mode: normal;
   padding: 10px 15px;
   position: relative;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .group-134-QUd6x4 {
+.x2au46-planning-phase-introduction-u40abcu41 .group-134-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
+  position: relative;
   width: 147px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .x1b-discovery-research-f6LaIj {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 18px;
-  width: auto;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .next-f6LaIj {
-  background-color: transparent;
+.x2au46-planning-phase-introduction-u40abcu41 .next {
   color: var(--white);
-  font-style: normal;
   font-weight: 400;
-  height: auto;
-  left: 0px;
+  height: 15px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
+  width: 27px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .arrow-32-QUd6x4 {
-  margin-right: -0.85px;
+.x2au46-planning-phase-introduction-u40abcu41 .x1b-discovery-research {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 143px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .sidebarv2-pa57Sx {
+.x2au46-planning-phase-introduction-u40abcu41 .sidebarv2 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--cultured-pearl);
@@ -894,995 +696,51 @@
   flex: 0 0 auto;
   flex-direction: column;
   justify-content: space-between;
-  mix-blend-mode: normal;
   padding: 20px;
   position: relative;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .top-J18Nh0 {
+.x2au46-planning-phase-introduction-u40abcu41 .navsidebarexpanded {
   align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 60px;
-  position: relative;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navsidebarexpanded-CRZxAW {
-  align-items: flex-start;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
   position: relative;
   width: 240px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navmainv3-UJNSzg {
-  background-color: var(--algae-green);
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .x1-section-name-J3IJTl {
-  color: var(--black);
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-iknGSa {
-  background-color: transparent;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-GUoRV7 {
-  background-color: transparent;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-PwdQxY {
-  background-color: transparent;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-GGaGDU {
-  background-color: transparent;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-1iO89x {
-  background-color: transparent;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navmainv3-OQHPox {
-  background-color: var(--fpcbluehl);
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .x1-section-name-B1DGXs {
-  color: var(--black-2);
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-y6RhKj {
-  background-color: var(--fpcblue50);
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-Ux0gxz {
-  background-color: transparent;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-8Lhxzl {
-  background-color: transparent;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navmainv3-XVx6y1 {
-  background-color: var(--fpchlpeach);
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .x1-section-name-x7tpDi {
-  color: var(--black);
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-GFO42J {
-  background-color: transparent;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-nvxh0x {
-  background-color: transparent;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-tzAsfM {
-  background-color: transparent;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-TUaQkK {
-  background-color: transparent;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span0-zQNHm3 {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navmainv3-iPNXaq {
-  background-color: var(--periwinkle-gray);
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .x1-section-name-zP89K7 {
-  color: var(--black-2);
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-jUbaul {
-  background-color: transparent;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-XGK8WH {
-  background-color: transparent;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-JaLR7J {
-  background-color: transparent;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .sidebarbottom-J18Nh0 {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 60px;
-  position: relative;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .have-a-question-VTrIxx {
-  align-items: flex-start;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  width: 240px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .have-a-question-xr1xwh {
-  align-self: stretch;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: 30px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  text-align: left;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .email-us-xr1xwh {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: -0.16px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .footer-wqea70 {
-  align-self: stretch;
-  background-color: transparent;
-  height: 916px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 100%;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .base-HAXWxd {
-  background-color: var(--machine-grey);
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .information-HAXWxd {
-  background-color: transparent;
-  height: 281px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 575px;
-  width: 1024px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .metadata-7esbEB {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 10px;
-  left: calc(50.00% - 142px);
-  position: absolute;
-  top: 196px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .updated-tkCkcJ {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .iconupdated-jz0E0S {
-  background-color: transparent;
-  height: 16px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .last-updated-15-february-2021-jz0E0S {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .copyright-tkCkcJ {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 7px;
-  position: relative;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .text_label-yyxpD0 {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .x2021-foundation-for-public-code-yyxpD0 {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span0-wAxzqv {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span1-wAxzqv {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .license-tkCkcJ {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .iconlicense-D3Z4CF {
-  background-color: transparent;
-  height: 14.5px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .creative-commons-zero-v10-universal-D3Z4CF {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: 299px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .organizational-notes-7esbEB {
-  background-color: transparent;
-  height: auto;
-  left: calc(50.00% - 142px);
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 650px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .flex-container-i8593838785932358-7esbEB {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  height: 130px;
-  left: 370px;
-  position: absolute;
-  top: 36px;
-  width: 650px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .text0-i8593838785932358-Gw0Vf0 {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span0-SLHRZi {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span1-SLHRZi {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span2-SLHRZi {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span3-SLHRZi {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span4-SLHRZi {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .text1-i8593838785932358-Gw0Vf0 {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span5-Mo3GoO {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span6-Mo3GoO {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span7-Mo3GoO {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span8-Mo3GoO {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span9-Mo3GoO {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .contact-7esbEB {
-  height: 201px;
-  left: calc(50.00% - 512px);
-  width: 345px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .contact-xhMrix {
-  height: auto;
-  left: calc(50.00% - 172px);
-  letter-spacing: 0.00px;
-  line-height: 26px;
-  mix-blend-mode: normal;
-  text-align: left;
-  width: 120px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .frame-201-xhMrix {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 15px;
-  left: calc(50.00% - 172px);
-  position: absolute;
-  top: 36px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .group-196-1x1UYX {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .join-our-mailing-list-20yycH {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .newsletter-20yycH {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .group-197-1x1UYX {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .x31-20-2-444-500-XDZtie {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .phone-XDZtie {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .group-200-1x1UYX {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .infopubliccodenet-EUfqCW {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .email-EUfqCW {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .group-199-1x1UYX {
-  background-color: transparent;
-  height: 60px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .links-W5VuMm {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  gap: 10px;
-  left: 103px;
-  position: absolute;
-  top: 40px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .open-street-map-AAvgcB {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .x-AAvgcB {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .google-AAvgcB {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .keizersgracht-617-10-W5VuMm {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 240px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .address-W5VuMm {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .block-trio-HAXWxd {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  gap: 20px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 175px;
-  width: 1080px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .about-us-1TsvoP {
-  align-items: center;
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  justify-content: space-between;
-  padding: 30px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .content-xunndO {
-  align-self: stretch;
-  flex: 0 0 auto;
-  gap: 15px;
-  width: 100%;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .about-us-UFz9b7 {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .flex-container-i8593838785932298-UFz9b7 {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .text0-i8593838785932298-hxH0pK {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span0-HIYSh6 {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .text1-i8593838785932298-hxH0pK {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span1-qozAXs {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .links-xunndO {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: flex-end;
-  position: relative;
-  width: 100%;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .how-we-work-sAF9KD {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: right;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .project-resources-1TsvoP {
-  align-items: flex-end;
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  justify-content: space-between;
-  padding: 30px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .content-mxUc3e {
-  align-self: stretch;
-  flex: 0 0 auto;
-  gap: 15px;
-  width: 100%;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .project-resources-y6xRih {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .open-products-were-r-y6xRih {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .links-mxUc3e {
-  align-items: flex-end;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 15px;
-  position: relative;
-  width: 100%;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .free-to-use-and-modify-hOcddT {
-  align-self: stretch;
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: right;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .see-all-our-work-on-git-hub-hOcddT {
-  align-self: stretch;
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: right;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .careers-1TsvoP {
-  align-items: flex-end;
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  justify-content: space-between;
-  padding: 30px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .content-QDflDx {
-  align-self: stretch;
-  flex: 0 0 auto;
-  gap: 15px;
-  width: 100%;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .careers-rzmPbs {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .calling-all-publicly-rzmPbs {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .links-QDflDx {
-  align-items: flex-end;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: flex-end;
-  position: relative;
-  width: 100%;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .open-positions-niPtZx {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: right;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .logo-title-HAXWxd {
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 60px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .arrow-32 {
-  background-color: transparent;
-  height: 12.468994140625px;
-  position: relative;
-  width: 15.23828125px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .b-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .c-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .capacity-building {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .comment {
-  background-color: transparent;
-  position: absolute;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .content {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  position: relative;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .d-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .group-2 {
-  background-color: transparent;
-  position: absolute;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .have-a-question {
-  background-color: transparent;
-  position: relative;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navmainv3 {
   align-items: flex-start;
   align-self: stretch;
+  background-color: var(--algae-green);
   border-radius: 4px;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 8px 15px 8px 10px;
   position: relative;
   width: 100%;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .x1-section-name {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .subsections {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2 {
@@ -1892,73 +750,297 @@
   display: inline-flex;
   flex: 0 0 auto;
   gap: 5px;
-  mix-blend-mode: normal;
   padding: 2px 8px 3px;
   position: relative;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .rectangle {
-  background-color: transparent;
-  height: 117.20%;
-  position: absolute;
-  top: -8.60%;
-  width: 30.06%;
+.x2au46-planning-phase-introduction-u40abcu41 .capacity-building {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .rectangle-315 {
-  border-radius: 5px;
-  position: absolute;
+.x2au46-planning-phase-introduction-u40abcu41 .b-subsection-name {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .rectangle-316 {
-  border-radius: 5px;
-  position: absolute;
+.x2au46-planning-phase-introduction-u40abcu41 .c-subsection-name {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .rectangle-317 {
-  border-radius: 5px;
-  position: absolute;
+.x2au46-planning-phase-introduction-u40abcu41 .d-subsection-name {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .section-title {
+.x2au46-planning-phase-introduction-u40abcu41 .navmainv3-1 {
+  background-color: var(--fpcbluehl);
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .x1-section-name-1 {
+  color: var(--black-2);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-1 {
   align-items: center;
-  align-self: stretch;
-  background-color: transparent;
+  background-color: var(--fpcblue50);
+  border-radius: 4px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .navmainv3-2 {
+  background-color: var(--fpchlpeach);
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .navmainv3-3 {
+  background-color: var(--periwinkle-gray);
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .have-a-question {
+  align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 240px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .email-us {
+  cursor: pointer;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .flex-col {
+  left: 180px;
+  min-height: 796px;
+  position: relative;
+  top: 60px;
+  width: 1080px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
   position: relative;
   width: 100%;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .subsections {
+.x2au46-planning-phase-introduction-u40abcu41 .text0-i8593838785932298 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .text1-i8593838785932298 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .links {
   align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .links-1 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
-  gap: 2px;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .links-2 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .frame-201 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 165px;
+  margin-left: -2px;
+  position: relative;
+  width: 343px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .group-196 {
+  display: flex;
+  gap: 18px;
+  height: 20px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .group-197 {
+  display: flex;
+  gap: 52px;
+  height: 20px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .group-200 {
+  display: flex;
+  gap: 58px;
+  height: 20px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .group-199 {
+  height: 60px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .flex-col-1 {
+  left: 103px;
+  min-height: 60px;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .links-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
   position: relative;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .union {
-  background-color: transparent;
-  position: absolute;
+.x2au46-planning-phase-introduction-u40abcu41 .text-14 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .vector {
-  background-color: transparent;
-  position: absolute;
+.x2au46-planning-phase-introduction-u40abcu41 .flex-col-2 {
+  min-height: 281px;
+  width: 650px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .x1-section-name {
-  background-color: transparent;
-  font-style: normal;
-  font-weight: 700;
+.x2au46-planning-phase-introduction-u40abcu41 .flex-container-i8593838785932358 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 130px;
+  margin-top: 8px;
+  position: relative;
+  width: 650px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .span-2 {
+  text-decoration: underline;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .capacity-building-5 {
+  color: var(--black);
+  font-weight: 400;
   line-height: 24px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
   white-space: nowrap;
   width: fit-content;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .flex {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .navmainv3-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .symbol-dev-3 {
+  height: 11px;
+  position: absolute;
+  width: 21px;
 }

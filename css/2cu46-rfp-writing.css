@@ -7,16 +7,11 @@
   display: flex;
   flex-direction: column;
   gap: 60px;
-  left: 0px;
-  mix-blend-mode: normal;
-  overflow: hidden;
-  overflow-x: hidden;
   padding: 60px 0px 0px;
   position: relative;
-  top: 0px;
 }
 
-.x2cu46-rfp-writing .header-2NHUyY {
+.x2cu46-rfp-writing .header {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -26,130 +21,79 @@
   width: 1080px;
 }
 
-.x2cu46-rfp-writing .logo-title-u8CTtl {
+.x2cu46-rfp-writing .logo-title {
+  cursor: pointer;
+  height: 55px;
   position: relative;
+  width: 410px;
 }
 
-.x2cu46-rfp-writing .navigation-u8CTtl {
-  background-color: transparent;
+.x2cu46-rfp-writing .foundation-for-public-code {
+  height: 56px;
+  left: 61px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 349px;
+}
+
+.x2cu46-rfp-writing .logo-symbol {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.x2cu46-rfp-writing .navigation {
+  display: flex;
+  gap: 51px;
   height: 24px;
   position: relative;
   width: 534px;
 }
 
-.x2cu46-rfp-writing .links-sfnQ8o {
+.x2cu46-rfp-writing .navbar {
   align-items: flex-start;
-  background-color: transparent;
   display: inline-flex;
   gap: 30px;
+  height: 19px;
   justify-content: flex-end;
-  left: 0px;
-  position: absolute;
-  top: 2px;
+  margin-top: 2.5px;
+  position: relative;
+  width: 371px;
 }
 
-.x2cu46-rfp-writing .stewardship-cPvVYZ {
-  background-color: transparent;
+.x2cu46-rfp-writing .navbar-link {
   cursor: pointer;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x2cu46-rfp-writing .resources-cPvVYZ {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .who-we-are-cPvVYZ {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .join-us-cPvVYZ {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .services-sfnQ8o {
+.x2cu46-rfp-writing .services {
   align-items: flex-start;
-  background-color: transparent;
   display: inline-flex;
   gap: 20px;
-  left: 422px;
-  position: absolute;
-  top: 0px;
-}
-
-.x2cu46-rfp-writing .mastodon-WYwXnz {
-  background-color: transparent;
-  cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
-  width: 24px;
+  width: 112px;
 }
 
-.x2cu46-rfp-writing .twitter-WYwXnz {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 24px;
-}
-
-.x2cu46-rfp-writing .github-WYwXnz {
-  background-color: transparent;
-  cursor: pointer;
-  height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 24px;
-}
-
-.x2cu46-rfp-writing .title-2NHUyY {
+.x2cu46-rfp-writing .title-1 {
   color: var(--black);
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
-  mix-blend-mode: normal;
-  text-align: left;
+  position: relative;
   width: 1080px;
 }
 
-.x2cu46-rfp-writing .main-frame-2NHUyY {
+.x2cu46-rfp-writing .main-frame {
   align-items: flex-start;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   gap: 58px;
@@ -158,17 +102,15 @@
   width: 1080px;
 }
 
-.x2cu46-rfp-writing .content-NHZBWq {
-  background-color: transparent;
+.x2cu46-rfp-writing .content-3 {
   flex: 1;
   flex-grow: 1;
   gap: 60px;
 }
 
-.x2cu46-rfp-writing .intro-dyv6VD {
+.x2cu46-rfp-writing .intro {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -177,16 +119,12 @@
   width: 100%;
 }
 
-.x2cu46-rfp-writing .titlepage-52KmKB {
+.x2cu46-rfp-writing .title {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   border-bottom-style: solid;
   border-bottom-width: 1px;
   border-color: var(--fpcgraydark);
-  border-left-style: none;
-  border-right-style: none;
-  border-top-style: none;
   display: flex;
   flex: 0 0 auto;
   gap: 10px;
@@ -195,932 +133,419 @@
   width: 100%;
 }
 
-.x2cu46-rfp-writing .page-title-bmXog4 {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .content-52KmKB {
+.x2cu46-rfp-writing .content-4 {
   align-self: stretch;
   background-color: var(--fpcgraywhitesmoke);
   border-radius: 12px;
   flex: 0 0 auto;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 20px;
   width: 100%;
 }
 
-.x2cu46-rfp-writing .this-section-will-help-you-6MSRZR {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 650px;
-}
-
-.x2cu46-rfp-writing .cluster-6MSRZR {
-  align-items: flex-start;
-  gap: 10px;
-}
-
-.x2cu46-rfp-writing .icongoal-PBlzpq {
-  width: 32.009765625px;
-}
-
-.x2cu46-rfp-writing .icongoal-3MXPzX {
-  width: 32.009765625px;
-}
-
-.x2cu46-rfp-writing .icongoal-drNKrM {
-  width: 32.009765625px;
-}
-
-.x2cu46-rfp-writing .challenges-dyv6VD {
+.x2cu46-rfp-writing .cluster {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 30px;
+  gap: 10px;
   position: relative;
   width: 100%;
 }
 
-.x2cu46-rfp-writing .content-IhxW3x {
+.x2cu46-rfp-writing .content-5 {
   align-self: stretch;
-  background-color: transparent;
   flex: 0 0 auto;
   gap: 20px;
   width: 100%;
 }
 
-.x2cu46-rfp-writing .you-may-encounter-th-mMStTB {
+.x2cu46-rfp-writing .you-may-encounter-th {
   align-self: stretch;
-  background-color: transparent;
   color: var(--red);
-  font-style: normal;
   font-weight: 400;
   line-height: 16px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x2cu46-rfp-writing .span0-C0xg2x {
+.x2cu46-rfp-writing .span {
   color: var(--black);
-  font-style: normal;
   line-height: 24px;
 }
 
-.x2cu46-rfp-writing .span1-C0xg2x {
+.x2cu46-rfp-writing .span1 {
   color: var(--black);
-  font-style: normal;
   font-weight: 600;
 }
 
-.x2cu46-rfp-writing .span2-C0xg2x {
-  color: var(--black);
-  font-style: normal;
-  line-height: 24px;
-}
-
-.x2cu46-rfp-writing .content-5cYimQ {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x2cu46-rfp-writing .title-JcFA4y {
-  align-self: stretch;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .content-ER8QvL {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x2cu46-rfp-writing .title-JB51XQ {
-  align-self: stretch;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .content-n29v2O {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x2cu46-rfp-writing .title-hXbfCo {
-  align-self: stretch;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .actions-dyv6VD {
+.x2cu46-rfp-writing .content {
   align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
+  flex: 1;
   flex-direction: column;
-  gap: 30px;
+  flex-grow: 1;
+  gap: 2px;
   position: relative;
-  width: 100%;
 }
 
-.x2cu46-rfp-writing .frame-142-GXqwIV {
-  align-items: flex-start;
+.x2cu46-rfp-writing .title-2 {
   align-self: stretch;
-  background-color: transparent;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .title-3 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .frame-142 {
+  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 20px;
-  position: relative;
   width: 100%;
 }
 
-.x2cu46-rfp-writing .x1-mapping-existing-t-nEpwB1 {
+.x2cu46-rfp-writing .x1-mapping-existing {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x2cu46-rfp-writing .your-goal-is-to-desi-nEpwB1 {
+.x2cu46-rfp-writing .your-goal-is-to-desi {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x2cu46-rfp-writing .content-PLTPqD {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x2cu46-rfp-writing .content-ezvWe9 {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x2cu46-rfp-writing .content-x3XftP {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x2cu46-rfp-writing .cluster-GXqwIV {
+.x2cu46-rfp-writing .cluster-1 {
   align-items: center;
   flex-direction: column;
-  gap: 20px;
 }
 
-.x2cu46-rfp-writing .x2-designing-value-an-R7iYX8 {
+.x2cu46-rfp-writing .x2-designing-value {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x2cu46-rfp-writing .flex-container-2457236-R7iYX8 {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
+.x2cu46-rfp-writing .flex-container {
   gap: 10px;
 }
 
-.x2cu46-rfp-writing .text0-2457236-thXSbV {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x2cu46-rfp-writing .text0-2457236 {
   line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
 }
 
-.x2cu46-rfp-writing .span0-zmXIAm {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .text1-2457236-thXSbV {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x2cu46-rfp-writing .text1-2457236 {
   line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
 }
 
-.x2cu46-rfp-writing .span1-bnTSj3 {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .content-UyuAD9 {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x2cu46-rfp-writing .flex-container-i246742360214892-aDX2vP {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.x2cu46-rfp-writing .text0-i246742360214892-RG3xlj {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x2cu46-rfp-writing .text0-i246742360214892 {
   line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
 }
 
-.x2cu46-rfp-writing .span0-GBbtbx {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .text1-i246742360214892-RG3xlj {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
+.x2cu46-rfp-writing .text1-i246742360214892 {
   line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
 }
 
-.x2cu46-rfp-writing .span1-Winxzx {
-  font-style: normal;
+.x2cu46-rfp-writing .span-2 {
   font-weight: 700;
 }
 
-.x2cu46-rfp-writing .span2-Winxzx {
-  font-style: normal;
+.x2cu46-rfp-writing .span3 {
+  letter-spacing: 0;
 }
 
-.x2cu46-rfp-writing .span3-Winxzx {
-  font-style: normal;
-  letter-spacing: 0.00px;
-}
-
-.x2cu46-rfp-writing .span4-Winxzx {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .text2-i246742360214892-RG3xlj {
+.x2cu46-rfp-writing .text3-i246742360214892 {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x2cu46-rfp-writing .span5-QTwCu0 {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x2cu46-rfp-writing .span6-QTwCu0 {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .text3-i246742360214892-RG3xlj {
+.x2cu46-rfp-writing .text4-i246742360214892 {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x2cu46-rfp-writing .span7-ItnxjA {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x2cu46-rfp-writing .span8-ItnxjA {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .text4-i246742360214892-RG3xlj {
+.x2cu46-rfp-writing .text5-i246742360214892 {
   align-self: stretch;
-  background-color: transparent;
   color: var(--black);
-  font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x2cu46-rfp-writing .span9-hWmVrk {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x2cu46-rfp-writing .span10-hWmVrk {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .text5-i246742360214892-RG3xlj {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .span11-yg0poI {
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x2cu46-rfp-writing .visualaidmatrix-R7iYX8 {
-  background-color: transparent;
+.x2cu46-rfp-writing .visualaidmatrix {
   height: 226px;
-  mix-blend-mode: normal;
   position: relative;
   width: 534px;
 }
 
-.x2cu46-rfp-writing .visualaidmatrixbox-LstOHg {
-  left: 4.57%;
-  top: 10.36%;
+.x2cu46-rfp-writing .overlap-group-1 {
+  height: 202px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 534px;
 }
 
-.x2cu46-rfp-writing .flex-container-i2981577929815760-0T9JuE {
+.x2cu46-rfp-writing .visualaidmatrixbox {
   align-items: flex-start;
-  background-color: transparent;
+  border: 2px solid;
+  border-color: var(--black);
   display: flex;
   flex-direction: column;
   gap: 10px;
+  height: 102px;
+  left: 24px;
+  padding: 15px 10px;
+  position: absolute;
+  top: 0;
+  width: 256px;
 }
 
-.x2cu46-rfp-writing .text0-i2981577929815760-belOwI {
+.x2cu46-rfp-writing .text {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x2cu46-rfp-writing .span0-1qwcCS {
+.x2cu46-rfp-writing .visualaidmatrixbox-1 {
+  left: 24px;
+  top: 100px;
 }
 
-.x2cu46-rfp-writing .text1-i2981577929815760-belOwI {
+.x2cu46-rfp-writing .software-will-ideall {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .span1-f9OKbY {
-}
-
-.x2cu46-rfp-writing .visualaidmatrixbox-xCvdYo {
-  left: 4.57%;
-  top: 54.61%;
-}
-
-.x2cu46-rfp-writing .software-will-ideall-Si3T3T {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x2cu46-rfp-writing .visualaidmatrixbox-vrHZvB {
-  left: 52.10%;
-  top: 10.36%;
+.x2cu46-rfp-writing .visualaidmatrixbox-2 {
+  left: 278px;
+  top: 0;
 }
 
-.x2cu46-rfp-writing .we-require-a-local-e-ZooE2p {
+.x2cu46-rfp-writing .we-require-a-local {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x2cu46-rfp-writing .visualaidmatrixbox-5qmArg {
-  left: 52.10%;
-  top: 54.61%;
+.x2cu46-rfp-writing .visualaidmatrixbox-3 {
+  left: 278px;
+  top: 100px;
 }
 
-.x2cu46-rfp-writing .we-prefer-energy-sta-XUIbQN {
+.x2cu46-rfp-writing .we-prefer-energy-sta {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
 }
 
-.x2cu46-rfp-writing .software-evaluation-criteria-LstOHg {
-  background-color: transparent;
-  height: 7.20%;
-  left: 4.75%;
-  letter-spacing: 0.00px;
+.x2cu46-rfp-writing .mandatory {
+  left: -42px;
+  letter-spacing: 0;
   line-height: normal;
-  mix-blend-mode: normal;
   position: absolute;
   text-align: center;
-  top: 0px;
-  white-space: nowrap;
-  width: 47.53%;
-}
-
-.x2cu46-rfp-writing .mandatory-LstOHg {
-  background-color: transparent;
-  height: 7.49%;
-  left: -7.78%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 29.19%;
+  top: 42px;
   transform: rotate(-90deg);
   white-space: nowrap;
-  width: 18.73%;
+  width: 100px;
 }
 
-.x2cu46-rfp-writing .vendor-evaluation-criteria-LstOHg {
-  background-color: transparent;
-  height: 7.20%;
-  left: 52.28%;
-  letter-spacing: 0.00px;
+.x2cu46-rfp-writing .optional {
+  left: -42px;
+  letter-spacing: 0;
   line-height: normal;
-  mix-blend-mode: normal;
   position: absolute;
   text-align: center;
-  top: 0px;
-  white-space: nowrap;
-  width: 47.53%;
-}
-
-.x2cu46-rfp-writing .optional-LstOHg {
-  background-color: transparent;
-  height: 7.49%;
-  left: -7.78%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 73.43%;
+  top: 142px;
   transform: rotate(-90deg);
   white-space: nowrap;
-  width: 18.73%;
+  width: 100px;
 }
 
-.x2cu46-rfp-writing .guidelinessolo-GXqwIV {
+.x2cu46-rfp-writing .evaluation-criteria-container {
   align-items: flex-start;
-  align-self: stretch;
-  background-color: var(--fpcgraywhitesmoke);
-  border-radius: 12px;
   display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  mix-blend-mode: normal;
-  padding: 15px 20px;
-  position: relative;
-  width: 100%;
+  height: 16px;
+  left: 25px;
+  min-width: 508px;
+  position: absolute;
+  top: -1px;
 }
 
-.x2cu46-rfp-writing .title-1iphuz {
+.x2cu46-rfp-writing .software-evaluation-criteria {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  text-align: center;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.x2cu46-rfp-writing .vendor-evaluation-criteria {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  text-align: center;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.x2cu46-rfp-writing .title-5 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
   gap: 10px;
-}
-
-.x2cu46-rfp-writing .iconguidelines-mmZYOL {
-  background-color: transparent;
-  height: 32px;
   position: relative;
-  width: 32.009765625px;
 }
 
-.x2cu46-rfp-writing .guidelines-mmZYOL {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
+.x2cu46-rfp-writing .text0-i24572692117085 {
+  line-height: 21px;
 }
 
-.x2cu46-rfp-writing .arrowdown-mmZYOL {
-  background-color: transparent;
-  height: 8.414306640625px;
-  margin-right: -1.00px;
-  position: relative;
-  width: 14px;
+.x2cu46-rfp-writing .text1-i24572692117085 {
+  line-height: 21px;
 }
 
-.x2cu46-rfp-writing .flex-container-i24572692117085-1iphuz {
-  align-items: flex-start;
-  background-color: transparent;
+.x2cu46-rfp-writing .frame-146 {
+  align-self: stretch;
   display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
+  gap: 20px;
+  width: 100%;
+}
+
+.x2cu46-rfp-writing .x3-writing-with-effective-language {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .vendors-will-underst {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/union@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 20px;
+  min-width: 18px;
+  padding: 7.2px 5.2px;
+}
+
+.x2cu46-rfp-writing .frame-147 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+}
+
+.x2cu46-rfp-writing .x4-including-additio {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .your-colleagues-in-t {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .cluster-2 {
+  align-items: flex-start;
+}
+
+.x2cu46-rfp-writing .this-is-an-outcome-t {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .frame-140 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  width: 100%;
+}
+
+.x2cu46-rfp-writing .text-19 {
+  text-align: right;
+  width: 30px;
+}
+
+.x2cu46-rfp-writing .content-1 {
+  flex: 1;
+  flex-grow: 1;
+  gap: 5px;
+}
+
+.x2cu46-rfp-writing .frame-163 {
+  background-color: var(--fpcgraymed);
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
   gap: 10px;
+  padding: 1px 5px;
 }
 
-.x2cu46-rfp-writing .text0-i24572692117085-zr8iNd {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .span0-6vCMht {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .text1-i24572692117085-zr8iNd {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .span1-IRH5Kb {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .text2-i24572692117085-zr8iNd {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .span2-E2fymi {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .frame-146-GXqwIV {
+.x2cu46-rfp-writing .footer-nav {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 20px;
-  position: relative;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .x3-writing-with-effective-language-kHBQqT {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .vendors-will-underst-kHBQqT {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .content-rKtedL {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x2cu46-rfp-writing .content-P3Ur4T {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x2cu46-rfp-writing .content-B298Sd {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x2cu46-rfp-writing .content-ikHrkI {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x2cu46-rfp-writing .frame-147-GXqwIV {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 20px;
-  position: relative;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .x4-including-addition-mMVCPE {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .your-colleagues-in-t-mMVCPE {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .content-KS3QL2 {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x2cu46-rfp-writing .content-PRBW9A {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 2px;
-}
-
-.x2cu46-rfp-writing .outcomes-dyv6VD {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 30px;
-  position: relative;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .cluster-0xr6RT {
-  align-items: flex-start;
-  gap: 20px;
-}
-
-.x2cu46-rfp-writing .icongoal-XotWSy {
-  width: 32.00901794433594px;
-}
-
-.x2cu46-rfp-writing .icongoal-83Mw3f {
-  width: 32.00901794433594px;
-}
-
-.x2cu46-rfp-writing .icongoal-dWYdSc {
-  width: 32.00901794433594px;
-}
-
-.x2cu46-rfp-writing .references-dyv6VD {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 30px;
-  position: relative;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .frame-140-c9dil9 {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 30px;
-  position: relative;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .content-UGpSVZ {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x2cu46-rfp-writing .link-title-here-GpXFyu {
-  cursor: pointer;
-  text-decoration: underline;
-}
-
-.x2cu46-rfp-writing .content-HLdY5W {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x2cu46-rfp-writing .link-title-here-Fve3yV {
-  cursor: pointer;
-  text-decoration: underline;
-}
-
-.x2cu46-rfp-writing .content-rvzkkM {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x2cu46-rfp-writing .link-title-here-FSWIxA {
-  cursor: pointer;
-  text-decoration: underline;
-}
-
-.x2cu46-rfp-writing .content-yePrjw {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x2cu46-rfp-writing .link-title-here-foZx8Z {
-  cursor: pointer;
-  text-decoration: underline;
-}
-
-.x2cu46-rfp-writing .content-egQ6TK {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x2cu46-rfp-writing .link-title-here-mnOh5x {
-  color: var(--red);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.x2cu46-rfp-writing .content-RsjBdA {
-  background-color: transparent;
-  flex: 1;
-  flex-grow: 1;
-  gap: 5px;
-}
-
-.x2cu46-rfp-writing .link-title-here-989C0l {
-  cursor: pointer;
-  text-decoration: underline;
-}
-
-.x2cu46-rfp-writing .footer-nav-dyv6VD {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   justify-content: space-between;
@@ -1129,7 +554,7 @@
   width: 100%;
 }
 
-.x2cu46-rfp-writing .navfooterprev-ZvAzi8 {
+.x2cu46-rfp-writing .navfooterprev {
   align-items: center;
   background-color: var(--fpcblue);
   border-radius: 32px 4px 4px 32px;
@@ -1137,49 +562,35 @@
   display: inline-flex;
   flex: 0 0 auto;
   gap: 15px;
-  mix-blend-mode: normal;
   padding: 10px 15px;
   position: relative;
 }
 
-.x2cu46-rfp-writing .arrow-32-OpMxlO {
+.x2cu46-rfp-writing .arrow-32 {
+  height: 12.47px;
   margin-left: -0.85px;
+  position: relative;
+  width: 15.24px;
 }
 
-.x2cu46-rfp-writing .group-134-OpMxlO {
+.x2cu46-rfp-writing .group-134 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
   margin-right: -4.00px;
+  position: relative;
   width: 147px;
 }
 
-.x2cu46-rfp-writing .x1a-welcome-Vp7hzV {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
+.x2cu46-rfp-writing .x1a-welcome {
+  height: 20px;
+  letter-spacing: 0;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 18px;
-  width: auto;
+  width: 143px;
 }
 
-.x2cu46-rfp-writing .previous-Vp7hzV {
-  background-color: transparent;
-  color: var(--white);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2cu46-rfp-writing .navfooternext-ZvAzi8 {
+.x2cu46-rfp-writing .navfooternext {
   align-items: center;
   background-color: var(--fpcbgpeach);
   border-radius: 4px 32px 32px 4px;
@@ -1187,48 +598,35 @@
   display: inline-flex;
   flex: 0 0 auto;
   gap: 15px;
-  mix-blend-mode: normal;
   padding: 10px 15px;
   position: relative;
 }
 
-.x2cu46-rfp-writing .group-134-TrmJdx {
+.x2cu46-rfp-writing .group-134-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 38px;
+  position: relative;
   width: 175px;
 }
 
-.x2cu46-rfp-writing .x1b-discovery-research-xacekC {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 18px;
-  width: auto;
-}
-
-.x2cu46-rfp-writing .next-xacekC {
-  background-color: transparent;
+.x2cu46-rfp-writing .next {
   color: var(--white);
-  font-style: normal;
   font-weight: 400;
-  height: auto;
-  left: 0px;
+  height: 15px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
+  width: 27px;
 }
 
-.x2cu46-rfp-writing .arrow-32-TrmJdx {
-  margin-right: -0.85px;
+.x2cu46-rfp-writing .x1b-discovery-research {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 171px;
 }
 
-.x2cu46-rfp-writing .sidebarv2-NHZBWq {
+.x2cu46-rfp-writing .sidebarv2 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--cultured-pearl);
@@ -1237,1045 +635,51 @@
   flex: 0 0 auto;
   flex-direction: column;
   justify-content: space-between;
-  mix-blend-mode: normal;
   padding: 20px;
   position: relative;
 }
 
-.x2cu46-rfp-writing .top-1sLshY {
+.x2cu46-rfp-writing .navsidebarexpanded {
   align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 60px;
-  position: relative;
-}
-
-.x2cu46-rfp-writing .navsidebarexpanded-eqZ1CB {
-  align-items: flex-start;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
   position: relative;
   width: 240px;
-}
-
-.x2cu46-rfp-writing .navmainv3-M6pvc1 {
-  background-color: var(--algae-green);
-}
-
-.x2cu46-rfp-writing .x1-section-name-djMGLY {
-  color: var(--black);
-}
-
-.x2cu46-rfp-writing .navsubsectionv2-OT5rX5 {
-  background-color: transparent;
-}
-
-.x2cu46-rfp-writing .navsubsectionv2-7UtF54 {
-  background-color: transparent;
-}
-
-.x2cu46-rfp-writing .navsubsectionv2-CxzANQ {
-  background-color: transparent;
-}
-
-.x2cu46-rfp-writing .navsubsectionv2-G8PxkE {
-  background-color: transparent;
-}
-
-.x2cu46-rfp-writing .navsubsectionv2-3x4mil {
-  background-color: transparent;
-}
-
-.x2cu46-rfp-writing .navmainv3-zg6BNH {
-  background-color: var(--fpcbluehl);
-}
-
-.x2cu46-rfp-writing .x1-section-name-bawEX4 {
-  color: var(--black-2);
-}
-
-.x2cu46-rfp-writing .navsubsectionv2-VpudXf {
-  background-color: transparent;
-}
-
-.x2cu46-rfp-writing .navsubsectionv2-qDMFs6 {
-  background-color: transparent;
-}
-
-.x2cu46-rfp-writing .navsubsectionv2-DjdWEr {
-  background-color: var(--fpcblue50);
-}
-
-.x2cu46-rfp-writing .navmainv3-tMYQlF {
-  background-color: var(--fpchlpeach);
-}
-
-.x2cu46-rfp-writing .x1-section-name-oHsLQS {
-  color: var(--black);
-}
-
-.x2cu46-rfp-writing .navsubsectionv2-VGnGLv {
-  background-color: transparent;
-}
-
-.x2cu46-rfp-writing .navsubsectionv2-Xxs3JP {
-  background-color: transparent;
-}
-
-.x2cu46-rfp-writing .navsubsectionv2-3iYuZ2 {
-  background-color: transparent;
-}
-
-.x2cu46-rfp-writing .navsubsectionv2-OVWFL1 {
-  background-color: transparent;
-}
-
-.x2cu46-rfp-writing .span0-o74GbC {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .navmainv3-mw1qBx {
-  background-color: var(--periwinkle-gray);
-}
-
-.x2cu46-rfp-writing .x1-section-name-ZpCML7 {
-  color: var(--black-2);
-}
-
-.x2cu46-rfp-writing .navsubsectionv2-dqpczD {
-  background-color: transparent;
-}
-
-.x2cu46-rfp-writing .navsubsectionv2-qzaexj {
-  background-color: transparent;
-}
-
-.x2cu46-rfp-writing .navsubsectionv2-l4Ky1j {
-  background-color: transparent;
-}
-
-.x2cu46-rfp-writing .sidebarbottom-1sLshY {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 60px;
-  position: relative;
-}
-
-.x2cu46-rfp-writing .have-a-question-Ovcgaw {
-  align-items: flex-start;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  width: 240px;
-}
-
-.x2cu46-rfp-writing .have-a-question-bNBko6 {
-  align-self: stretch;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: 30px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .email-us-bNBko6 {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: -0.16px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .footer-2NHUyY {
-  align-self: stretch;
-  background-color: transparent;
-  height: 916px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .base-hjZeHp {
-  background-color: var(--machine-grey);
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .information-hjZeHp {
-  background-color: transparent;
-  height: 281px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 575px;
-  width: 1024px;
-}
-
-.x2cu46-rfp-writing .metadata-wzUe2m {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 10px;
-  left: calc(50.00% - 142px);
-  position: absolute;
-  top: 196px;
-}
-
-.x2cu46-rfp-writing .updated-UqTyck {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x2cu46-rfp-writing .iconupdated-jpjfDl {
-  background-color: transparent;
-  height: 16px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x2cu46-rfp-writing .last-updated-15-february-2021-jpjfDl {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x2cu46-rfp-writing .copyright-UqTyck {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 7px;
-  position: relative;
-}
-
-.x2cu46-rfp-writing .text_label-fpZQuZ {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .x2021-foundation-for-public-code-fpZQuZ {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x2cu46-rfp-writing .span0-gG9SOe {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .span1-gG9SOe {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2cu46-rfp-writing .license-UqTyck {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x2cu46-rfp-writing .iconlicense-KVxYyR {
-  background-color: transparent;
-  height: 14.5px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x2cu46-rfp-writing .creative-commons-zero-v10-universal-KVxYyR {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: 299px;
-}
-
-.x2cu46-rfp-writing .organizational-notes-wzUe2m {
-  background-color: transparent;
-  height: auto;
-  left: calc(50.00% - 142px);
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 650px;
-}
-
-.x2cu46-rfp-writing .flex-container-i8593851785932358-wzUe2m {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  height: 130px;
-  left: 370px;
-  position: absolute;
-  top: 36px;
-  width: 650px;
-}
-
-.x2cu46-rfp-writing .text0-i8593851785932358-nVcQDl {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .span0-Ovan6r {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .span1-Ovan6r {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2cu46-rfp-writing .span2-Ovan6r {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .span3-Ovan6r {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2cu46-rfp-writing .span4-Ovan6r {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .text1-i8593851785932358-nVcQDl {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .span5-zDLmou {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .span6-zDLmou {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2cu46-rfp-writing .span7-zDLmou {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .span8-zDLmou {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2cu46-rfp-writing .span9-zDLmou {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .contact-wzUe2m {
-  height: 201px;
-  left: calc(50.00% - 512px);
-  width: 345px;
-}
-
-.x2cu46-rfp-writing .contact-zRcjYj {
-  height: auto;
-  left: calc(50.00% - 172px);
-  letter-spacing: 0.00px;
-  line-height: 26px;
-  mix-blend-mode: normal;
-  text-align: left;
-  width: 120px;
-}
-
-.x2cu46-rfp-writing .frame-201-zRcjYj {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 15px;
-  left: calc(50.00% - 172px);
-  position: absolute;
-  top: 36px;
-}
-
-.x2cu46-rfp-writing .group-196-JpO2Fy {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2cu46-rfp-writing .join-our-mailing-list-hIfD4L {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x2cu46-rfp-writing .newsletter-hIfD4L {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2cu46-rfp-writing .group-197-JpO2Fy {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2cu46-rfp-writing .x31-20-2-444-500-S1aq1p {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x2cu46-rfp-writing .phone-S1aq1p {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2cu46-rfp-writing .group-200-JpO2Fy {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2cu46-rfp-writing .infopubliccodenet-amqjeJ {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x2cu46-rfp-writing .email-amqjeJ {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2cu46-rfp-writing .group-199-JpO2Fy {
-  background-color: transparent;
-  height: 60px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2cu46-rfp-writing .links-cemXFa {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  gap: 10px;
-  left: 103px;
-  position: absolute;
-  top: 40px;
-}
-
-.x2cu46-rfp-writing .open-street-map-twDqww {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .x-twDqww {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .google-twDqww {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .keizersgracht-617-10-cemXFa {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 240px;
-}
-
-.x2cu46-rfp-writing .address-cemXFa {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2cu46-rfp-writing .block-trio-hjZeHp {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  gap: 20px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 175px;
-  width: 1080px;
-}
-
-.x2cu46-rfp-writing .about-us-x88SgS {
-  align-items: center;
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  justify-content: space-between;
-  padding: 30px;
-}
-
-.x2cu46-rfp-writing .content-9xex94 {
-  align-self: stretch;
-  background-color: transparent;
-  flex: 0 0 auto;
-  gap: 15px;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .about-us-Wo06Hk {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .flex-container-i8593851785932298-Wo06Hk {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.x2cu46-rfp-writing .text0-i8593851785932298-3efFzX {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .span0-ExGexy {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .text1-i8593851785932298-3efFzX {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .span1-z23Mu6 {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .links-9xex94 {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: flex-end;
-  position: relative;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .how-we-work-H4xtlC {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: right;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .project-resources-x88SgS {
-  align-items: flex-end;
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  justify-content: space-between;
-  padding: 30px;
-}
-
-.x2cu46-rfp-writing .content-zWobBa {
-  align-self: stretch;
-  background-color: transparent;
-  flex: 0 0 auto;
-  gap: 15px;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .project-resources-REWTgy {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .open-products-were-r-REWTgy {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .links-zWobBa {
-  align-items: flex-end;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 15px;
-  position: relative;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .free-to-use-and-modify-xe7oaj {
-  align-self: stretch;
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: right;
-}
-
-.x2cu46-rfp-writing .see-all-our-work-on-git-hub-xe7oaj {
-  align-self: stretch;
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: right;
-}
-
-.x2cu46-rfp-writing .careers-x88SgS {
-  align-items: flex-end;
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  justify-content: space-between;
-  padding: 30px;
-}
-
-.x2cu46-rfp-writing .content-0ju9Aj {
-  align-self: stretch;
-  background-color: transparent;
-  flex: 0 0 auto;
-  gap: 15px;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .careers-VQl78t {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .calling-all-publicly-VQl78t {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .links-0ju9Aj {
-  align-items: flex-end;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: flex-end;
-  position: relative;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .open-positions-MJKZmA {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: right;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .logo-title-hjZeHp {
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 60px;
-}
-
-.x2cu46-rfp-writing .an-action-that-requires-high-engagement {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .arrow-32 {
-  background-color: transparent;
-  height: 12.46875px;
-  position: relative;
-  width: 15.23828125px;
-}
-
-.x2cu46-rfp-writing .b-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .c-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .capacity-building {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .cluster {
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  position: relative;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .content {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  position: relative;
-}
-
-.x2cu46-rfp-writing .d-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .gear-2 {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100.00%;
-}
-
-.x2cu46-rfp-writing .have-a-question {
-  background-color: transparent;
-  position: relative;
-}
-
-.x2cu46-rfp-writing .iconchallenge {
-  background-color: transparent;
-  height: 32px;
-  position: relative;
-  width: 32.009765625px;
-}
-
-.x2cu46-rfp-writing .link-title-here {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .lorem-ipsum {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
 }
 
 .x2cu46-rfp-writing .navmainv3 {
   align-items: flex-start;
   align-self: stretch;
+  background-color: var(--algae-green);
   border-radius: 4px;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 8px 15px 8px 10px;
   position: relative;
   width: 100%;
+}
+
+.x2cu46-rfp-writing .x1-section-name {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x2cu46-rfp-writing .subsections {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2 {
@@ -2285,75 +689,365 @@
   display: inline-flex;
   flex: 0 0 auto;
   gap: 5px;
-  mix-blend-mode: normal;
   padding: 2px 8px 3px;
   position: relative;
 }
 
-.x2cu46-rfp-writing .section-title {
-  align-items: center;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
+.x2cu46-rfp-writing .capacity-building {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
   position: relative;
-  width: 100%;
+  white-space: nowrap;
+  width: fit-content;
 }
 
-.x2cu46-rfp-writing .subsections {
-  align-items: flex-start;
-  background-color: transparent;
+.x2cu46-rfp-writing .b-subsection-name {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x2cu46-rfp-writing .c-subsection-name {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x2cu46-rfp-writing .d-subsection-name {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x2cu46-rfp-writing .navmainv3-1 {
+  background-color: var(--fpcbluehl);
+}
+
+.x2cu46-rfp-writing .x1-section-name-1 {
+  color: var(--black-2);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x2cu46-rfp-writing .navsubsectionv2-1 {
+  align-items: center;
+  background-color: var(--fpcblue50);
+  border-radius: 4px;
+  cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .navmainv3-2 {
+  background-color: var(--fpchlpeach);
+}
+
+.x2cu46-rfp-writing .navmainv3-3 {
+  background-color: var(--periwinkle-gray);
+}
+
+.x2cu46-rfp-writing .have-a-question {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
-  gap: 2px;
+  gap: 10px;
   position: relative;
+  width: 240px;
 }
 
-.x2cu46-rfp-writing .this-is-an-outcome-t {
+.x2cu46-rfp-writing .email-us {
+  cursor: pointer;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2cu46-rfp-writing .flex-col {
+  left: 180px;
+  min-height: 796px;
+  position: relative;
+  top: 60px;
+  width: 1080px;
+}
+
+.x2cu46-rfp-writing .content-2 {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .union {
-  background-color: transparent;
-  height: 83.64%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
+  flex: 0 0 auto;
+  gap: 15px;
   width: 100%;
 }
 
-.x2cu46-rfp-writing .visualaidmatrixbox {
+.x2cu46-rfp-writing .text0-i8593851785932298 {
+  line-height: normal;
+}
+
+.x2cu46-rfp-writing .text1-i8593851785932298 {
+  line-height: normal;
+}
+
+.x2cu46-rfp-writing .links {
   align-items: flex-start;
-  background-color: transparent;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.x2cu46-rfp-writing .links-1 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.x2cu46-rfp-writing .links-2 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.x2cu46-rfp-writing .frame-201 {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 165px;
+  margin-left: -2px;
+  width: 343px;
+}
+
+.x2cu46-rfp-writing .group-196 {
+  display: flex;
+  gap: 18px;
+  height: 20px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x2cu46-rfp-writing .group-197 {
+  display: flex;
+  gap: 52px;
+  height: 20px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x2cu46-rfp-writing .group-200 {
+  display: flex;
+  gap: 58px;
+  height: 20px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x2cu46-rfp-writing .group-199 {
+  height: 60px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 347px;
+}
+
+.x2cu46-rfp-writing .flex-col-1 {
+  left: 103px;
+  min-height: 60px;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.x2cu46-rfp-writing .links-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .text-20 {
+  width: fit-content;
+}
+
+.x2cu46-rfp-writing .flex-col-2 {
+  min-height: 281px;
+  width: 650px;
+}
+
+.x2cu46-rfp-writing .flex-container-i8593851785932358 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 130px;
+  margin-top: 8px;
+  position: relative;
+  width: 650px;
+}
+
+.x2cu46-rfp-writing .text0-i8593851785932358 {
+  line-height: 24px;
+}
+
+.x2cu46-rfp-writing .span-3 {
+  text-decoration: underline;
+}
+
+.x2cu46-rfp-writing .text1-i8593851785932358 {
+  line-height: 24px;
+}
+
+.x2cu46-rfp-writing .cluster-3 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.x2cu46-rfp-writing .content-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .flex {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.x2cu46-rfp-writing .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.x2cu46-rfp-writing .frame {
+  align-items: flex-start;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .lorem-ipsum-12 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .navmainv3-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x2cu46-rfp-writing .text-1 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .text0 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .text1 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .text2 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .v2-3 {
+  align-items: flex-end;
+  background-image: url(../img/gear-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 4px;
+  min-width: 24px;
+  padding: 8.2px 6.5px;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .visualaidmatrixbox-4 {
+  align-items: flex-start;
   border: 2px solid;
   border-color: var(--black);
   display: flex;
   flex-direction: column;
   gap: 10px;
-  height: 45.13%;
-  mix-blend-mode: normal;
+  height: 102px;
   padding: 15px 10px;
   position: absolute;
-  width: 47.90%;
+  width: 256px;
 }
 
-.x2cu46-rfp-writing .x1-section-name {
-  background-color: transparent;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 24px;
+.x2cu46-rfp-writing .x1-5 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
+  text-align: right;
+  width: 30px;
 }
