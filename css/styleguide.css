@@ -35,6 +35,7 @@
   --red: #ff0000;
   --turbo: #f3e900;
   --white: #ffffff;
+  --white1: #ffffff;
  
   --font-size-10px: 10px;
   --font-size-12px: 12px;
@@ -185,12 +186,12 @@
   font-weight: 400;
 }
 
-.mulish-bold-black-2-7px {
+.mulish-normal-black-13px {
   color: var(--black);
   font-family: var(--font-family-mulish);
-  font-size: 2.7px;
+  font-size: var(--font-size-xs);
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .mulish-semi-bold-azure-radiance-16px {
@@ -201,19 +202,11 @@
   font-weight: 600;
 }
 
-.mulish-normal-mountain-meadow-1-9px {
-  color: var(--mountain-meadow);
-  font-family: var(--font-family-mulish);
-  font-size: 1.9px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.mulish-normal-black-13px {
+.mulish-normal-black-16px {
   color: var(--black);
   font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xs);
-  font-style: normal;
+  font-size: var(--font-size-m);
+  font-style: italic;
   font-weight: 400;
 }
 
@@ -233,18 +226,18 @@
   font-weight: 700;
 }
 
-.mulish-normal-black-16px {
-  color: var(--black);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: italic;
-  font-weight: 400;
-}
-
 .mulish-bold-royal-blue-16px {
   color: var(--fpcpurple);
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-bold-black-5-3px {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: 5.3px;
   font-style: normal;
   font-weight: 700;
 }
@@ -257,12 +250,12 @@
   font-weight: 600;
 }
 
-.mulish-normal-burnt-sienna-1-9px {
-  color: var(--burnt-sienna);
+.mulish-bold-black-2-7px {
+  color: var(--black);
   font-family: var(--font-family-mulish);
-  font-size: 1.9px;
+  font-size: 2.7px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
 }
 
 .mulish-bold-black-16px-2 {
@@ -273,12 +266,44 @@
   font-weight: 700;
 }
 
-.mulish-bold-black-5-3px {
+.mulish-normal-mountain-meadow-1-9px {
+  color: var(--mountain-meadow);
+  font-family: var(--font-family-mulish);
+  font-size: 1.9px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mulish-normal-burnt-sienna-1-9px {
+  color: var(--burnt-sienna);
+  font-family: var(--font-family-mulish);
+  font-size: 1.9px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mulish-normal-black-13px-2 {
   color: var(--black);
   font-family: var(--font-family-mulish);
-  font-size: 5.3px;
-  font-style: normal;
+  font-size: var(--font-size-xs);
+  font-style: italic;
+  font-weight: 400;
+}
+
+.mulish-bold-royal-blue-16px-2 {
+  color: var(--fpcpurple);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: italic;
   font-weight: 700;
+}
+
+.mulish-normal-black-3-2px {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: 3.2px;
+  font-style: normal;
+  font-weight: 400;
 }
 
 .mulish-normal-pacific-blue-1-9px {
@@ -293,38 +318,6 @@
   color: var(--fpcpurple);
   font-family: var(--font-family-mulish);
   font-size: 1.9px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.mulish-bold-royal-blue-16px-2 {
-  color: var(--fpcpurple);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: italic;
-  font-weight: 700;
-}
-
-.mulish-normal-black-13px-2 {
-  color: var(--black);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xs);
-  font-style: italic;
-  font-weight: 400;
-}
-
-.mulish-bold-royal-blue-1-9px {
-  color: var(--fpcpurple);
-  font-family: var(--font-family-mulish);
-  font-size: 1.9px;
-  font-style: normal;
-  font-weight: 700;
-}
-
-.mulish-normal-black-3-2px {
-  color: var(--black);
-  font-family: var(--font-family-mulish);
-  font-size: 3.2px;
   font-style: normal;
   font-weight: 400;
 }

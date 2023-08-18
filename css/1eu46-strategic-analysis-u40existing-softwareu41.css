@@ -3016,20 +3016,6 @@
   width: 14px;
 }
 
-.x1eu46-strategic-analysis-u40existing-softwareu41 .b-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
 .x1eu46-strategic-analysis-u40existing-softwareu41 .box-1 {
   align-items: center;
   align-self: stretch;
@@ -3102,20 +3088,6 @@
   width: 100%;
 }
 
-.x1eu46-strategic-analysis-u40existing-softwareu41 .c-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
 .x1eu46-strategic-analysis-u40existing-softwareu41 .capacity-building {
   background-color: transparent;
   color: var(--black);
@@ -3154,20 +3126,6 @@
   display: flex;
   flex-direction: column;
   position: relative;
-}
-
-.x1eu46-strategic-analysis-u40existing-softwareu41 .d-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .ellipse-192 {
@@ -3302,57 +3260,11 @@
   text-align: left;
 }
 
-.x1eu46-strategic-analysis-u40existing-softwareu41 .navmainv3 {
-  align-items: flex-start;
-  align-self: stretch;
-  border-radius: 4px;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  mix-blend-mode: normal;
-  padding: 8px 15px 8px 10px;
-  position: relative;
-  width: 100%;
-}
-
-.x1eu46-strategic-analysis-u40existing-softwareu41 .navsubsectionv2 {
-  align-items: center;
-  border-radius: 4px;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 5px;
-  mix-blend-mode: normal;
-  padding: 2px 8px 3px;
-  position: relative;
-}
-
 .x1eu46-strategic-analysis-u40existing-softwareu41 .paper {
   background-color: transparent;
   height: 51px;
   position: absolute;
   width: 50px;
-}
-
-.x1eu46-strategic-analysis-u40existing-softwareu41 .section-title {
-  align-items: center;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  position: relative;
-  width: 100%;
-}
-
-.x1eu46-strategic-analysis-u40existing-softwareu41 .subsections {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 2px;
-  position: relative;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .this-is-an-outcome-t {
@@ -3384,17 +3296,4 @@
   position: absolute;
   top: 14.29%;
   width: 50.00%;
-}
-
-.x1eu46-strategic-analysis-u40existing-softwareu41 .x1-section-name {
-  background-color: transparent;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
 }

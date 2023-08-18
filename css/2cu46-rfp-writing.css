@@ -2116,34 +2116,6 @@
   width: 15.23828125px;
 }
 
-.x2cu46-rfp-writing .b-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .c-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
 .x2cu46-rfp-writing .capacity-building {
   background-color: transparent;
   color: var(--black);
@@ -2172,20 +2144,6 @@
   display: flex;
   flex-direction: column;
   position: relative;
-}
-
-.x2cu46-rfp-writing .d-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
 }
 
 .x2cu46-rfp-writing .gear-2 {
@@ -2221,52 +2179,6 @@
   text-align: left;
 }
 
-.x2cu46-rfp-writing .navmainv3 {
-  align-items: flex-start;
-  align-self: stretch;
-  border-radius: 4px;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  mix-blend-mode: normal;
-  padding: 8px 15px 8px 10px;
-  position: relative;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .navsubsectionv2 {
-  align-items: center;
-  border-radius: 4px;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 5px;
-  mix-blend-mode: normal;
-  padding: 2px 8px 3px;
-  position: relative;
-}
-
-.x2cu46-rfp-writing .section-title {
-  align-items: center;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  position: relative;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .subsections {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 2px;
-  position: relative;
-}
-
 .x2cu46-rfp-writing .this-is-an-outcome-t {
   align-self: stretch;
   background-color: transparent;
@@ -2300,17 +2212,4 @@
   padding: 15px 10px;
   position: absolute;
   width: 47.90%;
-}
-
-.x2cu46-rfp-writing .x1-section-name {
-  background-color: transparent;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
 }
