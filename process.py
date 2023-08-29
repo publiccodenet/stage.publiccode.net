@@ -66,6 +66,9 @@ for root, dirs, files in os.walk(directory):
 cssdirectory = './css/'
 csspatterns = [
 (r"""@import url\("https://px.animaapp.com/6406baa484a3afe9c63921de.6406baa605cc73851b593804.*.hcp.png"\);""", ''),
+(r"""00u46-process-codes-landing-page.html""", """index.html"""),
+(r"""1au46-getting-oriented-all-breakpoints.html""", """1au46-getting-oriented.html"""),
+(r"""1bu46-capacity-building-u40mobileu41-all-breakpoints.html""", """1bu46-capacity-building.html"""),
 ]
 # process css
 for root, dirs, files in os.walk(cssdirectory):
