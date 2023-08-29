@@ -1,7 +1,7 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 @import url("https://fonts.googleapis.com/css?family=Mulish:400italic,400,600italic,600,700italic,700");
 /* The following line is used to measure usage of this code. You can remove it if you want. */
-@import url("https://px.animaapp.com/6406baa484a3afe9c63921de.6406baa605cc73851b593804.Q2fmyHW.hcp.png");
+
 
 
 
@@ -30,12 +30,6 @@
   justify-content: center;
 }
 
-.valign-text-bottom {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-}
-
 .hidden,
 .hidden * {
   pointer-events: none;
@@ -48,21 +42,204 @@
 
 .about-us {
   align-self: stretch;
-  mix-blend-mode: normal;
   position: relative;
 }
 
-.action {
+.address {
+  background-color: transparent;
+  position: relative;
+}
+
+.b-subsection-name {
+  background-color: transparent;
+  color: var(--black);
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.c-subsection-name {
+  background-color: transparent;
+  color: var(--black);
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.capacity-building {
+  background-color: transparent;
+  color: var(--black);
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.careers {
+  align-self: stretch;
+  position: relative;
+}
+
+.d-subsection-name {
+  background-color: transparent;
+  color: var(--black);
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.email {
+  background-color: transparent;
+  position: relative;
+}
+
+.get-software-off-the-shelf {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.have-a-question {
+  align-self: stretch;
+  background-color: transparent;
+  position: relative;
+}
+
+.icons {
+  background-color: transparent;
+  height: 64px;
+  position: relative;
+  width: 64px;
+}
+
+.navmainv3 {
   align-items: flex-start;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 8px 15px 8px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
+}
+
+.newsletter {
+  background-color: transparent;
+  position: relative;
+}
+
+.paper {
+  background-color: transparent;
+  height: 51px;
+  position: absolute;
+  width: 50px;
+}
+
+.phone {
+  background-color: transparent;
+  position: relative;
+}
+
+.project-resources {
+  align-self: stretch;
+  position: relative;
+}
+
+.purchase-existing {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.section-title {
+  align-items: center;
   align-self: stretch;
   background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   gap: 15px;
-  mix-blend-mode: normal;
-  padding: 0px 20px;
   position: relative;
   width: 100%;
+}
+
+.strategic-paths {
+  align-self: stretch;
+  background-color: transparent;
+  position: relative;
+}
+
+.subsections {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.text {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 10px;
+  position: relative;
+}
+
+.x1-section-name {
+  background-color: transparent;
+  flex: 1;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
 }
 
 .arrow-2 {
@@ -74,92 +251,16 @@
   width: 44.21%;
 }
 
-.b-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.bulb {
-  background-color: transparent;
-  height: 24px;
-  left: 7px;
-  position: relative;
-  top: 3px;
-  width: 18px;
-}
-
-.c-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.careers {
-  align-self: stretch;
-  mix-blend-mode: normal;
-  position: relative;
-}
-
 .challenge {
   align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   display: flex;
   flex: 0 0 auto;
-  gap: 10px;
-  mix-blend-mode: normal;
+  gap: 15px;
+  padding: 0px 10px;
   position: relative;
   width: 100%;
-}
-
-.contact {
-  background-color: transparent;
-  position: absolute;
-  top: 0px;
-}
-
-.d-subsection-name {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.foundation-for-public-code {
-  background-color: transparent;
-  height: 101.82%;
-  left: 14.88%;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 85.12%;
 }
 
 .frame-163 {
@@ -169,35 +270,8 @@
   display: inline-flex;
   flex: 0 0 auto;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 1px 5px;
   position: relative;
-}
-
-.goal {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  mix-blend-mode: normal;
-  position: relative;
-}
-
-.group-134 {
-  background-color: transparent;
-  height: 38px;
-  position: relative;
-}
-
-.group-194 {
-  background-color: transparent;
-  height: 16.68%;
-  left: 29.17%;
-  position: absolute;
-  top: 29.19%;
-  width: 41.67%;
 }
 
 .iconaction {
@@ -213,102 +287,25 @@
   position: relative;
 }
 
-.iconknowledge {
-  background-color: transparent;
-  height: 32px;
-  position: relative;
-  width: 32px;
-}
-
-.line-48 {
-  background-color: transparent;
-  height: 8.16%;
-  left: 30.56%;
-  position: absolute;
-  top: 91.84%;
-  width: 38.89%;
-}
-
 .link-title-here {
   align-self: stretch;
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
 }
 
-.logo-symbol {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 11.63%;
-}
-
-.logo-title {
-  background-color: transparent;
-  cursor: pointer;
-  height: 55px;
-  width: 410px;
-}
-
-.navmainv3 {
-  align-items: flex-start;
-  align-self: stretch;
-  border-radius: 4px;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  mix-blend-mode: normal;
-  padding: 8px 15px 8px 10px;
-  position: relative;
-  width: 100%;
-}
-
-.navsubsectionv2 {
-  align-items: center;
-  border-radius: 4px;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 5px;
-  mix-blend-mode: normal;
-  padding: 2px 8px 3px;
-  position: relative;
-}
-
 .number {
   align-items: flex-start;
   background-color: transparent;
-  display: flex;
+  display: inline-flex;
+  flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  padding: 0px 15px;
-  position: relative;
-  width: 60px;
-}
-
-.outcome {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  mix-blend-mode: normal;
-  position: relative;
-}
-
-.project-resources {
-  align-self: stretch;
-  mix-blend-mode: normal;
+  padding: 20px 5px 0px;
   position: relative;
 }
 
@@ -319,17 +316,6 @@
   display: flex;
   flex: 0 0 auto;
   gap: 5px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 100%;
-}
-
-.section-title {
-  align-items: center;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
   position: relative;
   width: 100%;
 }
@@ -341,7 +327,6 @@
   font-weight: 400;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   width: fit-content;
@@ -354,37 +339,9 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   width: fit-content;
-}
-
-.subsections {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 2px;
-  position: relative;
-}
-
-.this-is-a-goal-for-a-particular-activity {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.title {
-  background-color: transparent;
-  position: relative;
 }
 
 .titlesubsection {
@@ -421,33 +378,29 @@
   font-weight: 400;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
-  width: 30px;
+  width: 25px;
 }
 
-.x1-section-name {
+.you-should-read-this {
+  align-self: stretch;
   background-color: transparent;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
+  letter-spacing: 0.00px;
+  line-height: normal;
   position: relative;
   text-align: left;
-  white-space: nowrap;
-  width: fit-content;
 }
 
-.group {
+.this-is-a-goal-for-a-particular-activity {
+  align-self: stretch;
   background-color: transparent;
-  position: absolute;
-}
-
-.symbol-dev {
-  background-color: transparent;
-  position: absolute;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
 }
 
 .a-knowledge-acquisit {
@@ -456,16 +409,41 @@
   letter-spacing: 0.00px;
   line-height: 24px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
+}
+
+.bulb {
+  background-color: transparent;
+  height: 24px;
+  left: 7px;
+  position: relative;
+  top: 3px;
+  width: 18px;
+}
+
+.direction {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.group-194 {
+  background-color: transparent;
+  height: 16.68%;
+  left: 29.17%;
+  position: absolute;
+  top: 29.19%;
+  width: 41.67%;
 }
 
 .guidelines {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   white-space: nowrap;
@@ -481,8 +459,33 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 15px 20px;
   position: relative;
   width: 100%;
+}
+
+.iconknowledge {
+  background-color: transparent;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.line-48 {
+  background-color: transparent;
+  height: 8.16%;
+  left: 30.56%;
+  position: absolute;
+  top: 91.84%;
+  width: 38.89%;
+}
+
+.group {
+  background-color: transparent;
+  position: absolute;
+}
+
+.symbol-dev {
+  background-color: transparent;
+  position: absolute;
 }

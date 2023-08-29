@@ -3,136 +3,138 @@
 .x2cu46-rfp-writing {
   align-items: center;
   background-color: var(--white);
-  border: 1px none;
   display: flex;
   flex-direction: column;
   gap: 60px;
   left: 0px;
-  mix-blend-mode: normal;
   overflow: hidden;
   overflow-x: hidden;
-  padding: 60px 0px 0px;
   position: relative;
   top: 0px;
 }
 
 .x2cu46-rfp-writing .header-2NHUyY {
   align-items: center;
-  background-color: transparent;
+  align-self: stretch;
+  background-color: var(--concrete);
   display: flex;
   flex: 0 0 auto;
-  justify-content: space-between;
+  gap: 30px;
+  justify-content: space-around;
+  padding: 30px 60px;
   position: relative;
-  width: 1080px;
+  width: 100%;
 }
 
-.x2cu46-rfp-writing .logo-title-u8CTtl {
-  position: relative;
-}
-
-.x2cu46-rfp-writing .navigation-u8CTtl {
+.x2cu46-rfp-writing .content-u8CTtl {
+  align-items: center;
   background-color: transparent;
-  height: 24px;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 16px 16px;
+  justify-content: space-between;
+}
+
+.x2cu46-rfp-writing .logo-title-wAjxOA {
+  width: 426px;
+}
+
+.x2cu46-rfp-writing .navigation-wAjxOA {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 40px;
+  justify-content: flex-end;
   position: relative;
   width: 534px;
 }
 
-.x2cu46-rfp-writing .links-sfnQ8o {
+.x2cu46-rfp-writing .links-xusCZO {
   align-items: flex-start;
-  background-color: transparent;
   display: inline-flex;
-  gap: 30px;
+  flex-wrap: wrap;
+  gap: 30px 30px;
   justify-content: flex-end;
-  left: 0px;
-  position: absolute;
-  top: 2px;
 }
 
-.x2cu46-rfp-writing .stewardship-cPvVYZ {
+.x2cu46-rfp-writing .stewardship-CpCLNq {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x2cu46-rfp-writing .resources-cPvVYZ {
+.x2cu46-rfp-writing .resources-CpCLNq {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x2cu46-rfp-writing .who-we-are-cPvVYZ {
+.x2cu46-rfp-writing .who-we-are-CpCLNq {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x2cu46-rfp-writing .join-us-cPvVYZ {
+.x2cu46-rfp-writing .join-us-CpCLNq {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x2cu46-rfp-writing .services-sfnQ8o {
+.x2cu46-rfp-writing .services-xusCZO {
   align-items: flex-start;
   background-color: transparent;
   display: inline-flex;
+  flex: 0 0 auto;
   gap: 20px;
-  left: 422px;
-  position: absolute;
-  top: 0px;
+  position: relative;
 }
 
-.x2cu46-rfp-writing .mastodon-WYwXnz {
+.x2cu46-rfp-writing .mastodon-25ZvKm {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
 
-.x2cu46-rfp-writing .twitter-WYwXnz {
+.x2cu46-rfp-writing .twitter-25ZvKm {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
 
-.x2cu46-rfp-writing .github-WYwXnz {
+.x2cu46-rfp-writing .github-25ZvKm {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
@@ -142,7 +144,6 @@
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  mix-blend-mode: normal;
   text-align: left;
   width: 1080px;
 }
@@ -159,8 +160,10 @@
 }
 
 .x2cu46-rfp-writing .content-NHZBWq {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 60px;
 }
@@ -198,23 +201,23 @@
 .x2cu46-rfp-writing .page-title-bmXog4 {
   background-color: transparent;
   color: var(--black);
+  flex: 1;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
-  width: fit-content;
 }
 
 .x2cu46-rfp-writing .content-52KmKB {
+  align-items: flex-start;
   align-self: stretch;
   background-color: var(--fpcgraywhitesmoke);
   border-radius: 12px;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 20px;
   width: 100%;
 }
@@ -224,7 +227,6 @@
   letter-spacing: 0.00px;
   line-height: 24px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   width: 650px;
@@ -260,9 +262,11 @@
 }
 
 .x2cu46-rfp-writing .content-IhxW3x {
+  align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 20px;
   width: 100%;
 }
@@ -275,7 +279,6 @@
   font-weight: 400;
   line-height: 16px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -299,8 +302,10 @@
 }
 
 .x2cu46-rfp-writing .content-5cYimQ {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -310,13 +315,14 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
 .x2cu46-rfp-writing .content-ER8QvL {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -326,13 +332,14 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
 .x2cu46-rfp-writing .content-n29v2O {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -342,7 +349,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
@@ -378,7 +384,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -390,28 +395,33 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
 .x2cu46-rfp-writing .content-PLTPqD {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x2cu46-rfp-writing .content-ezvWe9 {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x2cu46-rfp-writing .content-x3XftP {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -430,7 +440,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -450,7 +459,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -466,7 +474,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -476,8 +483,10 @@
 }
 
 .x2cu46-rfp-writing .content-UyuAD9 {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -497,7 +506,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -513,7 +521,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -543,7 +550,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -564,7 +570,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -585,7 +590,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -606,7 +610,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -619,7 +622,6 @@
 .x2cu46-rfp-writing .visualaidmatrix-R7iYX8 {
   background-color: transparent;
   height: 226px;
-  mix-blend-mode: normal;
   position: relative;
   width: 534px;
 }
@@ -642,7 +644,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -655,7 +656,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -674,7 +674,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -690,7 +689,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -706,7 +704,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -717,7 +714,6 @@
   left: 4.75%;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: absolute;
   text-align: center;
   top: 0px;
@@ -731,7 +727,6 @@
   left: -7.78%;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: absolute;
   text-align: center;
   top: 29.19%;
@@ -746,7 +741,6 @@
   left: 52.28%;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: absolute;
   text-align: center;
   top: 0px;
@@ -760,7 +754,6 @@
   left: -7.78%;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: absolute;
   text-align: center;
   top: 73.43%;
@@ -778,7 +771,6 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 15px 20px;
   position: relative;
   width: 100%;
@@ -802,7 +794,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   white-space: nowrap;
@@ -832,7 +823,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -848,7 +838,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -864,7 +853,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -893,7 +881,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -905,35 +892,42 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
 .x2cu46-rfp-writing .content-rKtedL {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x2cu46-rfp-writing .content-P3Ur4T {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x2cu46-rfp-writing .content-B298Sd {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x2cu46-rfp-writing .content-ikHrkI {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -958,7 +952,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -970,21 +963,24 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
 .x2cu46-rfp-writing .content-KS3QL2 {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x2cu46-rfp-writing .content-PRBW9A {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -1043,43 +1039,55 @@
 }
 
 .x2cu46-rfp-writing .content-UGpSVZ {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
 
 .x2cu46-rfp-writing .content-HLdY5W {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
 
 .x2cu46-rfp-writing .content-rvzkkM {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
 
 .x2cu46-rfp-writing .content-yePrjw {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
 
 .x2cu46-rfp-writing .content-egQ6TK {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
 
 .x2cu46-rfp-writing .content-RsjBdA {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
@@ -1097,102 +1105,73 @@
 }
 
 .x2cu46-rfp-writing .navfooterprev-ZvAzi8 {
-  align-items: center;
+  align-items: flex-start;
   background-color: var(--fpcblue);
-  border-radius: 32px 4px 4px 32px;
+  border-radius: 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  gap: 15px;
-  mix-blend-mode: normal;
+  flex-direction: column;
+  gap: 3px;
+  justify-content: center;
   padding: 10px 15px;
   position: relative;
 }
 
-.x2cu46-rfp-writing .arrow-32-OpMxlO {
+.x2cu46-rfp-writing .arrow-KmTcLb {
   margin-left: -0.85px;
 }
 
-.x2cu46-rfp-writing .group-134-OpMxlO {
-  margin-right: -4.00px;
-  width: 147px;
-}
-
-.x2cu46-rfp-writing .x1a-welcome-Vp7hzV {
+.x2cu46-rfp-writing .prev-KmTcLb {
   background-color: transparent;
-  height: auto;
-  left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
+  margin-top: -1.00px;
+  position: relative;
   text-align: left;
-  top: 18px;
-  width: auto;
+  width: fit-content;
 }
 
-.x2cu46-rfp-writing .previous-Vp7hzV {
-  background-color: transparent;
-  color: var(--white);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
+.x2cu46-rfp-writing .title-OpMxlO {
+  letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
+  text-align: right;
+  width: fit-content;
 }
 
 .x2cu46-rfp-writing .navfooternext-ZvAzi8 {
-  align-items: center;
+  align-items: flex-end;
   background-color: var(--fpcbgpeach);
-  border-radius: 4px 32px 32px 4px;
+  border-radius: 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  gap: 15px;
-  mix-blend-mode: normal;
+  flex-direction: column;
+  gap: 3px;
+  justify-content: center;
   padding: 10px 15px;
   position: relative;
 }
 
-.x2cu46-rfp-writing .group-134-TrmJdx {
-  width: 175px;
-}
-
-.x2cu46-rfp-writing .x1b-discovery-research-xacekC {
+.x2cu46-rfp-writing .next-LKV6oG {
   background-color: transparent;
-  height: auto;
-  left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
+  margin-top: -1.00px;
+  position: relative;
   text-align: left;
-  top: 18px;
-  width: auto;
+  width: fit-content;
 }
 
-.x2cu46-rfp-writing .next-xacekC {
-  background-color: transparent;
-  color: var(--white);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2cu46-rfp-writing .arrow-32-TrmJdx {
+.x2cu46-rfp-writing .arrow-LKV6oG {
   margin-right: -0.85px;
+}
+
+.x2cu46-rfp-writing .title-TrmJdx {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  text-align: left;
+  width: fit-content;
 }
 
 .x2cu46-rfp-writing .sidebarv2-NHZBWq {
@@ -1204,7 +1183,6 @@
   flex: 0 0 auto;
   flex-direction: column;
   justify-content: space-between;
-  mix-blend-mode: normal;
   padding: 20px;
   position: relative;
 }
@@ -1244,18 +1222,22 @@
 
 .x2cu46-rfp-writing .navsubsectionv2-7UtF54 {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-CxzANQ {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-G8PxkE {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-3x4mil {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navmainv3-zg6BNH {
@@ -1268,14 +1250,17 @@
 
 .x2cu46-rfp-writing .navsubsectionv2-VpudXf {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-qDMFs6 {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-DjdWEr {
   background-color: var(--fpcblue50);
+  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navmainv3-tMYQlF {
@@ -1288,18 +1273,22 @@
 
 .x2cu46-rfp-writing .navsubsectionv2-VGnGLv {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-Xxs3JP {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-3iYuZ2 {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-OVWFL1 {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .span0-o74GbC {
@@ -1316,24 +1305,28 @@
 
 .x2cu46-rfp-writing .navsubsectionv2-dqpczD {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-qzaexj {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-l4Ky1j {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .sidebarbottom-1sLshY {
   align-items: flex-start;
   background-color: transparent;
-  display: inline-flex;
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 60px;
   position: relative;
+  width: 240px;
 }
 
 .x2cu46-rfp-writing .have-a-question-Ovcgaw {
@@ -1342,514 +1335,58 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  width: 240px;
+  width: 100%;
 }
 
 .x2cu46-rfp-writing .have-a-question-bNBko6 {
-  align-self: stretch;
   color: var(--black);
   font-style: normal;
   font-weight: 700;
   line-height: 30px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
 .x2cu46-rfp-writing .email-us-bNBko6 {
+  align-self: stretch;
   background-color: transparent;
   cursor: pointer;
   letter-spacing: -0.16px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
-  width: fit-content;
 }
 
 .x2cu46-rfp-writing .footer-2NHUyY {
+  align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
-  height: 916px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .base-hjZeHp {
-  background-color: var(--machine-grey);
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.x2cu46-rfp-writing .information-hjZeHp {
-  background-color: transparent;
-  height: 281px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 575px;
-  width: 1024px;
-}
-
-.x2cu46-rfp-writing .metadata-wzUe2m {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 10px;
-  left: calc(50.00% - 142px);
-  position: absolute;
-  top: 196px;
-}
-
-.x2cu46-rfp-writing .updated-UqTyck {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x2cu46-rfp-writing .iconupdated-jpjfDl {
-  background-color: transparent;
-  height: 16px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x2cu46-rfp-writing .last-updated-15-february-2021-jpjfDl {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x2cu46-rfp-writing .copyright-UqTyck {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 7px;
-  position: relative;
-}
-
-.x2cu46-rfp-writing .text_label-fpZQuZ {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .x2021-foundation-for-public-code-fpZQuZ {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x2cu46-rfp-writing .span0-gG9SOe {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .span1-gG9SOe {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2cu46-rfp-writing .license-UqTyck {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x2cu46-rfp-writing .iconlicense-KVxYyR {
-  background-color: transparent;
-  height: 14.5px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x2cu46-rfp-writing .creative-commons-zero-v10-universal-KVxYyR {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: 299px;
-}
-
-.x2cu46-rfp-writing .organizational-notes-wzUe2m {
-  background-color: transparent;
-  height: auto;
-  left: calc(50.00% - 142px);
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 650px;
-}
-
-.x2cu46-rfp-writing .flex-container-i8593851785932358-wzUe2m {
-  align-items: flex-start;
-  background-color: transparent;
+  background-color: var(--concrete);
   display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
-  gap: 10px;
-  height: 130px;
-  left: 370px;
-  position: absolute;
-  top: 36px;
-  width: 650px;
-}
-
-.x2cu46-rfp-writing .text0-i8593851785932358-nVcQDl {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
+  gap: 60px;
+  min-width: 800px;
+  padding: 60px;
   position: relative;
-  text-align: left;
+  width: 100%;
 }
 
-.x2cu46-rfp-writing .span0-Ovan6r {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .span1-Ovan6r {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2cu46-rfp-writing .span2-Ovan6r {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .span3-Ovan6r {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2cu46-rfp-writing .span4-Ovan6r {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .text1-i8593851785932358-nVcQDl {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2cu46-rfp-writing .span5-zDLmou {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .span6-zDLmou {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2cu46-rfp-writing .span7-zDLmou {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .span8-zDLmou {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2cu46-rfp-writing .span9-zDLmou {
-  font-style: normal;
-}
-
-.x2cu46-rfp-writing .contact-wzUe2m {
-  height: 201px;
-  left: calc(50.00% - 512px);
-  width: 345px;
-}
-
-.x2cu46-rfp-writing .contact-zRcjYj {
-  height: auto;
-  left: calc(50.00% - 172px);
-  letter-spacing: 0.00px;
-  line-height: 26px;
-  mix-blend-mode: normal;
-  text-align: left;
-  width: 120px;
-}
-
-.x2cu46-rfp-writing .frame-201-zRcjYj {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 15px;
-  left: calc(50.00% - 172px);
-  position: absolute;
-  top: 36px;
-}
-
-.x2cu46-rfp-writing .group-196-JpO2Fy {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2cu46-rfp-writing .join-our-mailing-list-hIfD4L {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x2cu46-rfp-writing .newsletter-hIfD4L {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2cu46-rfp-writing .group-197-JpO2Fy {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2cu46-rfp-writing .x31-20-2-444-500-S1aq1p {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x2cu46-rfp-writing .phone-S1aq1p {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2cu46-rfp-writing .group-200-JpO2Fy {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2cu46-rfp-writing .infopubliccodenet-amqjeJ {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x2cu46-rfp-writing .email-amqjeJ {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2cu46-rfp-writing .group-199-JpO2Fy {
-  background-color: transparent;
-  height: 60px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2cu46-rfp-writing .links-cemXFa {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  gap: 10px;
-  left: 103px;
-  position: absolute;
-  top: 40px;
-}
-
-.x2cu46-rfp-writing .open-street-map-twDqww {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .x-twDqww {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .google-twDqww {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .keizersgracht-617-10-cemXFa {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 240px;
-}
-
-.x2cu46-rfp-writing .address-cemXFa {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
+.x2cu46-rfp-writing .logo-title-hjZeHp {
+  flex: 0 0 auto;
+  width: 409.66314697265625px;
 }
 
 .x2cu46-rfp-writing .block-trio-hjZeHp {
   align-items: flex-start;
+  align-self: stretch;
   background-color: transparent;
   display: flex;
+  flex: 0 0 auto;
   gap: 20px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 175px;
-  width: 1080px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
 }
 
 .x2cu46-rfp-writing .about-us-x88SgS {
@@ -1861,14 +1398,16 @@
   flex: 1;
   flex-direction: column;
   flex-grow: 1;
-  justify-content: space-between;
+  gap: 30px;
   padding: 30px;
 }
 
 .x2cu46-rfp-writing .content-9xex94 {
+  align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -1898,7 +1437,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1914,7 +1452,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1926,12 +1463,9 @@
 .x2cu46-rfp-writing .links-9xex94 {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  position: relative;
   width: 100%;
 }
 
@@ -1941,7 +1475,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
   width: fit-content;
@@ -1961,9 +1494,11 @@
 }
 
 .x2cu46-rfp-writing .content-zWobBa {
+  align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -1985,7 +1520,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1993,12 +1527,9 @@
 .x2cu46-rfp-writing .links-zWobBa {
   align-items: flex-end;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   flex-direction: column;
   gap: 15px;
-  position: relative;
   width: 100%;
 }
 
@@ -2009,7 +1540,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
 }
@@ -2020,7 +1550,6 @@
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
 }
@@ -2039,9 +1568,11 @@
 }
 
 .x2cu46-rfp-writing .content-0ju9Aj {
+  align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -2063,7 +1594,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -2071,12 +1601,9 @@
 .x2cu46-rfp-writing .links-0ju9Aj {
   align-items: flex-end;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  position: relative;
   width: 100%;
 }
 
@@ -2086,16 +1613,460 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
   width: fit-content;
 }
 
-.x2cu46-rfp-writing .logo-title-hjZeHp {
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 60px;
+.x2cu46-rfp-writing .information-hjZeHp {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
+}
+
+.x2cu46-rfp-writing .contact-wzUe2m {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 373px;
+}
+
+.x2cu46-rfp-writing .contact-zRcjYj {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x2cu46-rfp-writing .contact-info-zRcjYj {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  margin-right: -15.00px;
+  position: relative;
+  width: 388px;
+}
+
+.x2cu46-rfp-writing .newsletter-qkDON3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x2cu46-rfp-writing .newsletter-HmRNxK {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x2cu46-rfp-writing .join-our-mailing-list-HmRNxK {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x2cu46-rfp-writing .phone-qkDON3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x2cu46-rfp-writing .phone-wk4lRK {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x2cu46-rfp-writing .x31-20-2-444-500-wk4lRK {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x2cu46-rfp-writing .email-qkDON3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x2cu46-rfp-writing .email-3sW0KY {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x2cu46-rfp-writing .infopubliccodenet-3sW0KY {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x2cu46-rfp-writing .address-qkDON3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x2cu46-rfp-writing .address-zErprp {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x2cu46-rfp-writing .content-zErprp {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.x2cu46-rfp-writing .keizersgracht-617-10-kxi2bx {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 240px;
+}
+
+.x2cu46-rfp-writing .links-kxi2bx {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+}
+
+.x2cu46-rfp-writing .open-street-map-gxOQgf {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2cu46-rfp-writing .x-gxOQgf {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x2cu46-rfp-writing .google-gxOQgf {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2cu46-rfp-writing .organization-wzUe2m {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .notes-ixjjaT {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.x2cu46-rfp-writing .organizational-notes-gxenLn {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x2cu46-rfp-writing .flex-container-i8593851785932358-gxenLn {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x2cu46-rfp-writing .text0-i8593851785932358-FGdAYT {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x2cu46-rfp-writing .span0-08PECw {
+  font-style: normal;
+}
+
+.x2cu46-rfp-writing .span1-08PECw {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2cu46-rfp-writing .span2-08PECw {
+  font-style: normal;
+}
+
+.x2cu46-rfp-writing .span3-08PECw {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2cu46-rfp-writing .span4-08PECw {
+  font-style: normal;
+}
+
+.x2cu46-rfp-writing .text1-i8593851785932358-FGdAYT {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x2cu46-rfp-writing .span5-KoLVqu {
+  font-style: normal;
+}
+
+.x2cu46-rfp-writing .span6-KoLVqu {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2cu46-rfp-writing .span7-KoLVqu {
+  font-style: normal;
+}
+
+.x2cu46-rfp-writing .span8-KoLVqu {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2cu46-rfp-writing .span9-KoLVqu {
+  font-style: normal;
+}
+
+.x2cu46-rfp-writing .metadata-ixjjaT {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x2cu46-rfp-writing .updated-Zls1Uw {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .iconupdated-nSgt8V {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.x2cu46-rfp-writing .last-updated-22-august-2023-nSgt8V {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x2cu46-rfp-writing .copyright-Zls1Uw {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .text_label-mRAnYU {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x2cu46-rfp-writing .x2023-foundation-for-public-code-mRAnYU {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x2cu46-rfp-writing .span0-PhNI3K {
+  font-style: normal;
+}
+
+.x2cu46-rfp-writing .span1-PhNI3K {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2cu46-rfp-writing .license-Zls1Uw {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .iconlicense-3Iu7cJ {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.x2cu46-rfp-writing .creative-commons-zero-v10-universal-3Iu7cJ {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 299px;
+}
+
+.x2cu46-rfp-writing .action {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  padding: 0px 10px;
+  position: relative;
+  width: 100%;
 }
 
 .x2cu46-rfp-writing .an-action-that-requires-high-engagement {
@@ -2104,30 +2075,15 @@
   letter-spacing: 0.00px;
   line-height: 24px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
-.x2cu46-rfp-writing .arrow-32 {
+.x2cu46-rfp-writing .arrow {
   background-color: transparent;
   height: 12.46875px;
   position: relative;
-  width: 15.23828125px;
-}
-
-.x2cu46-rfp-writing .capacity-building {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
+  width: 19.69140625px;
 }
 
 .x2cu46-rfp-writing .cluster {
@@ -2139,11 +2095,23 @@
   width: 100%;
 }
 
-.x2cu46-rfp-writing .content {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
+.x2cu46-rfp-writing .contact {
+  background-color: transparent;
   position: relative;
+}
+
+.x2cu46-rfp-writing .content {
+  display: flex;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .foundation-for-public-code {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
 }
 
 .x2cu46-rfp-writing .gear-2 {
@@ -2155,8 +2123,13 @@
   width: 100.00%;
 }
 
-.x2cu46-rfp-writing .have-a-question {
+.x2cu46-rfp-writing .goal {
+  align-items: flex-start;
   background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
   position: relative;
 }
 
@@ -2167,6 +2140,28 @@
   width: 32.009765625px;
 }
 
+.x2cu46-rfp-writing .links {
+  background-color: transparent;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x2cu46-rfp-writing .logo-symbol {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.6640625px;
+}
+
+.x2cu46-rfp-writing .logo-title {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  gap: 13px;
+  position: relative;
+}
+
 .x2cu46-rfp-writing .lorem-ipsum {
   align-self: stretch;
   background-color: transparent;
@@ -2174,9 +2169,18 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
+}
+
+.x2cu46-rfp-writing .outcome {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
 }
 
 .x2cu46-rfp-writing .this-is-an-outcome-t {
@@ -2184,16 +2188,19 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
+}
+
+.x2cu46-rfp-writing .title {
+  background-color: transparent;
+  position: relative;
 }
 
 .x2cu46-rfp-writing .union {
   background-color: transparent;
   height: 83.64%;
   left: 0px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 0px;
   width: 100%;
@@ -2208,7 +2215,6 @@
   flex-direction: column;
   gap: 10px;
   height: 45.13%;
-  mix-blend-mode: normal;
   padding: 15px 10px;
   position: absolute;
   width: 47.90%;

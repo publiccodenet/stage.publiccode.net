@@ -3,148 +3,145 @@
 .x4au46-implementation-phase {
   align-items: center;
   background-color: var(--white);
-  border: 1px none;
   display: flex;
   flex-direction: column;
   gap: 60px;
   left: 0px;
-  mix-blend-mode: normal;
   overflow: hidden;
   overflow-x: hidden;
-  padding: 60px 0px 0px;
   position: relative;
   top: 0px;
 }
 
 .x4au46-implementation-phase .header-O7f6gm {
   align-items: center;
-  background-color: transparent;
+  align-self: stretch;
+  background-color: var(--concrete);
   display: flex;
   flex: 0 0 auto;
+  gap: 30px;
+  justify-content: space-around;
+  padding: 30px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .content-kjfv7h {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 16px 16px;
   justify-content: space-between;
-  position: relative;
-  width: 1080px;
 }
 
-.x4au46-implementation-phase .logo-title-kjfv7h {
-  position: relative;
+.x4au46-implementation-phase .logo-title-3v0Reb {
+  width: 426px;
 }
 
-.x4au46-implementation-phase .navigation-kjfv7h {
+.x4au46-implementation-phase .navigation-3v0Reb {
+  align-items: center;
   background-color: transparent;
-  height: 24px;
+  display: flex;
+  gap: 40px;
+  justify-content: flex-end;
   position: relative;
   width: 534px;
 }
 
-.x4au46-implementation-phase .links-d58UcO {
+.x4au46-implementation-phase .links-w8XLtb {
   align-items: flex-start;
-  background-color: transparent;
   display: inline-flex;
-  gap: 30px;
+  flex-wrap: wrap;
+  gap: 30px 30px;
   justify-content: flex-end;
-  left: 0px;
-  position: absolute;
-  top: 2px;
 }
 
-.x4au46-implementation-phase .stewardship-cXZm1w {
+.x4au46-implementation-phase .stewardship-MFHqy4 {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x4au46-implementation-phase .resources-cXZm1w {
+.x4au46-implementation-phase .resources-MFHqy4 {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x4au46-implementation-phase .who-we-are-cXZm1w {
+.x4au46-implementation-phase .who-we-are-MFHqy4 {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x4au46-implementation-phase .join-us-cXZm1w {
+.x4au46-implementation-phase .join-us-MFHqy4 {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x4au46-implementation-phase .services-d58UcO {
+.x4au46-implementation-phase .services-w8XLtb {
   align-items: flex-start;
   background-color: transparent;
   display: inline-flex;
+  flex: 0 0 auto;
   gap: 20px;
-  left: 422px;
-  position: absolute;
-  top: 0px;
+  position: relative;
 }
 
-.x4au46-implementation-phase .mastodon-ZgnvRO {
+.x4au46-implementation-phase .mastodon-NVNrx5 {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
 
-.x4au46-implementation-phase .twitter-ZgnvRO {
+.x4au46-implementation-phase .twitter-NVNrx5 {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
 
-.x4au46-implementation-phase .github-ZgnvRO {
+.x4au46-implementation-phase .github-NVNrx5 {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
 
 .x4au46-implementation-phase .title-O7f6gm {
-  background-color: transparent;
   color: var(--black);
   font-style: normal;
   font-weight: 700;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
   text-align: left;
   width: 1080px;
 }
@@ -161,7 +158,9 @@
 }
 
 .x4au46-implementation-phase .content-UvB4P6 {
+  align-items: flex-start;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 60px;
 }
@@ -199,14 +198,13 @@
 .x4au46-implementation-phase .page-title-VoxCAY {
   background-color: transparent;
   color: var(--black);
+  flex: 1;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
-  width: fit-content;
 }
 
 .x4au46-implementation-phase .cluster-ljdyhp {
@@ -225,7 +223,6 @@
   height: auto;
   left: 260px;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: absolute;
   text-align: left;
   top: 0px;
@@ -237,7 +234,6 @@
   border-radius: 12px;
   height: 230px;
   left: 0px;
-  mix-blend-mode: normal;
   overflow: hidden;
   position: absolute;
   top: 0px;
@@ -260,7 +256,7 @@
 }
 
 .x4au46-implementation-phase .rectangle-KAiJCR {
-  background-color: var(--persian-green);
+  background-color: var(--fpcgreen);
   left: 17.47%;
   top: 25.07%;
 }
@@ -320,7 +316,6 @@
   background-color: transparent;
   height: 22.57%;
   left: 11.14%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 19.10%;
   width: 22.85%;
@@ -353,7 +348,6 @@
   border-radius: 1px;
   height: 4.76%;
   left: 0px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 0px;
   width: 100%;
@@ -375,7 +369,6 @@
   border-radius: 1px;
   height: 4.76%;
   left: 57.69%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 55.81%;
   width: 26.92%;
@@ -386,7 +379,6 @@
   border-radius: 1px;
   height: 4.76%;
   left: 35.90%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 27.91%;
   width: 64.10%;
@@ -397,7 +389,6 @@
   border-radius: 1px;
   height: 4.76%;
   left: 0px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 86.05%;
   transform: rotate(180deg);
@@ -438,7 +429,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 16px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -455,102 +445,71 @@
 }
 
 .x4au46-implementation-phase .navfooterprev-KeSUDI {
-  align-items: center;
+  align-items: flex-start;
   background-color: var(--fpcbgpeach);
-  border-radius: 32px 4px 4px 32px;
+  border-radius: 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  gap: 15px;
-  mix-blend-mode: normal;
+  flex-direction: column;
+  gap: 3px;
+  justify-content: center;
   padding: 10px 15px;
   position: relative;
 }
 
-.x4au46-implementation-phase .arrow-32-uoIl1Y {
+.x4au46-implementation-phase .arrow-Qdg27A {
   margin-left: -0.85px;
 }
 
-.x4au46-implementation-phase .group-134-uoIl1Y {
-  margin-right: -4.00px;
-  width: 122px;
-}
-
-.x4au46-implementation-phase .x1a-welcome-Tm2Sao {
+.x4au46-implementation-phase .prev-Qdg27A {
   background-color: transparent;
-  height: auto;
-  left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
+  margin-top: -1.00px;
+  position: relative;
   text-align: left;
-  top: 18px;
-  width: auto;
+  width: fit-content;
 }
 
-.x4au46-implementation-phase .previous-Tm2Sao {
-  background-color: transparent;
-  color: var(--white);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
+.x4au46-implementation-phase .title-uoIl1Y {
+  letter-spacing: 0.00px;
+  text-align: right;
+  width: fit-content;
 }
 
 .x4au46-implementation-phase .navfooternext-KeSUDI {
-  align-items: center;
+  align-items: flex-end;
   background-color: var(--fpcpurple);
-  border-radius: 4px 32px 32px 4px;
+  border-radius: 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  gap: 15px;
-  mix-blend-mode: normal;
+  flex-direction: column;
+  gap: 3px;
+  justify-content: center;
   padding: 10px 15px;
   position: relative;
 }
 
-.x4au46-implementation-phase .group-134-WbCLzh {
-  width: 174px;
-}
-
-.x4au46-implementation-phase .x1b-discovery-research-sSAWV9 {
+.x4au46-implementation-phase .next-3NUt8W {
   background-color: transparent;
-  height: auto;
-  left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
+  margin-top: -1.00px;
+  position: relative;
   text-align: left;
-  top: 18px;
-  width: auto;
+  width: fit-content;
 }
 
-.x4au46-implementation-phase .next-sSAWV9 {
-  background-color: transparent;
-  color: var(--white);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x4au46-implementation-phase .arrow-32-WbCLzh {
+.x4au46-implementation-phase .arrow-3NUt8W {
   margin-right: -0.85px;
+}
+
+.x4au46-implementation-phase .title-WbCLzh {
+  letter-spacing: 0.00px;
+  text-align: left;
+  width: fit-content;
 }
 
 .x4au46-implementation-phase .sidebarv2-UvB4P6 {
@@ -562,7 +521,6 @@
   flex: 0 0 auto;
   flex-direction: column;
   justify-content: space-between;
-  mix-blend-mode: normal;
   padding: 20px;
   position: relative;
 }
@@ -602,18 +560,22 @@
 
 .x4au46-implementation-phase .navsubsectionv2-NPUHuq {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x4au46-implementation-phase .navsubsectionv2-NGxfds {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x4au46-implementation-phase .navsubsectionv2-CxQXRU {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x4au46-implementation-phase .navsubsectionv2-ODgQSi {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x4au46-implementation-phase .navmainv3-E3oirj {
@@ -626,14 +588,17 @@
 
 .x4au46-implementation-phase .navsubsectionv2-3aEc0Q {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x4au46-implementation-phase .navsubsectionv2-YPTdPL {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x4au46-implementation-phase .navsubsectionv2-gnxLzx {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x4au46-implementation-phase .navmainv3-6kHcat {
@@ -646,18 +611,22 @@
 
 .x4au46-implementation-phase .navsubsectionv2-FunTQ0 {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x4au46-implementation-phase .navsubsectionv2-N4c85C {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x4au46-implementation-phase .navsubsectionv2-iOcoEh {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x4au46-implementation-phase .navsubsectionv2-39meUL {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x4au46-implementation-phase .span0-62v9Ym {
@@ -674,24 +643,28 @@
 
 .x4au46-implementation-phase .navsubsectionv2-CI4Vlz {
   background-color: var(--fpcpurple50);
+  cursor: pointer;
 }
 
 .x4au46-implementation-phase .navsubsectionv2-GxMCy5 {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x4au46-implementation-phase .navsubsectionv2-vKZ4Hf {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x4au46-implementation-phase .sidebarbottom-KrxUZg {
   align-items: flex-start;
   background-color: transparent;
-  display: inline-flex;
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 60px;
   position: relative;
+  width: 240px;
 }
 
 .x4au46-implementation-phase .have-a-question-2Xtf6Z {
@@ -700,514 +673,58 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  width: 240px;
+  width: 100%;
 }
 
 .x4au46-implementation-phase .have-a-question-eFdTTP {
-  align-self: stretch;
   color: var(--black);
   font-style: normal;
   font-weight: 700;
   line-height: 30px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
 .x4au46-implementation-phase .email-us-eFdTTP {
+  align-self: stretch;
   background-color: transparent;
   cursor: pointer;
   letter-spacing: -0.16px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
-  width: fit-content;
 }
 
 .x4au46-implementation-phase .footer-O7f6gm {
+  align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
-  height: 916px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 100%;
-}
-
-.x4au46-implementation-phase .base-7qrL9x {
-  background-color: var(--machine-grey);
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.x4au46-implementation-phase .information-7qrL9x {
-  background-color: transparent;
-  height: 281px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 575px;
-  width: 1024px;
-}
-
-.x4au46-implementation-phase .metadata-kQ3tqJ {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 10px;
-  left: calc(50.00% - 142px);
-  position: absolute;
-  top: 196px;
-}
-
-.x4au46-implementation-phase .updated-AU7esu {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x4au46-implementation-phase .iconupdated-HUKCnh {
-  background-color: transparent;
-  height: 16px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x4au46-implementation-phase .last-updated-15-february-2021-HUKCnh {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x4au46-implementation-phase .copyright-AU7esu {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 7px;
-  position: relative;
-}
-
-.x4au46-implementation-phase .text_label-5A6wUM {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x4au46-implementation-phase .x2021-foundation-for-public-code-5A6wUM {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x4au46-implementation-phase .span0-rGAyVs {
-  font-style: normal;
-}
-
-.x4au46-implementation-phase .span1-rGAyVs {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x4au46-implementation-phase .license-AU7esu {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x4au46-implementation-phase .iconlicense-knPKcl {
-  background-color: transparent;
-  height: 14.5px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x4au46-implementation-phase .creative-commons-zero-v10-universal-knPKcl {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: 299px;
-}
-
-.x4au46-implementation-phase .organizational-notes-kQ3tqJ {
-  background-color: transparent;
-  height: auto;
-  left: calc(50.00% - 142px);
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 650px;
-}
-
-.x4au46-implementation-phase .flex-container-i8593884285932358-kQ3tqJ {
-  align-items: flex-start;
-  background-color: transparent;
+  background-color: var(--concrete);
   display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
-  gap: 10px;
-  height: 130px;
-  left: 370px;
-  position: absolute;
-  top: 36px;
-  width: 650px;
-}
-
-.x4au46-implementation-phase .text0-i8593884285932358-vGo375 {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
+  gap: 60px;
+  min-width: 800px;
+  padding: 60px;
   position: relative;
-  text-align: left;
+  width: 100%;
 }
 
-.x4au46-implementation-phase .span0-4jXse0 {
-  font-style: normal;
-}
-
-.x4au46-implementation-phase .span1-4jXse0 {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x4au46-implementation-phase .span2-4jXse0 {
-  font-style: normal;
-}
-
-.x4au46-implementation-phase .span3-4jXse0 {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x4au46-implementation-phase .span4-4jXse0 {
-  font-style: normal;
-}
-
-.x4au46-implementation-phase .text1-i8593884285932358-vGo375 {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x4au46-implementation-phase .span5-EXToJB {
-  font-style: normal;
-}
-
-.x4au46-implementation-phase .span6-EXToJB {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x4au46-implementation-phase .span7-EXToJB {
-  font-style: normal;
-}
-
-.x4au46-implementation-phase .span8-EXToJB {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x4au46-implementation-phase .span9-EXToJB {
-  font-style: normal;
-}
-
-.x4au46-implementation-phase .contact-kQ3tqJ {
-  height: 201px;
-  left: calc(50.00% - 512px);
-  width: 345px;
-}
-
-.x4au46-implementation-phase .contact-piuTfy {
-  height: auto;
-  left: calc(50.00% - 172px);
-  letter-spacing: 0.00px;
-  line-height: 26px;
-  mix-blend-mode: normal;
-  text-align: left;
-  width: 120px;
-}
-
-.x4au46-implementation-phase .frame-201-piuTfy {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 15px;
-  left: calc(50.00% - 172px);
-  position: absolute;
-  top: 36px;
-}
-
-.x4au46-implementation-phase .group-196-6wCDET {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x4au46-implementation-phase .join-our-mailing-list-DAUboP {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x4au46-implementation-phase .newsletter-DAUboP {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x4au46-implementation-phase .group-197-6wCDET {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x4au46-implementation-phase .x31-20-2-444-500-02Xsxb {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x4au46-implementation-phase .phone-02Xsxb {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x4au46-implementation-phase .group-200-6wCDET {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x4au46-implementation-phase .infopubliccodenet-Hu4KIt {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x4au46-implementation-phase .email-Hu4KIt {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x4au46-implementation-phase .group-199-6wCDET {
-  background-color: transparent;
-  height: 60px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x4au46-implementation-phase .links-AiTjz8 {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  gap: 10px;
-  left: 103px;
-  position: absolute;
-  top: 40px;
-}
-
-.x4au46-implementation-phase .open-street-map-C533MW {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x4au46-implementation-phase .x-C533MW {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x4au46-implementation-phase .google-C533MW {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x4au46-implementation-phase .keizersgracht-617-10-AiTjz8 {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 240px;
-}
-
-.x4au46-implementation-phase .address-AiTjz8 {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
+.x4au46-implementation-phase .logo-title-7qrL9x {
+  flex: 0 0 auto;
+  width: 409.66314697265625px;
 }
 
 .x4au46-implementation-phase .block-trio-7qrL9x {
   align-items: flex-start;
+  align-self: stretch;
   background-color: transparent;
   display: flex;
+  flex: 0 0 auto;
   gap: 20px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 175px;
-  width: 1080px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
 }
 
 .x4au46-implementation-phase .about-us-a8oiIo {
@@ -1219,13 +736,15 @@
   flex: 1;
   flex-direction: column;
   flex-grow: 1;
-  justify-content: space-between;
+  gap: 30px;
   padding: 30px;
 }
 
 .x4au46-implementation-phase .content-fanpvA {
+  align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -1255,7 +774,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1271,7 +789,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1283,12 +800,9 @@
 .x4au46-implementation-phase .links-fanpvA {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  position: relative;
   width: 100%;
 }
 
@@ -1298,7 +812,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
   width: fit-content;
@@ -1318,8 +831,10 @@
 }
 
 .x4au46-implementation-phase .content-CRWxxv {
+  align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -1341,7 +856,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1349,12 +863,9 @@
 .x4au46-implementation-phase .links-CRWxxv {
   align-items: flex-end;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   flex-direction: column;
   gap: 15px;
-  position: relative;
   width: 100%;
 }
 
@@ -1365,7 +876,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
 }
@@ -1376,7 +886,6 @@
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
 }
@@ -1395,8 +904,10 @@
 }
 
 .x4au46-implementation-phase .content-O8xEa4 {
+  align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -1418,7 +929,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1426,12 +936,9 @@
 .x4au46-implementation-phase .links-O8xEa4 {
   align-items: flex-end;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  position: relative;
   width: 100%;
 }
 
@@ -1441,37 +948,454 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
   width: fit-content;
 }
 
-.x4au46-implementation-phase .logo-title-7qrL9x {
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 60px;
-}
-
-.x4au46-implementation-phase .arrow-32 {
+.x4au46-implementation-phase .information-7qrL9x {
+  align-items: flex-start;
+  align-self: stretch;
   background-color: transparent;
-  height: 12.468994140625px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  max-width: 1160px;
   position: relative;
-  width: 15.2421875px;
+  width: 100%;
 }
 
-.x4au46-implementation-phase .capacity-building {
+.x4au46-implementation-phase .contact-kQ3tqJ {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 373px;
+}
+
+.x4au46-implementation-phase .contact-piuTfy {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x4au46-implementation-phase .contact-info-piuTfy {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  margin-right: -15.00px;
+  position: relative;
+  width: 388px;
+}
+
+.x4au46-implementation-phase .newsletter-jpgB69 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .newsletter-kdaJxC {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x4au46-implementation-phase .join-our-mailing-list-kdaJxC {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x4au46-implementation-phase .phone-jpgB69 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .phone-HWA7FP {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x4au46-implementation-phase .x31-20-2-444-500-HWA7FP {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x4au46-implementation-phase .email-jpgB69 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .email-hxqvPI {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x4au46-implementation-phase .infopubliccodenet-hxqvPI {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x4au46-implementation-phase .address-jpgB69 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .address-xzxrO1 {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x4au46-implementation-phase .content-xzxrO1 {
+  align-items: flex-start;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.x4au46-implementation-phase .keizersgracht-617-10-kxOBZK {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 240px;
+}
+
+.x4au46-implementation-phase .links-kxOBZK {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+}
+
+.x4au46-implementation-phase .open-street-map-6aqQCq {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .x-6aqQCq {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .google-6aqQCq {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x4au46-implementation-phase .organization-kQ3tqJ {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  position: relative;
+}
+
+.x4au46-implementation-phase .notes-bY0Z4n {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .organizational-notes-xvYzEc {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x4au46-implementation-phase .flex-container-i8593884285932358-xvYzEc {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x4au46-implementation-phase .text0-i8593884285932358-TTg6Es {
+  align-self: stretch;
   background-color: transparent;
   color: var(--black);
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
-  white-space: nowrap;
+}
+
+.x4au46-implementation-phase .span0-xLmcrk {
+  font-style: normal;
+}
+
+.x4au46-implementation-phase .span1-xLmcrk {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x4au46-implementation-phase .span2-xLmcrk {
+  font-style: normal;
+}
+
+.x4au46-implementation-phase .span3-xLmcrk {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x4au46-implementation-phase .span4-xLmcrk {
+  font-style: normal;
+}
+
+.x4au46-implementation-phase .text1-i8593884285932358-TTg6Es {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x4au46-implementation-phase .span5-yxMxEB {
+  font-style: normal;
+}
+
+.x4au46-implementation-phase .span6-yxMxEB {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x4au46-implementation-phase .span7-yxMxEB {
+  font-style: normal;
+}
+
+.x4au46-implementation-phase .span8-yxMxEB {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x4au46-implementation-phase .span9-yxMxEB {
+  font-style: normal;
+}
+
+.x4au46-implementation-phase .metadata-bY0Z4n {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x4au46-implementation-phase .updated-HmXeXk {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x4au46-implementation-phase .iconupdated-oMxs9x {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.x4au46-implementation-phase .last-updated-22-august-2023-oMxs9x {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x4au46-implementation-phase .copyright-HmXeXk {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+}
+
+.x4au46-implementation-phase .text_label-l770nb {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
   width: fit-content;
+}
+
+.x4au46-implementation-phase .x2023-foundation-for-public-code-l770nb {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x4au46-implementation-phase .span0-OD9caz {
+  font-style: normal;
+}
+
+.x4au46-implementation-phase .span1-OD9caz {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x4au46-implementation-phase .license-HmXeXk {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x4au46-implementation-phase .iconlicense-c63u3u {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.x4au46-implementation-phase .creative-commons-zero-v10-universal-c63u3u {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 299px;
+}
+
+.x4au46-implementation-phase .arrow {
+  background-color: transparent;
+  height: 12.468994140625px;
+  position: relative;
+  width: 19.6953125px;
 }
 
 .x4au46-implementation-phase .comment {
@@ -1480,12 +1404,24 @@
   transform: rotate(180deg);
 }
 
+.x4au46-implementation-phase .contact {
+  background-color: transparent;
+  position: relative;
+}
+
 .x4au46-implementation-phase .content {
-  align-items: flex-start;
   background-color: transparent;
   display: flex;
-  flex-direction: column;
   position: relative;
+}
+
+.x4au46-implementation-phase .foundation-for-public-code {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
 }
 
 .x4au46-implementation-phase .group-2 {
@@ -1494,14 +1430,30 @@
   transform: rotate(-180deg);
 }
 
-.x4au46-implementation-phase .have-a-question {
+.x4au46-implementation-phase .links {
   background-color: transparent;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x4au46-implementation-phase .logo-symbol {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.6640625px;
+}
+
+.x4au46-implementation-phase .logo-title {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  gap: 13px;
   position: relative;
 }
 
 .x4au46-implementation-phase .rectangle {
   height: 71.94%;
-  mix-blend-mode: normal;
   position: absolute;
   width: 57.23%;
 }
@@ -1509,10 +1461,15 @@
 .x4au46-implementation-phase .star {
   background-color: transparent;
   height: 5.67%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 27.76%;
   width: 6.02%;
+}
+
+.x4au46-implementation-phase .title {
+  background-color: transparent;
+  line-height: normal;
+  position: relative;
 }
 
 .x4au46-implementation-phase .union {

@@ -3,136 +3,137 @@
 .x00u46-process-codes-landing-page {
   align-items: center;
   background-color: var(--white);
-  border: 1px none;
   display: flex;
   flex-direction: column;
   gap: 60px;
   left: 0px;
-  mix-blend-mode: normal;
   overflow: hidden;
   overflow-x: hidden;
-  padding: 60px 0px 0px;
   position: relative;
   top: 0px;
 }
 
 .x00u46-process-codes-landing-page .header-Ldd26l {
   align-items: center;
-  background-color: transparent;
+  align-self: stretch;
+  background-color: var(--concrete);
   display: flex;
   flex: 0 0 auto;
+  gap: 30px;
+  justify-content: space-around;
+  padding: 30px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.x00u46-process-codes-landing-page .content-JHOA0T {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 16px 16px;
   justify-content: space-between;
-  position: relative;
-  width: 1080px;
 }
 
-.x00u46-process-codes-landing-page .logo-title-JHOA0T {
-  position: relative;
+.x00u46-process-codes-landing-page .logo-title-EqZr1i {
+  width: 426px;
 }
 
-.x00u46-process-codes-landing-page .navigation-JHOA0T {
+.x00u46-process-codes-landing-page .navigation-EqZr1i {
+  align-items: center;
   background-color: transparent;
-  height: 24px;
+  display: flex;
+  gap: 40px;
+  justify-content: flex-end;
   position: relative;
   width: 534px;
 }
 
-.x00u46-process-codes-landing-page .links-ZT7Jdg {
+.x00u46-process-codes-landing-page .links-ERGJP0 {
   align-items: flex-start;
-  background-color: transparent;
   display: inline-flex;
-  gap: 30px;
+  flex-wrap: wrap;
+  gap: 30px 30px;
   justify-content: flex-end;
-  left: 0px;
-  position: absolute;
-  top: 2px;
 }
 
-.x00u46-process-codes-landing-page .stewardship-wnMiAE {
+.x00u46-process-codes-landing-page .stewardship-YeWzBa {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x00u46-process-codes-landing-page .resources-wnMiAE {
+.x00u46-process-codes-landing-page .resources-YeWzBa {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x00u46-process-codes-landing-page .who-we-are-wnMiAE {
+.x00u46-process-codes-landing-page .who-we-are-YeWzBa {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x00u46-process-codes-landing-page .join-us-wnMiAE {
+.x00u46-process-codes-landing-page .join-us-YeWzBa {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x00u46-process-codes-landing-page .services-ZT7Jdg {
+.x00u46-process-codes-landing-page .services-ERGJP0 {
   align-items: flex-start;
   background-color: transparent;
   display: inline-flex;
+  flex: 0 0 auto;
   gap: 20px;
-  left: 422px;
-  position: absolute;
-  top: 0px;
+  position: relative;
 }
 
-.x00u46-process-codes-landing-page .mastodon-qjg2Au {
+.x00u46-process-codes-landing-page .mastodon-9Q13cG {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
 
-.x00u46-process-codes-landing-page .twitter-qjg2Au {
+.x00u46-process-codes-landing-page .twitter-9Q13cG {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
 
-.x00u46-process-codes-landing-page .github-qjg2Au {
+.x00u46-process-codes-landing-page .github-9Q13cG {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
@@ -143,7 +144,6 @@
   border-radius: 12px;
   gap: 3px;
   justify-content: center;
-  mix-blend-mode: normal;
   overflow: hidden;
   padding: 30px 60px;
   width: 1080px;
@@ -166,7 +166,6 @@
   font-weight: 400;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   width: 487.8515625px;
@@ -179,7 +178,7 @@
 
 .x00u46-process-codes-landing-page .span1-Qfy1po {
   font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xxxl);
+  font-size: var(--font-size-xxl);
   font-style: normal;
   letter-spacing: 0.00px;
 }
@@ -190,7 +189,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   width: 420px;
@@ -199,7 +197,6 @@
 .x00u46-process-codes-landing-page .eco-system-1-xOZPVw {
   background-color: var(--melon);
   height: 433.1015319824219px;
-  mix-blend-mode: normal;
   overflow: hidden;
   position: relative;
   width: 433.1015319824219px;
@@ -209,7 +206,6 @@
   background-color: var(--white);
   height: 35px;
   left: 148px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 191px;
   width: 58px;
@@ -218,7 +214,6 @@
 .x00u46-process-codes-landing-page .vector-VUx8oL {
   height: 7.64%;
   left: 27.29%;
-  mix-blend-mode: normal;
   top: 21.75%;
   width: 11.53%;
 }
@@ -226,7 +221,6 @@
 .x00u46-process-codes-landing-page .vector-IZ0pr2 {
   height: 11.23%;
   left: 27.62%;
-  mix-blend-mode: normal;
   top: 20.45%;
   width: 14.36%;
 }
@@ -234,7 +228,6 @@
 .x00u46-process-codes-landing-page .vector-abHCLB {
   height: 10.17%;
   left: 27.64%;
-  mix-blend-mode: normal;
   top: 20.71%;
   width: 17.13%;
 }
@@ -269,7 +262,6 @@
 .x00u46-process-codes-landing-page .union-cEytLR {
   height: 100.00%;
   left: 0px;
-  mix-blend-mode: normal;
   top: 0px;
   transform: rotate(90.00deg);
   width: 100.00%;
@@ -309,7 +301,6 @@
   background-color: var(--blue-violet);
   height: 1.90%;
   left: 36.90%;
-  mix-blend-mode: normal;
   top: 47.14%;
   width: 1.90%;
 }
@@ -318,7 +309,6 @@
   background-color: var(--blue-violet);
   height: 1.90%;
   left: 40.00%;
-  mix-blend-mode: normal;
   top: 47.14%;
   width: 1.90%;
 }
@@ -327,7 +317,6 @@
   background-color: var(--blue-violet);
   height: 1.90%;
   left: 43.10%;
-  mix-blend-mode: normal;
   top: 47.14%;
   width: 1.90%;
 }
@@ -337,7 +326,6 @@
   border-radius: 13.92px;
   height: 28px;
   left: 146px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 155px;
   width: 28px;
@@ -363,7 +351,6 @@
   border-radius: 7.73px;
   height: 71.43%;
   left: 33.33%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 14.29%;
   width: 31.25%;
@@ -408,7 +395,6 @@
   border-radius: 12.37px;
   height: 25px;
   left: 210px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 325px;
   width: 25px;
@@ -424,7 +410,6 @@
 .x00u46-process-codes-landing-page .vector-QSDix1 {
   height: 20.89%;
   left: 9.73%;
-  mix-blend-mode: normal;
   top: 12.74%;
   width: 37.21%;
 }
@@ -440,7 +425,6 @@
   background-color: var(--blue-violet);
   height: 35px;
   left: 224px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 214px;
   width: 58px;
@@ -457,7 +441,6 @@
   background-color: var(--carnation);
   height: 35px;
   left: 91px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 241px;
   width: 58px;
@@ -475,7 +458,6 @@
   border-radius: 6.19px;
   height: 12px;
   left: 218px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 227px;
   width: 12px;
@@ -486,7 +468,6 @@
   border-radius: 6.19px;
   height: 12px;
   left: 142px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 202px;
   width: 12px;
@@ -497,7 +478,6 @@
   border-radius: 6.19px;
   height: 12px;
   left: 142px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 254px;
   width: 12px;
@@ -508,7 +488,6 @@
   border-radius: 6.19px;
   height: 12px;
   left: 217px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 331px;
   width: 12px;
@@ -519,7 +498,6 @@
   border-radius: 7.73px;
   height: 15px;
   left: 94px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 204px;
   width: 15px;
@@ -557,7 +535,6 @@
   border-radius: 7.73px;
   height: 15px;
   left: 338px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 204px;
   width: 15px;
@@ -568,7 +545,6 @@
   border-radius: 7.73px;
   height: 15px;
   left: 130px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 294px;
   width: 15px;
@@ -579,7 +555,6 @@
   border-radius: 23.2px;
   height: 10.71%;
   left: 56.67%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 26.90%;
   width: 10.71%;
@@ -621,7 +596,9 @@
 }
 
 .x00u46-process-codes-landing-page .content-osMZ7k {
+  align-items: flex-start;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 30px;
 }
@@ -643,7 +620,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -663,7 +639,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -679,7 +654,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -695,7 +669,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -716,7 +689,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -729,7 +701,6 @@
   border: 2px solid;
   border-color: var(--black);
   box-shadow: 0px 4px 0px #00000026;
-  cursor: pointer;
 }
 
 .x00u46-process-codes-landing-page .pc01-software-procurement-cNdlTX {
@@ -740,7 +711,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -2.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -752,7 +722,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -762,7 +731,6 @@
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   width: fit-content;
@@ -792,7 +760,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   width: 468px;
@@ -805,7 +772,6 @@
   display: inline-flex;
   flex: 0 0 auto;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 3px 8px;
   position: relative;
 }
@@ -820,7 +786,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
   width: fit-content;
@@ -833,7 +798,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -842,7 +806,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   width: fit-content;
@@ -864,7 +827,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -876,7 +838,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -887,7 +848,6 @@
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
@@ -902,7 +862,6 @@
   flex: 0 0 auto;
   flex-direction: column;
   justify-content: space-between;
-  mix-blend-mode: normal;
   padding: 20px;
   position: relative;
 }
@@ -1009,11 +968,12 @@
 .x00u46-process-codes-landing-page .sidebarbottom-mOWpux {
   align-items: flex-start;
   background-color: transparent;
-  display: inline-flex;
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 60px;
   position: relative;
+  width: 240px;
 }
 
 .x00u46-process-codes-landing-page .have-a-question-glyZL1 {
@@ -1022,514 +982,58 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  width: 240px;
+  width: 100%;
 }
 
 .x00u46-process-codes-landing-page .have-a-question-AvioHP {
-  align-self: stretch;
   color: var(--black);
   font-style: normal;
   font-weight: 700;
   line-height: 30px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
 .x00u46-process-codes-landing-page .email-us-AvioHP {
+  align-self: stretch;
   background-color: transparent;
   cursor: pointer;
   letter-spacing: -0.16px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
-  width: fit-content;
 }
 
 .x00u46-process-codes-landing-page .footer-Ldd26l {
+  align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
-  height: 916px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 100%;
-}
-
-.x00u46-process-codes-landing-page .base-FHnwm5 {
-  background-color: var(--machine-grey);
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.x00u46-process-codes-landing-page .information-FHnwm5 {
-  background-color: transparent;
-  height: 281px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 575px;
-  width: 1024px;
-}
-
-.x00u46-process-codes-landing-page .metadata-Wks1Qw {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 10px;
-  left: calc(50.00% - 142px);
-  position: absolute;
-  top: 196px;
-}
-
-.x00u46-process-codes-landing-page .updated-RD4nLx {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x00u46-process-codes-landing-page .iconupdated-1sI7T1 {
-  background-color: transparent;
-  height: 16px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x00u46-process-codes-landing-page .last-updated-15-february-2021-1sI7T1 {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x00u46-process-codes-landing-page .copyright-RD4nLx {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 7px;
-  position: relative;
-}
-
-.x00u46-process-codes-landing-page .text_label-8gBaBJ {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x00u46-process-codes-landing-page .x2021-foundation-for-public-code-8gBaBJ {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x00u46-process-codes-landing-page .span0-HxzXld {
-  font-style: normal;
-}
-
-.x00u46-process-codes-landing-page .span1-HxzXld {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x00u46-process-codes-landing-page .license-RD4nLx {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x00u46-process-codes-landing-page .iconlicense-heEzKd {
-  background-color: transparent;
-  height: 14.5px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x00u46-process-codes-landing-page .creative-commons-zero-v10-universal-heEzKd {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: 299px;
-}
-
-.x00u46-process-codes-landing-page .organizational-notes-Wks1Qw {
-  background-color: transparent;
-  height: auto;
-  left: calc(50.00% - 142px);
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 650px;
-}
-
-.x00u46-process-codes-landing-page .flex-container-i8593376885932358-Wks1Qw {
-  align-items: flex-start;
-  background-color: transparent;
+  background-color: var(--concrete);
   display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
-  gap: 10px;
-  height: 130px;
-  left: 370px;
-  position: absolute;
-  top: 36px;
-  width: 650px;
-}
-
-.x00u46-process-codes-landing-page .text0-i8593376885932358-6owbAK {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
+  gap: 60px;
+  min-width: 800px;
+  padding: 60px;
   position: relative;
-  text-align: left;
+  width: 100%;
 }
 
-.x00u46-process-codes-landing-page .span0-3MB2Kw {
-  font-style: normal;
-}
-
-.x00u46-process-codes-landing-page .span1-3MB2Kw {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x00u46-process-codes-landing-page .span2-3MB2Kw {
-  font-style: normal;
-}
-
-.x00u46-process-codes-landing-page .span3-3MB2Kw {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x00u46-process-codes-landing-page .span4-3MB2Kw {
-  font-style: normal;
-}
-
-.x00u46-process-codes-landing-page .text1-i8593376885932358-6owbAK {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x00u46-process-codes-landing-page .span5-kL5AkG {
-  font-style: normal;
-}
-
-.x00u46-process-codes-landing-page .span6-kL5AkG {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x00u46-process-codes-landing-page .span7-kL5AkG {
-  font-style: normal;
-}
-
-.x00u46-process-codes-landing-page .span8-kL5AkG {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x00u46-process-codes-landing-page .span9-kL5AkG {
-  font-style: normal;
-}
-
-.x00u46-process-codes-landing-page .contact-Wks1Qw {
-  height: 201px;
-  left: calc(50.00% - 512px);
-  width: 345px;
-}
-
-.x00u46-process-codes-landing-page .contact-jWVuPZ {
-  height: auto;
-  left: calc(50.00% - 172px);
-  letter-spacing: 0.00px;
-  line-height: 26px;
-  mix-blend-mode: normal;
-  text-align: left;
-  width: 120px;
-}
-
-.x00u46-process-codes-landing-page .frame-201-jWVuPZ {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 15px;
-  left: calc(50.00% - 172px);
-  position: absolute;
-  top: 36px;
-}
-
-.x00u46-process-codes-landing-page .group-196-755Q1W {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x00u46-process-codes-landing-page .join-our-mailing-list-YCFxvz {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x00u46-process-codes-landing-page .newsletter-YCFxvz {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x00u46-process-codes-landing-page .group-197-755Q1W {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x00u46-process-codes-landing-page .x31-20-2-444-500-LfTgim {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x00u46-process-codes-landing-page .phone-LfTgim {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x00u46-process-codes-landing-page .group-200-755Q1W {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x00u46-process-codes-landing-page .infopubliccodenet-hGwW8X {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x00u46-process-codes-landing-page .email-hGwW8X {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x00u46-process-codes-landing-page .group-199-755Q1W {
-  background-color: transparent;
-  height: 60px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x00u46-process-codes-landing-page .links-YE9Tcn {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  gap: 10px;
-  left: 103px;
-  position: absolute;
-  top: 40px;
-}
-
-.x00u46-process-codes-landing-page .open-street-map-oS34cx {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x00u46-process-codes-landing-page .x-oS34cx {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x00u46-process-codes-landing-page .google-oS34cx {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x00u46-process-codes-landing-page .keizersgracht-617-10-YE9Tcn {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 240px;
-}
-
-.x00u46-process-codes-landing-page .address-YE9Tcn {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
+.x00u46-process-codes-landing-page .logo-title-FHnwm5 {
+  flex: 0 0 auto;
+  width: 409.66314697265625px;
 }
 
 .x00u46-process-codes-landing-page .block-trio-FHnwm5 {
   align-items: flex-start;
+  align-self: stretch;
   background-color: transparent;
   display: flex;
+  flex: 0 0 auto;
   gap: 20px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 175px;
-  width: 1080px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
 }
 
 .x00u46-process-codes-landing-page .about-us-A64MPa {
@@ -1541,13 +1045,15 @@
   flex: 1;
   flex-direction: column;
   flex-grow: 1;
-  justify-content: space-between;
+  gap: 30px;
   padding: 30px;
 }
 
 .x00u46-process-codes-landing-page .content-egyxCa {
+  align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -1577,7 +1083,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1593,7 +1098,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1605,12 +1109,9 @@
 .x00u46-process-codes-landing-page .links-egyxCa {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  position: relative;
   width: 100%;
 }
 
@@ -1620,7 +1121,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
   width: fit-content;
@@ -1640,8 +1140,10 @@
 }
 
 .x00u46-process-codes-landing-page .content-e6WDyw {
+  align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -1663,7 +1165,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1671,12 +1172,9 @@
 .x00u46-process-codes-landing-page .links-e6WDyw {
   align-items: flex-end;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   flex-direction: column;
   gap: 15px;
-  position: relative;
   width: 100%;
 }
 
@@ -1687,7 +1185,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
 }
@@ -1698,7 +1195,6 @@
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
 }
@@ -1717,8 +1213,10 @@
 }
 
 .x00u46-process-codes-landing-page .content-71QK9w {
+  align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -1740,7 +1238,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1748,12 +1245,9 @@
 .x00u46-process-codes-landing-page .links-71QK9w {
   align-items: flex-end;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  position: relative;
   width: 100%;
 }
 
@@ -1763,16 +1257,447 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
   width: fit-content;
 }
 
-.x00u46-process-codes-landing-page .logo-title-FHnwm5 {
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 60px;
+.x00u46-process-codes-landing-page .information-FHnwm5 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
+}
+
+.x00u46-process-codes-landing-page .contact-Wks1Qw {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 373px;
+}
+
+.x00u46-process-codes-landing-page .contact-jWVuPZ {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x00u46-process-codes-landing-page .contact-info-jWVuPZ {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  margin-right: -15.00px;
+  position: relative;
+  width: 388px;
+}
+
+.x00u46-process-codes-landing-page .newsletter-vCB7On {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x00u46-process-codes-landing-page .newsletter-LrSNkd {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x00u46-process-codes-landing-page .join-our-mailing-list-LrSNkd {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x00u46-process-codes-landing-page .phone-vCB7On {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x00u46-process-codes-landing-page .phone-4t1QKC {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x00u46-process-codes-landing-page .x31-20-2-444-500-4t1QKC {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x00u46-process-codes-landing-page .email-vCB7On {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x00u46-process-codes-landing-page .email-uqxHYC {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x00u46-process-codes-landing-page .infopubliccodenet-uqxHYC {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x00u46-process-codes-landing-page .address-vCB7On {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x00u46-process-codes-landing-page .address-eAN2dK {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x00u46-process-codes-landing-page .content-eAN2dK {
+  align-items: flex-start;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.x00u46-process-codes-landing-page .keizersgracht-617-10-HDfVho {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 240px;
+}
+
+.x00u46-process-codes-landing-page .links-HDfVho {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+}
+
+.x00u46-process-codes-landing-page .open-street-map-lEbQ67 {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x00u46-process-codes-landing-page .x-lEbQ67 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x00u46-process-codes-landing-page .google-lEbQ67 {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x00u46-process-codes-landing-page .organization-Wks1Qw {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  position: relative;
+}
+
+.x00u46-process-codes-landing-page .notes-FUqqPQ {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.x00u46-process-codes-landing-page .organizational-notes-c78CJt {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x00u46-process-codes-landing-page .flex-container-i8593376885932358-c78CJt {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x00u46-process-codes-landing-page .text0-i8593376885932358-i01vdD {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x00u46-process-codes-landing-page .span0-rId9SM {
+  font-style: normal;
+}
+
+.x00u46-process-codes-landing-page .span1-rId9SM {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x00u46-process-codes-landing-page .span2-rId9SM {
+  font-style: normal;
+}
+
+.x00u46-process-codes-landing-page .span3-rId9SM {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x00u46-process-codes-landing-page .span4-rId9SM {
+  font-style: normal;
+}
+
+.x00u46-process-codes-landing-page .text1-i8593376885932358-i01vdD {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x00u46-process-codes-landing-page .span5-x3yeEy {
+  font-style: normal;
+}
+
+.x00u46-process-codes-landing-page .span6-x3yeEy {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x00u46-process-codes-landing-page .span7-x3yeEy {
+  font-style: normal;
+}
+
+.x00u46-process-codes-landing-page .span8-x3yeEy {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x00u46-process-codes-landing-page .span9-x3yeEy {
+  font-style: normal;
+}
+
+.x00u46-process-codes-landing-page .metadata-FUqqPQ {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x00u46-process-codes-landing-page .updated-e9NrXS {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x00u46-process-codes-landing-page .iconupdated-dOPi6j {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.x00u46-process-codes-landing-page .last-updated-22-august-2023-dOPi6j {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x00u46-process-codes-landing-page .copyright-e9NrXS {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+}
+
+.x00u46-process-codes-landing-page .text_label-APbYO9 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x00u46-process-codes-landing-page .x2023-foundation-for-public-code-APbYO9 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x00u46-process-codes-landing-page .span0-SViA3U {
+  font-style: normal;
+}
+
+.x00u46-process-codes-landing-page .span1-SViA3U {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x00u46-process-codes-landing-page .license-e9NrXS {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x00u46-process-codes-landing-page .iconlicense-6OYnqp {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.x00u46-process-codes-landing-page .creative-commons-zero-v10-universal-6OYnqp {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 299px;
 }
 
 .x00u46-process-codes-landing-page .comment {
@@ -1780,12 +1705,24 @@
   position: absolute;
 }
 
+.x00u46-process-codes-landing-page .contact {
+  background-color: transparent;
+  position: relative;
+}
+
 .x00u46-process-codes-landing-page .content {
-  align-items: flex-start;
   background-color: transparent;
   display: flex;
-  flex-direction: column;
   position: relative;
+}
+
+.x00u46-process-codes-landing-page .foundation-for-public-code {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
 }
 
 .x00u46-process-codes-landing-page .group-2 {
@@ -1793,14 +1730,31 @@
   position: absolute;
 }
 
-.x00u46-process-codes-landing-page .have-a-question {
-  background-color: transparent;
-  position: relative;
-}
-
 .x00u46-process-codes-landing-page .intro {
   display: flex;
   flex: 0 0 auto;
+  position: relative;
+}
+
+.x00u46-process-codes-landing-page .links {
+  background-color: transparent;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x00u46-process-codes-landing-page .logo-symbol {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.6630859375px;
+}
+
+.x00u46-process-codes-landing-page .logo-title {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  gap: 13px;
   position: relative;
 }
 
@@ -1813,7 +1767,6 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 20px;
-  mix-blend-mode: normal;
   padding: 30px;
   position: relative;
   width: 100%;

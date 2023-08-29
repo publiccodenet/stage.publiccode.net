@@ -3,136 +3,138 @@
 .x2bu46-modularization {
   align-items: center;
   background-color: var(--white);
-  border: 1px none;
   display: flex;
   flex-direction: column;
   gap: 60px;
   left: 0px;
-  mix-blend-mode: normal;
   overflow: hidden;
   overflow-x: hidden;
-  padding: 60px 0px 0px;
   position: relative;
   top: 0px;
 }
 
 .x2bu46-modularization .header-5Lzpdy {
   align-items: center;
-  background-color: transparent;
+  align-self: stretch;
+  background-color: var(--concrete);
   display: flex;
   flex: 0 0 auto;
-  justify-content: space-between;
+  gap: 30px;
+  justify-content: space-around;
+  padding: 30px 60px;
   position: relative;
-  width: 1080px;
+  width: 100%;
 }
 
-.x2bu46-modularization .logo-title-jUxrIh {
-  position: relative;
-}
-
-.x2bu46-modularization .navigation-jUxrIh {
+.x2bu46-modularization .content-jUxrIh {
+  align-items: center;
   background-color: transparent;
-  height: 24px;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 16px 16px;
+  justify-content: space-between;
+}
+
+.x2bu46-modularization .logo-title-8kB0Ii {
+  width: 426px;
+}
+
+.x2bu46-modularization .navigation-8kB0Ii {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 40px;
+  justify-content: flex-end;
   position: relative;
   width: 534px;
 }
 
-.x2bu46-modularization .links-GQz1Af {
+.x2bu46-modularization .links-M7EpGO {
   align-items: flex-start;
-  background-color: transparent;
   display: inline-flex;
-  gap: 30px;
+  flex-wrap: wrap;
+  gap: 30px 30px;
   justify-content: flex-end;
-  left: 0px;
-  position: absolute;
-  top: 2px;
 }
 
-.x2bu46-modularization .stewardship-EuxuCz {
+.x2bu46-modularization .stewardship-Zy76Vx {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x2bu46-modularization .resources-EuxuCz {
+.x2bu46-modularization .resources-Zy76Vx {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x2bu46-modularization .who-we-are-EuxuCz {
+.x2bu46-modularization .who-we-are-Zy76Vx {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x2bu46-modularization .join-us-EuxuCz {
+.x2bu46-modularization .join-us-Zy76Vx {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x2bu46-modularization .services-GQz1Af {
+.x2bu46-modularization .services-M7EpGO {
   align-items: flex-start;
   background-color: transparent;
   display: inline-flex;
+  flex: 0 0 auto;
   gap: 20px;
-  left: 422px;
-  position: absolute;
-  top: 0px;
+  position: relative;
 }
 
-.x2bu46-modularization .mastodon-GppzQL {
+.x2bu46-modularization .mastodon-Z2lPL4 {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
 
-.x2bu46-modularization .twitter-GppzQL {
+.x2bu46-modularization .twitter-Z2lPL4 {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
 
-.x2bu46-modularization .github-GppzQL {
+.x2bu46-modularization .github-Z2lPL4 {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
@@ -142,7 +144,6 @@
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  mix-blend-mode: normal;
   text-align: left;
   width: 1080px;
 }
@@ -159,8 +160,10 @@
 }
 
 .x2bu46-modularization .content-QQCYZG {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 60px;
 }
@@ -198,23 +201,23 @@
 .x2bu46-modularization .page-title-DBVabG {
   background-color: transparent;
   color: var(--black);
+  flex: 1;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
-  width: fit-content;
 }
 
 .x2bu46-modularization .content-xFywoj {
+  align-items: flex-start;
   align-self: stretch;
   background-color: var(--fpcgraywhitesmoke);
   border-radius: 12px;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 20px;
   width: 100%;
 }
@@ -224,7 +227,6 @@
   letter-spacing: 0.00px;
   line-height: 24px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   width: 650px;
@@ -267,7 +269,6 @@
   font-weight: 400;
   line-height: 16px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -291,8 +292,10 @@
 }
 
 .x2bu46-modularization .content-VHpt9h {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -302,13 +305,14 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
 .x2bu46-modularization .content-fnc6ox {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -318,7 +322,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
@@ -347,7 +350,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -359,21 +361,24 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
 .x2bu46-modularization .content-xW0xNb {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x2bu46-modularization .content-59WDkr {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -391,7 +396,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -411,7 +415,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -427,7 +430,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -437,29 +439,37 @@
 }
 
 .x2bu46-modularization .content-R2rw5M {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x2bu46-modularization .content-Yx4EFL {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x2bu46-modularization .content-dhVjjT {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x2bu46-modularization .content-mxnErs {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -499,7 +509,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -515,7 +524,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -536,7 +544,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -557,7 +564,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -584,7 +590,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -596,14 +601,15 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
 .x2bu46-modularization .content-qtXgMy {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -623,7 +629,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -644,7 +649,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -665,7 +669,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -680,8 +683,10 @@
 }
 
 .x2bu46-modularization .content-fkHU3q {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -712,7 +717,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -733,7 +737,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -749,7 +752,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -765,7 +767,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -781,7 +782,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -832,43 +832,55 @@
 }
 
 .x2bu46-modularization .content-XGmYxG {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
 
 .x2bu46-modularization .content-jbOVO7 {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
 
 .x2bu46-modularization .content-qMxV0a {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
 
 .x2bu46-modularization .content-XZXwxN {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
 
 .x2bu46-modularization .content-8HxQOE {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
 
 .x2bu46-modularization .content-YA71VX {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
@@ -886,102 +898,73 @@
 }
 
 .x2bu46-modularization .navfooterprev-6xCFo7 {
-  align-items: center;
+  align-items: flex-start;
   background-color: var(--fpcblue);
-  border-radius: 32px 4px 4px 32px;
+  border-radius: 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  gap: 15px;
-  mix-blend-mode: normal;
+  flex-direction: column;
+  gap: 3px;
+  justify-content: center;
   padding: 10px 15px;
   position: relative;
 }
 
-.x2bu46-modularization .arrow-32-oBkO1U {
+.x2bu46-modularization .arrow-1kFd2G {
   margin-left: -0.85px;
 }
 
-.x2bu46-modularization .group-134-oBkO1U {
-  margin-right: -4.00px;
-  width: 151px;
-}
-
-.x2bu46-modularization .x1a-welcome-MhsMNQ {
+.x2bu46-modularization .prev-1kFd2G {
   background-color: transparent;
-  height: auto;
-  left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
+  margin-top: -1.00px;
+  position: relative;
   text-align: left;
-  top: 18px;
-  width: auto;
+  width: fit-content;
 }
 
-.x2bu46-modularization .previous-MhsMNQ {
-  background-color: transparent;
-  color: var(--white);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
+.x2bu46-modularization .title-oBkO1U {
+  letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
+  text-align: right;
+  width: fit-content;
 }
 
 .x2bu46-modularization .navfooternext-6xCFo7 {
-  align-items: center;
+  align-items: flex-end;
   background-color: var(--fpcblue);
-  border-radius: 4px 32px 32px 4px;
+  border-radius: 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  gap: 15px;
-  mix-blend-mode: normal;
+  flex-direction: column;
+  gap: 3px;
+  justify-content: center;
   padding: 10px 15px;
   position: relative;
 }
 
-.x2bu46-modularization .group-134-iJQWq8 {
-  width: 123px;
-}
-
-.x2bu46-modularization .x1b-discovery-research-k3JdOe {
+.x2bu46-modularization .next-8gctiq {
   background-color: transparent;
-  height: auto;
-  left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
+  margin-top: -1.00px;
+  position: relative;
   text-align: left;
-  top: 18px;
-  width: auto;
+  width: fit-content;
 }
 
-.x2bu46-modularization .next-k3JdOe {
-  background-color: transparent;
-  color: var(--white);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2bu46-modularization .arrow-32-iJQWq8 {
+.x2bu46-modularization .arrow-8gctiq {
   margin-right: -0.85px;
+}
+
+.x2bu46-modularization .title-iJQWq8 {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  text-align: left;
+  width: fit-content;
 }
 
 .x2bu46-modularization .sidebarv2-QQCYZG {
@@ -993,7 +976,6 @@
   flex: 0 0 auto;
   flex-direction: column;
   justify-content: space-between;
-  mix-blend-mode: normal;
   padding: 20px;
   position: relative;
 }
@@ -1033,18 +1015,22 @@
 
 .x2bu46-modularization .navsubsectionv2-bQFpex {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2bu46-modularization .navsubsectionv2-p5MMOr {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2bu46-modularization .navsubsectionv2-764z4k {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2bu46-modularization .navsubsectionv2-8ayQwz {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2bu46-modularization .navmainv3-0avibQ {
@@ -1057,14 +1043,17 @@
 
 .x2bu46-modularization .navsubsectionv2-iGl4Ig {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2bu46-modularization .navsubsectionv2-YYmEpJ {
   background-color: var(--fpcblue50);
+  cursor: pointer;
 }
 
 .x2bu46-modularization .navsubsectionv2-gWRYBk {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2bu46-modularization .navmainv3-pGVVrY {
@@ -1077,18 +1066,22 @@
 
 .x2bu46-modularization .navsubsectionv2-8ykB0x {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2bu46-modularization .navsubsectionv2-XAnxx6 {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2bu46-modularization .navsubsectionv2-Vw964K {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2bu46-modularization .navsubsectionv2-F3Txb2 {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2bu46-modularization .span0-vFIEo7 {
@@ -1105,24 +1098,28 @@
 
 .x2bu46-modularization .navsubsectionv2-4W7rWK {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2bu46-modularization .navsubsectionv2-fROTP8 {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2bu46-modularization .navsubsectionv2-zXwSeZ {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2bu46-modularization .sidebarbottom-Ttx0ZE {
   align-items: flex-start;
   background-color: transparent;
-  display: inline-flex;
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 60px;
   position: relative;
+  width: 240px;
 }
 
 .x2bu46-modularization .have-a-question-xzlblX {
@@ -1131,514 +1128,58 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  width: 240px;
+  width: 100%;
 }
 
 .x2bu46-modularization .have-a-question-jDNRZC {
-  align-self: stretch;
   color: var(--black);
   font-style: normal;
   font-weight: 700;
   line-height: 30px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
 .x2bu46-modularization .email-us-jDNRZC {
+  align-self: stretch;
   background-color: transparent;
   cursor: pointer;
   letter-spacing: -0.16px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
-  width: fit-content;
 }
 
 .x2bu46-modularization .footer-5Lzpdy {
+  align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
-  height: 916px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 100%;
-}
-
-.x2bu46-modularization .base-Cqpsmb {
-  background-color: var(--machine-grey);
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.x2bu46-modularization .information-Cqpsmb {
-  background-color: transparent;
-  height: 281px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 575px;
-  width: 1024px;
-}
-
-.x2bu46-modularization .metadata-GmUV7i {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 10px;
-  left: calc(50.00% - 142px);
-  position: absolute;
-  top: 196px;
-}
-
-.x2bu46-modularization .updated-OmOSPD {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x2bu46-modularization .iconupdated-FaHx3P {
-  background-color: transparent;
-  height: 16px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x2bu46-modularization .last-updated-15-february-2021-FaHx3P {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x2bu46-modularization .copyright-OmOSPD {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 7px;
-  position: relative;
-}
-
-.x2bu46-modularization .text_label-m5wMGp {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x2bu46-modularization .x2021-foundation-for-public-code-m5wMGp {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x2bu46-modularization .span0-oS4lss {
-  font-style: normal;
-}
-
-.x2bu46-modularization .span1-oS4lss {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2bu46-modularization .license-OmOSPD {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x2bu46-modularization .iconlicense-ai7Xym {
-  background-color: transparent;
-  height: 14.5px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x2bu46-modularization .creative-commons-zero-v10-universal-ai7Xym {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: 299px;
-}
-
-.x2bu46-modularization .organizational-notes-GmUV7i {
-  background-color: transparent;
-  height: auto;
-  left: calc(50.00% - 142px);
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 650px;
-}
-
-.x2bu46-modularization .flex-container-i8593845285932358-GmUV7i {
-  align-items: flex-start;
-  background-color: transparent;
+  background-color: var(--concrete);
   display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
-  gap: 10px;
-  height: 130px;
-  left: 370px;
-  position: absolute;
-  top: 36px;
-  width: 650px;
-}
-
-.x2bu46-modularization .text0-i8593845285932358-aWBNRA {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
+  gap: 60px;
+  min-width: 800px;
+  padding: 60px;
   position: relative;
-  text-align: left;
+  width: 100%;
 }
 
-.x2bu46-modularization .span0-Oug8qq {
-  font-style: normal;
-}
-
-.x2bu46-modularization .span1-Oug8qq {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2bu46-modularization .span2-Oug8qq {
-  font-style: normal;
-}
-
-.x2bu46-modularization .span3-Oug8qq {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2bu46-modularization .span4-Oug8qq {
-  font-style: normal;
-}
-
-.x2bu46-modularization .text1-i8593845285932358-aWBNRA {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2bu46-modularization .span5-PrKZF3 {
-  font-style: normal;
-}
-
-.x2bu46-modularization .span6-PrKZF3 {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2bu46-modularization .span7-PrKZF3 {
-  font-style: normal;
-}
-
-.x2bu46-modularization .span8-PrKZF3 {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2bu46-modularization .span9-PrKZF3 {
-  font-style: normal;
-}
-
-.x2bu46-modularization .contact-GmUV7i {
-  height: 201px;
-  left: calc(50.00% - 512px);
-  width: 345px;
-}
-
-.x2bu46-modularization .contact-sT2nEy {
-  height: auto;
-  left: calc(50.00% - 172px);
-  letter-spacing: 0.00px;
-  line-height: 26px;
-  mix-blend-mode: normal;
-  text-align: left;
-  width: 120px;
-}
-
-.x2bu46-modularization .frame-201-sT2nEy {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 15px;
-  left: calc(50.00% - 172px);
-  position: absolute;
-  top: 36px;
-}
-
-.x2bu46-modularization .group-196-praLBD {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2bu46-modularization .join-our-mailing-list-n2r3TD {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x2bu46-modularization .newsletter-n2r3TD {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2bu46-modularization .group-197-praLBD {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2bu46-modularization .x31-20-2-444-500-4jvXnl {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x2bu46-modularization .phone-4jvXnl {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2bu46-modularization .group-200-praLBD {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2bu46-modularization .infopubliccodenet-wTRfcf {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x2bu46-modularization .email-wTRfcf {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2bu46-modularization .group-199-praLBD {
-  background-color: transparent;
-  height: 60px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2bu46-modularization .links-12nDZi {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  gap: 10px;
-  left: 103px;
-  position: absolute;
-  top: 40px;
-}
-
-.x2bu46-modularization .open-street-map-xIEehE {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2bu46-modularization .x-xIEehE {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x2bu46-modularization .google-xIEehE {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2bu46-modularization .keizersgracht-617-10-12nDZi {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 240px;
-}
-
-.x2bu46-modularization .address-12nDZi {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
+.x2bu46-modularization .logo-title-Cqpsmb {
+  flex: 0 0 auto;
+  width: 409.66314697265625px;
 }
 
 .x2bu46-modularization .block-trio-Cqpsmb {
   align-items: flex-start;
+  align-self: stretch;
   background-color: transparent;
   display: flex;
+  flex: 0 0 auto;
   gap: 20px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 175px;
-  width: 1080px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
 }
 
 .x2bu46-modularization .about-us-9gZJbj {
@@ -1650,14 +1191,16 @@
   flex: 1;
   flex-direction: column;
   flex-grow: 1;
-  justify-content: space-between;
+  gap: 30px;
   padding: 30px;
 }
 
 .x2bu46-modularization .content-fnWuxD {
+  align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -1687,7 +1230,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1703,7 +1245,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1715,12 +1256,9 @@
 .x2bu46-modularization .links-fnWuxD {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  position: relative;
   width: 100%;
 }
 
@@ -1730,7 +1268,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
   width: fit-content;
@@ -1750,9 +1287,11 @@
 }
 
 .x2bu46-modularization .content-bJLw6P {
+  align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -1774,7 +1313,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1782,12 +1320,9 @@
 .x2bu46-modularization .links-bJLw6P {
   align-items: flex-end;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   flex-direction: column;
   gap: 15px;
-  position: relative;
   width: 100%;
 }
 
@@ -1798,7 +1333,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
 }
@@ -1809,7 +1343,6 @@
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
 }
@@ -1828,9 +1361,11 @@
 }
 
 .x2bu46-modularization .content-LDVMwU {
+  align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -1852,7 +1387,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1860,12 +1394,9 @@
 .x2bu46-modularization .links-LDVMwU {
   align-items: flex-end;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  position: relative;
   width: 100%;
 }
 
@@ -1875,16 +1406,460 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
   width: fit-content;
 }
 
-.x2bu46-modularization .logo-title-Cqpsmb {
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 60px;
+.x2bu46-modularization .information-Cqpsmb {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
+}
+
+.x2bu46-modularization .contact-GmUV7i {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 373px;
+}
+
+.x2bu46-modularization .contact-sT2nEy {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x2bu46-modularization .contact-info-sT2nEy {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  margin-right: -15.00px;
+  position: relative;
+  width: 388px;
+}
+
+.x2bu46-modularization .newsletter-8chknn {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x2bu46-modularization .newsletter-3q1Loi {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x2bu46-modularization .join-our-mailing-list-3q1Loi {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x2bu46-modularization .phone-8chknn {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x2bu46-modularization .phone-soPP2c {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x2bu46-modularization .x31-20-2-444-500-soPP2c {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x2bu46-modularization .email-8chknn {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x2bu46-modularization .email-z0PRwP {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x2bu46-modularization .infopubliccodenet-z0PRwP {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x2bu46-modularization .address-8chknn {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x2bu46-modularization .address-7xSRzm {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x2bu46-modularization .content-7xSRzm {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.x2bu46-modularization .keizersgracht-617-10-4VGzqs {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 240px;
+}
+
+.x2bu46-modularization .links-4VGzqs {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+}
+
+.x2bu46-modularization .open-street-map-CxUSP3 {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2bu46-modularization .x-CxUSP3 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x2bu46-modularization .google-CxUSP3 {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2bu46-modularization .organization-GmUV7i {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  position: relative;
+}
+
+.x2bu46-modularization .notes-oaDlFw {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.x2bu46-modularization .organizational-notes-HmS3SP {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x2bu46-modularization .flex-container-i8593845285932358-HmS3SP {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x2bu46-modularization .text0-i8593845285932358-dwqbdk {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x2bu46-modularization .span0-lbL0iJ {
+  font-style: normal;
+}
+
+.x2bu46-modularization .span1-lbL0iJ {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2bu46-modularization .span2-lbL0iJ {
+  font-style: normal;
+}
+
+.x2bu46-modularization .span3-lbL0iJ {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2bu46-modularization .span4-lbL0iJ {
+  font-style: normal;
+}
+
+.x2bu46-modularization .text1-i8593845285932358-dwqbdk {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x2bu46-modularization .span5-0RnWW0 {
+  font-style: normal;
+}
+
+.x2bu46-modularization .span6-0RnWW0 {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2bu46-modularization .span7-0RnWW0 {
+  font-style: normal;
+}
+
+.x2bu46-modularization .span8-0RnWW0 {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2bu46-modularization .span9-0RnWW0 {
+  font-style: normal;
+}
+
+.x2bu46-modularization .metadata-oaDlFw {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x2bu46-modularization .updated-251VEJ {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x2bu46-modularization .iconupdated-luClio {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.x2bu46-modularization .last-updated-22-august-2023-luClio {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x2bu46-modularization .copyright-251VEJ {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+}
+
+.x2bu46-modularization .text_label-6QIJV1 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x2bu46-modularization .x2023-foundation-for-public-code-6QIJV1 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x2bu46-modularization .span0-tkmV0N {
+  font-style: normal;
+}
+
+.x2bu46-modularization .span1-tkmV0N {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2bu46-modularization .license-251VEJ {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x2bu46-modularization .iconlicense-UeCseG {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.x2bu46-modularization .creative-commons-zero-v10-universal-UeCseG {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 299px;
+}
+
+.x2bu46-modularization .action {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  padding: 0px 10px;
+  position: relative;
+  width: 100%;
 }
 
 .x2bu46-modularization .an-action-that-requires-high-engagement {
@@ -1893,16 +1868,15 @@
   letter-spacing: 0.00px;
   line-height: 24px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
-.x2bu46-modularization .arrow-32 {
+.x2bu46-modularization .arrow {
   background-color: transparent;
   height: 12.46923828125px;
   position: relative;
-  width: 15.23828125px;
+  width: 19.69140625px;
 }
 
 .x2bu46-modularization .arrowdown {
@@ -1910,20 +1884,6 @@
   margin-right: -1.00px;
   position: relative;
   width: 14px;
-}
-
-.x2bu46-modularization .capacity-building {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
 }
 
 .x2bu46-modularization .cluster {
@@ -1936,11 +1896,23 @@
   width: 100%;
 }
 
-.x2bu46-modularization .content {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
+.x2bu46-modularization .contact {
+  background-color: transparent;
   position: relative;
+}
+
+.x2bu46-modularization .content {
+  display: flex;
+  position: relative;
+}
+
+.x2bu46-modularization .foundation-for-public-code {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
 }
 
 .x2bu46-modularization .gear-2 {
@@ -1952,8 +1924,13 @@
   width: 100.00%;
 }
 
-.x2bu46-modularization .have-a-question {
+.x2bu46-modularization .goal {
+  align-items: flex-start;
   background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
   position: relative;
 }
 
@@ -1971,6 +1948,28 @@
   width: 32.009765625px;
 }
 
+.x2bu46-modularization .links {
+  background-color: transparent;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x2bu46-modularization .logo-symbol {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.6640625px;
+}
+
+.x2bu46-modularization .logo-title {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  gap: 13px;
+  position: relative;
+}
+
 .x2bu46-modularization .lorem-ipsum {
   align-self: stretch;
   background-color: transparent;
@@ -1978,9 +1977,18 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
+}
+
+.x2bu46-modularization .outcome {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
 }
 
 .x2bu46-modularization .this-is-an-outcome-t {
@@ -1988,16 +1996,19 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
+}
+
+.x2bu46-modularization .title {
+  background-color: transparent;
+  position: relative;
 }
 
 .x2bu46-modularization .union {
   background-color: transparent;
   height: 83.64%;
   left: 0px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 0px;
   width: 100%;

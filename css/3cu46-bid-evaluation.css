@@ -3,136 +3,138 @@
 .x3cu46-bid-evaluation {
   align-items: center;
   background-color: var(--white);
-  border: 1px none;
   display: flex;
   flex-direction: column;
   gap: 60px;
   left: 0px;
-  mix-blend-mode: normal;
   overflow: hidden;
   overflow-x: hidden;
-  padding: 60px 0px 0px;
   position: relative;
   top: 0px;
 }
 
 .x3cu46-bid-evaluation .header-JDZvvh {
   align-items: center;
-  background-color: transparent;
+  align-self: stretch;
+  background-color: var(--concrete);
   display: flex;
   flex: 0 0 auto;
-  justify-content: space-between;
+  gap: 30px;
+  justify-content: space-around;
+  padding: 30px 60px;
   position: relative;
-  width: 1080px;
+  width: 100%;
 }
 
-.x3cu46-bid-evaluation .logo-title-c1GVWH {
-  position: relative;
-}
-
-.x3cu46-bid-evaluation .navigation-c1GVWH {
+.x3cu46-bid-evaluation .content-c1GVWH {
+  align-items: center;
   background-color: transparent;
-  height: 24px;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 16px 16px;
+  justify-content: space-between;
+}
+
+.x3cu46-bid-evaluation .logo-title-VIK87j {
+  width: 426px;
+}
+
+.x3cu46-bid-evaluation .navigation-VIK87j {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 40px;
+  justify-content: flex-end;
   position: relative;
   width: 534px;
 }
 
-.x3cu46-bid-evaluation .links-NbpVIF {
+.x3cu46-bid-evaluation .links-wfsNBe {
   align-items: flex-start;
-  background-color: transparent;
   display: inline-flex;
-  gap: 30px;
+  flex-wrap: wrap;
+  gap: 30px 30px;
   justify-content: flex-end;
-  left: 0px;
-  position: absolute;
-  top: 2px;
 }
 
-.x3cu46-bid-evaluation .stewardship-D84svw {
+.x3cu46-bid-evaluation .stewardship-R4vxkS {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x3cu46-bid-evaluation .resources-D84svw {
+.x3cu46-bid-evaluation .resources-R4vxkS {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x3cu46-bid-evaluation .who-we-are-D84svw {
+.x3cu46-bid-evaluation .who-we-are-R4vxkS {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x3cu46-bid-evaluation .join-us-D84svw {
+.x3cu46-bid-evaluation .join-us-R4vxkS {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x3cu46-bid-evaluation .services-NbpVIF {
+.x3cu46-bid-evaluation .services-wfsNBe {
   align-items: flex-start;
   background-color: transparent;
   display: inline-flex;
+  flex: 0 0 auto;
   gap: 20px;
-  left: 422px;
-  position: absolute;
-  top: 0px;
+  position: relative;
 }
 
-.x3cu46-bid-evaluation .mastodon-2xwhxh {
+.x3cu46-bid-evaluation .mastodon-dw7BHT {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
 
-.x3cu46-bid-evaluation .twitter-2xwhxh {
+.x3cu46-bid-evaluation .twitter-dw7BHT {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
 
-.x3cu46-bid-evaluation .github-2xwhxh {
+.x3cu46-bid-evaluation .github-dw7BHT {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
@@ -142,7 +144,6 @@
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  mix-blend-mode: normal;
   text-align: left;
   width: 1080px;
 }
@@ -159,8 +160,10 @@
 }
 
 .x3cu46-bid-evaluation .content-txYvsD {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 60px;
 }
@@ -198,23 +201,23 @@
 .x3cu46-bid-evaluation .page-title-gQHxaK {
   background-color: transparent;
   color: var(--black);
+  flex: 1;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
-  width: fit-content;
 }
 
 .x3cu46-bid-evaluation .content-07wLJi {
+  align-items: flex-start;
   align-self: stretch;
   background-color: var(--fpcgraywhitesmoke);
   border-radius: 12px;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 20px;
   width: 100%;
 }
@@ -224,7 +227,6 @@
   letter-spacing: 0.00px;
   line-height: 24px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   width: 650px;
@@ -271,7 +273,6 @@
   font-weight: 400;
   line-height: 16px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -295,8 +296,10 @@
 }
 
 .x3cu46-bid-evaluation .content-xfPknS {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -306,13 +309,14 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
 .x3cu46-bid-evaluation .content-LV0U8V {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -322,13 +326,14 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
 .x3cu46-bid-evaluation .content-IWLkXE {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -338,13 +343,14 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
 .x3cu46-bid-evaluation .content-vubULk {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -354,7 +360,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
@@ -390,7 +395,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -402,14 +406,15 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
 .x3cu46-bid-evaluation .content-xSHOrK {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -423,7 +428,6 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 15px 20px;
   position: relative;
   width: 100%;
@@ -447,7 +451,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   white-space: nowrap;
@@ -477,7 +480,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -494,7 +496,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -510,7 +511,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -526,7 +526,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -542,7 +541,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -558,7 +556,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -575,7 +572,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -591,7 +587,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -608,7 +603,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -624,7 +618,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -640,7 +633,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -669,7 +661,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -681,42 +672,51 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
 .x3cu46-bid-evaluation .content-vpH5W0 {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x3cu46-bid-evaluation .content-qXKxZ9 {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x3cu46-bid-evaluation .content-2JkRBZ {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x3cu46-bid-evaluation .content-5PYVzX {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x3cu46-bid-evaluation .content-kL5on4 {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -741,7 +741,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -753,21 +752,24 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
 .x3cu46-bid-evaluation .content-Wc4xdp {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x3cu46-bid-evaluation .content-ZzUZIk {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -792,7 +794,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -804,21 +805,24 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
 .x3cu46-bid-evaluation .content-TA8OGq {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x3cu46-bid-evaluation .content-JF5wfV {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -843,7 +847,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -855,28 +858,33 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
 .x3cu46-bid-evaluation .content-lHfU63 {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x3cu46-bid-evaluation .content-WnmX4c {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
 .x3cu46-bid-evaluation .content-cIg2gU {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -905,7 +913,6 @@
   font-weight: 400;
   line-height: 24px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   width: 690px;
@@ -959,29 +966,37 @@
 }
 
 .x3cu46-bid-evaluation .content-xx3fx3 {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
 
 .x3cu46-bid-evaluation .content-XLGGYP {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
 
 .x3cu46-bid-evaluation .content-6qlusC {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
 
 .x3cu46-bid-evaluation .content-m6ix7P {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
@@ -991,7 +1006,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1009,102 +1023,73 @@
 }
 
 .x3cu46-bid-evaluation .navfooterprev-I2x1X0 {
-  align-items: center;
+  align-items: flex-start;
   background-color: var(--fpcbgpeach);
-  border-radius: 32px 4px 4px 32px;
+  border-radius: 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  gap: 15px;
-  mix-blend-mode: normal;
+  flex-direction: column;
+  gap: 3px;
+  justify-content: center;
   padding: 10px 15px;
   position: relative;
 }
 
-.x3cu46-bid-evaluation .arrow-32-u87B1Z {
+.x3cu46-bid-evaluation .arrow-c209hD {
   margin-left: -0.85px;
 }
 
-.x3cu46-bid-evaluation .group-134-u87B1Z {
-  margin-right: -4.00px;
-  width: 181px;
-}
-
-.x3cu46-bid-evaluation .x1a-welcome-2KcJri {
+.x3cu46-bid-evaluation .prev-c209hD {
   background-color: transparent;
-  height: auto;
-  left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
+  margin-top: -1.00px;
+  position: relative;
   text-align: left;
-  top: 18px;
-  width: auto;
+  width: fit-content;
 }
 
-.x3cu46-bid-evaluation .previous-2KcJri {
-  background-color: transparent;
-  color: var(--white);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
+.x3cu46-bid-evaluation .title-u87B1Z {
+  letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
+  text-align: right;
+  width: fit-content;
 }
 
 .x3cu46-bid-evaluation .navfooternext-I2x1X0 {
-  align-items: center;
+  align-items: flex-end;
   background-color: var(--fpcbgpeach);
-  border-radius: 4px 32px 32px 4px;
+  border-radius: 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  gap: 15px;
-  mix-blend-mode: normal;
+  flex-direction: column;
+  gap: 3px;
+  justify-content: center;
   padding: 10px 15px;
   position: relative;
 }
 
-.x3cu46-bid-evaluation .group-134-76cdNf {
-  width: 122px;
-}
-
-.x3cu46-bid-evaluation .x1b-discovery-research-7zeS1A {
+.x3cu46-bid-evaluation .next-yErGj4 {
   background-color: transparent;
-  height: auto;
-  left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
+  margin-top: -1.00px;
+  position: relative;
   text-align: left;
-  top: 18px;
-  width: auto;
+  width: fit-content;
 }
 
-.x3cu46-bid-evaluation .next-7zeS1A {
-  background-color: transparent;
-  color: var(--white);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x3cu46-bid-evaluation .arrow-32-76cdNf {
+.x3cu46-bid-evaluation .arrow-yErGj4 {
   margin-right: -0.85px;
+}
+
+.x3cu46-bid-evaluation .title-76cdNf {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  text-align: left;
+  width: fit-content;
 }
 
 .x3cu46-bid-evaluation .sidebarv2-txYvsD {
@@ -1115,7 +1100,6 @@
   flex: 0 0 auto;
   flex-direction: column;
   justify-content: space-between;
-  mix-blend-mode: normal;
   padding: 20px;
   position: relative;
 }
@@ -1155,18 +1139,22 @@
 
 .x3cu46-bid-evaluation .navsubsectionv2-a5yXtq {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-LFVl62 {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-c14TMH {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-xCScJx {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navmainv3-HsAMVb {
@@ -1179,14 +1167,17 @@
 
 .x3cu46-bid-evaluation .navsubsectionv2-4tQ3vu {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-jmLP8X {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-hc7fO6 {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navmainv3-xAhZSh {
@@ -1199,18 +1190,22 @@
 
 .x3cu46-bid-evaluation .navsubsectionv2-T3zYiK {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-M77x54 {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-6T6Ax0 {
   background-color: var(--fpcpeachmid);
+  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-xoBaMh {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .span0-ZdS55D {
@@ -1227,24 +1222,28 @@
 
 .x3cu46-bid-evaluation .navsubsectionv2-OYVqlL {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-OQSkCo {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-bueLFG {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .sidebarbottom-bx6HyF {
   align-items: flex-start;
   background-color: transparent;
-  display: inline-flex;
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 60px;
   position: relative;
+  width: 240px;
 }
 
 .x3cu46-bid-evaluation .have-a-question-MF88Ns {
@@ -1253,514 +1252,58 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  width: 240px;
+  width: 100%;
 }
 
 .x3cu46-bid-evaluation .have-a-question-XPPCUQ {
-  align-self: stretch;
   color: var(--black);
   font-style: normal;
   font-weight: 700;
   line-height: 30px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
 .x3cu46-bid-evaluation .email-us-XPPCUQ {
+  align-self: stretch;
   background-color: transparent;
   cursor: pointer;
   letter-spacing: -0.16px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
-  width: fit-content;
 }
 
 .x3cu46-bid-evaluation .footer-JDZvvh {
+  align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
-  height: 916px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 100%;
-}
-
-.x3cu46-bid-evaluation .base-fPwUKW {
-  background-color: var(--machine-grey);
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.x3cu46-bid-evaluation .information-fPwUKW {
-  background-color: transparent;
-  height: 281px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 575px;
-  width: 1024px;
-}
-
-.x3cu46-bid-evaluation .metadata-XINqNY {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 10px;
-  left: calc(50.00% - 142px);
-  position: absolute;
-  top: 196px;
-}
-
-.x3cu46-bid-evaluation .updated-fUAta4 {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x3cu46-bid-evaluation .iconupdated-tJO1ud {
-  background-color: transparent;
-  height: 16px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x3cu46-bid-evaluation .last-updated-15-february-2021-tJO1ud {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x3cu46-bid-evaluation .copyright-fUAta4 {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 7px;
-  position: relative;
-}
-
-.x3cu46-bid-evaluation .text_label-eQDpCf {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x3cu46-bid-evaluation .x2021-foundation-for-public-code-eQDpCf {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x3cu46-bid-evaluation .span0-NxFr9l {
-  font-style: normal;
-}
-
-.x3cu46-bid-evaluation .span1-NxFr9l {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x3cu46-bid-evaluation .license-fUAta4 {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x3cu46-bid-evaluation .iconlicense-2ICxLB {
-  background-color: transparent;
-  height: 14.5px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x3cu46-bid-evaluation .creative-commons-zero-v10-universal-2ICxLB {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: 299px;
-}
-
-.x3cu46-bid-evaluation .organizational-notes-XINqNY {
-  background-color: transparent;
-  height: auto;
-  left: calc(50.00% - 142px);
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 650px;
-}
-
-.x3cu46-bid-evaluation .flex-container-i8593871285932358-XINqNY {
-  align-items: flex-start;
-  background-color: transparent;
+  background-color: var(--concrete);
   display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
-  gap: 10px;
-  height: 130px;
-  left: 370px;
-  position: absolute;
-  top: 36px;
-  width: 650px;
-}
-
-.x3cu46-bid-evaluation .text0-i8593871285932358-Yp6lXD {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
+  gap: 60px;
+  min-width: 800px;
+  padding: 60px;
   position: relative;
-  text-align: left;
+  width: 100%;
 }
 
-.x3cu46-bid-evaluation .span0-XC8rU5 {
-  font-style: normal;
-}
-
-.x3cu46-bid-evaluation .span1-XC8rU5 {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x3cu46-bid-evaluation .span2-XC8rU5 {
-  font-style: normal;
-}
-
-.x3cu46-bid-evaluation .span3-XC8rU5 {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x3cu46-bid-evaluation .span4-XC8rU5 {
-  font-style: normal;
-}
-
-.x3cu46-bid-evaluation .text1-i8593871285932358-Yp6lXD {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x3cu46-bid-evaluation .span5-voMyiv {
-  font-style: normal;
-}
-
-.x3cu46-bid-evaluation .span6-voMyiv {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x3cu46-bid-evaluation .span7-voMyiv {
-  font-style: normal;
-}
-
-.x3cu46-bid-evaluation .span8-voMyiv {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x3cu46-bid-evaluation .span9-voMyiv {
-  font-style: normal;
-}
-
-.x3cu46-bid-evaluation .contact-XINqNY {
-  height: 201px;
-  left: calc(50.00% - 512px);
-  width: 345px;
-}
-
-.x3cu46-bid-evaluation .contact-jC40CT {
-  height: auto;
-  left: calc(50.00% - 172px);
-  letter-spacing: 0.00px;
-  line-height: 26px;
-  mix-blend-mode: normal;
-  text-align: left;
-  width: 120px;
-}
-
-.x3cu46-bid-evaluation .frame-201-jC40CT {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 15px;
-  left: calc(50.00% - 172px);
-  position: absolute;
-  top: 36px;
-}
-
-.x3cu46-bid-evaluation .group-196-REs1eH {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x3cu46-bid-evaluation .join-our-mailing-list-xdylMW {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x3cu46-bid-evaluation .newsletter-xdylMW {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x3cu46-bid-evaluation .group-197-REs1eH {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x3cu46-bid-evaluation .x31-20-2-444-500-m7TqdJ {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x3cu46-bid-evaluation .phone-m7TqdJ {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x3cu46-bid-evaluation .group-200-REs1eH {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x3cu46-bid-evaluation .infopubliccodenet-xpQK3L {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x3cu46-bid-evaluation .email-xpQK3L {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x3cu46-bid-evaluation .group-199-REs1eH {
-  background-color: transparent;
-  height: 60px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x3cu46-bid-evaluation .links-xMaGcC {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  gap: 10px;
-  left: 103px;
-  position: absolute;
-  top: 40px;
-}
-
-.x3cu46-bid-evaluation .open-street-map-YwMtNU {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x3cu46-bid-evaluation .x-YwMtNU {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x3cu46-bid-evaluation .google-YwMtNU {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x3cu46-bid-evaluation .keizersgracht-617-10-xMaGcC {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 240px;
-}
-
-.x3cu46-bid-evaluation .address-xMaGcC {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
+.x3cu46-bid-evaluation .logo-title-fPwUKW {
+  flex: 0 0 auto;
+  width: 409.66314697265625px;
 }
 
 .x3cu46-bid-evaluation .block-trio-fPwUKW {
   align-items: flex-start;
+  align-self: stretch;
   background-color: transparent;
   display: flex;
+  flex: 0 0 auto;
   gap: 20px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 175px;
-  width: 1080px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
 }
 
 .x3cu46-bid-evaluation .about-us-CLGjHP {
@@ -1772,14 +1315,16 @@
   flex: 1;
   flex-direction: column;
   flex-grow: 1;
-  justify-content: space-between;
+  gap: 30px;
   padding: 30px;
 }
 
 .x3cu46-bid-evaluation .content-qY9p9X {
+  align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -1809,7 +1354,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1825,7 +1369,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1837,12 +1380,9 @@
 .x3cu46-bid-evaluation .links-qY9p9X {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  position: relative;
   width: 100%;
 }
 
@@ -1852,7 +1392,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
   width: fit-content;
@@ -1872,9 +1411,11 @@
 }
 
 .x3cu46-bid-evaluation .content-FuYB4k {
+  align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -1896,7 +1437,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1904,12 +1444,9 @@
 .x3cu46-bid-evaluation .links-FuYB4k {
   align-items: flex-end;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   flex-direction: column;
   gap: 15px;
-  position: relative;
   width: 100%;
 }
 
@@ -1920,7 +1457,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
 }
@@ -1931,7 +1467,6 @@
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
 }
@@ -1950,9 +1485,11 @@
 }
 
 .x3cu46-bid-evaluation .content-5NlU9h {
+  align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -1974,7 +1511,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1982,12 +1518,9 @@
 .x3cu46-bid-evaluation .links-5NlU9h {
   align-items: flex-end;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  position: relative;
   width: 100%;
 }
 
@@ -1997,16 +1530,460 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
   width: fit-content;
 }
 
-.x3cu46-bid-evaluation .logo-title-fPwUKW {
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 60px;
+.x3cu46-bid-evaluation .information-fPwUKW {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
+}
+
+.x3cu46-bid-evaluation .contact-XINqNY {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 373px;
+}
+
+.x3cu46-bid-evaluation .contact-jC40CT {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x3cu46-bid-evaluation .contact-info-jC40CT {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  margin-right: -15.00px;
+  position: relative;
+  width: 388px;
+}
+
+.x3cu46-bid-evaluation .newsletter-wqN7Zj {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x3cu46-bid-evaluation .newsletter-L5hp9t {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x3cu46-bid-evaluation .join-our-mailing-list-L5hp9t {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x3cu46-bid-evaluation .phone-wqN7Zj {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x3cu46-bid-evaluation .phone-CxbXky {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x3cu46-bid-evaluation .x31-20-2-444-500-CxbXky {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x3cu46-bid-evaluation .email-wqN7Zj {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x3cu46-bid-evaluation .email-3GFB4S {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x3cu46-bid-evaluation .infopubliccodenet-3GFB4S {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x3cu46-bid-evaluation .address-wqN7Zj {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x3cu46-bid-evaluation .address-x7FXpR {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x3cu46-bid-evaluation .content-x7FXpR {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.x3cu46-bid-evaluation .keizersgracht-617-10-hHQJB1 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 240px;
+}
+
+.x3cu46-bid-evaluation .links-hHQJB1 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+}
+
+.x3cu46-bid-evaluation .open-street-map-wfRtwV {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x3cu46-bid-evaluation .x-wfRtwV {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x3cu46-bid-evaluation .google-wfRtwV {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x3cu46-bid-evaluation .organization-XINqNY {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  position: relative;
+}
+
+.x3cu46-bid-evaluation .notes-DT475T {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.x3cu46-bid-evaluation .organizational-notes-BLCD6N {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x3cu46-bid-evaluation .flex-container-i8593871285932358-BLCD6N {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x3cu46-bid-evaluation .text0-i8593871285932358-f731X7 {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x3cu46-bid-evaluation .span0-bfxmF4 {
+  font-style: normal;
+}
+
+.x3cu46-bid-evaluation .span1-bfxmF4 {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x3cu46-bid-evaluation .span2-bfxmF4 {
+  font-style: normal;
+}
+
+.x3cu46-bid-evaluation .span3-bfxmF4 {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x3cu46-bid-evaluation .span4-bfxmF4 {
+  font-style: normal;
+}
+
+.x3cu46-bid-evaluation .text1-i8593871285932358-f731X7 {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x3cu46-bid-evaluation .span5-hdGtms {
+  font-style: normal;
+}
+
+.x3cu46-bid-evaluation .span6-hdGtms {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x3cu46-bid-evaluation .span7-hdGtms {
+  font-style: normal;
+}
+
+.x3cu46-bid-evaluation .span8-hdGtms {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x3cu46-bid-evaluation .span9-hdGtms {
+  font-style: normal;
+}
+
+.x3cu46-bid-evaluation .metadata-DT475T {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x3cu46-bid-evaluation .updated-bUuI4j {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x3cu46-bid-evaluation .iconupdated-LMeJk7 {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.x3cu46-bid-evaluation .last-updated-22-august-2023-LMeJk7 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x3cu46-bid-evaluation .copyright-bUuI4j {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+}
+
+.x3cu46-bid-evaluation .text_label-CJqkPV {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x3cu46-bid-evaluation .x2023-foundation-for-public-code-CJqkPV {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x3cu46-bid-evaluation .span0-zmk5dd {
+  font-style: normal;
+}
+
+.x3cu46-bid-evaluation .span1-zmk5dd {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x3cu46-bid-evaluation .license-bUuI4j {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x3cu46-bid-evaluation .iconlicense-ox6s9f {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.x3cu46-bid-evaluation .creative-commons-zero-v10-universal-ox6s9f {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 299px;
+}
+
+.x3cu46-bid-evaluation .action {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  padding: 0px 10px;
+  position: relative;
+  width: 100%;
 }
 
 .x3cu46-bid-evaluation .an-action-that-requires-high-engagement {
@@ -2015,30 +1992,15 @@
   letter-spacing: 0.00px;
   line-height: 24px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
-.x3cu46-bid-evaluation .arrow-32 {
+.x3cu46-bid-evaluation .arrow {
   background-color: transparent;
   height: 12.46875px;
   position: relative;
-  width: 15.23828125px;
-}
-
-.x3cu46-bid-evaluation .capacity-building {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
+  width: 19.69140625px;
 }
 
 .x3cu46-bid-evaluation .cluster {
@@ -2051,11 +2013,23 @@
   width: 100%;
 }
 
-.x3cu46-bid-evaluation .content {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
+.x3cu46-bid-evaluation .contact {
+  background-color: transparent;
   position: relative;
+}
+
+.x3cu46-bid-evaluation .content {
+  display: flex;
+  position: relative;
+}
+
+.x3cu46-bid-evaluation .foundation-for-public-code {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
 }
 
 .x3cu46-bid-evaluation .gear-2 {
@@ -2067,8 +2041,13 @@
   width: 100.00%;
 }
 
-.x3cu46-bid-evaluation .have-a-question {
+.x3cu46-bid-evaluation .goal {
+  align-items: flex-start;
   background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
   position: relative;
 }
 
@@ -2079,6 +2058,28 @@
   width: 32.009765625px;
 }
 
+.x3cu46-bid-evaluation .links {
+  background-color: transparent;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x3cu46-bid-evaluation .logo-symbol {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.6640625px;
+}
+
+.x3cu46-bid-evaluation .logo-title {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  gap: 13px;
+  position: relative;
+}
+
 .x3cu46-bid-evaluation .lorem-ipsum {
   align-self: stretch;
   background-color: transparent;
@@ -2086,9 +2087,18 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
+}
+
+.x3cu46-bid-evaluation .outcome {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
 }
 
 .x3cu46-bid-evaluation .this-is-an-outcome-t {
@@ -2098,16 +2108,19 @@
   font-style: normal;
   font-weight: 600;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
+}
+
+.x3cu46-bid-evaluation .title {
+  background-color: transparent;
+  position: relative;
 }
 
 .x3cu46-bid-evaluation .union {
   background-color: transparent;
   height: 83.64%;
   left: 0px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 0px;
   width: 100%;

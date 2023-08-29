@@ -3,136 +3,138 @@
 .x1cu46-discovery-research-and-problem-statement {
   align-items: center;
   background-color: var(--white);
-  border: 1px none;
   display: flex;
   flex-direction: column;
   gap: 60px;
   left: 0px;
-  mix-blend-mode: normal;
   overflow: hidden;
   overflow-x: hidden;
-  padding: 60px 0px 0px;
   position: relative;
   top: 0px;
 }
 
 .x1cu46-discovery-research-and-problem-statement .header-6Tba7z {
   align-items: center;
-  background-color: transparent;
+  align-self: stretch;
+  background-color: var(--concrete);
   display: flex;
   flex: 0 0 auto;
-  justify-content: space-between;
+  gap: 30px;
+  justify-content: space-around;
+  padding: 30px 60px;
   position: relative;
-  width: 1080px;
+  width: 100%;
 }
 
-.x1cu46-discovery-research-and-problem-statement .logo-title-ih4pWU {
-  position: relative;
-}
-
-.x1cu46-discovery-research-and-problem-statement .navigation-ih4pWU {
+.x1cu46-discovery-research-and-problem-statement .content-ih4pWU {
+  align-items: center;
   background-color: transparent;
-  height: 24px;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 16px 16px;
+  justify-content: space-between;
+}
+
+.x1cu46-discovery-research-and-problem-statement .logo-title-NlVZT5 {
+  width: 426px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .navigation-NlVZT5 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 40px;
+  justify-content: flex-end;
   position: relative;
   width: 534px;
 }
 
-.x1cu46-discovery-research-and-problem-statement .links-8JCWLo {
+.x1cu46-discovery-research-and-problem-statement .links-nxxD6g {
   align-items: flex-start;
-  background-color: transparent;
   display: inline-flex;
-  gap: 30px;
+  flex-wrap: wrap;
+  gap: 30px 30px;
   justify-content: flex-end;
-  left: 0px;
-  position: absolute;
-  top: 2px;
 }
 
-.x1cu46-discovery-research-and-problem-statement .stewardship-Ijr1JJ {
+.x1cu46-discovery-research-and-problem-statement .stewardship-u83xst {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x1cu46-discovery-research-and-problem-statement .resources-Ijr1JJ {
+.x1cu46-discovery-research-and-problem-statement .resources-u83xst {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x1cu46-discovery-research-and-problem-statement .who-we-are-Ijr1JJ {
+.x1cu46-discovery-research-and-problem-statement .who-we-are-u83xst {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x1cu46-discovery-research-and-problem-statement .join-us-Ijr1JJ {
+.x1cu46-discovery-research-and-problem-statement .join-us-u83xst {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x1cu46-discovery-research-and-problem-statement .services-8JCWLo {
+.x1cu46-discovery-research-and-problem-statement .services-nxxD6g {
   align-items: flex-start;
   background-color: transparent;
   display: inline-flex;
+  flex: 0 0 auto;
   gap: 20px;
-  left: 422px;
-  position: absolute;
-  top: 0px;
+  position: relative;
 }
 
-.x1cu46-discovery-research-and-problem-statement .mastodon-7HkUBH {
+.x1cu46-discovery-research-and-problem-statement .mastodon-8qpHxi {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
 
-.x1cu46-discovery-research-and-problem-statement .twitter-7HkUBH {
+.x1cu46-discovery-research-and-problem-statement .twitter-8qpHxi {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
 
-.x1cu46-discovery-research-and-problem-statement .github-7HkUBH {
+.x1cu46-discovery-research-and-problem-statement .github-8qpHxi {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
@@ -142,7 +144,6 @@
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  mix-blend-mode: normal;
   text-align: left;
   width: 1080px;
 }
@@ -159,8 +160,10 @@
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-CwB1Cx {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 60px;
 }
@@ -198,23 +201,23 @@
 .x1cu46-discovery-research-and-problem-statement .page-title-xdJt9C {
   background-color: transparent;
   color: var(--black);
+  flex: 1;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
-  width: fit-content;
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-QLivjK {
+  align-items: flex-start;
   align-self: stretch;
   background-color: var(--fpcgraywhitesmoke);
   border-radius: 12px;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 20px;
   width: 100%;
 }
@@ -224,7 +227,6 @@
   letter-spacing: 0.00px;
   line-height: 24px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   width: 650px;
@@ -293,7 +295,6 @@
   font-weight: 400;
   line-height: 16px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -314,8 +315,10 @@
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-fZf6Wn {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -325,13 +328,14 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-FUQEWg {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -341,13 +345,14 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-OrCg78 {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -357,13 +362,14 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-aD7u59 {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -373,7 +379,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
@@ -409,7 +414,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -421,9 +425,12 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
+}
+
+.x1cu46-discovery-research-and-problem-statement .action-EvSYkZ {
+  padding: 0px 20px;
 }
 
 .x1cu46-discovery-research-and-problem-statement .iconknowledge-Lx3y9x {
@@ -446,7 +453,6 @@
   background-color: transparent;
   height: 83.64%;
   left: 0px;
-  mix-blend-mode: normal;
   position: absolute;
   top: 0px;
   width: 100%;
@@ -471,8 +477,10 @@
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-Lx3y9x {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
@@ -483,7 +491,6 @@
   letter-spacing: 0.00px;
   line-height: 24px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -507,7 +514,6 @@
   font-weight: 400;
   line-height: 21px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -520,14 +526,19 @@
   font-weight: 400;
   line-height: 21px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
+.x1cu46-discovery-research-and-problem-statement .action-wYx3Ib {
+  padding: 0px 10px;
+}
+
 .x1cu46-discovery-research-and-problem-statement .content-MBfFfY {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -552,7 +563,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -564,35 +574,58 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
+.x1cu46-discovery-research-and-problem-statement .action-uiKeIO {
+  padding: 0px 10px;
+}
+
 .x1cu46-discovery-research-and-problem-statement .content-7CAtTc {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .action-75UWoD {
+  padding: 0px 10px;
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-gLl7zj {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .action-TUkKzX {
+  padding: 0px 10px;
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-0LSxRB {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
+.x1cu46-discovery-research-and-problem-statement .action-THsD4u {
+  padding: 0px 10px;
+}
+
 .x1cu46-discovery-research-and-problem-statement .content-73cCJN {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -604,7 +637,6 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 1px;
   position: relative;
 }
@@ -624,7 +656,6 @@
 .x1cu46-discovery-research-and-problem-statement .noun_secretary_simpler-cNcoeG {
   background-color: transparent;
   height: 65.639404296875px;
-  mix-blend-mode: normal;
   position: relative;
   width: 79.3134765625px;
 }
@@ -660,7 +691,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -673,7 +703,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -695,7 +724,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -708,7 +736,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -727,7 +754,6 @@
   left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: absolute;
   text-align: left;
   top: 0px;
@@ -740,7 +766,6 @@
   left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: absolute;
   text-align: left;
   top: 25px;
@@ -766,7 +791,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -779,7 +803,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -792,7 +815,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -819,7 +841,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -832,7 +853,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -845,7 +865,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -858,7 +877,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -875,7 +893,6 @@
   flex-direction: column;
   gap: 10px;
   left: -1px;
-  mix-blend-mode: normal;
   padding: 10px;
   position: absolute;
   top: 174px;
@@ -895,7 +912,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -908,7 +924,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -936,7 +951,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -948,21 +962,32 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
+.x1cu46-discovery-research-and-problem-statement .action-B8rsre {
+  padding: 0px 10px;
+}
+
 .x1cu46-discovery-research-and-problem-statement .content-psUCYf {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
+.x1cu46-discovery-research-and-problem-statement .action-2iIz1K {
+  padding: 0px 10px;
+}
+
 .x1cu46-discovery-research-and-problem-statement .content-wEDVbz {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -987,7 +1012,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -999,7 +1023,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1017,23 +1040,41 @@
   font-style: normal;
 }
 
+.x1cu46-discovery-research-and-problem-statement .action-xNCBbo {
+  padding: 0px 10px;
+}
+
 .x1cu46-discovery-research-and-problem-statement .content-LWPA0U {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .action-vjxqhx {
+  padding: 0px 10px;
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-7IJ89x {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
 
+.x1cu46-discovery-research-and-problem-statement .action-vBdITE {
+  padding: 0px 10px;
+}
+
 .x1cu46-discovery-research-and-problem-statement .content-YHkeBC {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -1058,7 +1099,6 @@
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1070,7 +1110,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1088,9 +1127,15 @@
   font-style: normal;
 }
 
+.x1cu46-discovery-research-and-problem-statement .action-EJzL3L {
+  padding: 0px 10px;
+}
+
 .x1cu46-discovery-research-and-problem-statement .content-4HnyNF {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 2px;
 }
@@ -1104,7 +1149,6 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 15px 20px;
   position: relative;
   width: 100%;
@@ -1128,7 +1172,6 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   white-space: nowrap;
@@ -1158,7 +1201,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1174,7 +1216,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1190,7 +1231,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1206,7 +1246,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1234,7 +1273,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1291,29 +1329,37 @@
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-vVYlTK {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-U1wtr1 {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-jNlJ3n {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-chnEg4 {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
@@ -1323,21 +1369,24 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-nXG7ZN {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-0Kj8xW {
+  align-items: flex-start;
   background-color: transparent;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 5px;
 }
@@ -1355,102 +1404,73 @@
 }
 
 .x1cu46-discovery-research-and-problem-statement .navfooterprev-IxJfVL {
-  align-items: center;
+  align-items: flex-start;
   background-color: var(--fpcgreen);
-  border-radius: 32px 4px 4px 32px;
+  border-radius: 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  gap: 15px;
-  mix-blend-mode: normal;
+  flex-direction: column;
+  gap: 3px;
+  justify-content: center;
   padding: 10px 15px;
   position: relative;
 }
 
-.x1cu46-discovery-research-and-problem-statement .arrow-32-WU3UQQ {
+.x1cu46-discovery-research-and-problem-statement .arrow-dtyoxO {
   margin-left: -0.85px;
 }
 
-.x1cu46-discovery-research-and-problem-statement .group-134-WU3UQQ {
-  margin-right: -4.00px;
-  width: 168px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .x1a-welcome-xpfcXP {
+.x1cu46-discovery-research-and-problem-statement .prev-dtyoxO {
   background-color: transparent;
-  height: auto;
-  left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
+  margin-top: -1.00px;
+  position: relative;
   text-align: left;
-  top: 18px;
-  width: auto;
+  width: fit-content;
 }
 
-.x1cu46-discovery-research-and-problem-statement .previous-xpfcXP {
-  background-color: transparent;
-  color: var(--white);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
+.x1cu46-discovery-research-and-problem-statement .title-WU3UQQ {
+  letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
+  text-align: right;
+  width: fit-content;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navfooternext-IxJfVL {
-  align-items: center;
+  align-items: flex-end;
   background-color: var(--fpcgreen);
-  border-radius: 4px 32px 32px 4px;
+  border-radius: 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  gap: 15px;
-  mix-blend-mode: normal;
+  flex-direction: column;
+  gap: 3px;
+  justify-content: center;
   padding: 10px 15px;
   position: relative;
 }
 
-.x1cu46-discovery-research-and-problem-statement .group-134-OwhYZ3 {
-  width: 156px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .x1b-discovery-research-cq8Ub1 {
+.x1cu46-discovery-research-and-problem-statement .next-tNsUtU {
   background-color: transparent;
-  height: auto;
-  left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
+  margin-top: -1.00px;
+  position: relative;
   text-align: left;
-  top: 18px;
-  width: auto;
+  width: fit-content;
 }
 
-.x1cu46-discovery-research-and-problem-statement .next-cq8Ub1 {
-  background-color: transparent;
-  color: var(--white);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x1cu46-discovery-research-and-problem-statement .arrow-32-OwhYZ3 {
+.x1cu46-discovery-research-and-problem-statement .arrow-tNsUtU {
   margin-right: -0.85px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .title-OwhYZ3 {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  text-align: left;
+  width: fit-content;
 }
 
 .x1cu46-discovery-research-and-problem-statement .sidebarv2-CwB1Cx {
@@ -1462,7 +1482,6 @@
   flex: 0 0 auto;
   flex-direction: column;
   justify-content: space-between;
-  mix-blend-mode: normal;
   padding: 20px;
   position: relative;
 }
@@ -1502,32 +1521,34 @@
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-iU3y3G {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-Dto0Ha {
   background-color: var(--fpcgreen50);
+  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-O061L6 {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-nx9cQh {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .e-subsection-name-orJ3pW {
   background-color: transparent;
   color: var(--black);
+  flex: 1;
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
-  white-space: nowrap;
-  width: fit-content;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navmainv3-mMTjIz {
@@ -1540,14 +1561,17 @@
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-0oTPKn {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-K4JxPW {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-KgxaEb {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navmainv3-wQ2O2R {
@@ -1560,18 +1584,22 @@
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-RuEixi {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-SSB6um {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-ztOPSx {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-tDcbe0 {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .span0-lSyFEJ {
@@ -1588,24 +1616,28 @@
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-iAI7Bm {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-4IVEj1 {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-S6vmBl {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .sidebarbottom-uXS3KR {
   align-items: flex-start;
   background-color: transparent;
-  display: inline-flex;
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 60px;
   position: relative;
+  width: 240px;
 }
 
 .x1cu46-discovery-research-and-problem-statement .have-a-question-xCi2zm {
@@ -1614,514 +1646,58 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  width: 240px;
+  width: 100%;
 }
 
 .x1cu46-discovery-research-and-problem-statement .have-a-question-7SxWB9 {
-  align-self: stretch;
   color: var(--black);
   font-style: normal;
   font-weight: 700;
   line-height: 30px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
 .x1cu46-discovery-research-and-problem-statement .email-us-7SxWB9 {
+  align-self: stretch;
   background-color: transparent;
   cursor: pointer;
   letter-spacing: -0.16px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
-  width: fit-content;
 }
 
 .x1cu46-discovery-research-and-problem-statement .footer-6Tba7z {
+  align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
-  height: 916px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 100%;
-}
-
-.x1cu46-discovery-research-and-problem-statement .base-MH3Mur {
-  background-color: var(--machine-grey);
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.x1cu46-discovery-research-and-problem-statement .information-MH3Mur {
-  background-color: transparent;
-  height: 281px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 575px;
-  width: 1024px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .metadata-HngS9E {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 10px;
-  left: calc(50.00% - 142px);
-  position: absolute;
-  top: 196px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .updated-eyq9dy {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x1cu46-discovery-research-and-problem-statement .iconupdated-ngwYwr {
-  background-color: transparent;
-  height: 16px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .last-updated-15-february-2021-ngwYwr {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .copyright-eyq9dy {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 7px;
-  position: relative;
-}
-
-.x1cu46-discovery-research-and-problem-statement .text_label-6qAGQZ {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x1cu46-discovery-research-and-problem-statement .x2021-foundation-for-public-code-6qAGQZ {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .span0-CmPoaa {
-  font-style: normal;
-}
-
-.x1cu46-discovery-research-and-problem-statement .span1-CmPoaa {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x1cu46-discovery-research-and-problem-statement .license-eyq9dy {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x1cu46-discovery-research-and-problem-statement .iconlicense-IFPvKH {
-  background-color: transparent;
-  height: 14.5px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .creative-commons-zero-v10-universal-IFPvKH {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: 299px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .organizational-notes-HngS9E {
-  background-color: transparent;
-  height: auto;
-  left: calc(50.00% - 142px);
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 650px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .flex-container-i8593779185932358-HngS9E {
-  align-items: flex-start;
-  background-color: transparent;
+  background-color: var(--concrete);
   display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
-  gap: 10px;
-  height: 130px;
-  left: 370px;
-  position: absolute;
-  top: 36px;
-  width: 650px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .text0-i8593779185932358-kren7T {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
+  gap: 60px;
+  min-width: 800px;
+  padding: 60px;
   position: relative;
-  text-align: left;
+  width: 100%;
 }
 
-.x1cu46-discovery-research-and-problem-statement .span0-Xogv49 {
-  font-style: normal;
-}
-
-.x1cu46-discovery-research-and-problem-statement .span1-Xogv49 {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x1cu46-discovery-research-and-problem-statement .span2-Xogv49 {
-  font-style: normal;
-}
-
-.x1cu46-discovery-research-and-problem-statement .span3-Xogv49 {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x1cu46-discovery-research-and-problem-statement .span4-Xogv49 {
-  font-style: normal;
-}
-
-.x1cu46-discovery-research-and-problem-statement .text1-i8593779185932358-kren7T {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x1cu46-discovery-research-and-problem-statement .span5-N9d368 {
-  font-style: normal;
-}
-
-.x1cu46-discovery-research-and-problem-statement .span6-N9d368 {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x1cu46-discovery-research-and-problem-statement .span7-N9d368 {
-  font-style: normal;
-}
-
-.x1cu46-discovery-research-and-problem-statement .span8-N9d368 {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x1cu46-discovery-research-and-problem-statement .span9-N9d368 {
-  font-style: normal;
-}
-
-.x1cu46-discovery-research-and-problem-statement .contact-HngS9E {
-  height: 201px;
-  left: calc(50.00% - 512px);
-  width: 345px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .contact-1QDGLb {
-  height: auto;
-  left: calc(50.00% - 172px);
-  letter-spacing: 0.00px;
-  line-height: 26px;
-  mix-blend-mode: normal;
-  text-align: left;
-  width: 120px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .frame-201-1QDGLb {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 15px;
-  left: calc(50.00% - 172px);
-  position: absolute;
-  top: 36px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .group-196-RERJqH {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .join-our-mailing-list-O9ZlbF {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .newsletter-O9ZlbF {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x1cu46-discovery-research-and-problem-statement .group-197-RERJqH {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .x31-20-2-444-500-wnplFb {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .phone-wnplFb {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x1cu46-discovery-research-and-problem-statement .group-200-RERJqH {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .infopubliccodenet-d71ZbG {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .email-d71ZbG {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x1cu46-discovery-research-and-problem-statement .group-199-RERJqH {
-  background-color: transparent;
-  height: 60px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .links-5O8Khi {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  gap: 10px;
-  left: 103px;
-  position: absolute;
-  top: 40px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .open-street-map-JpIPJ1 {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x1cu46-discovery-research-and-problem-statement .x-JpIPJ1 {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x1cu46-discovery-research-and-problem-statement .google-JpIPJ1 {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x1cu46-discovery-research-and-problem-statement .keizersgracht-617-10-5O8Khi {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 240px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .address-5O8Khi {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
+.x1cu46-discovery-research-and-problem-statement .logo-title-MH3Mur {
+  flex: 0 0 auto;
+  width: 409.66314697265625px;
 }
 
 .x1cu46-discovery-research-and-problem-statement .block-trio-MH3Mur {
   align-items: flex-start;
+  align-self: stretch;
   background-color: transparent;
   display: flex;
+  flex: 0 0 auto;
   gap: 20px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 175px;
-  width: 1080px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
 }
 
 .x1cu46-discovery-research-and-problem-statement .about-us-DA1XNf {
@@ -2133,14 +1709,16 @@
   flex: 1;
   flex-direction: column;
   flex-grow: 1;
-  justify-content: space-between;
+  gap: 30px;
   padding: 30px;
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-jIIix5 {
+  align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -2170,7 +1748,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -2186,7 +1763,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -2198,12 +1774,9 @@
 .x1cu46-discovery-research-and-problem-statement .links-jIIix5 {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  position: relative;
   width: 100%;
 }
 
@@ -2213,7 +1786,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
   width: fit-content;
@@ -2233,9 +1805,11 @@
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-LP7LuJ {
+  align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -2257,7 +1831,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -2265,12 +1838,9 @@
 .x1cu46-discovery-research-and-problem-statement .links-LP7LuJ {
   align-items: flex-end;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   flex-direction: column;
   gap: 15px;
-  position: relative;
   width: 100%;
 }
 
@@ -2281,7 +1851,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
 }
@@ -2292,7 +1861,6 @@
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
 }
@@ -2311,9 +1879,11 @@
 }
 
 .x1cu46-discovery-research-and-problem-statement .content-MW03ZH {
+  align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -2335,7 +1905,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -2343,12 +1912,9 @@
 .x1cu46-discovery-research-and-problem-statement .links-MW03ZH {
   align-items: flex-end;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  position: relative;
   width: 100%;
 }
 
@@ -2358,16 +1924,459 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
   width: fit-content;
 }
 
-.x1cu46-discovery-research-and-problem-statement .logo-title-MH3Mur {
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 60px;
+.x1cu46-discovery-research-and-problem-statement .information-MH3Mur {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
+}
+
+.x1cu46-discovery-research-and-problem-statement .contact-HngS9E {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 373px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .contact-1QDGLb {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1cu46-discovery-research-and-problem-statement .contact-info-1QDGLb {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  margin-right: -15.00px;
+  position: relative;
+  width: 388px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .newsletter-O3oZmc {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1cu46-discovery-research-and-problem-statement .newsletter-yavOkN {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .join-our-mailing-list-yavOkN {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x1cu46-discovery-research-and-problem-statement .phone-O3oZmc {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1cu46-discovery-research-and-problem-statement .phone-dWlu1M {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .x31-20-2-444-500-dWlu1M {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x1cu46-discovery-research-and-problem-statement .email-O3oZmc {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1cu46-discovery-research-and-problem-statement .email-1zav84 {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .infopubliccodenet-1zav84 {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x1cu46-discovery-research-and-problem-statement .address-O3oZmc {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1cu46-discovery-research-and-problem-statement .address-eiChKr {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .content-eiChKr {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.x1cu46-discovery-research-and-problem-statement .keizersgracht-617-10-ThAME6 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 240px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .links-ThAME6 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .open-street-map-bE5xFf {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1cu46-discovery-research-and-problem-statement .x-bE5xFf {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x1cu46-discovery-research-and-problem-statement .google-bE5xFf {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1cu46-discovery-research-and-problem-statement .organization-HngS9E {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  position: relative;
+}
+
+.x1cu46-discovery-research-and-problem-statement .notes-qZ5GVG {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.x1cu46-discovery-research-and-problem-statement .organizational-notes-1YeKOC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1cu46-discovery-research-and-problem-statement .flex-container-i8593779185932358-1YeKOC {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .text0-i8593779185932358-ETTrYK {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x1cu46-discovery-research-and-problem-statement .span0-lRn3TT {
+  font-style: normal;
+}
+
+.x1cu46-discovery-research-and-problem-statement .span1-lRn3TT {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1cu46-discovery-research-and-problem-statement .span2-lRn3TT {
+  font-style: normal;
+}
+
+.x1cu46-discovery-research-and-problem-statement .span3-lRn3TT {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1cu46-discovery-research-and-problem-statement .span4-lRn3TT {
+  font-style: normal;
+}
+
+.x1cu46-discovery-research-and-problem-statement .text1-i8593779185932358-ETTrYK {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x1cu46-discovery-research-and-problem-statement .span5-degutP {
+  font-style: normal;
+}
+
+.x1cu46-discovery-research-and-problem-statement .span6-degutP {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1cu46-discovery-research-and-problem-statement .span7-degutP {
+  font-style: normal;
+}
+
+.x1cu46-discovery-research-and-problem-statement .span8-degutP {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1cu46-discovery-research-and-problem-statement .span9-degutP {
+  font-style: normal;
+}
+
+.x1cu46-discovery-research-and-problem-statement .metadata-qZ5GVG {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x1cu46-discovery-research-and-problem-statement .updated-lJcxYj {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x1cu46-discovery-research-and-problem-statement .iconupdated-PNJBAh {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .last-updated-22-august-2023-PNJBAh {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .copyright-lJcxYj {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+}
+
+.x1cu46-discovery-research-and-problem-statement .text_label-PPxRUC {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x1cu46-discovery-research-and-problem-statement .x2023-foundation-for-public-code-PPxRUC {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .span0-0dtTzC {
+  font-style: normal;
+}
+
+.x1cu46-discovery-research-and-problem-statement .span1-0dtTzC {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1cu46-discovery-research-and-problem-statement .license-lJcxYj {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x1cu46-discovery-research-and-problem-statement .iconlicense-r9BcwA {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .creative-commons-zero-v10-universal-r9BcwA {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 299px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .action {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 100%;
 }
 
 .x1cu46-discovery-research-and-problem-statement .an-action-that-requires-high-engagement {
@@ -2376,37 +2385,34 @@
   letter-spacing: 0.00px;
   line-height: 24px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
 
-.x1cu46-discovery-research-and-problem-statement .arrow-32 {
+.x1cu46-discovery-research-and-problem-statement .arrow {
   background-color: transparent;
   height: 12.46875px;
   position: relative;
-  width: 15.2392578125px;
+  width: 19.693359375px;
 }
 
-.x1cu46-discovery-research-and-problem-statement .capacity-building {
+.x1cu46-discovery-research-and-problem-statement .contact {
   background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: fit-content;
 }
 
 .x1cu46-discovery-research-and-problem-statement .content {
-  align-items: flex-start;
   display: flex;
-  flex-direction: column;
   position: relative;
+}
+
+.x1cu46-discovery-research-and-problem-statement .foundation-for-public-code {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
 }
 
 .x1cu46-discovery-research-and-problem-statement .gear-2 {
@@ -2418,8 +2424,13 @@
   width: 100.00%;
 }
 
-.x1cu46-discovery-research-and-problem-statement .have-a-question {
+.x1cu46-discovery-research-and-problem-statement .goal {
+  align-items: flex-start;
   background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
   position: relative;
 }
 
@@ -2430,6 +2441,28 @@
   width: 32.0087890625px;
 }
 
+.x1cu46-discovery-research-and-problem-statement .links {
+  background-color: transparent;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x1cu46-discovery-research-and-problem-statement .logo-symbol {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.6630859375px;
+}
+
+.x1cu46-discovery-research-and-problem-statement .logo-title {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  gap: 13px;
+  position: relative;
+}
+
 .x1cu46-discovery-research-and-problem-statement .lorem-ipsum {
   align-self: stretch;
   background-color: transparent;
@@ -2437,9 +2470,18 @@
   font-style: normal;
   font-weight: 400;
   line-height: 21px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
+}
+
+.x1cu46-discovery-research-and-problem-statement .outcome {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
 }
 
 .x1cu46-discovery-research-and-problem-statement .this-is-an-outcome-t {
@@ -2447,9 +2489,13 @@
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
+}
+
+.x1cu46-discovery-research-and-problem-statement .title {
+  background-color: transparent;
+  position: relative;
 }
 
 .x1cu46-discovery-research-and-problem-statement .visualaidmatrixbox {
@@ -2460,7 +2506,6 @@
   display: inline-flex;
   flex-direction: column;
   gap: 10px;
-  mix-blend-mode: normal;
   padding: 10px;
   position: absolute;
 }

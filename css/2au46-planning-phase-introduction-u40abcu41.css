@@ -3,148 +3,145 @@
 .x2au46-planning-phase-introduction-u40abcu41 {
   align-items: center;
   background-color: var(--white);
-  border: 1px none;
   display: flex;
   flex-direction: column;
   gap: 60px;
   left: 0px;
-  mix-blend-mode: normal;
   overflow: hidden;
   overflow-x: hidden;
-  padding: 60px 0px 0px;
   position: relative;
   top: 0px;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .header-wqea70 {
   align-items: center;
-  background-color: transparent;
+  align-self: stretch;
+  background-color: var(--concrete);
   display: flex;
   flex: 0 0 auto;
+  gap: 30px;
+  justify-content: space-around;
+  padding: 30px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .content-i9Mgt5 {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 16px 16px;
   justify-content: space-between;
-  position: relative;
-  width: 1080px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .logo-title-i9Mgt5 {
-  position: relative;
+.x2au46-planning-phase-introduction-u40abcu41 .logo-title-U1zyuh {
+  width: 426px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .navigation-i9Mgt5 {
+.x2au46-planning-phase-introduction-u40abcu41 .navigation-U1zyuh {
+  align-items: center;
   background-color: transparent;
-  height: 24px;
+  display: flex;
+  gap: 40px;
+  justify-content: flex-end;
   position: relative;
   width: 534px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .links-juxzQR {
+.x2au46-planning-phase-introduction-u40abcu41 .links-9fKIKg {
   align-items: flex-start;
-  background-color: transparent;
   display: inline-flex;
-  gap: 30px;
+  flex-wrap: wrap;
+  gap: 30px 30px;
   justify-content: flex-end;
-  left: 0px;
-  position: absolute;
-  top: 2px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .stewardship-uS1pNt {
+.x2au46-planning-phase-introduction-u40abcu41 .stewardship-DcrVos {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .resources-uS1pNt {
+.x2au46-planning-phase-introduction-u40abcu41 .resources-DcrVos {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .who-we-are-uS1pNt {
+.x2au46-planning-phase-introduction-u40abcu41 .who-we-are-DcrVos {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .join-us-uS1pNt {
+.x2au46-planning-phase-introduction-u40abcu41 .join-us-DcrVos {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .services-juxzQR {
+.x2au46-planning-phase-introduction-u40abcu41 .services-9fKIKg {
   align-items: flex-start;
   background-color: transparent;
   display: inline-flex;
+  flex: 0 0 auto;
   gap: 20px;
-  left: 422px;
-  position: absolute;
-  top: 0px;
+  position: relative;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .mastodon-cnB30X {
+.x2au46-planning-phase-introduction-u40abcu41 .mastodon-YdbdRT {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .twitter-cnB30X {
+.x2au46-planning-phase-introduction-u40abcu41 .twitter-YdbdRT {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .github-cnB30X {
+.x2au46-planning-phase-introduction-u40abcu41 .github-YdbdRT {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   width: 24px;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .title-wqea70 {
-  background-color: transparent;
   color: var(--black);
   font-style: normal;
   font-weight: 700;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
   text-align: left;
   width: 1080px;
 }
@@ -161,7 +158,9 @@
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .content-pa57Sx {
+  align-items: flex-start;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 60px;
 }
@@ -199,14 +198,13 @@
 .x2au46-planning-phase-introduction-u40abcu41 .page-title-U51xxx {
   background-color: transparent;
   color: var(--black);
+  flex: 1;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
-  width: fit-content;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .cluster-4HUmcO {
@@ -224,7 +222,6 @@
   background-color: var(--fpcblue);
   border-radius: 12px;
   height: 230px;
-  mix-blend-mode: normal;
   overflow: hidden;
   position: relative;
   width: 230px;
@@ -243,7 +240,6 @@
   background-color: var(--white);
   height: 9.39%;
   left: 29.19%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 49.38%;
   width: 14.21%;
@@ -252,7 +248,6 @@
 .x2au46-planning-phase-introduction-u40abcu41 .vector-RNfwbh {
   height: 8.86%;
   left: 21.73%;
-  mix-blend-mode: normal;
   top: 23.52%;
   width: 12.30%;
 }
@@ -260,7 +255,6 @@
 .x2au46-planning-phase-introduction-u40abcu41 .vector-1CfC4X {
   height: 13.02%;
   left: 22.09%;
-  mix-blend-mode: normal;
   top: 22.01%;
   width: 15.31%;
 }
@@ -268,7 +262,6 @@
 .x2au46-planning-phase-introduction-u40abcu41 .vector-NjhRif {
   height: 11.79%;
   left: 22.11%;
-  mix-blend-mode: normal;
   top: 22.32%;
   width: 18.26%;
 }
@@ -303,7 +296,6 @@
 .x2au46-planning-phase-introduction-u40abcu41 .union-hk8fmF {
   height: 100.00%;
   left: 0px;
-  mix-blend-mode: normal;
   top: 0px;
   transform: rotate(90.00deg);
   width: 100.00%;
@@ -343,7 +335,6 @@
   background-color: var(--blue-violet);
   height: 2.21%;
   left: 31.98%;
-  mix-blend-mode: normal;
   top: 52.96%;
   width: 2.03%;
 }
@@ -352,7 +343,6 @@
   background-color: var(--blue-violet);
   height: 2.21%;
   left: 35.28%;
-  mix-blend-mode: normal;
   top: 52.96%;
   width: 2.03%;
 }
@@ -361,7 +351,6 @@
   background-color: var(--blue-violet);
   height: 2.21%;
   left: 38.58%;
-  mix-blend-mode: normal;
   top: 52.96%;
   width: 2.03%;
 }
@@ -371,7 +360,6 @@
   border-radius: 7.39px;
   height: 7.45%;
   left: 28.68%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 39.71%;
   width: 6.85%;
@@ -397,7 +385,6 @@
   border-radius: 4.11px;
   height: 71.43%;
   left: 33.33%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 14.29%;
   width: 31.25%;
@@ -442,7 +429,6 @@
   border-radius: 6.57px;
   height: 6.63%;
   left: 44.42%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 85.26%;
   width: 6.09%;
@@ -458,7 +444,6 @@
 .x2au46-planning-phase-introduction-u40abcu41 .vector-yJjX20 {
   height: 24.22%;
   left: 3.01%;
-  mix-blend-mode: normal;
   top: 13.07%;
   width: 39.67%;
 }
@@ -474,7 +459,6 @@
   background-color: var(--blue-violet);
   height: 9.39%;
   left: 47.72%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 55.72%;
   width: 14.21%;
@@ -491,7 +475,6 @@
   background-color: var(--carnation);
   height: 9.39%;
   left: 14.98%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 62.90%;
   width: 14.21%;
@@ -509,7 +492,6 @@
   border-radius: 3.29px;
   height: 3.31%;
   left: 46.20%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 59.04%;
   width: 3.05%;
@@ -520,7 +502,6 @@
   border-radius: 3.29px;
   height: 3.31%;
   left: 27.67%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 52.41%;
   width: 3.05%;
@@ -531,7 +512,6 @@
   border-radius: 3.29px;
   height: 3.31%;
   left: 27.67%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 66.22%;
   width: 3.05%;
@@ -542,7 +522,6 @@
   border-radius: 3.29px;
   height: 3.31%;
   left: 45.94%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 86.92%;
   width: 3.05%;
@@ -553,7 +532,6 @@
   border-radius: 4.11px;
   height: 4.14%;
   left: 15.74%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 52.96%;
   width: 3.81%;
@@ -591,7 +569,6 @@
   border-radius: 4.11px;
   height: 4.14%;
   left: 75.90%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 52.96%;
   width: 3.81%;
@@ -602,7 +579,6 @@
   border-radius: 4.11px;
   height: 4.14%;
   left: 24.62%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 76.98%;
   width: 3.81%;
@@ -613,7 +589,6 @@
   border-radius: 12.32px;
   height: 12.42%;
   left: 53.05%;
-  mix-blend-mode: normal;
   position: absolute;
   top: 29.50%;
   width: 11.42%;
@@ -658,7 +633,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -692,7 +666,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -716,7 +689,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -732,7 +704,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -766,7 +737,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -787,102 +757,71 @@
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navfooterprev-kxNc7N {
-  align-items: center;
+  align-items: flex-start;
   background-color: var(--fpcgreen);
-  border-radius: 32px 4px 4px 32px;
+  border-radius: 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  gap: 15px;
-  mix-blend-mode: normal;
+  flex-direction: column;
+  gap: 3px;
+  justify-content: center;
   padding: 10px 15px;
   position: relative;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .arrow-32-yN9qpQ {
+.x2au46-planning-phase-introduction-u40abcu41 .arrow-vTsTAG {
   margin-left: -0.85px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .group-134-yN9qpQ {
-  margin-right: -4.00px;
-  width: 167px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .x1a-welcome-umncJM {
+.x2au46-planning-phase-introduction-u40abcu41 .prev-vTsTAG {
   background-color: transparent;
-  height: auto;
-  left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
+  margin-top: -1.00px;
+  position: relative;
   text-align: left;
-  top: 18px;
-  width: auto;
+  width: fit-content;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .previous-umncJM {
-  background-color: transparent;
-  color: var(--white);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
+.x2au46-planning-phase-introduction-u40abcu41 .title-yN9qpQ {
+  letter-spacing: 0.00px;
+  text-align: right;
+  width: fit-content;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navfooternext-kxNc7N {
-  align-items: center;
+  align-items: flex-end;
   background-color: var(--fpcblue);
-  border-radius: 4px 32px 32px 4px;
+  border-radius: 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  gap: 15px;
-  mix-blend-mode: normal;
+  flex-direction: column;
+  gap: 3px;
+  justify-content: center;
   padding: 10px 15px;
   position: relative;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .group-134-QUd6x4 {
-  width: 147px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .x1b-discovery-research-f6LaIj {
+.x2au46-planning-phase-introduction-u40abcu41 .next-1dMhwe {
   background-color: transparent;
-  height: auto;
-  left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
+  margin-top: -1.00px;
+  position: relative;
   text-align: left;
-  top: 18px;
-  width: auto;
+  width: fit-content;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .next-f6LaIj {
-  background-color: transparent;
-  color: var(--white);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .arrow-32-QUd6x4 {
+.x2au46-planning-phase-introduction-u40abcu41 .arrow-1dMhwe {
   margin-right: -0.85px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .title-QUd6x4 {
+  letter-spacing: 0.00px;
+  text-align: left;
+  width: fit-content;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .sidebarv2-pa57Sx {
@@ -894,7 +833,6 @@
   flex: 0 0 auto;
   flex-direction: column;
   justify-content: space-between;
-  mix-blend-mode: normal;
   padding: 20px;
   position: relative;
 }
@@ -934,18 +872,22 @@
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-GUoRV7 {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-PwdQxY {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-GGaGDU {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-1iO89x {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navmainv3-OQHPox {
@@ -958,14 +900,17 @@
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-y6RhKj {
   background-color: var(--fpcblue50);
+  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-Ux0gxz {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-8Lhxzl {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navmainv3-XVx6y1 {
@@ -978,18 +923,22 @@
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-GFO42J {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-nvxh0x {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-tzAsfM {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-TUaQkK {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .span0-zQNHm3 {
@@ -1006,24 +955,28 @@
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-jUbaul {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-XGK8WH {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-JaLR7J {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .sidebarbottom-J18Nh0 {
   align-items: flex-start;
   background-color: transparent;
-  display: inline-flex;
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 60px;
   position: relative;
+  width: 240px;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .have-a-question-VTrIxx {
@@ -1032,514 +985,58 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  width: 240px;
+  width: 100%;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .have-a-question-xr1xwh {
-  align-self: stretch;
   color: var(--black);
   font-style: normal;
   font-weight: 700;
   line-height: 30px;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   text-align: left;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .email-us-xr1xwh {
+  align-self: stretch;
   background-color: transparent;
   cursor: pointer;
   letter-spacing: -0.16px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
   text-decoration: underline;
-  width: fit-content;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .footer-wqea70 {
+  align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
-  height: 916px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 100%;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .base-HAXWxd {
-  background-color: var(--machine-grey);
-  height: 100%;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .information-HAXWxd {
-  background-color: transparent;
-  height: 281px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 575px;
-  width: 1024px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .metadata-7esbEB {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 10px;
-  left: calc(50.00% - 142px);
-  position: absolute;
-  top: 196px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .updated-tkCkcJ {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .iconupdated-jz0E0S {
-  background-color: transparent;
-  height: 16px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .last-updated-15-february-2021-jz0E0S {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .copyright-tkCkcJ {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 7px;
-  position: relative;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .text_label-yyxpD0 {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .x2021-foundation-for-public-code-yyxpD0 {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span0-wAxzqv {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span1-wAxzqv {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .license-tkCkcJ {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .iconlicense-D3Z4CF {
-  background-color: transparent;
-  height: 14.5px;
-  mix-blend-mode: normal;
-  position: relative;
-  width: 16px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .creative-commons-zero-v10-universal-D3Z4CF {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: 299px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .organizational-notes-7esbEB {
-  background-color: transparent;
-  height: auto;
-  left: calc(50.00% - 142px);
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 650px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .flex-container-i8593838785932358-7esbEB {
-  align-items: flex-start;
-  background-color: transparent;
+  background-color: var(--concrete);
   display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
-  gap: 10px;
-  height: 130px;
-  left: 370px;
-  position: absolute;
-  top: 36px;
-  width: 650px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .text0-i8593838785932358-Gw0Vf0 {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
+  gap: 60px;
+  min-width: 800px;
+  padding: 60px;
   position: relative;
-  text-align: left;
+  width: 100%;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .span0-SLHRZi {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span1-SLHRZi {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span2-SLHRZi {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span3-SLHRZi {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span4-SLHRZi {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .text1-i8593838785932358-Gw0Vf0 {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span5-Mo3GoO {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span6-Mo3GoO {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span7-Mo3GoO {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span8-Mo3GoO {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .span9-Mo3GoO {
-  font-style: normal;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .contact-7esbEB {
-  height: 201px;
-  left: calc(50.00% - 512px);
-  width: 345px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .contact-xhMrix {
-  height: auto;
-  left: calc(50.00% - 172px);
-  letter-spacing: 0.00px;
-  line-height: 26px;
-  mix-blend-mode: normal;
-  text-align: left;
-  width: 120px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .frame-201-xhMrix {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 15px;
-  left: calc(50.00% - 172px);
-  position: absolute;
-  top: 36px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .group-196-1x1UYX {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .join-our-mailing-list-20yycH {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .newsletter-20yycH {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .group-197-1x1UYX {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .x31-20-2-444-500-XDZtie {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .phone-XDZtie {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .group-200-1x1UYX {
-  background-color: transparent;
-  height: 20px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .infopubliccodenet-EUfqCW {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  top: 0px;
-  width: 240px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .email-EUfqCW {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .group-199-1x1UYX {
-  background-color: transparent;
-  height: 60px;
-  margin-right: -4.00px;
-  position: relative;
-  width: 347px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .links-W5VuMm {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  gap: 10px;
-  left: 103px;
-  position: absolute;
-  top: 40px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .open-street-map-AAvgcB {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .x-AAvgcB {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .google-AAvgcB {
-  background-color: transparent;
-  color: var(--basic-link);
-  cursor: pointer;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .keizersgracht-617-10-W5VuMm {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 103px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 240px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .address-W5VuMm {
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
+.x2au46-planning-phase-introduction-u40abcu41 .logo-title-HAXWxd {
+  flex: 0 0 auto;
+  width: 409.66314697265625px;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .block-trio-HAXWxd {
   align-items: flex-start;
+  align-self: stretch;
   background-color: transparent;
   display: flex;
+  flex: 0 0 auto;
   gap: 20px;
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 175px;
-  width: 1080px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .about-us-1TsvoP {
@@ -1551,13 +1048,15 @@
   flex: 1;
   flex-direction: column;
   flex-grow: 1;
-  justify-content: space-between;
+  gap: 30px;
   padding: 30px;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .content-xunndO {
+  align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -1587,7 +1086,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1603,7 +1101,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1615,12 +1112,9 @@
 .x2au46-planning-phase-introduction-u40abcu41 .links-xunndO {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  position: relative;
   width: 100%;
 }
 
@@ -1630,7 +1124,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
   width: fit-content;
@@ -1650,8 +1143,10 @@
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .content-mxUc3e {
+  align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -1673,7 +1168,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1681,12 +1175,9 @@
 .x2au46-planning-phase-introduction-u40abcu41 .links-mxUc3e {
   align-items: flex-end;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   flex-direction: column;
   gap: 15px;
-  position: relative;
   width: 100%;
 }
 
@@ -1697,7 +1188,6 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
 }
@@ -1708,7 +1198,6 @@
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
 }
@@ -1727,8 +1216,10 @@
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .content-QDflDx {
+  align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
   width: 100%;
 }
@@ -1750,7 +1241,6 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
 }
@@ -1758,12 +1248,9 @@
 .x2au46-planning-phase-introduction-u40abcu41 .links-QDflDx {
   align-items: flex-end;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  position: relative;
   width: 100%;
 }
 
@@ -1773,37 +1260,454 @@
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: right;
   width: fit-content;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .logo-title-HAXWxd {
-  left: calc(50.00% - 540px);
-  position: absolute;
-  top: 60px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .arrow-32 {
+.x2au46-planning-phase-introduction-u40abcu41 .information-HAXWxd {
+  align-items: flex-start;
+  align-self: stretch;
   background-color: transparent;
-  height: 12.468994140625px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  max-width: 1160px;
   position: relative;
-  width: 15.23828125px;
+  width: 100%;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .capacity-building {
+.x2au46-planning-phase-introduction-u40abcu41 .contact-7esbEB {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 373px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .contact-xhMrix {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .contact-info-xhMrix {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  margin-right: -15.00px;
+  position: relative;
+  width: 388px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .newsletter-bWSZXH {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .newsletter-euxP8Y {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .join-our-mailing-list-euxP8Y {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .phone-bWSZXH {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .phone-fMIG5M {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .x31-20-2-444-500-fMIG5M {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .email-bWSZXH {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .email-xMDb2J {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .infopubliccodenet-xMDb2J {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .address-bWSZXH {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .address-p8gIlm {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .content-p8gIlm {
+  align-items: flex-start;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .keizersgracht-617-10-2nAMAQ {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 240px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .links-2nAMAQ {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .open-street-map-jKQmiE {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .x-jKQmiE {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .google-jKQmiE {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .organization-7esbEB {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  position: relative;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .notes-AzTkKZ {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .organizational-notes-E3Fi1L {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .flex-container-i8593838785932358-E3Fi1L {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .text0-i8593838785932358-idBbdJ {
+  align-self: stretch;
   background-color: transparent;
   color: var(--black);
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  margin-top: -1.00px;
-  mix-blend-mode: normal;
   position: relative;
   text-align: left;
-  white-space: nowrap;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .span0-P77AL0 {
+  font-style: normal;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .span1-P77AL0 {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .span2-P77AL0 {
+  font-style: normal;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .span3-P77AL0 {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .span4-P77AL0 {
+  font-style: normal;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .text1-i8593838785932358-idBbdJ {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .span5-jt0LJo {
+  font-style: normal;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .span6-jt0LJo {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .span7-jt0LJo {
+  font-style: normal;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .span8-jt0LJo {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .span9-jt0LJo {
+  font-style: normal;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .metadata-AzTkKZ {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .updated-WcuBDm {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .iconupdated-wB70dl {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .last-updated-22-august-2023-wB70dl {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .copyright-WcuBDm {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .text_label-gICUif {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
   width: fit-content;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .x2023-foundation-for-public-code-gICUif {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .span0-EQQzxu {
+  font-style: normal;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .span1-EQQzxu {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .license-WcuBDm {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .iconlicense-ujkE6W {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .creative-commons-zero-v10-universal-ujkE6W {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 299px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .arrow {
+  background-color: transparent;
+  height: 12.468994140625px;
+  position: relative;
+  width: 19.69140625px;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .comment {
@@ -1811,12 +1715,24 @@
   position: absolute;
 }
 
+.x2au46-planning-phase-introduction-u40abcu41 .contact {
+  background-color: transparent;
+  position: relative;
+}
+
 .x2au46-planning-phase-introduction-u40abcu41 .content {
-  align-items: flex-start;
   background-color: transparent;
   display: flex;
-  flex-direction: column;
   position: relative;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .foundation-for-public-code {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .group-2 {
@@ -1824,8 +1740,25 @@
   position: absolute;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .have-a-question {
+.x2au46-planning-phase-introduction-u40abcu41 .links {
   background-color: transparent;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .logo-symbol {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.6640625px;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .logo-title {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  gap: 13px;
   position: relative;
 }
 
@@ -1850,6 +1783,12 @@
 .x2au46-planning-phase-introduction-u40abcu41 .rectangle-317 {
   border-radius: 5px;
   position: absolute;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .title {
+  background-color: transparent;
+  line-height: normal;
+  position: relative;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .union {
