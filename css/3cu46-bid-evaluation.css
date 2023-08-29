@@ -1011,7 +1011,7 @@
 }
 
 .x3cu46-bid-evaluation .footer-nav-aPb55o {
-  align-items: flex-start;
+  align-items: center;
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -1022,74 +1022,55 @@
   width: 100%;
 }
 
-.x3cu46-bid-evaluation .navfooterprev-I2x1X0 {
-  align-items: flex-start;
+.x3cu46-bid-evaluation .navfooterprev-v02-I2x1X0 {
+  align-items: center;
   background-color: var(--fpcbgpeach);
-  border-radius: 4px;
+  border-radius: 32px 4px 4px 32px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 3px;
-  justify-content: center;
+  gap: 15px;
+  justify-content: flex-end;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
 }
 
-.x3cu46-bid-evaluation .arrow-c209hD {
+.x3cu46-bid-evaluation .arrow-3JM9L3 {
   margin-left: -0.85px;
 }
 
-.x3cu46-bid-evaluation .prev-c209hD {
-  background-color: transparent;
+.x3cu46-bid-evaluation .title-3JM9L3 {
+  flex: 1;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x3cu46-bid-evaluation .title-u87B1Z {
-  letter-spacing: 0.00px;
-  line-height: normal;
   text-align: right;
-  width: fit-content;
 }
 
-.x3cu46-bid-evaluation .navfooternext-I2x1X0 {
-  align-items: flex-end;
+.x3cu46-bid-evaluation .navfooternext-v02-I2x1X0 {
+  align-items: center;
   background-color: var(--fpcbgpeach);
-  border-radius: 4px;
+  border-radius: 4px 32px 32px 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 3px;
-  justify-content: center;
+  gap: 15px;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
 }
 
-.x3cu46-bid-evaluation .next-yErGj4 {
-  background-color: transparent;
+.x3cu46-bid-evaluation .title-m8U45H {
+  flex: 1;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
   text-align: left;
-  width: fit-content;
 }
 
-.x3cu46-bid-evaluation .arrow-yErGj4 {
+.x3cu46-bid-evaluation .arrow-m8U45H {
   margin-right: -0.85px;
-}
-
-.x3cu46-bid-evaluation .title-76cdNf {
-  letter-spacing: 0.00px;
-  line-height: normal;
-  text-align: left;
-  width: fit-content;
 }
 
 .x3cu46-bid-evaluation .sidebarv2-txYvsD {
@@ -1139,22 +1120,18 @@
 
 .x3cu46-bid-evaluation .navsubsectionv2-a5yXtq {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-LFVl62 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-c14TMH {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-xCScJx {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navmainv3-HsAMVb {
@@ -1167,17 +1144,14 @@
 
 .x3cu46-bid-evaluation .navsubsectionv2-4tQ3vu {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-jmLP8X {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-hc7fO6 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navmainv3-xAhZSh {
@@ -1190,22 +1164,18 @@
 
 .x3cu46-bid-evaluation .navsubsectionv2-T3zYiK {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-M77x54 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-6T6Ax0 {
   background-color: var(--fpcpeachmid);
-  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-xoBaMh {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .span0-ZdS55D {
@@ -1222,17 +1192,14 @@
 
 .x3cu46-bid-evaluation .navsubsectionv2-OYVqlL {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-OQSkCo {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .navsubsectionv2-bueLFG {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3cu46-bid-evaluation .sidebarbottom-bx6HyF {
@@ -2000,7 +1967,7 @@
   background-color: transparent;
   height: 12.46875px;
   position: relative;
-  width: 19.69140625px;
+  width: 15.23828125px;
 }
 
 .x3cu46-bid-evaluation .cluster {
@@ -2089,6 +2056,19 @@
   line-height: 21px;
   position: relative;
   text-align: left;
+}
+
+.x3cu46-bid-evaluation .navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
 }
 
 .x3cu46-bid-evaluation .outcome {

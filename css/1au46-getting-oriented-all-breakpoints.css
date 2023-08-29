@@ -154,6 +154,7 @@
 }
 
 .x1au46-getting-oriented-all-breakpoints .title-IeT2wd {
+  align-self: stretch;
   color: var(--black);
   font-style: normal;
   font-weight: 700;
@@ -1372,25 +1373,16 @@
   background-color: var(--fpcgreen);
   border-radius: 4px 32px 32px 4px;
   cursor: pointer;
-  display: flex;
+  display: inline-flex;
+  flex: 0 0 auto;
   gap: 15px;
   min-width: 140px;
   padding: 10px 15px;
   position: relative;
-  width: 200px;
 }
 
-.x1au46-getting-oriented-all-breakpoints .content-rSqwr0 {
-  align-items: flex-start;
-  align-self: stretch;
+.x1au46-getting-oriented-all-breakpoints .title-rSqwr0 {
   flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 3px;
-  justify-content: center;
-}
-
-.x1au46-getting-oriented-all-breakpoints .title-9exjvz {
   letter-spacing: 0.00px;
 }
 
@@ -1444,22 +1436,18 @@
 
 .x1au46-getting-oriented-all-breakpoints .navsubsectionv2-gQoN8e {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-all-breakpoints .navsubsectionv2-sIWnkY {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-all-breakpoints .navsubsectionv2-gL9bdo {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-all-breakpoints .navsubsectionv2-oGJJ2x {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-all-breakpoints .e-subsection-name-OgxnUB {
@@ -1484,17 +1472,14 @@
 
 .x1au46-getting-oriented-all-breakpoints .navsubsectionv2-oh3bFE {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-all-breakpoints .navsubsectionv2-aYMiqn {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-all-breakpoints .navsubsectionv2-5n3SFS {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-all-breakpoints .navmainv3-A8BGvt {
@@ -1507,22 +1492,18 @@
 
 .x1au46-getting-oriented-all-breakpoints .navsubsectionv2-Cqt78U {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-all-breakpoints .navsubsectionv2-UNbjxf {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-all-breakpoints .navsubsectionv2-bJPQDi {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-all-breakpoints .navsubsectionv2-FEColh {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-all-breakpoints .span0-QwlZth {
@@ -1539,17 +1520,14 @@
 
 .x1au46-getting-oriented-all-breakpoints .navsubsectionv2-RZSRxI {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-all-breakpoints .navsubsectionv2-TPMSLQ {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-all-breakpoints .navsubsectionv2-DFxydw {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-all-breakpoints .sidebarbottom-KQCPZe {
@@ -2371,6 +2349,19 @@
   position: relative;
 }
 
+.x1au46-getting-oriented-all-breakpoints .navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
+}
+
 .x1au46-getting-oriented-all-breakpoints .rectangle {
   height: 35.83%;
   position: absolute;
@@ -2378,7 +2369,6 @@
 }
 
 .x1au46-getting-oriented-all-breakpoints .title {
-  align-self: stretch;
   background-color: transparent;
   line-height: normal;
   margin-top: -1.00px;
@@ -2554,6 +2544,7 @@
 }
 
 .x1au46-getting-oriented-u40mobileu41 .title-rC3417 {
+  align-self: stretch;
   color: var(--black);
   font-style: normal;
   font-weight: 700;
@@ -3724,25 +3715,16 @@
   background-color: var(--fpcgreen);
   border-radius: 4px 32px 32px 4px;
   cursor: pointer;
-  display: flex;
+  display: inline-flex;
+  flex: 0 0 auto;
   gap: 15px;
   min-width: 140px;
   padding: 10px 15px;
   position: relative;
-  width: 200px;
 }
 
-.x1au46-getting-oriented-u40mobileu41 .content-Py0DAP {
-  align-items: flex-start;
-  align-self: stretch;
+.x1au46-getting-oriented-u40mobileu41 .title-Py0DAP {
   flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 3px;
-  justify-content: center;
-}
-
-.x1au46-getting-oriented-u40mobileu41 .title-vCe5rK {
   letter-spacing: 0.00px;
 }
 
@@ -3780,22 +3762,18 @@
 
 .x1au46-getting-oriented-u40mobileu41 .navsubsectionv2-AuPhBc {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-u40mobileu41 .navsubsectionv2-n0GWTY {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-u40mobileu41 .navsubsectionv2-6wJXxe {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-u40mobileu41 .navsubsectionv2-oPX9uk {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-u40mobileu41 .e-subsection-name-bINXOx {
@@ -3820,17 +3798,14 @@
 
 .x1au46-getting-oriented-u40mobileu41 .navsubsectionv2-vrrsfx {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-u40mobileu41 .navsubsectionv2-kN3GlJ {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-u40mobileu41 .navsubsectionv2-qSuf8x {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-u40mobileu41 .navmainv3-ZwHtyD {
@@ -3843,22 +3818,18 @@
 
 .x1au46-getting-oriented-u40mobileu41 .navsubsectionv2-RxWiRd {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-u40mobileu41 .navsubsectionv2-kEYhwF {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-u40mobileu41 .navsubsectionv2-VxjHXa {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-u40mobileu41 .navsubsectionv2-2IvYQ0 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-u40mobileu41 .span0-WEAeYH {
@@ -3875,17 +3846,14 @@
 
 .x1au46-getting-oriented-u40mobileu41 .navsubsectionv2-HmJm0u {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-u40mobileu41 .navsubsectionv2-kDW8wJ {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-u40mobileu41 .navsubsectionv2-Mt4lGx {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1au46-getting-oriented-u40mobileu41 .sidebarv2-KU5mY4 {
@@ -4698,6 +4666,19 @@
   position: relative;
 }
 
+.x1au46-getting-oriented-u40mobileu41 .navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
+}
+
 .x1au46-getting-oriented-u40mobileu41 .rectangle {
   height: 35.83%;
   position: absolute;
@@ -4705,7 +4686,6 @@
 }
 
 .x1au46-getting-oriented-u40mobileu41 .title {
-  align-self: stretch;
   background-color: transparent;
   line-height: normal;
   margin-top: -1.00px;

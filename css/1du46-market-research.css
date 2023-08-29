@@ -1220,7 +1220,7 @@
 }
 
 .x1du46-market-research .footer-nav-b4osPl {
-  align-items: flex-start;
+  align-items: center;
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -1231,74 +1231,55 @@
   width: 100%;
 }
 
-.x1du46-market-research .navfooterprev-E9KKtS {
-  align-items: flex-start;
+.x1du46-market-research .navfooterprev-v02-E9KKtS {
+  align-items: center;
   background-color: var(--fpcgreen);
-  border-radius: 4px;
+  border-radius: 32px 4px 4px 32px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 3px;
-  justify-content: center;
+  gap: 15px;
+  justify-content: flex-end;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
 }
 
-.x1du46-market-research .arrow-DmWYhO {
+.x1du46-market-research .arrow-TeXP3N {
   margin-left: -0.85px;
 }
 
-.x1du46-market-research .prev-DmWYhO {
-  background-color: transparent;
+.x1du46-market-research .title-TeXP3N {
+  flex: 1;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x1du46-market-research .title-SwH5ki {
-  letter-spacing: 0.00px;
-  line-height: normal;
   text-align: right;
-  width: fit-content;
 }
 
-.x1du46-market-research .navfooternext-E9KKtS {
-  align-items: flex-end;
+.x1du46-market-research .navfooternext-v02-E9KKtS {
+  align-items: center;
   background-color: var(--fpcgreen);
-  border-radius: 4px;
+  border-radius: 4px 32px 32px 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 3px;
-  justify-content: center;
+  gap: 15px;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
 }
 
-.x1du46-market-research .next-BrXmrs {
-  background-color: transparent;
+.x1du46-market-research .title-aQCbHv {
+  flex: 1;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
   text-align: left;
-  width: fit-content;
 }
 
-.x1du46-market-research .arrow-BrXmrs {
+.x1du46-market-research .arrow-aQCbHv {
   margin-right: -0.85px;
-}
-
-.x1du46-market-research .title-0QZOF1 {
-  letter-spacing: 0.00px;
-  line-height: normal;
-  text-align: left;
-  width: fit-content;
 }
 
 .x1du46-market-research .sidebarv2-Wk2PEl {
@@ -1349,22 +1330,18 @@
 
 .x1du46-market-research .navsubsectionv2-SzSGHM {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1du46-market-research .navsubsectionv2-qgz0kn {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1du46-market-research .navsubsectionv2-S0KzhT {
   background-color: var(--fpcgreen50);
-  cursor: pointer;
 }
 
 .x1du46-market-research .navsubsectionv2-n903Ni {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1du46-market-research .e-subsection-name-WxJS6Y {
@@ -1389,17 +1366,14 @@
 
 .x1du46-market-research .navsubsectionv2-Fl0GIC {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1du46-market-research .navsubsectionv2-B48GOi {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1du46-market-research .navsubsectionv2-r3kO2i {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1du46-market-research .navmainv3-ilP7B5 {
@@ -1412,22 +1386,18 @@
 
 .x1du46-market-research .navsubsectionv2-U7SFjl {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1du46-market-research .navsubsectionv2-tqmq7s {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1du46-market-research .navsubsectionv2-Gu5TxP {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1du46-market-research .navsubsectionv2-FwYTih {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1du46-market-research .d-subsection-name-wOcrJf {
@@ -1456,17 +1426,14 @@
 
 .x1du46-market-research .navsubsectionv2-J2WVia {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1du46-market-research .navsubsectionv2-JPCqxP {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1du46-market-research .navsubsectionv2-87Rddp {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1du46-market-research .sidebarbottom-IxKsha {
@@ -2234,7 +2201,7 @@
   background-color: transparent;
   height: 12.46875px;
   position: relative;
-  width: 19.693359375px;
+  width: 15.2392578125px;
 }
 
 .x1du46-market-research .arrowdown {
@@ -2338,6 +2305,19 @@
   line-height: 21px;
   position: relative;
   text-align: left;
+}
+
+.x1du46-market-research .navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
 }
 
 .x1du46-market-research .outcome {

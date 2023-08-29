@@ -1001,7 +1001,7 @@
 }
 
 .x3bu46-vendor-interactions .footer-nav-3mP8FT {
-  align-items: flex-start;
+  align-items: center;
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -1012,74 +1012,55 @@
   width: 100%;
 }
 
-.x3bu46-vendor-interactions .navfooterprev-rhc1Qx {
-  align-items: flex-start;
+.x3bu46-vendor-interactions .navfooterprev-v02-rhc1Qx {
+  align-items: center;
   background-color: var(--fpcbgpeach);
-  border-radius: 4px;
+  border-radius: 32px 4px 4px 32px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 3px;
-  justify-content: center;
+  gap: 15px;
+  justify-content: flex-end;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
 }
 
-.x3bu46-vendor-interactions .arrow-3mBaJS {
+.x3bu46-vendor-interactions .arrow-8c5k4m {
   margin-left: -0.85px;
 }
 
-.x3bu46-vendor-interactions .prev-3mBaJS {
-  background-color: transparent;
+.x3bu46-vendor-interactions .title-8c5k4m {
+  flex: 1;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x3bu46-vendor-interactions .title-gzCkSR {
-  letter-spacing: 0.00px;
-  line-height: normal;
   text-align: right;
-  width: fit-content;
 }
 
-.x3bu46-vendor-interactions .navfooternext-rhc1Qx {
-  align-items: flex-end;
+.x3bu46-vendor-interactions .navfooternext-v02-rhc1Qx {
+  align-items: center;
   background-color: var(--fpcbgpeach);
-  border-radius: 4px;
+  border-radius: 4px 32px 32px 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 3px;
-  justify-content: center;
+  gap: 15px;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
 }
 
-.x3bu46-vendor-interactions .next-Dm18Oj {
-  background-color: transparent;
+.x3bu46-vendor-interactions .title-TUWIgH {
+  flex: 1;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
   text-align: left;
-  width: fit-content;
 }
 
-.x3bu46-vendor-interactions .arrow-Dm18Oj {
+.x3bu46-vendor-interactions .arrow-TUWIgH {
   margin-right: -0.85px;
-}
-
-.x3bu46-vendor-interactions .title-eE8Ms1 {
-  letter-spacing: 0.00px;
-  line-height: normal;
-  text-align: left;
-  width: fit-content;
 }
 
 .x3bu46-vendor-interactions .sidebarv2-xYXyun {
@@ -1130,22 +1111,18 @@
 
 .x3bu46-vendor-interactions .navsubsectionv2-Tddgvk {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3bu46-vendor-interactions .navsubsectionv2-UVvc6o {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3bu46-vendor-interactions .navsubsectionv2-tY5wMD {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3bu46-vendor-interactions .navsubsectionv2-NZgsH2 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3bu46-vendor-interactions .navmainv3-yNx73A {
@@ -1158,17 +1135,14 @@
 
 .x3bu46-vendor-interactions .navsubsectionv2-MZldZj {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3bu46-vendor-interactions .navsubsectionv2-cAOlm7 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3bu46-vendor-interactions .navsubsectionv2-2fCgmx {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3bu46-vendor-interactions .navmainv3-xg3Gj2 {
@@ -1181,22 +1155,18 @@
 
 .x3bu46-vendor-interactions .navsubsectionv2-jyK5xE {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3bu46-vendor-interactions .navsubsectionv2-ipxlvW {
   background-color: var(--fpcpeachmid);
-  cursor: pointer;
 }
 
 .x3bu46-vendor-interactions .navsubsectionv2-KKDGqZ {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3bu46-vendor-interactions .navsubsectionv2-T6PObK {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3bu46-vendor-interactions .span0-RJ7GeI {
@@ -1213,17 +1183,14 @@
 
 .x3bu46-vendor-interactions .navsubsectionv2-Df4xVK {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3bu46-vendor-interactions .navsubsectionv2-ATzzg7 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3bu46-vendor-interactions .navsubsectionv2-Qk0il4 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3bu46-vendor-interactions .sidebarbottom-eY6Paj {
@@ -1990,7 +1957,7 @@
   background-color: transparent;
   height: 12.46923828125px;
   position: relative;
-  width: 19.69140625px;
+  width: 15.23828125px;
 }
 
 .x3bu46-vendor-interactions .arrowdown {
@@ -2093,6 +2060,19 @@
   line-height: 21px;
   position: relative;
   text-align: left;
+}
+
+.x3bu46-vendor-interactions .navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
 }
 
 .x3bu46-vendor-interactions .outcome {

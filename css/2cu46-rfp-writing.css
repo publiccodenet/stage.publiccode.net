@@ -1093,7 +1093,7 @@
 }
 
 .x2cu46-rfp-writing .footer-nav-dyv6VD {
-  align-items: flex-start;
+  align-items: center;
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -1104,74 +1104,55 @@
   width: 100%;
 }
 
-.x2cu46-rfp-writing .navfooterprev-ZvAzi8 {
-  align-items: flex-start;
+.x2cu46-rfp-writing .navfooterprev-v02-ZvAzi8 {
+  align-items: center;
   background-color: var(--fpcblue);
-  border-radius: 4px;
+  border-radius: 32px 4px 4px 32px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 3px;
-  justify-content: center;
+  gap: 15px;
+  justify-content: flex-end;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
 }
 
-.x2cu46-rfp-writing .arrow-KmTcLb {
+.x2cu46-rfp-writing .arrow-gO48DA {
   margin-left: -0.85px;
 }
 
-.x2cu46-rfp-writing .prev-KmTcLb {
-  background-color: transparent;
+.x2cu46-rfp-writing .title-gO48DA {
+  flex: 1;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x2cu46-rfp-writing .title-OpMxlO {
-  letter-spacing: 0.00px;
-  line-height: normal;
   text-align: right;
-  width: fit-content;
 }
 
-.x2cu46-rfp-writing .navfooternext-ZvAzi8 {
-  align-items: flex-end;
+.x2cu46-rfp-writing .navfooternext-v02-ZvAzi8 {
+  align-items: center;
   background-color: var(--fpcbgpeach);
-  border-radius: 4px;
+  border-radius: 4px 32px 32px 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 3px;
-  justify-content: center;
+  gap: 15px;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
 }
 
-.x2cu46-rfp-writing .next-LKV6oG {
-  background-color: transparent;
+.x2cu46-rfp-writing .title-w8LxxT {
+  flex: 1;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
   text-align: left;
-  width: fit-content;
 }
 
-.x2cu46-rfp-writing .arrow-LKV6oG {
+.x2cu46-rfp-writing .arrow-w8LxxT {
   margin-right: -0.85px;
-}
-
-.x2cu46-rfp-writing .title-TrmJdx {
-  letter-spacing: 0.00px;
-  line-height: normal;
-  text-align: left;
-  width: fit-content;
 }
 
 .x2cu46-rfp-writing .sidebarv2-NHZBWq {
@@ -1222,22 +1203,18 @@
 
 .x2cu46-rfp-writing .navsubsectionv2-7UtF54 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-CxzANQ {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-G8PxkE {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-3x4mil {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navmainv3-zg6BNH {
@@ -1250,17 +1227,14 @@
 
 .x2cu46-rfp-writing .navsubsectionv2-VpudXf {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-qDMFs6 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-DjdWEr {
   background-color: var(--fpcblue50);
-  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navmainv3-tMYQlF {
@@ -1273,22 +1247,18 @@
 
 .x2cu46-rfp-writing .navsubsectionv2-VGnGLv {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-Xxs3JP {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-3iYuZ2 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-OVWFL1 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .span0-o74GbC {
@@ -1305,17 +1275,14 @@
 
 .x2cu46-rfp-writing .navsubsectionv2-dqpczD {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-qzaexj {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .navsubsectionv2-l4Ky1j {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2cu46-rfp-writing .sidebarbottom-1sLshY {
@@ -2083,7 +2050,7 @@
   background-color: transparent;
   height: 12.46875px;
   position: relative;
-  width: 19.69140625px;
+  width: 15.23828125px;
 }
 
 .x2cu46-rfp-writing .cluster {
@@ -2171,6 +2138,19 @@
   line-height: 21px;
   position: relative;
   text-align: left;
+}
+
+.x2cu46-rfp-writing .navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
 }
 
 .x2cu46-rfp-writing .outcome {

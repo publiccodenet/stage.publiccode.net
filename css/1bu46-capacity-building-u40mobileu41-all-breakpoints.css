@@ -956,48 +956,36 @@
   background-color: transparent;
   display: flex;
   flex: 0 0 auto;
-  justify-content: space-between;
+  gap: 20px;
   padding: 60px 0px 0px;
   position: relative;
   width: 100%;
 }
 
 .x1bu46-capacity-building .navfooterprev-v02-7O9dQh {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  min-width: 140px;
-  position: relative;
-  width: 200px;
-}
-
-.x1bu46-capacity-building .button-xWjRuC {
   align-items: center;
-  align-self: stretch;
   background-color: var(--fpcgreen);
   border-radius: 32px 4px 4px 32px;
-  display: flex;
+  cursor: pointer;
+  display: inline-flex;
   flex: 0 0 auto;
   gap: 15px;
+  height: 40px;
   justify-content: flex-end;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
-  width: 100%;
 }
 
-.x1bu46-capacity-building .arrow-brlCnB {
+.x1bu46-capacity-building .arrow-xWjRuC {
   margin-left: -0.85px;
 }
 
-.x1bu46-capacity-building .x1a-welcome-brlCnB {
-  background-color: transparent;
+.x1bu46-capacity-building .title-xWjRuC {
   flex: 1;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
   text-align: right;
 }
 
@@ -1007,26 +995,16 @@
   border-radius: 4px 32px 32px 4px;
   cursor: pointer;
   display: flex;
+  flex: 1;
+  flex-grow: 1;
   gap: 15px;
   min-width: 140px;
   padding: 10px 15px;
   position: relative;
-  width: 200px;
 }
 
-.x1bu46-capacity-building .content-pBFXX0 {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
+.x1bu46-capacity-building .title-pBFXX0 {
   flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 3px;
-  justify-content: center;
-}
-
-.x1bu46-capacity-building .title-qQhTBp {
-  align-self: stretch;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
@@ -1079,22 +1057,18 @@
 
 .x1bu46-capacity-building .navsubsectionv2-R3lfkI {
   background-color: var(--fpcgreen50);
-  cursor: pointer;
 }
 
 .x1bu46-capacity-building .navsubsectionv2-tfUYnj {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1bu46-capacity-building .navsubsectionv2-srMRPi {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1bu46-capacity-building .navsubsectionv2-2YgWjQ {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1bu46-capacity-building .e-subsection-name-iSGyuf {
@@ -1119,17 +1093,14 @@
 
 .x1bu46-capacity-building .navsubsectionv2-V1vdTi {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1bu46-capacity-building .navsubsectionv2-pxsxIy {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1bu46-capacity-building .navsubsectionv2-Hy3gEA {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1bu46-capacity-building .navmainv3-iK11Jk {
@@ -1142,22 +1113,18 @@
 
 .x1bu46-capacity-building .navsubsectionv2-cYgkal {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1bu46-capacity-building .navsubsectionv2-IGXNjx {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1bu46-capacity-building .navsubsectionv2-R7xyfE {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1bu46-capacity-building .navsubsectionv2-Uwwwsq {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1bu46-capacity-building .span0-7knBIw {
@@ -1174,17 +1141,14 @@
 
 .x1bu46-capacity-building .navsubsectionv2-44Gp96 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1bu46-capacity-building .navsubsectionv2-EPG7lg {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1bu46-capacity-building .navsubsectionv2-nAygqV {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1bu46-capacity-building .sidebarbottom-8uzAOu {
@@ -2044,6 +2008,19 @@
   line-height: 21px;
   position: relative;
   text-align: left;
+}
+
+.x1bu46-capacity-building .navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
 }
 
 .x1bu46-capacity-building .outcome {
@@ -3060,41 +3037,29 @@
 }
 
 .x1bu46-capacity-building-u40mobileu41-all-breakpoints .navfooterprev-v02-xZWpWi {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  min-width: 140px;
-  position: relative;
-  width: 140px;
-}
-
-.x1bu46-capacity-building-u40mobileu41-all-breakpoints .button-cXmCdP {
   align-items: center;
-  align-self: stretch;
   background-color: var(--fpcgreen);
   border-radius: 32px 4px 4px 32px;
+  cursor: pointer;
   display: flex;
-  flex: 0 0 auto;
+  flex: 1;
+  flex-grow: 1;
   gap: 15px;
   justify-content: flex-end;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
-  width: 100%;
 }
 
-.x1bu46-capacity-building-u40mobileu41-all-breakpoints .arrow-jvPy61 {
+.x1bu46-capacity-building-u40mobileu41-all-breakpoints .arrow-cXmCdP {
   margin-left: -0.85px;
 }
 
-.x1bu46-capacity-building-u40mobileu41-all-breakpoints .x1a-welcome-jvPy61 {
-  background-color: transparent;
+.x1bu46-capacity-building-u40mobileu41-all-breakpoints .title-cXmCdP {
   flex: 1;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
   text-align: right;
 }
 
@@ -3102,6 +3067,7 @@
   align-items: center;
   background-color: var(--fpcgreen);
   border-radius: 4px 32px 32px 4px;
+  cursor: pointer;
   display: flex;
   flex: 1;
   flex-grow: 1;
@@ -3111,17 +3077,9 @@
   position: relative;
 }
 
-.x1bu46-capacity-building-u40mobileu41-all-breakpoints .content-ex3SJS {
+.x1bu46-capacity-building-u40mobileu41-all-breakpoints .title-ex3SJS {
   align-self: stretch;
-  background-color: transparent;
   flex: 1;
-  flex-grow: 1;
-  gap: 3px;
-  justify-content: center;
-}
-
-.x1bu46-capacity-building-u40mobileu41-all-breakpoints .title-ATqdfI {
-  align-self: stretch;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
@@ -4132,6 +4090,18 @@
   line-height: 21px;
   position: relative;
   text-align: left;
+}
+
+.x1bu46-capacity-building-u40mobileu41-all-breakpoints .navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
 }
 
 .x1bu46-capacity-building-u40mobileu41-all-breakpoints .outcome {

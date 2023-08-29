@@ -1038,7 +1038,7 @@
 }
 
 .x3du46-contracting .footer-nav-73PCsU {
-  align-items: flex-start;
+  align-items: center;
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -1049,74 +1049,55 @@
   width: 100%;
 }
 
-.x3du46-contracting .navfooterprev-Kcsly9 {
-  align-items: flex-start;
+.x3du46-contracting .navfooterprev-v02-Kcsly9 {
+  align-items: center;
   background-color: var(--fpcbgpeach);
-  border-radius: 4px;
+  border-radius: 32px 4px 4px 32px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 3px;
-  justify-content: center;
+  gap: 15px;
+  justify-content: flex-end;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
 }
 
-.x3du46-contracting .arrow-RSAgCk {
+.x3du46-contracting .arrow-AxFjtv {
   margin-left: -0.85px;
 }
 
-.x3du46-contracting .prev-RSAgCk {
-  background-color: transparent;
+.x3du46-contracting .title-AxFjtv {
+  flex: 1;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x3du46-contracting .title-GoD1aI {
-  letter-spacing: 0.00px;
-  line-height: normal;
   text-align: right;
-  width: fit-content;
 }
 
-.x3du46-contracting .navfooternext-Kcsly9 {
-  align-items: flex-end;
+.x3du46-contracting .navfooternext-v02-Kcsly9 {
+  align-items: center;
   background-color: var(--fpcpurple);
-  border-radius: 4px;
+  border-radius: 4px 32px 32px 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 3px;
-  justify-content: center;
+  gap: 15px;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
 }
 
-.x3du46-contracting .next-uWzOxz {
-  background-color: transparent;
+.x3du46-contracting .title-wxQFql {
+  flex: 1;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
   text-align: left;
-  width: fit-content;
 }
 
-.x3du46-contracting .arrow-uWzOxz {
+.x3du46-contracting .arrow-wxQFql {
   margin-right: -0.85px;
-}
-
-.x3du46-contracting .title-MKAN2Q {
-  letter-spacing: 0.00px;
-  line-height: normal;
-  text-align: left;
-  width: fit-content;
 }
 
 .x3du46-contracting .sidebarv2-g75o4B {
@@ -1167,17 +1148,14 @@
 
 .x3du46-contracting .navsubsectionv2-QZcS1m {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3du46-contracting .navsubsectionv2-qHFURK {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3du46-contracting .navsubsectionv2-qoyRHA {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3du46-contracting .d-subsection-name-Vxpyur {
@@ -1194,7 +1172,6 @@
 
 .x3du46-contracting .navsubsectionv2-HlEeyW {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3du46-contracting .navmainv3-41wyXk {
@@ -1207,17 +1184,14 @@
 
 .x3du46-contracting .navsubsectionv2-kaDUfC {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3du46-contracting .navsubsectionv2-sgNak3 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3du46-contracting .navsubsectionv2-WGj4I3 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3du46-contracting .navmainv3-AyDQEV {
@@ -1230,22 +1204,18 @@
 
 .x3du46-contracting .navsubsectionv2-xc5Mdc {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3du46-contracting .navsubsectionv2-TY0vEm {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3du46-contracting .navsubsectionv2-xdLkMV {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3du46-contracting .navsubsectionv2-PbUweP {
   background-color: var(--fpcpeachmid);
-  cursor: pointer;
 }
 
 .x3du46-contracting .span0-fhFg1B {
@@ -1262,17 +1232,14 @@
 
 .x3du46-contracting .navsubsectionv2-KJBTrp {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3du46-contracting .navsubsectionv2-eME25l {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3du46-contracting .navsubsectionv2-u7Sxuc {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x3du46-contracting .sidebarbottom-6vtf0G {
@@ -2040,7 +2007,7 @@
   background-color: transparent;
   height: 12.46923828125px;
   position: relative;
-  width: 19.6953125px;
+  width: 15.2421875px;
 }
 
 .x3du46-contracting .arrowdown {
@@ -2140,6 +2107,19 @@
   line-height: 21px;
   position: relative;
   text-align: left;
+}
+
+.x3du46-contracting .navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
 }
 
 .x3du46-contracting .outcome {

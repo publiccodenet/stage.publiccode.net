@@ -1957,7 +1957,7 @@
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .footer-nav-K1ZFFD {
-  align-items: flex-start;
+  align-items: center;
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -1968,74 +1968,54 @@
   width: 100%;
 }
 
-.x1eu46-strategic-analysis-u40existing-softwareu41 .navfooterprev-wSzyKz {
-  align-items: flex-start;
+.x1eu46-strategic-analysis-u40existing-softwareu41 .navfooterprev-v02-wSzyKz {
+  align-items: center;
   background-color: var(--fpcgreen);
-  border-radius: 4px;
-  cursor: pointer;
+  border-radius: 32px 4px 4px 32px;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 3px;
-  justify-content: center;
+  gap: 15px;
+  justify-content: flex-end;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
 }
 
-.x1eu46-strategic-analysis-u40existing-softwareu41 .arrow-6HisHx {
+.x1eu46-strategic-analysis-u40existing-softwareu41 .arrow-UHxInL {
   margin-left: -0.85px;
 }
 
-.x1eu46-strategic-analysis-u40existing-softwareu41 .prev-6HisHx {
-  background-color: transparent;
+.x1eu46-strategic-analysis-u40existing-softwareu41 .title-UHxInL {
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x1eu46-strategic-analysis-u40existing-softwareu41 .title-El40OE {
-  letter-spacing: 0.00px;
-  line-height: normal;
   text-align: right;
   width: fit-content;
 }
 
-.x1eu46-strategic-analysis-u40existing-softwareu41 .navfooternext-wSzyKz {
-  align-items: flex-end;
+.x1eu46-strategic-analysis-u40existing-softwareu41 .navfooternext-v02-wSzyKz {
+  align-items: center;
   background-color: var(--fpcblue);
-  border-radius: 4px;
+  border-radius: 4px 32px 32px 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 3px;
-  justify-content: center;
+  gap: 15px;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
 }
 
-.x1eu46-strategic-analysis-u40existing-softwareu41 .next-NCvQWu {
-  background-color: transparent;
+.x1eu46-strategic-analysis-u40existing-softwareu41 .title-gU6oks {
+  flex: 1;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
   text-align: left;
-  width: fit-content;
 }
 
-.x1eu46-strategic-analysis-u40existing-softwareu41 .arrow-NCvQWu {
+.x1eu46-strategic-analysis-u40existing-softwareu41 .arrow-gU6oks {
   margin-right: -0.85px;
-}
-
-.x1eu46-strategic-analysis-u40existing-softwareu41 .title-VuHC09 {
-  letter-spacing: 0.00px;
-  line-height: normal;
-  text-align: left;
-  width: fit-content;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .sidebarv2-MLaH7U {
@@ -2086,22 +2066,18 @@
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .navsubsectionv2-VX7nG5 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .navsubsectionv2-8Wkz1q {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .navsubsectionv2-zDZ2bj {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .navsubsectionv2-EA1fbS {
   background-color: var(--fpcgreen50);
-  cursor: pointer;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .navmainv3-pNtSWu {
@@ -2114,17 +2090,14 @@
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .navsubsectionv2-FtvV4x {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .navsubsectionv2-MhW0f6 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .navsubsectionv2-UUvwgu {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .navmainv3-3fj6Gc {
@@ -2137,22 +2110,18 @@
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .navsubsectionv2-xfPOhg {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .navsubsectionv2-MoaXcg {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .navsubsectionv2-EDVcYW {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .navsubsectionv2-jvCPsz {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .span0-vQtEQN {
@@ -2169,17 +2138,14 @@
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .navsubsectionv2-hEfUym {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .navsubsectionv2-ePh6Uy {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .navsubsectionv2-gDiF1N {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .sidebarbottom-ONQIj3 {
@@ -2947,7 +2913,7 @@
   background-color: transparent;
   height: 12.46875px;
   position: relative;
-  width: 19.69140625px;
+  width: 15.23828125px;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .arrowdown {
@@ -3216,6 +3182,19 @@
   line-height: 21px;
   position: relative;
   text-align: left;
+}
+
+.x1eu46-strategic-analysis-u40existing-softwareu41 .navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
 }
 
 .x1eu46-strategic-analysis-u40existing-softwareu41 .outcome {

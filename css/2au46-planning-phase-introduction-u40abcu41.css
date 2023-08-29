@@ -746,7 +746,7 @@
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .footer-nav-MHbsgx {
-  align-items: flex-start;
+  align-items: center;
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -756,72 +756,53 @@
   width: 100%;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .navfooterprev-kxNc7N {
-  align-items: flex-start;
+.x2au46-planning-phase-introduction-u40abcu41 .navfooterprev-v02-kxNc7N {
+  align-items: center;
   background-color: var(--fpcgreen);
-  border-radius: 4px;
+  border-radius: 32px 4px 4px 32px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 3px;
-  justify-content: center;
+  gap: 15px;
+  justify-content: flex-end;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .arrow-vTsTAG {
+.x2au46-planning-phase-introduction-u40abcu41 .arrow-KkKk6K {
   margin-left: -0.85px;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .prev-vTsTAG {
-  background-color: transparent;
+.x2au46-planning-phase-introduction-u40abcu41 .title-KkKk6K {
+  flex: 1;
   letter-spacing: 0.00px;
-  line-height: normal;
   margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .title-yN9qpQ {
-  letter-spacing: 0.00px;
   text-align: right;
-  width: fit-content;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .navfooternext-kxNc7N {
-  align-items: flex-end;
+.x2au46-planning-phase-introduction-u40abcu41 .navfooternext-v02-kxNc7N {
+  align-items: center;
   background-color: var(--fpcblue);
-  border-radius: 4px;
+  border-radius: 4px 32px 32px 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 3px;
-  justify-content: center;
+  gap: 15px;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .next-1dMhwe {
-  background-color: transparent;
+.x2au46-planning-phase-introduction-u40abcu41 .title-rBTfdo {
+  flex: 1;
   letter-spacing: 0.00px;
-  line-height: normal;
   margin-top: -1.00px;
-  position: relative;
   text-align: left;
-  width: fit-content;
 }
 
-.x2au46-planning-phase-introduction-u40abcu41 .arrow-1dMhwe {
+.x2au46-planning-phase-introduction-u40abcu41 .arrow-rBTfdo {
   margin-right: -0.85px;
-}
-
-.x2au46-planning-phase-introduction-u40abcu41 .title-QUd6x4 {
-  letter-spacing: 0.00px;
-  text-align: left;
-  width: fit-content;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .sidebarv2-pa57Sx {
@@ -872,22 +853,18 @@
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-GUoRV7 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-PwdQxY {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-GGaGDU {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-1iO89x {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navmainv3-OQHPox {
@@ -900,17 +877,14 @@
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-y6RhKj {
   background-color: var(--fpcblue50);
-  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-Ux0gxz {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-8Lhxzl {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navmainv3-XVx6y1 {
@@ -923,22 +897,18 @@
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-GFO42J {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-nvxh0x {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-tzAsfM {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-TUaQkK {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .span0-zQNHm3 {
@@ -955,17 +925,14 @@
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-jUbaul {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-XGK8WH {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2-JaLR7J {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .sidebarbottom-J18Nh0 {
@@ -1707,7 +1674,7 @@
   background-color: transparent;
   height: 12.468994140625px;
   position: relative;
-  width: 19.69140625px;
+  width: 15.23828125px;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .comment {
@@ -1760,6 +1727,19 @@
   display: flex;
   gap: 13px;
   position: relative;
+}
+
+.x2au46-planning-phase-introduction-u40abcu41 .navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
 }
 
 .x2au46-planning-phase-introduction-u40abcu41 .rectangle {

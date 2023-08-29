@@ -1392,7 +1392,7 @@
 }
 
 .x1cu46-discovery-research-and-problem-statement .footer-nav-FmGrIY {
-  align-items: flex-start;
+  align-items: center;
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -1403,74 +1403,55 @@
   width: 100%;
 }
 
-.x1cu46-discovery-research-and-problem-statement .navfooterprev-IxJfVL {
-  align-items: flex-start;
+.x1cu46-discovery-research-and-problem-statement .navfooterprev-v02-IxJfVL {
+  align-items: center;
   background-color: var(--fpcgreen);
-  border-radius: 4px;
+  border-radius: 32px 4px 4px 32px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 3px;
-  justify-content: center;
+  gap: 15px;
+  justify-content: flex-end;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
 }
 
-.x1cu46-discovery-research-and-problem-statement .arrow-dtyoxO {
+.x1cu46-discovery-research-and-problem-statement .arrow-n0jNKx {
   margin-left: -0.85px;
 }
 
-.x1cu46-discovery-research-and-problem-statement .prev-dtyoxO {
-  background-color: transparent;
+.x1cu46-discovery-research-and-problem-statement .title-n0jNKx {
+  flex: 1;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x1cu46-discovery-research-and-problem-statement .title-WU3UQQ {
-  letter-spacing: 0.00px;
-  line-height: normal;
   text-align: right;
-  width: fit-content;
 }
 
-.x1cu46-discovery-research-and-problem-statement .navfooternext-IxJfVL {
-  align-items: flex-end;
+.x1cu46-discovery-research-and-problem-statement .navfooternext-v02-IxJfVL {
+  align-items: center;
   background-color: var(--fpcgreen);
-  border-radius: 4px;
+  border-radius: 4px 32px 32px 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 3px;
-  justify-content: center;
+  gap: 15px;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
 }
 
-.x1cu46-discovery-research-and-problem-statement .next-tNsUtU {
-  background-color: transparent;
+.x1cu46-discovery-research-and-problem-statement .title-xblLIS {
+  flex: 1;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
   text-align: left;
-  width: fit-content;
 }
 
-.x1cu46-discovery-research-and-problem-statement .arrow-tNsUtU {
+.x1cu46-discovery-research-and-problem-statement .arrow-xblLIS {
   margin-right: -0.85px;
-}
-
-.x1cu46-discovery-research-and-problem-statement .title-OwhYZ3 {
-  letter-spacing: 0.00px;
-  line-height: normal;
-  text-align: left;
-  width: fit-content;
 }
 
 .x1cu46-discovery-research-and-problem-statement .sidebarv2-CwB1Cx {
@@ -1521,22 +1502,18 @@
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-iU3y3G {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-Dto0Ha {
   background-color: var(--fpcgreen50);
-  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-O061L6 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-nx9cQh {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .e-subsection-name-orJ3pW {
@@ -1561,17 +1538,14 @@
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-0oTPKn {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-K4JxPW {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-KgxaEb {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navmainv3-wQ2O2R {
@@ -1584,22 +1558,18 @@
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-RuEixi {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-SSB6um {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-ztOPSx {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-tDcbe0 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .span0-lSyFEJ {
@@ -1616,17 +1586,14 @@
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-iAI7Bm {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-4IVEj1 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .navsubsectionv2-S6vmBl {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x1cu46-discovery-research-and-problem-statement .sidebarbottom-uXS3KR {
@@ -2393,7 +2360,7 @@
   background-color: transparent;
   height: 12.46875px;
   position: relative;
-  width: 19.693359375px;
+  width: 15.2392578125px;
 }
 
 .x1cu46-discovery-research-and-problem-statement .contact {
@@ -2472,6 +2439,19 @@
   line-height: 21px;
   position: relative;
   text-align: left;
+}
+
+.x1cu46-discovery-research-and-problem-statement .navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
 }
 
 .x1cu46-discovery-research-and-problem-statement .outcome {

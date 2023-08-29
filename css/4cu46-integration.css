@@ -1031,7 +1031,7 @@
 }
 
 .x4cu46-integration .footer-nav-p4ru0V {
-  align-items: flex-start;
+  align-items: center;
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -1042,52 +1042,34 @@
   width: 100%;
 }
 
-.x4cu46-integration .navfooterprev-SQi7UF {
-  align-items: flex-start;
+.x4cu46-integration .navfooterprev-v02-SQi7UF {
+  align-items: center;
   background-color: var(--fpcpurple);
-  border-radius: 4px;
+  border-radius: 32px 4px 4px 32px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 3px;
-  justify-content: center;
+  gap: 15px;
+  justify-content: flex-end;
+  min-width: 140px;
   padding: 10px 15px;
   position: relative;
 }
 
-.x4cu46-integration .direction-AM2UDN {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.x4cu46-integration .arrow-XKZg5G {
+.x4cu46-integration .arrow-RjB6KA {
   background-color: transparent;
   height: 12.46875px;
   margin-left: -0.85px;
   position: relative;
-  width: 19.6953125px;
+  width: 15.2421875px;
 }
 
-.x4cu46-integration .prev-XKZg5G {
-  background-color: transparent;
+.x4cu46-integration .title-RjB6KA {
+  flex: 1;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.x4cu46-integration .title-AM2UDN {
-  letter-spacing: 0.00px;
-  line-height: normal;
   text-align: right;
-  width: fit-content;
 }
 
 .x4cu46-integration .sidebarv2-qXB5AZ {
@@ -1138,22 +1120,18 @@
 
 .x4cu46-integration .navsubsectionv2-vy9DKB {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x4cu46-integration .navsubsectionv2-TOcxkg {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x4cu46-integration .navsubsectionv2-mxCPmx {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x4cu46-integration .navsubsectionv2-lNATRy {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x4cu46-integration .navmainv3-0nieHD {
@@ -1166,17 +1144,14 @@
 
 .x4cu46-integration .navsubsectionv2-x47XyT {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x4cu46-integration .navsubsectionv2-drMWN3 {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x4cu46-integration .navsubsectionv2-xg7iJx {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x4cu46-integration .navmainv3-P2OPgy {
@@ -1189,22 +1164,18 @@
 
 .x4cu46-integration .navsubsectionv2-sxpRkY {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x4cu46-integration .navsubsectionv2-U5GruK {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x4cu46-integration .navsubsectionv2-LC2sBS {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x4cu46-integration .navsubsectionv2-N4TOoE {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x4cu46-integration .span0-Vht6aq {
@@ -1221,17 +1192,14 @@
 
 .x4cu46-integration .navsubsectionv2-FZkwkx {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x4cu46-integration .navsubsectionv2-cO7Q1h {
   background-color: transparent;
-  cursor: pointer;
 }
 
 .x4cu46-integration .navsubsectionv2-PBSuhD {
   background-color: var(--fpcpurple50);
-  cursor: pointer;
 }
 
 .x4cu46-integration .sidebarbottom-oJhSUm {
@@ -2634,6 +2602,19 @@
   height: 24px;
   position: relative;
   width: 24px;
+}
+
+.x4cu46-integration .navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
 }
 
 .x4cu46-integration .outcome {
