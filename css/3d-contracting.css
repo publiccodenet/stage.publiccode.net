@@ -1,0 +1,2147 @@
+/* screen - 3d-contracting */
+
+.x3d-contracting {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  left: 0px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  top: 0px;
+}
+
+.x3d-contracting .header-xqOeb2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--concrete);
+  display: flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  justify-content: space-around;
+  padding: 30px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .content-Nt3ujl {
+  align-items: center;
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 16px 16px;
+  justify-content: space-between;
+}
+
+.x3d-contracting .logo-title-agocF5 {
+  width: 426px;
+}
+
+.x3d-contracting .navigation-agocF5 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 40px;
+  justify-content: flex-end;
+  position: relative;
+  width: 534px;
+}
+
+.x3d-contracting .links-lGZQRW {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 30px 30px;
+  justify-content: flex-end;
+}
+
+.x3d-contracting .stewardship-Fc5n5h {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x3d-contracting .resources-Fc5n5h {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x3d-contracting .who-we-are-Fc5n5h {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x3d-contracting .join-us-Fc5n5h {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x3d-contracting .services-lGZQRW {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+}
+
+.x3d-contracting .mastodon-sLVPDN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.x3d-contracting .twitter-sLVPDN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.x3d-contracting .github-sLVPDN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.x3d-contracting .title-xqOeb2 {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-align: left;
+  width: 1080px;
+}
+
+.x3d-contracting .main-frame-xqOeb2 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 60px;
+  padding: 0px 0px 60px;
+  position: relative;
+  width: 1080px;
+}
+
+.x3d-contracting .content-t8QTtU {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 60px;
+}
+
+.x3d-contracting .intro-WINxyX {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .titlepage-KVDYOs {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .page-title-CmH76u {
+  background-color: transparent;
+  color: var(--black);
+  flex: 1;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .content-KVDYOs {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--fpcgraywhitesmoke);
+  border-radius: 12px;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+  width: 100%;
+}
+
+.x3d-contracting .this-section-will-help-you-NegfB0 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 650px;
+}
+
+.x3d-contracting .cluster-NegfB0 {
+  gap: 10px;
+}
+
+.x3d-contracting .icongoal-xkGTWg {
+  width: 32.0078125px;
+}
+
+.x3d-contracting .icongoal-h9DV2J {
+  width: 32.0078125px;
+}
+
+.x3d-contracting .icongoal-StVyzi {
+  width: 32.0078125px;
+}
+
+.x3d-contracting .challenges-WINxyX {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .you-may-encounter-th-5ZPOua {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--red);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .span0-CTscqw {
+  color: var(--black);
+  font-style: normal;
+  line-height: 24px;
+}
+
+.x3d-contracting .span1-CTscqw {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.x3d-contracting .span2-CTscqw {
+  color: var(--black);
+  font-style: normal;
+  line-height: 24px;
+}
+
+.x3d-contracting .content-uIzhB9 {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x3d-contracting .title-RuSdKc {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x3d-contracting .lorem-ipsum-RuSdKc {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.x3d-contracting .content-WTQGX7 {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x3d-contracting .title-CdoAcP {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x3d-contracting .lorem-ipsum-CdoAcP {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.x3d-contracting .content-yaTPAn {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x3d-contracting .title-2SmVx4 {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x3d-contracting .lorem-ipsum-2SmVx4 {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.x3d-contracting .actions-WINxyX {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .frame-142-xSEmjM {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .x1-incorporating-non-TUnpNk {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .flex-container-2015726-TUnpNk {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x3d-contracting .text0-2015726-xZRDjt {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .span0-TTQlvT {
+  font-style: normal;
+}
+
+.x3d-contracting .text1-2015726-xZRDjt {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .span1-3QYrX3 {
+  font-style: normal;
+}
+
+.x3d-contracting .content-bSV7kP {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x3d-contracting .lorem-ipsum-ezhCPn {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.x3d-contracting .title-MVR40w {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+}
+
+.x3d-contracting .arrowdown-6BAKrE {
+  height: 8.4141845703125px;
+}
+
+.x3d-contracting .flex-container-i21174732117085-MVR40w {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x3d-contracting .text0-i21174732117085-o4D8zC {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .span0-09ABc2 {
+  font-style: normal;
+}
+
+.x3d-contracting .text1-i21174732117085-o4D8zC {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .span1-Efitd7 {
+  font-style: normal;
+}
+
+.x3d-contracting .text2-i21174732117085-o4D8zC {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .span2-bdz7wB {
+  font-style: normal;
+}
+
+.x3d-contracting .frame-143-xSEmjM {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .x2-working-with-technical-requirements-D376b8 {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .your-market-research-D376b8 {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .content-agxx1j {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x3d-contracting .lorem-ipsum-EbFf5T {
+  letter-spacing: 0.00px;
+}
+
+.x3d-contracting .title-I4BZFd {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+}
+
+.x3d-contracting .arrowdown-1TNofg {
+  height: 8.4141845703125px;
+}
+
+.x3d-contracting .flex-container-i21174882117085-I4BZFd {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x3d-contracting .text0-i21174882117085-HnN1ny {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .span0-Q3es6u {
+  font-style: normal;
+}
+
+.x3d-contracting .text1-i21174882117085-HnN1ny {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .span1-xiN74y {
+  font-style: normal;
+}
+
+.x3d-contracting .text2-i21174882117085-HnN1ny {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .span2-fLvzmP {
+  font-style: normal;
+}
+
+.x3d-contracting .text3-i21174882117085-HnN1ny {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .span3-gqVZkm {
+  font-style: normal;
+}
+
+.x3d-contracting .frame-144-xSEmjM {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .x3-fostering-good-working-relationships-hXQEtU {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .group-208-hXQEtU {
+  align-self: stretch;
+  background-color: transparent;
+  height: 96px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .group-207-19qSS6 {
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 740px;
+}
+
+.x3d-contracting .group-206-zQlqAS {
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 740px;
+}
+
+.x3d-contracting .group-205-flA3OL {
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 740px;
+}
+
+.x3d-contracting .group-204-TrxGUz {
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 740px;
+}
+
+.x3d-contracting .group-203-yNn1EC {
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 740px;
+}
+
+.x3d-contracting .group-202-8nQv0W {
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 742px;
+}
+
+.x3d-contracting .contracts-are-not-th-awQZlI {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 740px;
+}
+
+.x3d-contracting .iconknowledge-9xoZcc {
+  background-color: transparent;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.x3d-contracting .bulb-PuQOih {
+  background-color: transparent;
+  height: 24px;
+  left: 7px;
+  position: relative;
+  top: 3px;
+  width: 18px;
+}
+
+.x3d-contracting .union-edyyUM {
+  background-color: transparent;
+  height: 83.64%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.x3d-contracting .group-194-edyyUM {
+  background-color: transparent;
+  height: 16.68%;
+  left: 29.17%;
+  position: absolute;
+  top: 29.19%;
+  width: 41.67%;
+}
+
+.x3d-contracting .line-48-edyyUM {
+  background-color: transparent;
+  height: 8.16%;
+  left: 30.56%;
+  position: absolute;
+  top: 91.84%;
+  width: 38.89%;
+}
+
+.x3d-contracting .content-9xoZcc {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x3d-contracting .lorem-ipsum-9nSJfj {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.x3d-contracting .content-Ok2D13 {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x3d-contracting .lorem-ipsum-6C645m {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.x3d-contracting .span0-vhiA09 {
+  font-style: normal;
+}
+
+.x3d-contracting .span1-vhiA09 {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x3d-contracting .span2-vhiA09 {
+  font-style: normal;
+}
+
+.x3d-contracting .span3-vhiA09 {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x3d-contracting .span4-vhiA09 {
+  font-style: normal;
+}
+
+.x3d-contracting .span5-vhiA09 {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x3d-contracting .span6-vhiA09 {
+  font-style: normal;
+}
+
+.x3d-contracting .span7-vhiA09 {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x3d-contracting .span8-vhiA09 {
+  font-style: normal;
+}
+
+.x3d-contracting .span9-vhiA09 {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x3d-contracting .title-Fr0PWV {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+}
+
+.x3d-contracting .arrowdown-6ltFRW {
+  height: 8.414306640625px;
+}
+
+.x3d-contracting .flex-container-i21175032117085-Fr0PWV {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x3d-contracting .text0-i21175032117085-TNjmCb {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .span0-cMpIUs {
+  font-style: normal;
+}
+
+.x3d-contracting .span1-cMpIUs {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x3d-contracting .span2-cMpIUs {
+  font-style: normal;
+}
+
+.x3d-contracting .text1-i21175032117085-TNjmCb {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .span3-hHqYkL {
+  font-style: normal;
+}
+
+.x3d-contracting .text2-i21175032117085-TNjmCb {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .span4-ai9iaz {
+  font-style: normal;
+}
+
+.x3d-contracting .outcomes-WINxyX {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .cluster-fmAXCI {
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x3d-contracting .create-or-complete-t-80vuc5 {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .goals-80vuc5 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .icongoal-Qa57Ul {
+  width: 32.00901794433594px;
+}
+
+.x3d-contracting .icongoal-CQJ9pj {
+  width: 32.00901794433594px;
+}
+
+.x3d-contracting .references-WINxyX {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .frame-140-uL8Agw {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .content-dxgNSW {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 5px;
+}
+
+.x3d-contracting .content-b17ehk {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 5px;
+}
+
+.x3d-contracting .content-ZbyFTN {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 5px;
+}
+
+.x3d-contracting .content-npcxQR {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 5px;
+}
+
+.x3d-contracting .footer-nav-WINxyX {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 60px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .navfooterprev-v02-345qO1 {
+  align-items: center;
+  background-color: var(--fpcbgpeach);
+  border-radius: 64px 4px 4px 64px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  justify-content: flex-end;
+  min-width: 140px;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.x3d-contracting .arrow-buPmsa {
+  margin-left: -0.85px;
+}
+
+.x3d-contracting .title-buPmsa {
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: right;
+}
+
+.x3d-contracting .navfooternext-v02-345qO1 {
+  align-items: center;
+  background-color: var(--fpcpurple);
+  border-radius: 4px 64px 64px 4px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  min-width: 140px;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.x3d-contracting .title-kWxWWL {
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x3d-contracting .arrow-kWxWWL {
+  margin-right: -0.85px;
+}
+
+.x3d-contracting .sidebarv2-t8QTtU {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--cultured-pearl);
+  border-radius: 6px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  position: relative;
+}
+
+.x3d-contracting .top-8pe66Q {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+}
+
+.x3d-contracting .navsidebarexpanded-XHXAqS {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 240px;
+}
+
+.x3d-contracting .navmainv3-26du7l {
+  background-color: var(--algae-green);
+}
+
+.x3d-contracting .x1-section-name-Jp5F6f {
+  color: var(--black);
+}
+
+.x3d-contracting .navsubsectionv2-o1DSsK {
+  background-color: transparent;
+}
+
+.x3d-contracting .navsubsectionv2-DLoD8D {
+  background-color: transparent;
+}
+
+.x3d-contracting .navsubsectionv2-yOGX4Q {
+  background-color: transparent;
+}
+
+.x3d-contracting .navsubsectionv2-xcTsY2 {
+  background-color: transparent;
+}
+
+.x3d-contracting .d-subsection-name-6v9r4i {
+  background-color: transparent;
+  color: var(--black);
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .navsubsectionv2-uUIKoa {
+  background-color: transparent;
+}
+
+.x3d-contracting .navmainv3-335K69 {
+  background-color: var(--fpcbluehl);
+}
+
+.x3d-contracting .x1-section-name-OiUI73 {
+  color: var(--black-2);
+}
+
+.x3d-contracting .navsubsectionv2-BPVEe5 {
+  background-color: transparent;
+}
+
+.x3d-contracting .navsubsectionv2-5bxb7A {
+  background-color: transparent;
+}
+
+.x3d-contracting .navsubsectionv2-dWPeB6 {
+  background-color: transparent;
+}
+
+.x3d-contracting .navmainv3-f9yV4m {
+  background-color: var(--fpchlpeach);
+}
+
+.x3d-contracting .x1-section-name-TydcHh {
+  color: var(--black);
+}
+
+.x3d-contracting .navsubsectionv2-PPMlwl {
+  background-color: transparent;
+}
+
+.x3d-contracting .navsubsectionv2-x5plAR {
+  background-color: transparent;
+}
+
+.x3d-contracting .navsubsectionv2-jVJ1xq {
+  background-color: transparent;
+}
+
+.x3d-contracting .navsubsectionv2-z4d5gA {
+  background-color: var(--fpcpeachmid);
+}
+
+.x3d-contracting .span0-oxCqXh {
+  font-style: normal;
+}
+
+.x3d-contracting .navmainv3-Ygz97e {
+  background-color: var(--periwinkle-gray);
+}
+
+.x3d-contracting .x1-section-name-gRuO9N {
+  color: var(--black-2);
+}
+
+.x3d-contracting .navsubsectionv2-nSPXTr {
+  background-color: transparent;
+}
+
+.x3d-contracting .navsubsectionv2-HjUDx9 {
+  background-color: transparent;
+}
+
+.x3d-contracting .navsubsectionv2-FqCqC9 {
+  background-color: transparent;
+}
+
+.x3d-contracting .sidebarbottom-8pe66Q {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+  width: 240px;
+}
+
+.x3d-contracting .have-a-question-eCa2NG {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.x3d-contracting .have-a-question-dI6wcB {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x3d-contracting .email-us-dI6wcB {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x3d-contracting .footer-xqOeb2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--concrete);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  min-width: 800px;
+  padding: 60px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .logo-title-MhDSbM {
+  flex: 0 0 auto;
+  width: 409.66314697265625px;
+}
+
+.x3d-contracting .block-trio-MhDSbM {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .about-us-UuVuZx {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  padding: 30px;
+}
+
+.x3d-contracting .content-65vrFK {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.x3d-contracting .about-us-ibDuRq {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x3d-contracting .flex-container-i8593877785932298-ibDuRq {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x3d-contracting .text0-i8593877785932298-Ldhexk {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .span0-TXnXWb {
+  font-style: normal;
+}
+
+.x3d-contracting .text1-i8593877785932298-Ldhexk {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .span1-cjxl3k {
+  font-style: normal;
+}
+
+.x3d-contracting .links-65vrFK {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.x3d-contracting .how-we-work-aro5Sr {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.x3d-contracting .project-resources-UuVuZx {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x3d-contracting .content-rvQ2LZ {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.x3d-contracting .project-resources-ZBM3zF {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x3d-contracting .open-products-were-r-ZBM3zF {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .links-rvQ2LZ {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.x3d-contracting .free-to-use-and-modify-lJY36J {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+}
+
+.x3d-contracting .see-all-our-work-on-git-hub-lJY36J {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: right;
+}
+
+.x3d-contracting .careers-UuVuZx {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x3d-contracting .content-EQddXQ {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.x3d-contracting .careers-JZpOXG {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x3d-contracting .calling-all-publicly-JZpOXG {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .links-EQddXQ {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.x3d-contracting .open-positions-A2grFk {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.x3d-contracting .information-MhDSbM {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .contact-gn5SlU {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 373px;
+}
+
+.x3d-contracting .contact-Dmc34N {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x3d-contracting .contact-info-Dmc34N {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  margin-right: -15.00px;
+  position: relative;
+  width: 388px;
+}
+
+.x3d-contracting .newsletter-oLbIBA {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x3d-contracting .newsletter-D2xKGg {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x3d-contracting .join-our-mailing-list-D2xKGg {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x3d-contracting .phone-oLbIBA {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x3d-contracting .phone-31wMWD {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x3d-contracting .x31-20-2-444-500-31wMWD {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x3d-contracting .email-oLbIBA {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x3d-contracting .email-NKuuew {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x3d-contracting .infopubliccodenet-NKuuew {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x3d-contracting .address-oLbIBA {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x3d-contracting .address-KVoWQ8 {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x3d-contracting .content-KVoWQ8 {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.x3d-contracting .keizersgracht-617-10-5t1C4O {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 240px;
+}
+
+.x3d-contracting .links-5t1C4O {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+}
+
+.x3d-contracting .open-street-map-QCOwRx {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x3d-contracting .x-QCOwRx {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x3d-contracting .google-QCOwRx {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x3d-contracting .organization-gn5SlU {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  position: relative;
+}
+
+.x3d-contracting .notes-pFcS3l {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .organizational-notes-kOu2rP {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .flex-container-i8593877785932358-kOu2rP {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x3d-contracting .text0-i8593877785932358-RlQxYq {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .span0-14xSex {
+  font-style: normal;
+}
+
+.x3d-contracting .span1-14xSex {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x3d-contracting .span2-14xSex {
+  font-style: normal;
+}
+
+.x3d-contracting .span3-14xSex {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x3d-contracting .span4-14xSex {
+  font-style: normal;
+}
+
+.x3d-contracting .text1-i8593877785932358-RlQxYq {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .span5-FqI1tA {
+  font-style: normal;
+}
+
+.x3d-contracting .span6-FqI1tA {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x3d-contracting .span7-FqI1tA {
+  font-style: normal;
+}
+
+.x3d-contracting .span8-FqI1tA {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x3d-contracting .span9-FqI1tA {
+  font-style: normal;
+}
+
+.x3d-contracting .metadata-pFcS3l {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .updated-NSc2Op {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x3d-contracting .iconupdated-73GcgQ {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.x3d-contracting .last-updated-22-august-2023-73GcgQ {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x3d-contracting .copyright-NSc2Op {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+}
+
+.x3d-contracting .text_label-4SWxvV {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x3d-contracting .x2023-foundation-for-public-code-4SWxvV {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x3d-contracting .span0-x7cDR4 {
+  font-style: normal;
+}
+
+.x3d-contracting .span1-x7cDR4 {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x3d-contracting .license-NSc2Op {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x3d-contracting .iconlicense-lGrGJc {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.x3d-contracting .creative-commons-zero-v10-universal-lGrGJc {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 299px;
+}
+
+.x3d-contracting .action {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  padding: 0px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .an-action-that-requires-high-engagement {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .arrow {
+  background-color: transparent;
+  height: 12.46923828125px;
+  position: relative;
+  width: 15.2421875px;
+}
+
+.x3d-contracting .arrowdown {
+  background-color: transparent;
+  margin-right: -1.00px;
+  position: relative;
+  width: 14px;
+}
+
+.x3d-contracting .cluster {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .contact {
+  background-color: transparent;
+  position: relative;
+}
+
+.x3d-contracting .content {
+  display: flex;
+  position: relative;
+}
+
+.x3d-contracting .foundation-for-public-code {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .gear-2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100.01%;
+}
+
+.x3d-contracting .goal {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.x3d-contracting .iconchallenge {
+  background-color: transparent;
+  height: 32px;
+  position: relative;
+  width: 32.0078125px;
+}
+
+.x3d-contracting .iconguidelines {
+  background-color: transparent;
+  height: 32px;
+  position: relative;
+  width: 32.0078125px;
+}
+
+.x3d-contracting .links {
+  background-color: transparent;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x3d-contracting .logo-symbol {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.6640625px;
+}
+
+.x3d-contracting .logo-title {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  gap: 13px;
+  position: relative;
+}
+
+.x3d-contracting .lorem-ipsum {
+  align-self: stretch;
+  background-color: transparent;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
+}
+
+.x3d-contracting .outcome {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.x3d-contracting .this-is-an-outcome-t {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x3d-contracting .title {
+  background-color: transparent;
+  position: relative;
+}

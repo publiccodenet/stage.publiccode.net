@@ -1,0 +1,4131 @@
+/* screen - 1b-capacity-building */
+
+.x1b-capacity-building {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  left: 0px;
+  min-width: 800px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  top: 0px;
+}
+
+.x1b-capacity-building .header-7TAmGf {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--concrete);
+  display: flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  justify-content: space-around;
+  padding: 30px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .content-Tafqqf {
+  align-items: center;
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 16px 16px;
+  justify-content: space-between;
+}
+
+.x1b-capacity-building .logo-title-m43uSM {
+  width: 426px;
+}
+
+.x1b-capacity-building .navigation-m43uSM {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 40px;
+  justify-content: flex-end;
+  margin-left: -426px;
+  position: relative;
+  width: 534px;
+}
+
+.x1b-capacity-building .links-hxzqaB {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 30px 30px;
+  justify-content: flex-end;
+}
+
+.x1b-capacity-building .stewardship-oXR8c5 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1b-capacity-building .resources-oXR8c5 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1b-capacity-building .who-we-are-oXR8c5 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1b-capacity-building .join-us-oXR8c5 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1b-capacity-building .services-hxzqaB {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+}
+
+.x1b-capacity-building .mastodon-pQF7g2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.x1b-capacity-building .twitter-pQF7g2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.x1b-capacity-building .github-pQF7g2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.x1b-capacity-building .main-7TAmGf {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  padding: 0px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .title-AkDhAW {
+  align-self: stretch;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building .body-AkDhAW {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  padding: 0px 0px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .content-ActYyF {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 60px;
+  max-width: 850px;
+  min-width: 420px;
+}
+
+.x1b-capacity-building .intro-VMxXXP {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .titlepage-8wlmJP {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .page-title-4xPxht {
+  background-color: transparent;
+  color: var(--black);
+  flex: 1;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .content-8wlmJP {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--fpcgraywhitesmoke);
+  border-radius: 12px;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+  width: 100%;
+}
+
+.x1b-capacity-building .this-section-will-help-you-Iaf2FU {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-right: -270.00px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 650px;
+}
+
+.x1b-capacity-building .cluster-Iaf2FU {
+  gap: 10px;
+}
+
+.x1b-capacity-building .icongoal-dHe7Of {
+  width: 32.0087890625px;
+}
+
+.x1b-capacity-building .icongoal-xXP9sa {
+  width: 32.0087890625px;
+}
+
+.x1b-capacity-building .icongoal-vi2VZx {
+  width: 32.0087890625px;
+}
+
+.x1b-capacity-building .challenges-VMxXXP {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .cluster-d2luSu {
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x1b-capacity-building .you-may-encounter-th-I5cN5P {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .span0-yCoEJG {
+  font-style: normal;
+  line-height: 24px;
+}
+
+.x1b-capacity-building .span1-yCoEJG {
+  font-style: normal;
+  font-weight: 600;
+}
+
+.x1b-capacity-building .span2-yCoEJG {
+  font-style: normal;
+  line-height: 24px;
+}
+
+.x1b-capacity-building .content-5291AU {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building .title-fVB72m {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building .content-F3yVEX {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building .title-anooNr {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building .content-SrDwTe {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building .title-DGHBku {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building .content-93KSLG {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building .title-1EsFhf {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building .actions-VMxXXP {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .cluster-pUsRIP {
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x1b-capacity-building .x1-training-and-desig-2lEV0Z {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .the-central-figure-i-2lEV0Z {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .span0-05UExO {
+  font-style: normal;
+}
+
+.x1b-capacity-building .span1-05UExO {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x1b-capacity-building .span2-05UExO {
+  font-style: normal;
+}
+
+.x1b-capacity-building .content-HNbsUP {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building .an-action-that-requires-high-engagement-F7GL8n {
+  line-height: normal;
+}
+
+.x1b-capacity-building .guidelinessolo-pUsRIP {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--fpcgraywhitesmoke);
+  border-radius: 12px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 15px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .title-ptsov5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+}
+
+.x1b-capacity-building .iconguidelines-IyHr3X {
+  background-color: transparent;
+  height: 32px;
+  position: relative;
+  width: 32.0087890625px;
+}
+
+.x1b-capacity-building .guidelines-IyHr3X {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x1b-capacity-building .arrowdown-IyHr3X {
+  background-color: transparent;
+  height: 8.414306640625px;
+  margin-right: -1.00px;
+  position: relative;
+  width: 14px;
+}
+
+.x1b-capacity-building .flex-container-i23973552117085-ptsov5 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x1b-capacity-building .text0-i23973552117085-YJm8Mt {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .span0-xeT3HA {
+  font-style: normal;
+}
+
+.x1b-capacity-building .span1-xeT3HA {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x1b-capacity-building .span2-xeT3HA {
+  font-style: normal;
+}
+
+.x1b-capacity-building .text1-i23973552117085-YJm8Mt {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .span3-lxNUON {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x1b-capacity-building .text2-i23973552117085-YJm8Mt {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .span4-x0LJcb {
+  font-style: normal;
+}
+
+.x1b-capacity-building .text3-i23973552117085-YJm8Mt {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .span5-vsK0Wz {
+  font-style: normal;
+}
+
+.x1b-capacity-building .text4-i23973552117085-YJm8Mt {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .span6-8mh2id {
+  font-style: normal;
+}
+
+.x1b-capacity-building .span7-8mh2id {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x1b-capacity-building .span8-8mh2id {
+  font-style: normal;
+}
+
+.x1b-capacity-building .text5-i23973552117085-YJm8Mt {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .span9-9nBTCT {
+  font-style: normal;
+}
+
+.x1b-capacity-building .cluster-hJZ7VO {
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x1b-capacity-building .x2-building-familiari-e9fEGm {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .champions-of-procure-e9fEGm {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .iconknowledge-A7Kgup {
+  background-color: transparent;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.x1b-capacity-building .bulb-hjDm67 {
+  background-color: transparent;
+  height: 24px;
+  left: 7px;
+  position: relative;
+  top: 3px;
+  width: 18px;
+}
+
+.x1b-capacity-building .union-xDNhzq {
+  background-color: transparent;
+  height: 83.64%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.x1b-capacity-building .group-194-xDNhzq {
+  background-color: transparent;
+  height: 16.68%;
+  left: 29.17%;
+  position: absolute;
+  top: 29.19%;
+  width: 41.67%;
+}
+
+.x1b-capacity-building .line-48-xDNhzq {
+  background-color: transparent;
+  height: 8.16%;
+  left: 30.56%;
+  position: absolute;
+  top: 91.84%;
+  width: 38.89%;
+}
+
+.x1b-capacity-building .content-A7Kgup {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building .a-knowledge-acquisit-G7mPxJ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .content-qohlHT {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building .an-action-that-requires-high-engagement-QO4KiM {
+  line-height: normal;
+}
+
+.x1b-capacity-building .content-xVG8RX {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building .an-action-that-requires-high-engagement-kYCPWk {
+  line-height: normal;
+}
+
+.x1b-capacity-building .cluster-NafpgA {
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x1b-capacity-building .x3-reaching-out-to-in-9rbMNX {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .several-individuals-9rbMNX {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .content-Yc9KEd {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building .an-action-that-requires-high-engagement-ZWbkEf {
+  line-height: normal;
+}
+
+.x1b-capacity-building .cluster-4DPUtq {
+  flex-direction: column;
+  gap: 20px;
+}
+
+.x1b-capacity-building .x4-hosting-workshops-xcBg7m {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .a-great-way-to-reach-xcBg7m {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .content-UkRmSA {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building .an-action-that-requires-high-engagement-VUa7Ov {
+  line-height: 24px;
+}
+
+.x1b-capacity-building .content-R1wD6Z {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building .an-action-that-requires-high-engagement-RhJwRj {
+  line-height: 24px;
+}
+
+.x1b-capacity-building .content-urKBBj {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building .an-action-that-requires-high-engagement-kIcsQ1 {
+  line-height: 24px;
+}
+
+.x1b-capacity-building .outcomes-VMxXXP {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .content-8jJxIx {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+}
+
+.x1b-capacity-building .create-or-complete-t-CJ7Qbb {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .goals-CJ7Qbb {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .icongoal-r2DBex {
+  width: 32.00901794433594px;
+}
+
+.x1b-capacity-building .icongoal-uV9gyc {
+  width: 32.00901794433594px;
+}
+
+.x1b-capacity-building .icongoal-FXHpag {
+  width: 32.00901794433594px;
+}
+
+.x1b-capacity-building .references-VMxXXP {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .frame-140-szkFoR {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .content-Pivamb {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 5px;
+}
+
+.x1b-capacity-building .content-nDfyu4 {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 5px;
+}
+
+.x1b-capacity-building .content-5hgcO0 {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 5px;
+}
+
+.x1b-capacity-building .content-ZxID9H {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 5px;
+}
+
+.x1b-capacity-building .footer-nav-VMxXXP {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 60px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .navfooterprev-v02-RiOR5O {
+  align-items: center;
+  background-color: var(--fpcgreen);
+  border-radius: 64px 4px 4px 64px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  height: 40px;
+  justify-content: flex-end;
+  min-width: 140px;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.x1b-capacity-building .arrow-cEaVll {
+  margin-left: -0.85px;
+}
+
+.x1b-capacity-building .title-cEaVll {
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: right;
+}
+
+.x1b-capacity-building .navfooternext-v02-RiOR5O {
+  align-items: center;
+  background-color: var(--fpcgreen);
+  border-radius: 4px 64px 64px 4px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  margin-left: -20.092071533203125px;
+  min-width: 140px;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.x1b-capacity-building .title-h6hLmy {
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building .arrow-h6hLmy {
+  margin-right: -0.85px;
+}
+
+.x1b-capacity-building .sidebarv2-ActYyF {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--cultured-pearl);
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  max-width: 280px;
+  min-width: 200px;
+  padding: 20px;
+  position: relative;
+}
+
+.x1b-capacity-building .navsidebarexpanded-EXsnib {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .navmainv3-mDNCxI {
+  background-color: var(--algae-green);
+}
+
+.x1b-capacity-building .x1-section-name-wInPnU {
+  color: var(--black);
+}
+
+.x1b-capacity-building .navsubsectionv2-SxZPSD {
+  background-color: transparent;
+}
+
+.x1b-capacity-building .navsubsectionv2-OYGwaV {
+  background-color: var(--fpcgreen50);
+}
+
+.x1b-capacity-building .navsubsectionv2-SubFtD {
+  background-color: transparent;
+}
+
+.x1b-capacity-building .navsubsectionv2-H2zCQI {
+  background-color: transparent;
+}
+
+.x1b-capacity-building .navsubsectionv2-t3aUlL {
+  background-color: transparent;
+}
+
+.x1b-capacity-building .e-subsection-name-i0VZKP {
+  background-color: transparent;
+  color: var(--black);
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .navmainv3-KX23Eb {
+  background-color: var(--fpcbluehl);
+}
+
+.x1b-capacity-building .x1-section-name-v871ix {
+  color: var(--black-2);
+}
+
+.x1b-capacity-building .navsubsectionv2-x501rJ {
+  background-color: transparent;
+}
+
+.x1b-capacity-building .navsubsectionv2-xi9FSw {
+  background-color: transparent;
+}
+
+.x1b-capacity-building .navsubsectionv2-lNNxwq {
+  background-color: transparent;
+}
+
+.x1b-capacity-building .navmainv3-dQ9KEf {
+  background-color: var(--fpchlpeach);
+}
+
+.x1b-capacity-building .x1-section-name-UYikqI {
+  color: var(--black);
+}
+
+.x1b-capacity-building .navsubsectionv2-PUwUo1 {
+  background-color: transparent;
+}
+
+.x1b-capacity-building .navsubsectionv2-aHuqIB {
+  background-color: transparent;
+}
+
+.x1b-capacity-building .navsubsectionv2-SMMOTS {
+  background-color: transparent;
+}
+
+.x1b-capacity-building .navsubsectionv2-edb87C {
+  background-color: transparent;
+}
+
+.x1b-capacity-building .span0-3nSitz {
+  font-style: normal;
+}
+
+.x1b-capacity-building .navmainv3-OfE7Tp {
+  background-color: var(--periwinkle-gray);
+}
+
+.x1b-capacity-building .x1-section-name-OZYThX {
+  color: var(--black-2);
+}
+
+.x1b-capacity-building .navsubsectionv2-7lqgpi {
+  background-color: transparent;
+}
+
+.x1b-capacity-building .navsubsectionv2-3bjYXP {
+  background-color: transparent;
+}
+
+.x1b-capacity-building .navsubsectionv2-xATHNA {
+  background-color: transparent;
+}
+
+.x1b-capacity-building .sidebarbottom-EXsnib {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .have-a-question-IXBi2G {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1b-capacity-building .have-a-question-8x8wc3 {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building .email-us-8x8wc3 {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building .footer-7TAmGf {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--concrete);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  min-width: 800px;
+  padding: 60px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .logo-title-XiuszS {
+  flex: 0 0 auto;
+  width: 409.66314697265625px;
+}
+
+.x1b-capacity-building .block-trio-XiuszS {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .about-us-GcIJPx {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  padding: 30px;
+}
+
+.x1b-capacity-building .content-ixJSqs {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.x1b-capacity-building .about-us-A8FkWE {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building .flex-container-i8593413885932298-A8FkWE {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x1b-capacity-building .text0-i8593413885932298-zL6DtJ {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .span0-fIFMvc {
+  font-style: normal;
+}
+
+.x1b-capacity-building .text1-i8593413885932298-zL6DtJ {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .span1-EmKKbW {
+  font-style: normal;
+}
+
+.x1b-capacity-building .links-ixJSqs {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.x1b-capacity-building .how-we-work-sRMcMJ {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.x1b-capacity-building .project-resources-GcIJPx {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x1b-capacity-building .content-92eaEU {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.x1b-capacity-building .project-resources-xntjha {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building .open-products-were-r-xntjha {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .links-92eaEU {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.x1b-capacity-building .free-to-use-and-modify-piIGOh {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+}
+
+.x1b-capacity-building .see-all-our-work-on-git-hub-piIGOh {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: right;
+}
+
+.x1b-capacity-building .careers-GcIJPx {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x1b-capacity-building .content-aCRWNr {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.x1b-capacity-building .careers-O1jWR6 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building .calling-all-publicly-O1jWR6 {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .links-aCRWNr {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.x1b-capacity-building .open-positions-eHPxu7 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.x1b-capacity-building .information-XiuszS {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .contact-P2MaUq {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 373px;
+}
+
+.x1b-capacity-building .contact-iiG2Ur {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building .contact-info-iiG2Ur {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  margin-right: -15.00px;
+  position: relative;
+  width: 388px;
+}
+
+.x1b-capacity-building .newsletter-iC5aHs {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1b-capacity-building .newsletter-xEsYHt {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x1b-capacity-building .join-our-mailing-list-xEsYHt {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building .phone-iC5aHs {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1b-capacity-building .phone-rVM6ZX {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x1b-capacity-building .x31-20-2-444-500-rVM6ZX {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building .email-iC5aHs {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1b-capacity-building .email-wMtWx2 {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x1b-capacity-building .infopubliccodenet-wMtWx2 {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building .address-iC5aHs {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1b-capacity-building .address-YH0c5o {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x1b-capacity-building .content-YH0c5o {
+  align-items: flex-start;
+  background-color: transparent;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.x1b-capacity-building .keizersgracht-617-10-rGIQkx {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 240px;
+}
+
+.x1b-capacity-building .links-rGIQkx {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+}
+
+.x1b-capacity-building .open-street-map-E2ijFS {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1b-capacity-building .x-E2ijFS {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x1b-capacity-building .google-E2ijFS {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1b-capacity-building .organization-P2MaUq {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  position: relative;
+}
+
+.x1b-capacity-building .notes-UlHCsD {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .organizational-notes-PTqgFO {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .flex-container-i8593413885932358-PTqgFO {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x1b-capacity-building .text0-i8593413885932358-5qhZTA {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .span0-FIShJq {
+  font-style: normal;
+}
+
+.x1b-capacity-building .span1-FIShJq {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building .span2-FIShJq {
+  font-style: normal;
+}
+
+.x1b-capacity-building .span3-FIShJq {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building .span4-FIShJq {
+  font-style: normal;
+}
+
+.x1b-capacity-building .text1-i8593413885932358-5qhZTA {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .span5-y3S5NF {
+  font-style: normal;
+}
+
+.x1b-capacity-building .span6-y3S5NF {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building .span7-y3S5NF {
+  font-style: normal;
+}
+
+.x1b-capacity-building .span8-y3S5NF {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building .span9-y3S5NF {
+  font-style: normal;
+}
+
+.x1b-capacity-building .metadata-UlHCsD {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .updated-x3x0vM {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  margin-right: -36.00px;
+  position: relative;
+}
+
+.x1b-capacity-building .iconupdated-E4ixIS {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.x1b-capacity-building .last-updated-22-august-2023-E4ixIS {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x1b-capacity-building .copyright-x3x0vM {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  margin-right: -36.00px;
+  position: relative;
+}
+
+.x1b-capacity-building .text_label-CgqNCz {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x1b-capacity-building .x2023-foundation-for-public-code-CgqNCz {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x1b-capacity-building .span0-1xZZQA {
+  font-style: normal;
+}
+
+.x1b-capacity-building .span1-1xZZQA {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building .license-x3x0vM {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  margin-right: -36.00px;
+  position: relative;
+}
+
+.x1b-capacity-building .iconlicense-wXSvXl {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.x1b-capacity-building .creative-commons-zero-v10-universal-wXSvXl {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 299px;
+}
+
+.x1b-capacity-building .action {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  padding: 0px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .an-action-that-requires-high-engagement {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .arrow {
+  background-color: transparent;
+  height: 12.46875px;
+  position: relative;
+  width: 15.2392578125px;
+}
+
+.x1b-capacity-building .cluster {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .contact {
+  background-color: transparent;
+  position: relative;
+}
+
+.x1b-capacity-building .content {
+  display: flex;
+  position: relative;
+}
+
+.x1b-capacity-building .foundation-for-public-code {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .gear-2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.x1b-capacity-building .goal {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.x1b-capacity-building .iconchallenge {
+  background-color: transparent;
+  height: 32px;
+  position: relative;
+  width: 32.0087890625px;
+}
+
+.x1b-capacity-building .links {
+  background-color: transparent;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x1b-capacity-building .logo-symbol {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.6630859375px;
+}
+
+.x1b-capacity-building .logo-title {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  gap: 13px;
+  position: relative;
+}
+
+.x1b-capacity-building .lorem-ipsum {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building .outcome {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.x1b-capacity-building .this-is-an-outcome-t {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building .title {
+  background-color: transparent;
+  position: relative;
+}
+/* screen - 1b-capacity-building-u40mobileu41-all-breakpoints */
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  left: 0px;
+  max-width: 800px;
+  min-width: 320px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  top: 0px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .header-mobile-3RDm72 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--concrete);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  padding: 20px 20px 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .logo-title-CwmEAi {
+  align-self: stretch;
+  gap: 9.512194633483887px;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .logo-symbol-rMic6m {
+  height: 40.243900299072266px;
+  width: 34.875px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .foundation-for-public-code-rMic6m {
+  font-size: 19.8px;
+  margin-top: -0.11px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navigation-CwmEAi {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .links-OHRhBM {
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 10px 10px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .stewardship-YikWZv {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .resources-YikWZv {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .who-we-are-YikWZv {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .join-us-YikWZv {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .services-OHRhBM {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+  width: 112px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .mastodon-iazixz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .twitter-iazixz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .github-iazixz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .main-3RDm72 {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  padding: 0px 15px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .title-s16vf9 {
+  align-self: stretch;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .body-s16vf9 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-Qjb5au {
+  align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  gap: 60px;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .intro-4NsJrc {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .titlepage-xCA8Kw {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .page-title-bLDtGy {
+  background-color: transparent;
+  color: var(--black);
+  flex: 1;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-xCA8Kw {
+  align-self: stretch;
+  background-color: var(--fpcgraywhitesmoke);
+  border-radius: 12px;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 20px;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .this-section-will-help-you-PKdGct {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-right: -400.00px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 650px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .cluster-PKdGct {
+  gap: 10px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .icongoal-ldCfwz {
+  width: 32.0087890625px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .align-departments-an-ldCfwz {
+  background-color: transparent;
+  color: var(--black);
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .icongoal-sxJheE {
+  width: 32.0087890625px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .share-basic-knowledg-sxJheE {
+  background-color: transparent;
+  color: var(--black);
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .icongoal-xgkUAH {
+  width: 32.0087890625px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .prioritize-a-new-role-the-product-owner-xgkUAH {
+  background-color: transparent;
+  color: var(--black);
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .challenges-4NsJrc {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .cluster-WvY5l9 {
+  gap: 20px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .you-may-encounter-th-q9Kb0w {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span0-gSeGsy {
+  font-style: normal;
+  line-height: 24px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span1-gSeGsy {
+  font-style: normal;
+  font-weight: 600;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span2-gSeGsy {
+  font-style: normal;
+  line-height: 24px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-qssYLy {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .title-yES4YI {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-54LU6A {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .title-oEHntb {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-h3ejt8 {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .title-pxqNXf {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-8Mkwlf {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .title-eiryT1 {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .actions-4NsJrc {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .cluster-dVjhNF {
+  gap: 20px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .x1-training-and-desig-xLdtm6 {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .the-central-figure-i-xLdtm6 {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span0-5D51Yz {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span1-5D51Yz {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span2-5D51Yz {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-guBLiE {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .an-action-that-requires-high-engagement-AG3g1x {
+  line-height: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .guidelinessolo-dVjhNF {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--fpcgraywhitesmoke);
+  border-radius: 12px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 15px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .title-Jl5oUp {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .iconguidelines-PrIwox {
+  background-color: transparent;
+  height: 32px;
+  position: relative;
+  width: 32.0087890625px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .guidelines-PrIwox {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .arrowdown-PrIwox {
+  background-color: transparent;
+  height: 8.414306640625px;
+  margin-right: -1.00px;
+  position: relative;
+  width: 14px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .flex-container-i1371180172117085-Jl5oUp {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .text0-i1371180172117085-7iB6ni {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span0-SYPH8q {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span1-SYPH8q {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span2-SYPH8q {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .text1-i1371180172117085-7iB6ni {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span3-mLJCrb {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .text2-i1371180172117085-7iB6ni {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span4-1VZJqd {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .text3-i1371180172117085-7iB6ni {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span5-U1ByB8 {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .text4-i1371180172117085-7iB6ni {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span6-yxroeG {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span7-yxroeG {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span8-yxroeG {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .text5-i1371180172117085-7iB6ni {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span9-xxIseP {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .cluster-kby97E {
+  gap: 20px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .x2-building-familiari-JX2Gfx {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .champions-of-procure-JX2Gfx {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .iconknowledge-CKeYCC {
+  background-color: transparent;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .bulb-Ef6mmH {
+  background-color: transparent;
+  height: 24px;
+  left: 7px;
+  position: relative;
+  top: 3px;
+  width: 18px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .union-dLTDJT {
+  background-color: transparent;
+  height: 83.64%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .group-194-dLTDJT {
+  background-color: transparent;
+  height: 16.68%;
+  left: 29.17%;
+  position: absolute;
+  top: 29.19%;
+  width: 41.67%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .line-48-dLTDJT {
+  background-color: transparent;
+  height: 8.16%;
+  left: 30.56%;
+  position: absolute;
+  top: 91.84%;
+  width: 38.89%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-CKeYCC {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .a-knowledge-acquisit-EUHmdU {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-c9IHxq {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .an-action-that-requires-high-engagement-3UrAzq {
+  line-height: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-onz58I {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .an-action-that-requires-high-engagement-EbDrUL {
+  line-height: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .cluster-fz6gtr {
+  gap: 20px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .x3-reaching-out-to-in-Rsn5z6 {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .several-individuals-Rsn5z6 {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-HMRDI4 {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .an-action-that-requires-high-engagement-3WjSLe {
+  line-height: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .cluster-Nx3n3Z {
+  gap: 20px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .x4-hosting-workshops-sWnFKl {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .a-great-way-to-reach-sWnFKl {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-6zxbjQ {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .an-action-that-requires-high-engagement-lx4R63 {
+  line-height: 24px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-hxgRbU {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .an-action-that-requires-high-engagement-mb1LBC {
+  line-height: 24px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-VP3nED {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .an-action-that-requires-high-engagement-7TnDJB {
+  line-height: 24px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .outcomes-4NsJrc {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-nbS460 {
+  align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  gap: 20px;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .create-or-complete-t-t466uj {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .goals-t466uj {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .icongoal-pdy1WO {
+  width: 32.00901794433594px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .one-or-more-designat-pdy1WO {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .icongoal-HIpCey {
+  width: 32.00901794433594px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .a-calendar-of-regula-HIpCey {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .icongoal-0BJ5xc {
+  width: 32.00901794433594px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .basic-familiarity-wi-0BJ5xc {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .references-4NsJrc {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .frame-140-WLSEQY {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-wl2ZUW {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  gap: 5px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-2XPb3H {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  gap: 5px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-NTSMkF {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  gap: 5px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-9OXm1E {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  gap: 5px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .footer-nav-4NsJrc {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 60px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navfooterprev-v02-6gJfFj {
+  align-items: center;
+  background-color: var(--fpcgreen);
+  border-radius: 64px 4px 4px 64px;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 15px;
+  justify-content: flex-end;
+  min-width: 140px;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .arrow-feJZKq {
+  margin-left: -0.85px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .title-feJZKq {
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: right;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navfooternext-v02-6gJfFj {
+  align-items: center;
+  background-color: var(--fpcgreen);
+  border-radius: 4px 64px 64px 4px;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 15px;
+  min-width: 140px;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .title-8fIBLC {
+  align-self: stretch;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .arrow-8fIBLC {
+  margin-right: -0.85px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navsidebarexpanded-Qjb5au {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navmainv3-xTPPme {
+  background-color: var(--algae-green);
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .x1-section-name-UIIcaI {
+  color: var(--black);
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navsubsectionv2-bs2T2r {
+  background-color: transparent;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navsubsectionv2-gAGxmu {
+  background-color: var(--fpcgreen50);
+  cursor: pointer;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navsubsectionv2-xlhUxN {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navsubsectionv2-xnIcoS {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navsubsectionv2-m74UyC {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .e-subsection-name-NeXn7x {
+  background-color: transparent;
+  color: var(--black);
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navmainv3-t1nj4z {
+  background-color: var(--fpcbluehl);
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .x1-section-name-xVOuGP {
+  color: var(--black-2);
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navsubsectionv2-ID11WE {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navsubsectionv2-eX5Zt8 {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navsubsectionv2-gdLpEz {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navmainv3-pDospF {
+  background-color: var(--fpchlpeach);
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .x1-section-name-2m6fhd {
+  color: var(--black);
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navsubsectionv2-NmRxJH {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navsubsectionv2-dUEckM {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navsubsectionv2-zsGq57 {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navsubsectionv2-tvr5f9 {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span0-qeuxeJ {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navmainv3-8QtgNR {
+  background-color: var(--periwinkle-gray);
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .x1-section-name-gD86YP {
+  color: var(--black-2);
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navsubsectionv2-F2UvE6 {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navsubsectionv2-dCGGWl {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navsubsectionv2-5YTTJx {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .sidebarv2-Qjb5au {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--cultured-pearl);
+  border-radius: 6px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .sidebarbottom-nKxh3x {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+  width: 240px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .have-a-question-u5yTrq {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .have-a-question-tXFQEB {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .email-us-tXFQEB {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .footer-3RDm72 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--concrete);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 800px;
+  padding: 20px 15px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .logo-title-euxxYC {
+  gap: 8.87804889678955px;
+  width: 191.06240844726562px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .logo-symbol-R1ZgD2 {
+  height: 37.560546875px;
+  width: 32.55078125px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .foundation-for-public-code-R1ZgD2 {
+  font-size: 18.4px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .block-trio-euxxYC {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .about-us-ZVRpBq {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  padding: 15px;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-UdmvBF {
+  align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .about-us-ngU0fx {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .flex-container-i137118056137118702-ngU0fx {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .text0-i137118056137118702-Qo2t2d {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span0-1D6dWM {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .text1-i137118056137118702-Qo2t2d {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span1-mgFB8C {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .links-UdmvBF {
+  align-items: flex-start;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .how-we-work-HbNlR3 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .project-resources-ZVRpBq {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  padding: 15px;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-lPCDoB {
+  align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .project-resources-xg99gk {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .open-products-were-r-xg99gk {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .links-lPCDoB {
+  align-items: flex-end;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .free-to-use-and-modify-anVdgb {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .see-all-our-work-on-git-hub-anVdgb {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: right;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .careers-ZVRpBq {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  padding: 15px;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-nKU2Wt {
+  align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .careers-x0PBdA {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .calling-all-publicly-x0PBdA {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .links-nKU2Wt {
+  align-items: flex-end;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .open-positions-4uxs8c {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .information-euxxYC {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  padding: 15px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .contact-j4POiI {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .contact-k1lAHy {
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .contact-info-k1lAHy {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .newsletter-ETGYxa {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .newsletter-k8UPkc {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .join-our-mailing-list-k8UPkc {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .phone-ETGYxa {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .phone-1aaR0c {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .x31-20-2-444-500-1aaR0c {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .email-ETGYxa {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .email-qwuG8F {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .infopubliccodenet-qwuG8F {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .address-ETGYxa {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .address-lxO5oM {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content-lxO5oM {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .keizersgracht-617-10-Sc9ypF {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .links-Sc9ypF {
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 10px 0px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .open-street-map-7VU68f {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .x-7VU68f {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .google-7VU68f {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .organization-j4POiI {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .notes-6ilOSI {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .organizational-notes-MdtBhf {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .flex-container-i137118056137118742-MdtBhf {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .text0-i137118056137118742-QfTxLx {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span0-ekfPdp {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span1-ekfPdp {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span2-ekfPdp {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span3-ekfPdp {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span4-ekfPdp {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .text1-i137118056137118742-QfTxLx {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span5-BW62bx {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span6-BW62bx {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span7-BW62bx {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span8-BW62bx {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span9-BW62bx {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .metadata-6ilOSI {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .updated-JkS7AU {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  margin-right: -33.00px;
+  position: relative;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .iconupdated-RBWdIT {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .last-updated-22-august-2023-RBWdIT {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .copyright-JkS7AU {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  margin-right: -33.00px;
+  position: relative;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .text_label-TPCqqe {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .x2023-foundation-for-public-code-TPCqqe {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span0-TvGEr5 {
+  font-style: normal;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .span1-TvGEr5 {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .license-JkS7AU {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  margin-right: -33.00px;
+  position: relative;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .iconlicense-JdppqK {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .creative-commons-zero-v10-universal-JdppqK {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 299px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .action {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  padding: 0px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .an-action-that-requires-high-engagement {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .arrow {
+  background-color: transparent;
+  height: 12.46875px;
+  position: relative;
+  width: 15.2392578125px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .cluster {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .contact {
+  align-self: stretch;
+  background-color: transparent;
+  position: relative;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .content {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .foundation-for-public-code {
+  background-color: transparent;
+  color: var(--black);
+  flex: 1;
+  font-family: var(--font-family-mulish);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .gear-2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .goal {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .iconchallenge {
+  background-color: transparent;
+  height: 32px;
+  position: relative;
+  width: 32.0087890625px;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .links {
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .logo-symbol {
+  background-color: transparent;
+  position: relative;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .logo-title {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .lorem-ipsum {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .outcome {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x1b-capacity-building-u40mobileu41-all-breakpoints .title {
+  background-color: transparent;
+  position: relative;
+}
+@media screen and (max-width: 799px) {
+  .screen.x1b-capacity-building { 
+    display: none;
+   }
+}
+@media screen and (min-width: 800px) {
+  .screen.x1b-capacity-building-u40mobileu41-all-breakpoints { 
+    display: none;
+   }
+}

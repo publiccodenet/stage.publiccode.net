@@ -50,6 +50,15 @@
   position: relative;
 }
 
+.arrow-2 {
+  background-color: transparent;
+  height: 33.77%;
+  left: 28.39%;
+  position: absolute;
+  top: 34.62%;
+  width: 44.21%;
+}
+
 .b-subsection-name {
   background-color: transparent;
   color: var(--black);
@@ -60,6 +69,15 @@
   margin-top: -1.00px;
   position: relative;
   text-align: left;
+}
+
+.bulb {
+  background-color: transparent;
+  height: 24px;
+  left: 7px;
+  position: relative;
+  top: 3px;
+  width: 18px;
 }
 
 .c-subsection-name {
@@ -91,6 +109,18 @@
   position: relative;
 }
 
+.challenge {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  padding: 0px 10px;
+  position: relative;
+  width: 100%;
+}
+
 .d-subsection-name {
   background-color: transparent;
   color: var(--black);
@@ -108,15 +138,29 @@
   position: relative;
 }
 
-.get-software-off-the-shelf {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
+.frame-163 {
+  align-items: flex-start;
+  background-color: var(--fpcgraymed);
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 1px 5px;
   position: relative;
-  text-align: left;
+}
+
+.group {
+  background-color: transparent;
+  position: absolute;
+}
+
+.group-194 {
+  background-color: transparent;
+  height: 16.68%;
+  left: 29.17%;
+  position: absolute;
+  top: 29.19%;
+  width: 41.67%;
 }
 
 .have-a-question {
@@ -125,11 +169,44 @@
   position: relative;
 }
 
-.icons {
+.iconaction {
   background-color: transparent;
-  height: 64px;
+  height: 32px;
   position: relative;
-  width: 64px;
+  width: 32px;
+}
+
+.icongoal {
+  background-color: transparent;
+  height: 32px;
+  position: relative;
+}
+
+.iconknowledge {
+  background-color: transparent;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.line-48 {
+  background-color: transparent;
+  height: 8.16%;
+  left: 30.56%;
+  position: absolute;
+  top: 91.84%;
+  width: 38.89%;
+}
+
+.link-title-here {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
 }
 
 .navmainv3 {
@@ -150,11 +227,15 @@
   position: relative;
 }
 
-.paper {
+.number {
+  align-items: flex-start;
   background-color: transparent;
-  height: 51px;
-  position: absolute;
-  width: 50px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px 5px 0px;
+  position: relative;
 }
 
 .phone {
@@ -167,16 +248,15 @@
   position: relative;
 }
 
-.purchase-existing {
+.reference {
+  align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
-  color: var(--black);
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  margin-top: -1.00px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
   position: relative;
-  text-align: left;
+  width: 100%;
 }
 
 .section-title {
@@ -186,124 +266,6 @@
   display: flex;
   flex: 0 0 auto;
   gap: 15px;
-  position: relative;
-  width: 100%;
-}
-
-.strategic-paths {
-  align-self: stretch;
-  background-color: transparent;
-  position: relative;
-}
-
-.subsections {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 2px;
-  position: relative;
-  width: 100%;
-}
-
-.text {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 10px;
-  position: relative;
-}
-
-.x1-section-name {
-  background-color: transparent;
-  flex: 1;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-}
-
-.arrow-2 {
-  background-color: transparent;
-  height: 33.77%;
-  left: 28.39%;
-  position: absolute;
-  top: 34.62%;
-  width: 44.21%;
-}
-
-.challenge {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 15px;
-  padding: 0px 10px;
-  position: relative;
-  width: 100%;
-}
-
-.frame-163 {
-  align-items: flex-start;
-  background-color: var(--fpcgraymed);
-  border-radius: 4px;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  padding: 1px 5px;
-  position: relative;
-}
-
-.iconaction {
-  background-color: transparent;
-  height: 32px;
-  position: relative;
-  width: 32px;
-}
-
-.icongoal {
-  background-color: transparent;
-  height: 32px;
-  position: relative;
-}
-
-.link-title-here {
-  align-self: stretch;
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.number {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  padding: 20px 5px 0px;
-  position: relative;
-}
-
-.reference {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 5px;
   position: relative;
   width: 100%;
 }
@@ -330,6 +292,34 @@
   position: relative;
   text-align: left;
   width: fit-content;
+}
+
+.subsections {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.symbol-dev {
+  background-color: transparent;
+  position: absolute;
+}
+
+.this-is-a-goal-for-a-particular-activity {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
 }
 
 .titlesubsection {
@@ -371,52 +361,69 @@
   width: 25px;
 }
 
-.you-should-read-this {
-  align-self: stretch;
+.x1-section-name {
   background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.this-is-a-goal-for-a-particular-activity {
-  align-self: stretch;
-  background-color: transparent;
-  color: var(--black);
+  flex: 1;
   font-style: normal;
-  font-weight: 400;
-  line-height: 21px;
-  position: relative;
-  text-align: left;
-}
-
-.a-knowledge-acquisit {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  font-weight: 700;
   line-height: 24px;
   margin-top: -1.00px;
   position: relative;
   text-align: left;
 }
 
-.bulb {
+.get-software-off-the-shelf {
+  align-self: stretch;
   background-color: transparent;
-  height: 24px;
-  left: 7px;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
   position: relative;
-  top: 3px;
-  width: 18px;
+  text-align: left;
 }
 
-.group-194 {
+.icons {
   background-color: transparent;
-  height: 16.68%;
-  left: 29.17%;
+  height: 64px;
+  position: relative;
+  width: 64px;
+}
+
+.paper {
+  background-color: transparent;
+  height: 51px;
   position: absolute;
-  top: 29.19%;
-  width: 41.67%;
+  width: 50px;
+}
+
+.purchase-existing {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.strategic-paths {
+  align-self: stretch;
+  background-color: transparent;
+  position: relative;
+}
+
+.text {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 10px;
+  position: relative;
 }
 
 .guidelines {
@@ -443,28 +450,21 @@
   width: 100%;
 }
 
-.iconknowledge {
+.you-should-read-this {
+  align-self: stretch;
   background-color: transparent;
-  height: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
   position: relative;
-  width: 32px;
+  text-align: left;
 }
 
-.line-48 {
+.a-knowledge-acquisit {
+  align-self: stretch;
   background-color: transparent;
-  height: 8.16%;
-  left: 30.56%;
-  position: absolute;
-  top: 91.84%;
-  width: 38.89%;
-}
-
-.group {
-  background-color: transparent;
-  position: absolute;
-}
-
-.symbol-dev {
-  background-color: transparent;
-  position: absolute;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
 }

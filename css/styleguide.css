@@ -29,7 +29,6 @@
   --red: #ff0000;
   --turbo: #f3e900;
   --white: #ffffff;
-  --white1: #ffffff;
  
   --font-size-24px: 24px;
   --font-size-l: 18px;
@@ -178,14 +177,6 @@
   font-weight: 400;
 }
 
-.mulish-normal-black-16px {
-  color: var(--black);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: italic;
-  font-weight: 400;
-}
-
 .mulish-semi-bold-azure-radiance-16px {
   color: var(--basic-link);
   font-family: var(--font-family-mulish);
@@ -200,6 +191,14 @@
   font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 600;
+}
+
+.mulish-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 400;
 }
 
 .mulish-bold-royal-blue-16px {
@@ -234,20 +233,20 @@
   font-weight: 700;
 }
 
-.mulish-normal-black-13px-2 {
-  color: var(--black);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xs);
-  font-style: italic;
-  font-weight: 400;
-}
-
 .mulish-bold-royal-blue-16px-2 {
   color: var(--fpcpurple);
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-m);
   font-style: italic;
   font-weight: 700;
+}
+
+.mulish-normal-black-13px-2 {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xs);
+  font-style: italic;
+  font-weight: 400;
 }
 
 :root {

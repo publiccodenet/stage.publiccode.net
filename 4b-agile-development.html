@@ -1,0 +1,837 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1440, maximum-scale=1.0" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/4b-agile-development.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+
+    <link rel="icon" href="https://brand.publiccode.net/logo/mark-128w128h.png">
+    <script>
+      (function(h,o,t,j,a,r){
+          h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+          h._hjSettings={hjid:3580815,hjsv:6};
+          a=o.getElementsByTagName('head')[0];
+          r=o.createElement('script');r.async=1;
+          r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+          a.appendChild(r);
+      })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+    <script async defer data-domain="publiccode.net" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="4b-agile-development" />
+    <div class="x4b-agile-development screen">
+      <header class="header-xh4jGm">
+        <div class="content-VaqSHM content">
+          <a href="https://publiccode.net/" target="_blank">
+            <div class="logo-title-ccKVvd logo-title">
+              <img class="logo-symbol" src="img/logo-symbol@2x.png" alt="logo symbol" />
+              <div class="foundation-for-public-code valign-text-middle mulish-bold-black-27px">
+                Foundation for Public Code
+              </div>
+            </div></a
+          >
+          <div class="navigation-ccKVvd">
+            <div class="links-OfPWBH links">
+              <a href="https://publiccode.net/codebase-stewardship/" target="_blank"
+                ><div class="stewardship-5XPTws mulish-normal-black-15px">Codebases</div> </a
+              ><a href="https://projects.publiccode.net/" target="_blank"
+                ><div class="resources-5XPTws mulish-normal-black-15px">Resources</div> </a
+              ><a href="https://publiccode.net/team/" target="_blank"
+                ><div class="who-we-are-5XPTws mulish-normal-black-15px">Who we are</div> </a
+              ><a href="https://about.publiccode.net/CONTRIBUTING.html" target="_blank"
+                ><div class="join-us-5XPTws mulish-normal-black-15px">Join us</div>
+              </a>
+            </div>
+            <div class="services-OfPWBH">
+              <a href="https://floss.social/@publiccode" target="_blank"
+                ><img class="mastodon-b9siYE" src="img/mastodon@2x.png" alt="Mastodon" /> </a
+              ><a href="https://twitter.com/publiccodenet" target="_blank"
+                ><img class="twitter-b9siYE" src="img/twitter@2x.png" alt="Twitter" /> </a
+              ><a href="https://github.com/publiccodenet/" target="_blank"
+                ><img class="github-b9siYE" src="img/github@2x.png" alt="Github" />
+              </a>
+            </div>
+          </div>
+        </div>
+      </header>
+      <h1 class="title-xh4jGm title titlepage">Process code for software procurement</h1>
+      <div class="main-frame-xh4jGm">
+        <div class="content-xGzoPX content">
+          <div class="intro-AJdIZV">
+            <div class="titlepage-LVpovE"><div class="page-title-M7LDzy titlepage">4b. Agile development</div></div>
+            <div class="content-LVpovE content">
+              <p class="this-section-will-help-you-pHmH3A mulish-bold-black-16px">This section will help you:</p>
+              <div class="cluster-pHmH3A cluster">
+                <article class="goal">
+                  <img class="icongoal-xDvUEu icongoal" src="img/icon-goal@2x.png" alt="icon.goal" />
+                  <p class="this-is-a-goal-for-a-particular-activity detail">
+                    Work with and support a vendor as they run an agile development process
+                  </p>
+                </article>
+                <article class="goal">
+                  <img class="icongoal-ienjHJ icongoal" src="img/icon-goal-1@2x.png" alt="icon.goal" />
+                  <p class="this-is-a-goal-for-a-particular-activity detail">
+                    Embed software in the organization’s technical environment by incrementally deploying working
+                    software modules and evaluating them
+                  </p>
+                </article>
+                <article class="goal">
+                  <img class="icongoal-DHZ75D icongoal" src="img/icon-goal-2@2x.png" alt="icon.goal" />
+                  <p class="this-is-a-goal-for-a-particular-activity detail">
+                    Collaborate with the vendor to produce thorough technical and user-oriented documentation
+                  </p>
+                </article>
+              </div>
+            </div>
+          </div>
+          <div class="challenges-AJdIZV">
+            <div class="titlesubsection"><div class="subsection-title titlesection">Common challenges</div></div>
+            <p class="you-may-encounter-th-CFRvnX body">
+              <span class="span0-g6JXU6 body"
+                >You may encounter these frictions as you do the work of agile development. These are challenges the </span
+              ><span class="span1-g6JXU6 bodylink">Recommended actions</span
+              ><span class="span2-g6JXU6 body">
+                are designed to solve, or that may arise as you take those actions.
+              </span>
+            </p>
+            <div class="challenge">
+              <img class="iconchallenge" src="img/icon-challenge@2x.png" alt="icon.challenge" />
+              <div class="content-K6Ce4Z content">
+                <div class="title-5OuQgt title mulish-bold-black-16px">Staff turnover</div>
+                <p class="lorem-ipsum-5OuQgt lorem-ipsum detail">
+                  Staff retention can be a significant challenge, particularly for technical expertise—where city
+                  governments have to compete with private sector software companies for talent. Staff turnover can
+                  confuse the process, cause delays, and compromise continuity.
+                </p>
+              </div>
+            </div>
+            <div class="challenge">
+              <img class="iconchallenge" src="img/icon-challenge@2x.png" alt="icon.challenge" />
+              <div class="content-vxAb8f content">
+                <p class="title-A5nmZ5 title mulish-bold-black-16px">
+                  Lack of familiarity with or lack of involvement in the agile development process
+                </p>
+                <p class="lorem-ipsum-A5nmZ5 lorem-ipsum detail">
+                  City staff assume that they cannot or should not be involved with the developer team. Coders should
+                  have decision-making power when it comes to technical architecture, timelines, and required effort,
+                  but they do not know what end users need. The best software will result from good collaboration.
+                </p>
+              </div>
+            </div>
+            <div class="challenge">
+              <img class="iconchallenge" src="img/icon-challenge@2x.png" alt="icon.challenge" />
+              <div class="content-IvJpIp content">
+                <p class="title-uICEke title mulish-bold-black-16px">Lack of communication with end users</p>
+                <p class="lorem-ipsum-uICEke lorem-ipsum detail">
+                  Frontline staff members—the end users—will be affected by continuous integration. It is important to
+                  notify them of changes to their daily workflow, and to seek their feedback throughout the development
+                  process.
+                </p>
+              </div>
+            </div>
+            <div class="challenge">
+              <img class="iconchallenge" src="img/icon-challenge@2x.png" alt="icon.challenge" />
+              <div class="content-TWiwJo content">
+                <p class="title-9mwLVV title mulish-bold-black-16px">
+                  Lack of input from technical experts when sprint planning
+                </p>
+                <p class="lorem-ipsum-9mwLVV lorem-ipsum detail">
+                  This can result in over-specifying or under-specifying feature sets and poorly planned budgets and
+                  timelines.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="actions-AJdIZV">
+            <div class="titlesubsection"><div class="subsection-title titlesection">Recommended actions</div></div>
+            <div class="frame-142-aAEx52">
+              <p class="x1-supporting-the-agile-work-plan-eIebGM titlesubsection">1. Supporting the agile work plan</p>
+              <p class="your-software-develo-eIebGM body">
+                Your software development partner will create a high level agile development plan. This plan will
+                describe the overall technical architecture of the project, showing how a number of independent and
+                interoperable modules will fit together to address the problem statement. You can support the planning
+                process in a number of ways.
+              </p>
+              <div class="action">
+                <div class="iconknowledge">
+                  <div class="bulb">
+                    <img class="union" src="img/union@2x.png" alt="Union" />
+                    <img class="group-194" src="img/group-194@2x.png" alt="Group 194" />
+                    <img class="line-48" src="img/line-48@2x.png" alt="Line 48" />
+                  </div>
+                </div>
+                <div class="content-L0EhMq content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Agile might feel uncertain—and that’s ok
+                  </p>
+                  <p class="lorem-ipsum-l3xenI lorem-ipsum detail">
+                    An agile development project is only planned in broad strokes at the outset. The point is to be
+                    incremental and iterative, to accommodate changes based on what you learn as you go. This reduces
+                    overall risk of failure, and minimizes expensive and time-consuming revisions in the future.
+                  </p>
+                </div>
+              </div>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-LIrmPP content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Provide the development team with documentation
+                  </p>
+                  <p class="lorem-ipsum-sYAJls lorem-ipsum detail">
+                    Have a meeting to walk them through the problem statement, user journeys, success criteria, and
+                    KPIs. Answer any questions, and ask them if they see any gaps in the discovery research or if they
+                    have ideas to add.
+                  </p>
+                </div>
+              </div>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-ZJncVr content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Review the full feature set with the development team
+                  </p>
+                  <p class="lorem-ipsum-EGzN9l lorem-ipsum detail">Ask if they have any concerns or additions.</p>
+                </div>
+              </div>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-bo22VW content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Review your organization’s technical environment with the development team
+                  </p>
+                  <p class="lorem-ipsum-DkxWI7 lorem-ipsum detail">
+                    Discuss the technical architecture for the project, and resolve any questions about how it will fit
+                    into your organization’s existing systems. Another important topic is how DevOps will happen, and
+                    how you will give feedback (make sure an IT professional from your organization attends).
+                  </p>
+                </div>
+              </div>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-xdtf1i content">
+                  <div class="an-action-that-requires-high-engagement mulish-bold-black-16px">Schedule demos</div>
+                  <p class="lorem-ipsum-qZMSNs lorem-ipsum detail">
+                    Your RFP specified that the development process would include deployment into the actual working
+                    technical environment. This gives you an opportunity to demo working software to end users and get
+                    their feedback. Schedule these sessions early, so that they are sure to happen.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="frame-143-aAEx52">
+              <div class="x2-sprint-planning-QP91BE titlesubsection">2. Sprint planning</div>
+              <p class="your-development-par-QP91BE body">
+                Your development partner will be building software modules quickly, in 2-4 week sprints. These should be
+                scoped, budgeted, and contracted individually, underneath the umbrella contract.
+              </p>
+              <div class="action">
+                <div class="iconknowledge">
+                  <div class="bulb">
+                    <img class="union" src="img/union@2x.png" alt="Union" />
+                    <img class="group-194" src="img/group-194@2x.png" alt="Group 194" />
+                    <img class="line-48" src="img/line-48@2x.png" alt="Line 48" />
+                  </div>
+                </div>
+                <div class="content-GFWY1y content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Each sprint is about building a module that is...
+                  </p>
+                  <div class="flex-container-i231689960214892-MNTzFc">
+                    <div class="text0-i231689960214892-bvcwXr detail">
+                      <span class="span0-p0Mxjq detail">Based on insights from the discovery research<br /></span>
+                    </div>
+                    <div class="text1-i231689960214892-bvcwXr detail">
+                      <span class="span1-GOocqG detail">Written out as a clear user journey<br /></span>
+                    </div>
+                    <div class="text2-i231689960214892-bvcwXr detail">
+                      <span class="span2-xAuUoT detail"
+                        >Planned and resourced according to complexity and necessary staff effort<br
+                      /></span>
+                    </div>
+                    <div class="text3-i231689960214892-bvcwXr detail">
+                      <span class="span3-65cgMx detail">Developed in a short </span
+                      ><span class="span4-65cgMx mulish-normal-black-14px">(2-4 week)</span
+                      ><span class="span5-65cgMx detail"> sprint<br /></span>
+                    </div>
+                    <div class="text4-i231689960214892-bvcwXr detail">
+                      <span class="span6-Lgqrv9 detail">Fully operational at the end of the sprint<br /></span>
+                    </div>
+                    <div class="text5-i231689960214892-bvcwXr detail">
+                      <span class="span7-2B0Ouv detail"
+                        >Integrated, tested and operationalized at the end of the sprint</span
+                      >
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-4MMxuS content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Work with the development team to plan the first sprint.
+                  </p>
+                  <div class="lorem-ipsum-hg8yYq lorem-ipsum mulish-normal-black-14px">(see guidelines below)</div>
+                </div>
+              </div>
+              <div class="guidelinessolo">
+                <div class="title-0H2630 title">
+                  <img class="iconguidelines" src="img/icon-guidelines@2x.png" alt="icon.guidelines" />
+                  <div class="guidelines mulish-bold-black-16px">Guidelines for agile sprints</div>
+                  <img class="arrowdown" src="img/arrow-down@2x.png" alt="arrow.down" />
+                </div>
+                <div class="flex-container-i21175332117085-0H2630">
+                  <div class="text0-i21175332117085-fTxFBI detail">
+                    <span class="span0-2cjnbg detail"
+                      >Each module should addresses a very specific problem that a future user will face. For example, a
+                      web application for trash removal may include:<br
+                    /></span>
+                  </div>
+                  <div class="text1-i21175332117085-fTxFBI detail">
+                    <span class="span1-X2M1y5 mulish-normal-black-14px"
+                      >“I am a resident. I need to know which day trash will be collected this week, and whether it will
+                      be trash + recycling or recycling-only.”<br
+                    /></span>
+                  </div>
+                  <div class="text2-i21175332117085-fTxFBI detail">
+                    <span class="span2-LxDN4g mulish-normal-black-14px"
+                      >“I am a trash truck operator. I need a route for pickups at the beginning of every day.”<br
+                    /></span>
+                  </div>
+                  <div class="text3-i21175332117085-fTxFBI detail">
+                    <span class="span3-lg78ck mulish-normal-black-14px"
+                      >“I am a waste management services operator. I need to know if severe weather conditions are
+                      expected, and notify residents of service delays.”<br
+                    /></span>
+                  </div>
+                  <div class="text4-i21175332117085-fTxFBI detail">
+                    <span class="span4-o3pgK8 detail"
+                      >Sprint planning and scope should be determined with the development team. Some teams use a simple
+                      point-scoring system to assign an amount of work involved to complete each sprint </span
+                    ><span class="span5-o3pgK8 mulish-normal-black-14px"
+                      >(e.g. “1” for a simple module and “4” for a complex module)</span
+                    ><span class="span6-o3pgK8 detail"
+                      >. This helps with staffing, budgeting and planning. Before each sprint, work with the development
+                      team to plan the focus, scope, and timeline of each sprint.<br
+                    /></span>
+                  </div>
+                  <div class="text5-i21175332117085-fTxFBI detail">
+                    <span class="span7-pzerst detail"
+                      >Agile development depends on regular meetings. The development team will meet frequently </span
+                    ><span class="span8-pzerst mulish-normal-black-14px">(usually every day)</span
+                    ><span class="span9-pzerst detail"
+                      >. If an external vendor is doing the development, there should be a meeting with the client at
+                      the end of every sprint </span
+                    ><span class="span10-pzerst mulish-normal-black-14px">(every 2-4 weeks)</span
+                    ><span class="span11-pzerst detail">.</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="frame-144-aAEx52">
+              <p class="x3-using-a-dev-ops-approach-ziZx3J titlesubsection">3. Using a DevOps approach</p>
+              <p class="dev-ops-short-for-de-ziZx3J body">
+                <span class="span0-hYWxza body">DevOps </span
+                ><span class="span1-hYWxza mulish-normal-black-16px">(short for “Development and operations”)</span
+                ><span class="span2-hYWxza body">
+                  involves continuously deploying software modules in the actual working environment as they are built.
+                  That means launching a piece of software on the city’s servers and having users start using it in
+                  their daily workflow. Your job is to organize the deployment, testing and feedback for each module
+                  along the way.
+                </span>
+              </p>
+              <div class="action">
+                <div class="iconknowledge">
+                  <div class="bulb">
+                    <img class="union" src="img/union@2x.png" alt="Union" />
+                    <img class="group-194" src="img/group-194@2x.png" alt="Group 194" />
+                    <img class="line-48" src="img/line-48@2x.png" alt="Line 48" />
+                  </div>
+                </div>
+                <div class="content-43icPA content">
+                  <div class="an-action-that-requires-high-engagement mulish-bold-black-16px">DevOps reduces risk</div>
+                  <p class="lorem-ipsum-MLJHqT lorem-ipsum detail">
+                    By deploying and testing, you can identify any technical or procedural incompatibilities and fix
+                    them along the way. It also means that key staff become familiar with the product, and have
+                    opportunities to provide feedback that helps guide future modules or sprints.
+                  </p>
+                </div>
+              </div>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-JylwDl content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Include deployment and evaluation in the contract for each sprint
+                  </p>
+                  <p class="lorem-ipsum-nPNByk lorem-ipsum detail">
+                    Allocate time and budget for this step, and specify KPIs or success criteria. You are in control of
+                    the quality!
+                  </p>
+                </div>
+              </div>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-Vx0hr6 content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Coordinate with end users to evaluate the module
+                  </p>
+                  <p class="lorem-ipsum-MTtrE7 lorem-ipsum detail">
+                    Do this after it’s been integrated into their daily workflow. They are the best resources for
+                    evaluation. If it isn’t functional from a technical or user standpoint, then it isn’t good
+                    enough—you can do another sprint to refine it.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="guidelinessolo">
+            <div class="title-8axrxN title">
+              <img class="iconguidelines" src="img/icon-guidelines@2x.png" alt="icon.guidelines" />
+              <div class="guidelines mulish-bold-black-16px">Evaluating modules</div>
+              <img class="arrowdown" src="img/arrow-down@2x.png" alt="arrow.down" />
+            </div>
+            <div class="flex-container-i23973782117085-8axrxN">
+              <div class="text0-i23973782117085-gTgsNC detail">
+                <span class="span0-SOmyRO detail"
+                  >You should be using iterative, module-specific contracts under an umbrella contract. You have the
+                  opportunity to evaluate each module, and can discontinue the umbrella contract in the event of
+                  underperformance. Ask the following evaluation questions: <br
+                /></span>
+              </div>
+              <div class="text1-i23973782117085-gTgsNC detail">
+                <span class="span1-zRIr5V detail">Does the module meet the sprint’s KPIs? <br /></span>
+              </div>
+              <div class="text2-i23973782117085-gTgsNC detail">
+                <span class="span2-bVuf0K detail"
+                  >Does the module address a user journey that is relevant to the problem statement?<br
+                /></span>
+              </div>
+              <div class="text3-i23973782117085-gTgsNC detail">
+                <span class="span3-yJ1DwW detail">Is the product logical and usable for the end user?<br /></span>
+              </div>
+              <div class="text4-i23973782117085-gTgsNC detail">
+                <span class="span4-DJQJ39 detail"
+                  >Does the product integrate with the city’s existing digital environment?<br
+                /></span>
+              </div>
+              <div class="text5-i23973782117085-gTgsNC detail">
+                <span class="span5-MaAiXy detail"
+                  >Did the process align with the optional criteria, values and objectives in the RFP?<br
+                /></span>
+              </div>
+              <div class="text6-i23973782117085-gTgsNC detail">
+                <span class="span6-UJe2LO detail">Was the product delivered in a timely manner?</span>
+              </div>
+            </div>
+          </div>
+          <div class="outcomes-AJdIZV">
+            <div class="titlesubsection"><div class="subsection-title titlesection">Takeaways</div></div>
+            <div class="cluster-DzVs68 cluster">
+              <p class="create-or-complete-t-mcDmLw body">
+                Create or complete the following outputs before moving on to the next step.
+              </p>
+              <div class="goals-mcDmLw">
+                <article class="outcome">
+                  <div class="icongoal-QvFCWD icongoal">
+                    <div class="v2">
+                      <img class="gear-2" src="img/gear-2-2@2x.png" alt="gear 2" />
+                      <img class="arrow-2" src="img/arrow-2@2x.png" alt="arrow 2" />
+                    </div>
+                  </div>
+                  <div class="this-is-an-outcome-t mulish-semi-bold-royal-blue-16px">
+                    Collaborative agile development
+                  </div>
+                </article>
+                <article class="outcome">
+                  <div class="icongoal-v7a8PI icongoal">
+                    <div class="v2">
+                      <img class="gear-2" src="img/gear-2-9@2x.png" alt="gear 2" />
+                      <img class="arrow-2" src="img/arrow-2-7@2x.png" alt="arrow 2" />
+                    </div>
+                  </div>
+                  <div class="this-is-an-outcome-t mulish-semi-bold-royal-blue-16px">Modular budgeting</div>
+                </article>
+                <article class="outcome">
+                  <div class="icongoal-vTSgnT icongoal">
+                    <div class="v2">
+                      <img class="gear-2" src="img/gear-2-10@2x.png" alt="gear 2" />
+                      <img class="arrow-2" src="img/arrow-2-8@2x.png" alt="arrow 2" />
+                    </div>
+                  </div>
+                  <p class="this-is-an-outcome-t mulish-semi-bold-royal-blue-16px">
+                    DevOps continuous integration and testing
+                  </p>
+                </article>
+              </div>
+            </div>
+          </div>
+          <div class="references-AJdIZV">
+            <div class="titlesubsection"><div class="subsection-title titlesection">Further reading</div></div>
+            <div class="frame-141-ulhyzA">
+              <article class="reference">
+                <div class="number"><div class="x1 body">1.</div></div>
+                <div class="content-VJthZb content">
+                  <div class="frame-163"><div class="source-name subtext">18F</div></div>
+                  <a href="https://agile.18f.gov" target="_blank"
+                    ><div class="link-title-here mulish-bold-azure-radiance-16px">Agile Principles</div>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">2.</div></div>
+                <div class="content-uLqz8w content">
+                  <div class="frame-163"><div class="source-name subtext">Atlassian</div></div>
+                  <a href="https://www.atlassian.com/agile/project-management/metrics" target="_blank"
+                    ><p class="link-title-here mulish-bold-azure-radiance-16px">
+                      Five agile KPI metrics you won&#39;t hate
+                    </p>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">3.</div></div>
+                <div class="content-vR1IKX content">
+                  <div class="frame-163"><div class="source-name subtext">18F</div></div>
+                  <a href="https://derisking-guide.18f.gov/state-field-guide/budgeting-tech/" target="_blank"
+                    ><p class="link-title-here mulish-bold-azure-radiance-16px">
+                      De-risking guide: Budgeting and overseeing tech projects
+                    </p>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">4.</div></div>
+                <div class="content-XRyUrx content">
+                  <div class="frame-163"><div class="source-name subtext">SABR</div></div>
+                  <a
+                    href="https://sara-sabr.github.io/ITStrategy/2021/10/15/product-management-part-2.html"
+                    target="_blank"
+                    ><p class="link-title-here mulish-bold-azure-radiance-16px">
+                      Implementing Product Management in the Federal Government
+                    </p>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">5.</div></div>
+                <div class="content-OBEXax content">
+                  <div class="frame-163"><div class="source-name subtext">Canadian Digital Service</div></div>
+                  <a href="https://digital.canada.ca/guides/evaluation-framework/" target="_blank"
+                    ><div class="link-title-here mulish-bold-azure-radiance-16px">CDS Product Evaluation Framework</div>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">6.</div></div>
+                <div class="content-NaW5os content">
+                  <div class="frame-163"><div class="source-name subtext">Open North</div></div>
+                  <a href="https://opennorth.ca/publications/2hvkzrlujufylsvxgf7li5_en" target="_blank"
+                    ><p class="link-title-here mulish-bold-azure-radiance-16px">
+                      Open and Ethical Procurement Guide on Engaging with the Private Sector
+                    </p>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">7.</div></div>
+                <div class="content-z48wt7 content">
+                  <div class="frame-163"><div class="source-name subtext">18F</div></div>
+                  <a href="https://product-guide.18f.gov/partners/vendor/" target="_blank"
+                    ><p class="link-title-here mulish-bold-azure-radiance-16px">Product Guide: Work with the vendor</p>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">8.</div></div>
+                <div class="content-uQAG95 content">
+                  <div class="frame-163"><div class="source-name subtext">Agile Alliance</div></div>
+                  <a href="https://www.agilealliance.org/agile101/" target="_blank"
+                    ><div class="link-title-here mulish-bold-azure-radiance-16px">Agile 101</div>
+                  </a>
+                </div>
+              </article>
+            </div>
+          </div>
+          <div class="footer-nav-AJdIZV">
+            <a href="4a-implementation-phase.html">
+              <div class="navfooterprev-v02-L5pIld">
+                <img class="arrow-L0HUny arrow" src="img/arrow@2x.png" alt="arrow" />
+                <div class="title-L0HUny title mulish-bold-white-16px">4a. Implementation phase</div>
+              </div></a
+            ><a href="4c-integration.html">
+              <div class="navfooternext-v02-L5pIld">
+                <div class="title-wcVLF9 title mulish-bold-white-16px">4c. Integration</div>
+                <img class="arrow-wcVLF9 arrow" src="img/arrow-6@2x.png" alt="Arrow" /></div
+            ></a>
+          </div>
+        </div>
+        <div class="sidebarv2-xGzoPX">
+          <div class="top-pA2lTn">
+            <div class="navsidebarexpanded-XB062W">
+              <article class="navmainv3-aZMuRY navmainv3">
+                <div class="section-title">
+                  <div class="x1-section-name-0pOs0D x1-section-name titlesection-p">1. Orientation</div>
+                </div>
+                <div class="subsections">
+                  <a href="1a-getting-oriented.html">
+                    <article class="navsubsectionv2-fKZxVi navsubsectionv2">
+                      <div class="capacity-building body">a. Welcome!</div>
+                    </article></a
+                  ><a href="1b-capacity-building.html">
+                    <article class="navsubsectionv2-zIkDfc navsubsectionv2">
+                      <div class="b-subsection-name body">b. Capacity-building</div>
+                    </article></a
+                  ><a href="1c-discovery-research-and-problem-statement.html">
+                    <article class="navsubsectionv2-Td9IWs navsubsectionv2">
+                      <div class="c-subsection-name body">c. Discovery research</div>
+                    </article></a
+                  ><a href="1d-market-research.html">
+                    <article class="navsubsectionv2-SViFPK navsubsectionv2">
+                      <div class="d-subsection-name body">d. Market research</div>
+                    </article></a
+                  ><a href="1e-strategic-analysis.html">
+                    <article class="navsubsectionv2-0hFTV9 navsubsectionv2">
+                      <div class="capacity-building body">e. Strategic analysis</div>
+                    </article></a
+                  >
+                </div>
+              </article>
+              <article class="navmainv3-fhKqPv navmainv3">
+                <div class="section-title">
+                  <div class="x1-section-name-muV11X x1-section-name titlesection-p">2. Planning</div>
+                </div>
+                <div class="subsections">
+                  <a href="2a-planning-phase-introduction.html">
+                    <article class="navsubsectionv2-D2vUDE navsubsectionv2">
+                      <div class="capacity-building body">a. Planning phase</div>
+                    </article></a
+                  ><a href="2b-modularization.html">
+                    <article class="navsubsectionv2-FeQnZq navsubsectionv2">
+                      <div class="b-subsection-name body">b. Modularization</div>
+                    </article></a
+                  ><a href="2c-rfp-writing.html">
+                    <article class="navsubsectionv2-zmI8EY navsubsectionv2">
+                      <div class="capacity-building body">c. RFP writing</div>
+                    </article></a
+                  >
+                </div>
+              </article>
+              <article class="navmainv3-Q89pyl navmainv3">
+                <div class="section-title">
+                  <div class="x1-section-name-s9P1oA x1-section-name titlesection-p">3. Assessment</div>
+                </div>
+                <div class="subsections">
+                  <a href="3a-assessment-phase.html">
+                    <article class="navsubsectionv2-ISFiBs navsubsectionv2">
+                      <div class="capacity-building body">a. Assessment phase</div>
+                    </article></a
+                  ><a href="3b-vendor-interactions.html">
+                    <article class="navsubsectionv2-2pxISA navsubsectionv2">
+                      <div class="b-subsection-name body">b. Vendor interactions</div>
+                    </article></a
+                  ><a href="3c-bid-evaluation.html">
+                    <article class="navsubsectionv2-D7PdCe navsubsectionv2">
+                      <div class="c-subsection-name body">c. Bid evaluation</div>
+                    </article></a
+                  ><a href="3d-contracting.html">
+                    <article class="navsubsectionv2-Tj7rQj navsubsectionv2">
+                      <div class="d-subsection-name body"><span class="span0-vQ5OCx body">d. Contracting</span></div>
+                    </article></a
+                  >
+                </div>
+              </article>
+              <article class="navmainv3-ALHr0F navmainv3">
+                <div class="section-title">
+                  <div class="x1-section-name-1jjcxc x1-section-name titlesection-p">4. Implementation</div>
+                </div>
+                <div class="subsections">
+                  <a href="4a-implementation-phase.html">
+                    <article class="navsubsectionv2-C3lfzI navsubsectionv2">
+                      <div class="capacity-building body">a. Implementation phase</div>
+                    </article></a
+                  ><a href="4b-agile-development.html">
+                    <article class="navsubsectionv2-BNay5o navsubsectionv2">
+                      <div class="b-subsection-name body">b. Agile development</div>
+                    </article></a
+                  ><a href="4c-integration.html">
+                    <article class="navsubsectionv2-hkP5vM navsubsectionv2">
+                      <div class="c-subsection-name body">c. Integration</div>
+                    </article></a
+                  >
+                </div>
+              </article>
+            </div>
+          </div>
+          <div class="sidebarbottom-pA2lTn">
+            <div class="have-a-question-o7l0EG have-a-question">
+              <div class="have-a-question-IxbfHf have-a-question titlesection-p">Have a question?</div>
+              <a href="mailto:info@publiccode.net" target="_blank"
+                ><div class="email-us-IxbfHf mulish-semi-bold-azure-radiance-16px">Email us</div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer class="footer-xh4jGm">
+        <a href="https://publiccode.net/" target="_blank">
+          <div class="logo-title-CjieLH logo-title">
+            <img class="logo-symbol" src="img/logo-symbol@2x.png" alt="logo symbol" />
+            <div class="foundation-for-public-code valign-text-middle mulish-bold-black-27px">
+              Foundation for Public Code
+            </div>
+          </div></a
+        >
+        <div class="block-trio-CjieLH">
+          <div class="about-us-7xnVag about-us">
+            <div class="content-oy9CK9 content">
+              <div class="about-us-G55pbA about-us titlepage">About us</div>
+              <div class="flex-container-i8593897285932298-G55pbA">
+                <div class="text0-i8593897285932298-n6TJK5 body">
+                  <span class="span0-OPpqWJ body"
+                    >All of our staff information, decision-making rules and processes. Our staff manual is developed
+                    collaboratively with the community and can be reused by everyone.<br
+                  /></span>
+                </div>
+                <div class="text1-i8593897285932298-n6TJK5 body">
+                  <span class="span1-a01lFh body"
+                    >Read more about our activities, organization, and the glossary of terms and concepts.</span
+                  >
+                </div>
+              </div>
+            </div>
+            <div class="links-oy9CK9 links">
+              <a href="https://about.publiccode.net/" target="_blank"
+                ><p class="how-we-work-odEYSx mulish-bold-azure-radiance-16px">How we work&nbsp;&nbsp;&gt;</p>
+              </a>
+            </div>
+          </div>
+          <div class="project-resources-7xnVag project-resources">
+            <div class="content-dQqG2F content">
+              <div class="project-resources-uDjMnp project-resources titlepage">Project resources</div>
+              <p class="open-products-were-r-uDjMnp body">
+                Open products we&#39;re researching or developing to further our mission. We rely on these resources for
+                our everyday work. You can, too!
+              </p>
+            </div>
+            <div class="links-dQqG2F links">
+              <a href="https://projects.publiccode.net/" target="_blank"
+                ><p class="free-to-use-and-modify-mXxOeH mulish-bold-azure-radiance-16px">
+                  Free to use and modify&nbsp;&nbsp;&gt;
+                </p> </a
+              ><a href="https://github.com/publiccodenet" target="_blank"
+                ><p class="see-all-our-work-on-git-hub-mXxOeH mulish-bold-azure-radiance-16px">
+                  See all our work on GitHub&nbsp;&nbsp;&gt;
+                </p>
+              </a>
+            </div>
+          </div>
+          <div class="careers-7xnVag careers">
+            <div class="content-wazCKo content">
+              <div class="careers-MOQs6x careers titlepage">Careers</div>
+              <p class="calling-all-publicly-MOQs6x body">
+                Calling all publicly minded open source people! Find out about working with us, and join our staff.
+              </p>
+            </div>
+            <div class="links-wazCKo links">
+              <a href="https://publiccode.net/careers/" target="_blank"
+                ><div class="open-positions-hPOMiw mulish-bold-azure-radiance-16px">Open positions&nbsp;&nbsp;&gt;</div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="information-CjieLH">
+          <div class="contact-rZi3i2 contact">
+            <div class="contact-XaDcGQ contact mulish-bold-black-22px">Contact</div>
+            <div class="contact-info-XaDcGQ">
+              <div class="newsletter-jX60x3 newsletter">
+                <div class="newsletter-xlJx5K newsletter body">Newsletter:</div>
+                <a href="https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842" target="_blank"
+                  ><div class="join-our-mailing-list-xlJx5K body">Join our mailing list</div>
+                </a>
+              </div>
+              <div class="phone-jX60x3 phone">
+                <div class="phone-EemrxA phone body">Phone:</div>
+                <a href="tel:+31202444500" target="_blank"
+                  ><p class="x31-20-2-444-500-EemrxA body">+31 20 2 444 500</p>
+                </a>
+              </div>
+              <div class="email-jX60x3 email">
+                <div class="email-gaY2aB email body">Email:</div>
+                <a href="mailto:info@publiccode.net" target="_blank"
+                  ><div class="infopubliccodenet-gaY2aB body">info@publiccode.net</div>
+                </a>
+              </div>
+              <div class="address-jX60x3 address">
+                <div class="address-pmmbIV address body">Address:</div>
+                <div class="content-pmmbIV content">
+                  <p class="keizersgracht-617-10-VUwIFq body">Keizersgracht 617, 1017 DS, Amsterdam, the Netherlands</p>
+                  <div class="links-VUwIFq links">
+                    <a href="https://www.openstreetmap.org/node/2736377676" target="_blank"
+                      ><div class="open-street-map-P4x2WS body">OpenStreetMap</div>
+                    </a>
+                    <div class="x-P4x2WS body">|</div>
+                    <a
+                      href="https://www.google.com/maps/place/Keizersgracht+617,+1017+DS+Amsterdam,+Netherlands"
+                      target="_blank"
+                      ><div class="google-P4x2WS body">Google</div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="organization-rZi3i2">
+            <div class="notes-G00G5R">
+              <div class="organizational-notes-VhMTaB mulish-bold-black-22px">Organizational notes</div>
+              <div class="flex-container-i8593897285932358-VhMTaB">
+                <div class="text0-i8593897285932358-satmLe body">
+                  <span class="span0-Wx4aWn body"
+                    >Foundation for Public Code vereniging (met volledige rechtsbevoegdheid) </span
+                  ><a href="https://about.publiccode.net/organization/governance-model.html" target="_blank"
+                    ><span class="span1-Wx4aWn body">is a member owned association</span></a
+                  ><span class="span2-Wx4aWn body"> registered under </span
+                  ><a href="https://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=74996452" target="_blank"
+                    ><span class="span3-Wx4aWn body">chamber of commerce (KvK) registration 74996452</span></a
+                  ><span class="span4-Wx4aWn body"> and with identification number (RSIN) 860102294.<br /></span>
+                </div>
+                <div class="text1-i8593897285932358-satmLe body">
+                  <span class="span5-rbZqw6 body">We&#39;re recognized as a </span
+                  ><a
+                    href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/what_is_pbo/what_is_a_pbo"
+                    target="_blank"
+                    ><span class="span6-rbZqw6 body">public benefit organization (ANBI)</span></a
+                  ><span class="span7-rbZqw6 body"> by the Dutch Tax and Customs Administration. See </span
+                  ><a href="https://about.publiccode.net/organization/" target="_blank"
+                    ><span class="span8-rbZqw6 body">our ANBI information</span></a
+                  ><span class="span9-rbZqw6 body">.</span>
+                </div>
+              </div>
+            </div>
+            <div class="metadata-G00G5R">
+              <div class="updated-pahR27">
+                <img class="iconupdated-b86wcs" src="img/icon-updated-1@2x.png" alt="icon.updated" />
+                <p class="last-updated-22-august-2023-b86wcs body">Last updated 22 August 2023</p>
+              </div>
+              <div class="copyright-pahR27">
+                <div class="text_label-c2M7RL mulish-semi-bold-black-20px">©</div>
+                <p class="x2023-foundation-for-public-code-c2M7RL body">
+                  <span class="span0-u0tIgr body">2023 </span
+                  ><span class="span1-u0tIgr body">Foundation for Public Code</span>
+                </p>
+              </div>
+              <div class="license-pahR27">
+                <img class="iconlicense-x9t6fV" src="img/icon-license-1@2x.png" alt="icon.license" />
+                <p class="creative-commons-zero-v10-universal-x9t6fV body">Creative Commons Zero v1.0 Universal</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+     <script src="collapsible.js"></script>
+  </body>
+</html>
