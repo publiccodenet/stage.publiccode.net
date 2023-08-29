@@ -1015,7 +1015,7 @@
 .x3bu46-vendor-interactions .navfooterprev-v02-rhc1Qx {
   align-items: center;
   background-color: var(--fpcbgpeach);
-  border-radius: 32px 4px 4px 32px;
+  border-radius: 64px 4px 4px 64px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1041,7 +1041,7 @@
 .x3bu46-vendor-interactions .navfooternext-v02-rhc1Qx {
   align-items: center;
   background-color: var(--fpcbgpeach);
-  border-radius: 4px 32px 32px 4px;
+  border-radius: 4px 64px 64px 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;

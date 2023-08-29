@@ -759,7 +759,7 @@
 .x2au46-planning-phase-introduction-u40abcu41 .navfooterprev-v02-kxNc7N {
   align-items: center;
   background-color: var(--fpcgreen);
-  border-radius: 32px 4px 4px 32px;
+  border-radius: 64px 4px 4px 64px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
@@ -784,7 +784,7 @@
 .x2au46-planning-phase-introduction-u40abcu41 .navfooternext-v02-kxNc7N {
   align-items: center;
   background-color: var(--fpcblue);
-  border-radius: 4px 32px 32px 4px;
+  border-radius: 4px 64px 64px 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;

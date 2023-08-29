@@ -1234,7 +1234,7 @@
 .x1du46-market-research .navfooterprev-v02-E9KKtS {
   align-items: center;
   background-color: var(--fpcgreen);
-  border-radius: 32px 4px 4px 32px;
+  border-radius: 64px 4px 4px 64px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1260,7 +1260,7 @@
 .x1du46-market-research .navfooternext-v02-E9KKtS {
   align-items: center;
   background-color: var(--fpcgreen);
-  border-radius: 4px 32px 32px 4px;
+  border-radius: 4px 64px 64px 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;

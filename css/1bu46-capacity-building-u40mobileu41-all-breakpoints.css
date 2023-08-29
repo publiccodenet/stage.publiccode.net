@@ -956,7 +956,7 @@
   background-color: transparent;
   display: flex;
   flex: 0 0 auto;
-  gap: 20px;
+  justify-content: space-between;
   padding: 60px 0px 0px;
   position: relative;
   width: 100%;
@@ -965,7 +965,7 @@
 .x1bu46-capacity-building .navfooterprev-v02-7O9dQh {
   align-items: center;
   background-color: var(--fpcgreen);
-  border-radius: 32px 4px 4px 32px;
+  border-radius: 64px 4px 4px 64px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
@@ -992,12 +992,12 @@
 .x1bu46-capacity-building .navfooternext-v02-7O9dQh {
   align-items: center;
   background-color: var(--fpcgreen);
-  border-radius: 4px 32px 32px 4px;
+  border-radius: 4px 64px 64px 4px;
   cursor: pointer;
-  display: flex;
-  flex: 1;
-  flex-grow: 1;
+  display: inline-flex;
+  flex: 0 0 auto;
   gap: 15px;
+  margin-left: -20.092071533203125px;
   min-width: 140px;
   padding: 10px 15px;
   position: relative;
@@ -3039,7 +3039,7 @@
 .x1bu46-capacity-building-u40mobileu41-all-breakpoints .navfooterprev-v02-xZWpWi {
   align-items: center;
   background-color: var(--fpcgreen);
-  border-radius: 32px 4px 4px 32px;
+  border-radius: 64px 4px 4px 64px;
   cursor: pointer;
   display: flex;
   flex: 1;
@@ -3066,7 +3066,7 @@
 .x1bu46-capacity-building-u40mobileu41-all-breakpoints .navfooternext-v02-xZWpWi {
   align-items: center;
   background-color: var(--fpcgreen);
-  border-radius: 4px 32px 32px 4px;
+  border-radius: 4px 64px 64px 4px;
   cursor: pointer;
   display: flex;
   flex: 1;

@@ -900,7 +900,7 @@
 .x2bu46-modularization .navfooterprev-v02-6xCFo7 {
   align-items: center;
   background-color: var(--fpcblue);
-  border-radius: 32px 4px 4px 32px;
+  border-radius: 64px 4px 4px 64px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
@@ -926,7 +926,7 @@
 .x2bu46-modularization .navfooternext-v02-6xCFo7 {
   align-items: center;
   background-color: var(--fpcblue);
-  border-radius: 4px 32px 32px 4px;
+  border-radius: 4px 64px 64px 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;

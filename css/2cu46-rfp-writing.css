@@ -1107,7 +1107,7 @@
 .x2cu46-rfp-writing .navfooterprev-v02-ZvAzi8 {
   align-items: center;
   background-color: var(--fpcblue);
-  border-radius: 32px 4px 4px 32px;
+  border-radius: 64px 4px 4px 64px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1133,7 +1133,7 @@
 .x2cu46-rfp-writing .navfooternext-v02-ZvAzi8 {
   align-items: center;
   background-color: var(--fpcbgpeach);
-  border-radius: 4px 32px 32px 4px;
+  border-radius: 4px 64px 64px 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;

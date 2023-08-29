@@ -1025,7 +1025,7 @@
 .x3cu46-bid-evaluation .navfooterprev-v02-I2x1X0 {
   align-items: center;
   background-color: var(--fpcbgpeach);
-  border-radius: 32px 4px 4px 32px;
+  border-radius: 64px 4px 4px 64px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1051,7 +1051,7 @@
 .x3cu46-bid-evaluation .navfooternext-v02-I2x1X0 {
   align-items: center;
   background-color: var(--fpcbgpeach);
-  border-radius: 4px 32px 32px 4px;
+  border-radius: 4px 64px 64px 4px;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
