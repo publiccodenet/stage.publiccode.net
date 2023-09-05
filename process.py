@@ -38,16 +38,6 @@ patterns = [
 (r"""and expertise doesn’t disappear with individuals.<br />Your""", """and expertise doesn’t disappear with individuals.<br /><br />Your"""),
 (r"""  </head>""", """
     <link rel="icon" href="https://brand.publiccode.net/logo/mark-128w128h.png">
-    <script>
-      (function(h,o,t,j,a,r){
-          h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-          h._hjSettings={hjid:3580815,hjsv:6};
-          a=o.getElementsByTagName('head')[0];
-          r=o.createElement('script');r.async=1;
-          r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-          a.appendChild(r);
-      })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-    </script>
     <script async defer data-domain="publiccode.net" src="https://plausible.io/js/plausible.js"></script>
   </head>"""),
 ]
