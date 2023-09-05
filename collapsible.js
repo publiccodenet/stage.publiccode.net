@@ -1,3 +1,4 @@
+// Make collapsible boxes interactive
 let arrows = document.querySelectorAll('img[alt="arrow.down"]');
 Array.from(arrows).forEach(arrow => {
   let title = arrow.parentNode;
@@ -20,3 +21,10 @@ Array.from(arrows).forEach(arrow => {
     }
   });
 });
+
+// Add feedback link
+var link = document.createElement('a');
+link.textContent = 'Feedback';
+link.href = 'mailto:pc-feedback@publiccode.net?subject=Feedback from ' + encodeURI(document.location);
+link.style = 'position: fixed; top: 50%; left: 100%; transform: translate(-70%, -50%) rotate(-90deg); font-family: var(--font-family-mulish); font-size: var(--font-size-m); color: var(--basic-link);';
+document.body.appendChild(link);
