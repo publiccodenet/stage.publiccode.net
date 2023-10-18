@@ -4,21 +4,11 @@ import os
 import re
 
 # Rename index file
-old_filename = '00-process-codes-home.html'
+old_filename = 'home-u40indexu41.html'
 new_filename = 'index.html'
 
 os.rename(old_filename, new_filename)
 
-# Rename breakpoint files
-old_filename = '1a-getting-oriented-all-breakpoints.html'
-new_filename = '1a-getting-oriented.html'
-
-os.rename(old_filename, new_filename)
-
-old_filename = '1b-capacity-building-u40mobileu41-all-breakpoints.html'
-new_filename = '1b-capacity-building.html'
-
-os.rename(old_filename, new_filename)
 
 # do string substitution for each pattern across all HTML files
 directory = '.'
@@ -56,9 +46,7 @@ for root, dirs, files in os.walk(directory):
 cssdirectory = './css/'
 csspatterns = [
 (r"""@import url\("https://px.animaapp.com/6406baa484a3afe9c63921de.6406baa605cc73851b593804.*.hcp.png"\);""", ''),
-(r"""00-process-codes-home.html""", """index.html"""),
-(r"""1a-getting-oriented-all-breakpoints.html""", """1a-getting-oriented.html"""),
-(r"""1b-capacity-building-u40mobileu41-all-breakpoints.html""", """1b-capacity-building.html"""),
+(r"""home-u40indexu41.html""", """index.html"""),
 ]
 # process css
 for root, dirs, files in os.walk(cssdirectory):
