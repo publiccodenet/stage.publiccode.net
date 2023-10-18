@@ -1,0 +1,240 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Mulish:500,700,600,400");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+
+
+@font-face {
+  font-family: "Bressay-Italic";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/.26929.otf") format("opentype");
+}
+@font-face {
+  font-family: "Bressay-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/.26930.otf") format("opentype");
+}
+
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.valign-text-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.about-us {
+  align-self: stretch;
+  position: relative;
+}
+
+.address {
+  background-color: transparent;
+  position: relative;
+}
+
+.careers {
+  align-self: stretch;
+  position: relative;
+}
+
+.codebase-steward-for-communites {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.contact {
+  background-color: transparent;
+  position: relative;
+}
+
+.email {
+  background-color: transparent;
+  position: relative;
+}
+
+.foundation-for-public-code {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.github {
+  background-color: transparent;
+  position: relative;
+}
+
+.group-194 {
+  background-color: transparent;
+  height: 21px;
+  left: 215px;
+  position: absolute;
+  width: 21px;
+}
+
+.links {
+  background-color: transparent;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.logo-title {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  gap: 13px;
+  position: relative;
+}
+
+.mastodon {
+  background-color: transparent;
+  position: relative;
+}
+
+.newsletter {
+  background-color: transparent;
+  position: relative;
+}
+
+.person-name {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.phone {
+  background-color: transparent;
+  position: relative;
+}
+
+.project-resources {
+  align-self: stretch;
+  position: relative;
+}
+
+.twitter {
+  background-color: transparent;
+  position: relative;
+}
+
+.blockmediasummary {
+  align-items: flex-end;
+  background-color: var(--machine-grey);
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.headline {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.medialabel {
+  align-items: flex-start;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 30px;
+  padding: 5px 10px;
+  position: relative;
+}
+
+.text {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x12-aug-2023 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.button-text {
+  background-color: transparent;
+  letter-spacing: -0.14px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.buttongithub {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--celeste);
+  border-radius: 30px;
+  display: inline-flex;
+  gap: 4px;
+  left: 0px;
+  padding: 8px 15px;
+  position: absolute;
+}
+
+.icon {
+  background-color: transparent;
+  height: 14px;
+  position: relative;
+  width: 14px;
+}

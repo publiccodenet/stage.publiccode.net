@@ -1,0 +1,271 @@
+:root { 
+  --basic-link: #007fff;
+  --black: #000000;
+  --black-2: #00000080;
+  --blue: #56ccf2;
+  --celeste: #cccccc;
+  --charcoal: #333333;
+  --fpclinkblue: #007fff;
+  --green: #00ba8d;
+  --light-grey: #c4c4c4;
+  --machine-grey: #f2f2f2;
+  --peach: #fdbbab;
+  --pink: #fdbbab;
+  --purple: #5b57ca;
+  --secondary: #849294;
+  --turbo: #f3e900;
+  --white: #ffffff;
+  --yellow: #fff500;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 15px;
+  --font-size-xl: 20px;
+  --font-size-xs: 14px;
+  --font-size-xxl: 27px;
+  --font-size-xxxl: 32px;
+ 
+  --font-family-bressay-italic: "Bressay-Italic", Helvetica;
+  --font-family-bressay-regular: "Bressay-Regular", Helvetica;
+  --font-family-mulish: "Mulish", Helvetica;
+}
+.mulish-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mulish-normal-azure-radiance-16px {
+  color: var(--basic-link);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mulish-bold-black-32px {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-bold-azure-radiance-16px {
+  color: var(--basic-link);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-normal-white-16px {
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mulish-bold-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mulish-bold-azure-radiance-18px {
+  color: var(--basic-link);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-normal-black-16px-2 {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mulish-normal-azure-radiance-16px-2 {
+  color: var(--basic-link);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mulish-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mulish-bold-black-20px-2 {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-bold-black-22px {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-bold-black-27px {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-normal-azure-radiance-18px {
+  color: var(--basic-link);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mulish-bold-white-18px {
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-semi-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.mulish-normal-black-16px-3 {
+  color: var(--black-2);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mulish-semi-bold-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.mulish-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-bold-black-16px-2 {
+  color: var(--black-2);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-bold-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.bressay-italic-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-bressay-italic);
+  font-size: var(--font-size-xl);
+  font-style: italic;
+  font-weight: 400;
+}
+
+.mulish-normal-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mulish-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mulish-bold-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-normal-white-16px-2 {
+  color: var(--white);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+:root {
+}
