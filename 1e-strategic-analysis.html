@@ -1,0 +1,1093 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1440, maximum-scale=1.0" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/1e-strategic-analysis.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+
+    <link rel="icon" href="https://brand.publiccode.net/logo/mark-128w128h.png">
+    <script async defer data-domain="publiccode.net" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="1e-strategic-analysis" />
+    <div class="x1e-strategic-analysis screen">
+      <header class="header-U1063x">
+        <div class="content-n89z8d content">
+          <a href="https://publiccode.net/" target="_blank">
+            <div class="logo-title-mlmbYq logo-title">
+              <img class="logo-symbol" src="img/logo-symbol@2x.png" alt="logo symbol" />
+              <div class="foundation-for-public-code valign-text-middle mulish-bold-black-27px">
+                Foundation for Public Code
+              </div>
+            </div></a
+          >
+          <div class="navigation-mlmbYq">
+            <div class="links-0J5pK6 links">
+              <a href="https://publiccode.net/codebase-stewardship/" target="_blank"
+                ><div class="stewardship-o0OxdY mulish-normal-black-15px">Codebases</div> </a
+              ><a href="https://projects.publiccode.net/" target="_blank"
+                ><div class="resources-o0OxdY mulish-normal-black-15px">Resources</div> </a
+              ><a href="https://publiccode.net/team/" target="_blank"
+                ><div class="who-we-are-o0OxdY mulish-normal-black-15px">Who we are</div> </a
+              ><a href="https://about.publiccode.net/CONTRIBUTING.html" target="_blank"
+                ><div class="join-us-o0OxdY mulish-normal-black-15px">Join us</div>
+              </a>
+            </div>
+            <div class="services-0J5pK6">
+              <a href="https://floss.social/@publiccode" target="_blank"
+                ><img class="mastodon-kEGYxT" src="img/mastodon@2x.png" alt="Mastodon" /> </a
+              ><a href="https://twitter.com/publiccodenet" target="_blank"
+                ><img class="twitter-kEGYxT" src="img/twitter@2x.png" alt="Twitter" /> </a
+              ><a href="https://github.com/publiccodenet/" target="_blank"
+                ><img class="github-kEGYxT" src="img/github@2x.png" alt="Github" />
+              </a>
+            </div>
+          </div>
+        </div>
+      </header>
+      <h1 class="title-U1063x title titlepage">Process code for software procurement</h1>
+      <div class="main-frame-U1063x">
+        <div class="content-wi6YrP content">
+          <div class="intro-YPtuwI">
+            <div class="titlepage-4BgjV4"><div class="page-title-uxzAmJ titlepage">1e. Strategic analysis</div></div>
+            <div class="content-4BgjV4 content">
+              <p class="this-section-will-help-you-N6Xueu mulish-bold-black-16px">This section will help you:</p>
+              <div class="cluster-N6Xueu cluster">
+                <article class="goal">
+                  <img class="icongoal-7JHL7T icongoal" src="img/icon-goal-24@2x.png" alt="icon.goal" />
+                  <p class="this-is-a-goal-for-a-particular-activity detail">
+                    Evaluate the total cost of owning software in four different scenarios
+                  </p>
+                </article>
+                <article class="goal">
+                  <img class="icongoal-m5PFxS icongoal" src="img/icon-goal-24@2x.png" alt="icon.goal" />
+                  <p class="this-is-a-goal-for-a-particular-activity detail">
+                    <span class="span0-bsBpLo detail">Mitigate downstream contracting issues </span
+                    ><span class="span1-bsBpLo mulish-normal-black-14px">(e.g. vendor lock-in)</span>
+                  </p>
+                </article>
+              </div>
+            </div>
+          </div>
+          <div class="challenges-YPtuwI">
+            <div class="titlesubsection"><div class="subsection-title titlesection">Common challenges</div></div>
+            <div class="content-gHHvwB content">
+              <p class="you-may-encounter-th-V8le7T body">
+                <span class="span0-OYlFch body"
+                  >You may encounter these frictions as you do the work of strategic analysis. These are challenges the </span
+                ><span class="span1-OYlFch bodylink">Recommended actions</span
+                ><span class="span2-OYlFch body">
+                  are designed to solve, or that may arise as you take those actions.
+                </span>
+              </p>
+              <div class="challenge">
+                <img class="iconchallenge" src="img/icon-challenge-25@2x.png" alt="icon.challenge" />
+                <div class="content-ez2w20 content">
+                  <div class="title-n7zEfN title mulish-bold-black-16px">Siloed budgeting and ownership</div>
+                  <p class="lorem-ipsum detail">
+                    Products are typically paid for and managed by a single department with its own budget. However, a
+                    good software procurement, development process, and ongoing maintenance will draw on several
+                    different business units. Furthermore, modular software should (at minimum) be interoperable with
+                    systems across the city.
+                  </p>
+                </div>
+              </div>
+              <div class="challenge">
+                <img class="iconchallenge" src="img/icon-challenge-25@2x.png" alt="icon.challenge" />
+                <div class="content-29nYnb content">
+                  <p class="title-1686En title mulish-bold-black-16px">
+                    Hesitancy to procure solutions that do not offer conventional support
+                  </p>
+                  <p class="lorem-ipsum detail">
+                    Customer service and support is a main feature of service contracts. The lack of conventional
+                    support channels is a common concern associated with open source software. In the previous step, you
+                    evaluated the extent to which the community is actively maintaining open source software. If it is
+                    not active, you can maintain in-house, or contract a vendor for maintenance. That will require a
+                    shift in your staffing and budgeting. Organizations like the Foundation for Public Code can
+                    help—they exist to help steward and maintain open source software.
+                  </p>
+                </div>
+              </div>
+              <div class="challenge">
+                <img class="iconchallenge" src="img/icon-challenge-25@2x.png" alt="icon.challenge" />
+                <div class="content-MMwj68 content">
+                  <p class="title-txw6tm title mulish-bold-black-16px">
+                    Lack of familiarity with technical possibility
+                  </p>
+                  <p class="lorem-ipsum detail">
+                    Civil servants are not well informed about the state of the art (what is technically possible and
+                    impossible, what it takes to build and maintain software, and how data, privacy and ownership should
+                    be managed). Up front capacity building and market analysis should fill this gap, but you can also
+                    hire independent experts to support your strategic analysis.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="pathways-YPtuwI">
+            <p class="at-the-end-of-this-p-Xemqba mulish-bold-black-16px">
+              At the end of this page you will choose one of the following approaches:
+            </p>
+            <div class="boxes">
+              <div class="cluster-U5yoTH cluster">
+                <div class="box-1">
+                  <img
+                    class="iconpathoff-the-shelf"
+                    src="img/icon-path-off-the-shelf-5@2x.png"
+                    alt="icon.path.off-the-shelf"
+                  />
+                  <div class="flex-container-85939118-N0FUAq">
+                    <div class="text0-85939118-r4dTFn titlesubsection">
+                      <span class="span0-2Nl2nb titlesubsection">Purchase existing<br /></span>
+                    </div>
+                    <div class="text1-85939118-r4dTFn titlesubsection">
+                      <span class="span1-9pk1cD body">Get software off the shelf</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="box-2">
+                  <div class="iconpathvendor-oss">
+                    <div class="paper-LYAkMJ paper">
+                      <img class="union-eKYbaY union" src="img/union-57@2x.png" alt="Union" />
+                      <img class="union-S9ueVa union" src="img/union-47@2x.png" alt="Union" />
+                      <img class="union-mIsMQw union" src="img/union-48@2x.png" alt="Union" />
+                    </div>
+                    <img class="x-LYAkMJ" src="img/--6@2x.png" alt="$" />
+                    <div class="fork-standard">
+                      <div class="ellipse-192"></div>
+                      <div class="ellipse-193"></div>
+                      <img class="vector-6" src="img/vector-6-4@2x.png" alt="Vector 6" />
+                      <img class="vector-SLpqp9 vector" src="img/vector-34@2x.png" alt="Vector" />
+                      <img class="vector-a9x70R vector" src="img/vector-35@2x.png" alt="Vector" />
+                    </div>
+                  </div>
+                  <div class="flex-container-85939121-GrWGNh">
+                    <div class="text0-85939121-T0b3Uy titlesubsection">
+                      <span class="span0-olBbyQ titlesubsection">Customize OSS<br /></span>
+                    </div>
+                    <div class="text1-85939121-T0b3Uy titlesubsection">
+                      <span class="span1-MLgYE3 body">Contract a vendor to adapt open source software</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="cluster-R2DoOL cluster">
+                <div class="box-3">
+                  <div class="iconpathvendor">
+                    <div class="group-146">
+                      <div class="paper-FEIaxo paper">
+                        <img class="union-QxDvMt union" src="img/union-58@2x.png" alt="Union" />
+                        <img class="union-zOxw2H union" src="img/union-47@2x.png" alt="Union" />
+                        <img class="union-U1w8tp union" src="img/union-50@2x.png" alt="Union" />
+                      </div>
+                      <img class="code" src="img/code-4@2x.png" alt="code" />
+                      <img class="x-FEIaxo" src="img/--6@2x.png" alt="$" />
+                    </div>
+                  </div>
+                  <div class="flex-container-85939125-jL1a5y">
+                    <div class="text0-85939125-iaIvQM titlesubsection">
+                      <span class="span0-SyIcVF titlesubsection">Custom software<br /></span>
+                    </div>
+                    <div class="text1-85939125-iaIvQM titlesubsection">
+                      <span class="span1-tmHQxz body">Contract a vendor to build software</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="box-4">
+                  <div class="iconpathinhouse">
+                    <img class="union-MBm33K union" src="img/union-51@2x.png" alt="Union" />
+                    <img class="gear-2-MBm33K gear-2" src="img/gear-2-27@2x.png" alt="gear 2" />
+                  </div>
+                  <div class="flex-container-85939128-sHjy5Y">
+                    <div class="text0-85939128-OM4uad titlesubsection">
+                      <span class="span0-piz8um titlesubsection">Build in-house<br /></span>
+                    </div>
+                    <div class="text1-85939128-OM4uad titlesubsection">
+                      <span class="span1-wV8YnH body">Build software (or adapt OSS) in-house</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="actions-YPtuwI">
+            <div class="titlesubsection"><div class="subsection-title titlesection">Recommended actions</div></div>
+            <div class="frame-114-fvBu62">
+              <p class="x1-performing-a-total-EI9xWd titlesubsection">
+                1. Performing a Total Cost of Ownership (Licensing) analysis
+              </p>
+              <p class="software-ownership-c-EI9xWd body">
+                <span class="span0-SxNoNm body"
+                  >Software ownership can take many different forms, and each will have its own cost distribution. If
+                  your market research </span
+                ><span class="span1-SxNoNm mulish-normal-black-16px">(from the previous step)</span
+                ><span class="span2-SxNoNm body">
+                  revealed one or more commercially available software solutions or open source software solutions, you
+                  will prepare a Total Cost of Ownership (TCO) analysis for each viable software option.</span
+                >
+              </p>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-CACBB7 content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Perform a TCO (Licensing) analysis
+                  </p>
+                  <div class="flex-container-i108342160214892-tSOT5z">
+                    <div class="text0-i108342160214892-nc1U2c titlesubsection-p">
+                      <span class="span0-2Lj1zC titlesubsection-p">Acquisition:</span
+                      ><span class="span1-2Lj1zC detail">
+                        including all costs of the procurement process and change management (if applicable)<br
+                      /></span>
+                    </div>
+                    <div class="text1-i108342160214892-nc1U2c titlesubsection-p">
+                      <span class="span2-Zh3X8z titlesubsection-p">Direct:</span
+                      ><span class="span3-Zh3X8z detail">
+                        the “sticker price” of the solution (annual license or perpetual contract)<br
+                      /></span>
+                    </div>
+                    <div class="text2-i108342160214892-nc1U2c titlesubsection-p">
+                      <span class="span4-PvlEfm titlesubsection-p">Adaptation:</span
+                      ><span class="span5-PvlEfm detail">
+                        cost of creating a custom instance (in the case of open source software)<br
+                      /></span>
+                    </div>
+                    <div class="text3-i108342160214892-nc1U2c titlesubsection-p">
+                      <span class="span6-iAB5wG titlesubsection-p">Integration:</span
+                      ><span class="span7-iAB5wG detail">
+                        cost to integrate the software with existing digital infrastructures in use at the city (in
+                        terms of staff time and any software or database costs)<br
+                      /></span>
+                    </div>
+                    <div class="text4-i108342160214892-nc1U2c titlesubsection-p">
+                      <span class="span8-GKDXp0 titlesubsection-p">Operating:</span
+                      ><span class="span9-GKDXp0 detail">
+                        including annual fees, per-user cost, and insurance<br
+                      /></span>
+                    </div>
+                    <div class="text5-i108342160214892-nc1U2c titlesubsection-p">
+                      <span class="span10-EZggGL titlesubsection-p">Future customization:</span
+                      ><span class="span11-EZggGL detail">
+                        also known as work orders, these arise when the city’s needs, processes, or underlying digital
+                        infrastructure changes in the future<br
+                      /></span>
+                    </div>
+                    <div class="text6-i108342160214892-nc1U2c titlesubsection-p">
+                      <span class="span12-M6I0DF titlesubsection-p">Disposal:</span
+                      ><span class="span13-M6I0DF detail">
+                        which may include removal of the installation, clean-up costs or legal fees</span
+                      >
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="frame-138-fvBu62">
+              <p class="x2-performing-a-total-nQ5AbZ titlesubsection">
+                2. Performing a Total Cost of Ownership (Building) analysis
+              </p>
+              <p class="if-your-research-did-nQ5AbZ body">
+                <span class="span0-SDx4sm body"
+                  >If your research did not reveal commercially available solutions, consider building custom software.
+                  This can be built in-house </span
+                ><span class="span1-SDx4sm mulish-normal-black-16px"
+                  >(if you have staff with sufficient development capabilities, or budget to hire)</span
+                ><span class="span2-SDx4sm body"
+                  >, or you can contract a vendor to develop custom software. In order to weigh these options, you
+                  should perform a TCO (Building) analysis.</span
+                >
+              </p>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-SgBSx5 content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Perform a TCO (Building) analysis
+                  </p>
+                  <div class="flex-container-i107190960214892-IFJpVJ">
+                    <div class="text0-i107190960214892-BH0RVV titlesubsection-p">
+                      <span class="span0-UNRExP titlesubsection-p">Initial design:</span
+                      ><span class="span1-UNRExP detail">
+                        including staff time and external consultants for planning the agile development process, and
+                        accounting for repurposing open source software<br
+                      /></span>
+                    </div>
+                    <div class="text1-i107190960214892-BH0RVV titlesubsection-p">
+                      <span class="span2-JDvmVQ titlesubsection-p">Staff salary:</span
+                      ><span class="span3-JDvmVQ detail">
+                        for software development, change management and ongoing maintenance </span
+                      ><span class="span4-JDvmVQ mulish-normal-black-14px"
+                        >(including cost of contributing back to the open source community)<br
+                      /></span>
+                    </div>
+                    <div class="text2-i107190960214892-BH0RVV titlesubsection-p">
+                      <span class="span5-aF0Ixi titlesubsection-p">Integration:</span
+                      ><span class="span6-aF0Ixi detail">
+                        cost for integrating with existing digital infrastructure at the city </span
+                      ><span class="span7-aF0Ixi mulish-normal-black-14px"
+                        >(in terms of staff time and any software or database costs)</span
+                      >
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="guidelinessolo">
+              <div class="title-CFq49X title">
+                <img class="iconguidelines" src="img/icon-guidelines@2x.png" alt="icon.guidelines" />
+                <p class="guidelines mulish-bold-black-16px">Consider the value of building (and sharing) software</p>
+                <img class="arrowdown" src="img/arrow-down@2x.png" alt="arrow.down" />
+              </div>
+              <div class="flex-container-i21760672117085-CFq49X">
+                <div class="text0-i21760672117085-4tR6Yx detail">
+                  <span class="span0-t81OwK detail"
+                    >If your organization has staff with sufficient software development capabilities, consider building
+                    in-house. Although it takes more effort up front, there are long-term benefits (see Section 3,
+                    next). Even if commercial options are available, consider building in-house. And remember that not
+                    every government organization needs to be a full-scale development shop. You can:<br
+                  /></span>
+                </div>
+                <div class="text1-i21760672117085-4tR6Yx detail">
+                  <span class="span1-BrS235 detail">Contract a vendor to build custom software with you.<br /></span>
+                </div>
+                <div class="text2-i21760672117085-4tR6Yx detail">
+                  <span class="span2-oGwD90 detail"
+                    >Use open source software and collaborate with a global community of contributors and stewards.<br
+                  /></span>
+                </div>
+                <div class="text3-i21760672117085-4tR6Yx detail">
+                  <span class="span3-Xngmj6 detail"
+                    >Co-procure custom software with peer jurisdictions and share the burden (financial and operational)
+                    of ongoing maintenance.</span
+                  >
+                </div>
+              </div>
+            </div>
+            <div class="frame-139-fvBu62 frame-139">
+              <div class="x3-comparing-options-QAFZBb titlesubsection">3. Comparing options</div>
+              <p class="your-tco-licensing-a-QAFZBb body">
+                Your TCO (Licensing) and/or (Building) analyses show the financial costs of various sourcing strategies.
+                There are also non-financial costs and benefits associated with each. Think of the long term impact that
+                each strategy will have on your organization.
+              </p>
+              <div class="action">
+                <div class="iconknowledge">
+                  <div class="bulb">
+                    <img class="union-xZ4FNE union" src="img/union@2x.png" alt="Union" />
+                    <img class="group-194" src="img/group-194@2x.png" alt="Group 194" />
+                    <img class="line-48" src="img/line-48@2x.png" alt="Line 48" />
+                  </div>
+                </div>
+                <div class="content-Mln5p4 content">
+                  <p class="a-knowledge-acquisit mulish-bold-black-16px">
+                    This project is an investment in your organization’s future.
+                  </p>
+                  <div class="flex-container-i217618660216984-PaTUIi">
+                    <div class="text0-i217618660216984-daT0I7 detail">
+                      <span class="span0-3oDH88 detail"
+                        >Consider the long-term value or risks that might arise with each of your options:<br
+                      /></span>
+                    </div>
+                    <div class="text1-i217618660216984-daT0I7 detail">
+                      <span class="span1-cVsnAD titlesubsection-p">Ownership:</span
+                      ><span class="span2-cVsnAD detail">
+                        How is it owned and distributed? Most national governments encourage their agencies and
+                        sub-national governments to transition software they build or contract to an open source
+                        licensing model—which provides general benefit to the public.<br
+                      /></span>
+                    </div>
+                    <div class="text2-i217618660216984-daT0I7 detail">
+                      <span class="span3-Z0YEKP titlesubsection-p">Cost:</span
+                      ><span class="span4-Z0YEKP detail">
+                        Will the vendor increase subscription costs, exact patch and upgrade fees, and or add service
+                        costs? Do you have development staff, and do they have time to build and maintain software? How
+                        might open source change the cost structure?<br
+                      /></span>
+                    </div>
+                    <div class="text3-i217618660216984-daT0I7 detail">
+                      <span class="span5-PJcu0f titlesubsection-p">Security and Compliance:</span
+                      ><span class="span6-PJcu0f detail">
+                        Will the vendor issue patches and updates? This is particularly important when it comes to
+                        complying with changes in policy (e.g. Personally Identifiable Information policy or Digital
+                        Accessibility policy).<br
+                      /></span>
+                    </div>
+                    <div class="text4-i217618660216984-daT0I7 detail">
+                      <span class="span7-EjQU0Q titlesubsection-p">Flexibility:</span
+                      ><span class="span8-EjQU0Q detail"> Does the vendor “lock-in” customers?<br /></span>
+                    </div>
+                    <div class="text5-i217618660216984-daT0I7 detail">
+                      <span class="span9-pJxQ4j titlesubsection-p">Interoperability:</span
+                      ><span class="span10-pJxQ4j detail">
+                        Does the software fit your existing technical environment and workflows? Does it interface well
+                        with your partners or other government entities?<br
+                      /></span>
+                    </div>
+                    <div class="text6-i217618660216984-daT0I7 detail">
+                      <span class="span11-cFGnol titlesubsection-p">Actual use:</span
+                      ><span class="span12-cFGnol detail">
+                        Does the software have the features you need (or does it include many features you don’t
+                        need)?<br
+                      /></span>
+                    </div>
+                    <div class="text7-i217618660216984-daT0I7 detail">
+                      <span class="span13-APEBtW titlesubsection-p">Capacity:</span
+                      ><span class="span14-APEBtW detail">
+                        Could an investment in hiring new staff and/or training current staff for a software project
+                        have long-term benefits for the organization?</span
+                      >
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-at1XGh content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Compare options based on a broad set of variables
+                  </p>
+                  <p class="lorem-ipsum detail">
+                    Specifically, consider the long-term value and outcomes associated with each strategy.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="guidelinessolo">
+              <div class="title-6jJvux title">
+                <img class="iconguidelines" src="img/icon-guidelines@2x.png" alt="icon.guidelines" />
+                <p class="guidelines mulish-bold-black-16px">Shifting from Capital Expenses to Operating Expenses</p>
+                <img class="arrowdown" src="img/arrow-down@2x.png" alt="arrow.down" />
+              </div>
+              <div class="flex-container-i25474322117085-6jJvux">
+                <div class="text0-i25474322117085-MIA8pE detail">
+                  <span class="span0-2Q52Zd detail"
+                    >Open source software is free, but it takes work to customize and maintain. Government organizations
+                    will need to either hire staff who have capacity to implement and maintain software, or contract
+                    technology service providers </span
+                  ><span class="span1-2Q52Zd mulish-normal-black-14px"
+                    >(writing open contracts for services, as opposed to fixed costs for digital products and
+                    licenses)</span
+                  ><span class="span2-2Q52Zd detail">.<br /></span>
+                </div>
+                <div class="text1-i25474322117085-MIA8pE detail">
+                  <span class="span3-aWLtGS detail"
+                    >That means the cost structure will be different. Budgeting for open source software implies a shift
+                    from capital expenditure—buying a product </span
+                  ><span class="span4-aWLtGS mulish-normal-black-14px">(proprietary software)</span
+                  ><span class="span5-aWLtGS detail">—to operating expenditure—buying services </span
+                  ><span class="span6-aWLtGS mulish-normal-black-14px">(development and integration work)</span
+                  ><span class="span7-aWLtGS detail"> or staffing.</span>
+                </div>
+              </div>
+            </div>
+            <div class="frame-140-fvBu62 frame-140">
+              <div class="x4-co-procurement-lwgDHu titlesubsection">4. Co-procurement</div>
+              <p class="peer-jurisdictions-t-lwgDHu body">
+                <span class="span0-9qRBMA body">Peer jurisdictions </span
+                ><span class="span1-9qRBMA mulish-normal-black-16px"
+                  >(two cities in the same province, for example)</span
+                ><span class="span2-9qRBMA body">
+                  often share a similar set of challenges. Co-procurement is an effective strategy for sharing the cost
+                  of obtaining and maintaining open source software that fills a common need, whether </span
+                ><span class="span3-9qRBMA mulish-normal-black-16px"
+                  >(building in-house or contracting a vendor to build and maintain custom software)</span
+                ><span class="span4-9qRBMA body">.</span>
+              </p>
+              <div class="action">
+                <div class="iconknowledge">
+                  <div class="bulb">
+                    <img class="union-Wp5i4E union" src="img/union@2x.png" alt="Union" />
+                    <img class="group-194" src="img/group-194@2x.png" alt="Group 194" />
+                    <img class="line-48" src="img/line-48@2x.png" alt="Line 48" />
+                  </div>
+                </div>
+                <div class="content-QkL3c9 content">
+                  <p class="a-knowledge-acquisit mulish-bold-black-16px">
+                    Co-procurement aligns with open source software
+                  </p>
+                  <p class="lorem-ipsum detail">
+                    Sharing a single software license is impossible under proprietary licensing models, but—because open
+                    source software is free to use, adapt, and redistribute—governments are fully within their rights to
+                    collectively procure development or customization services from a technology service provider and
+                    share it amongst themselves.
+                  </p>
+                </div>
+              </div>
+              <div class="action">
+                <div class="iconknowledge">
+                  <div class="bulb">
+                    <img class="union-oXvBPJ union" src="img/union@2x.png" alt="Union" />
+                    <img class="group-194" src="img/group-194@2x.png" alt="Group 194" />
+                    <img class="line-48" src="img/line-48@2x.png" alt="Line 48" />
+                  </div>
+                </div>
+                <div class="content-L5qK3M content">
+                  <p class="a-knowledge-acquisit mulish-bold-black-16px">
+                    Co-procurement increases value for everyone involved.
+                  </p>
+                  <div class="flex-container-i239747560216984-KrSbjG">
+                    <div class="text0-i239747560216984-xLwjEx detail">
+                      <span class="span0-kGyzc8 detail">Each beneficiary makes a smaller upfront investment<br /></span>
+                    </div>
+                    <div class="text1-i239747560216984-xLwjEx detail">
+                      <span class="span1-XqS809 detail"
+                        >Better software can be built with mutualized resources<br
+                      /></span>
+                    </div>
+                    <div class="text2-i239747560216984-xLwjEx detail">
+                      <span class="span2-85SvGl detail">Tax dollars go further<br /></span>
+                    </div>
+                    <div class="text3-i239747560216984-xLwjEx detail">
+                      <span class="span3-ggbfDu detail"
+                        >Increasing the number of interested suppliers. Vendors have the opportunity to get business
+                        from more than one jurisdiction.<br
+                      /></span>
+                    </div>
+                    <div class="text4-i239747560216984-xLwjEx detail">
+                      <span class="span4-DDYosx detail">Peers contribute to improvements in the shared code</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-ZXPXi9 content">
+                  <div class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Consult national-scale platforms
+                  </div>
+                  <p class="lorem-ipsum detail">
+                    Consult platforms for match-making between jurisdictions that share needs. Reach out to peers and
+                    communicate within your networks. The Foundation for Public Code provides co-procurement support as
+                    well—reach out to us with any questions!
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="outcomes-YPtuwI">
+            <div class="titlesubsection"><div class="subsection-title titlesection">Takeaways</div></div>
+            <div class="frame-139">
+              <article class="outcome">
+                <div class="icongoal-flIiYC icongoal">
+                  <div class="v2">
+                    <img class="gear-2-DYapqW gear-2" src="img/gear-2-2@2x.png" alt="gear 2" />
+                    <img class="arrow-2" src="img/arrow-2@2x.png" alt="arrow 2" />
+                  </div>
+                </div>
+                <p class="this-is-an-outcome-t mulish-bold-royal-blue-16px">
+                  Total Lifetime Cost of Licensing and Total Lifetime Cost of Building analyses
+                </p>
+              </article>
+              <article class="outcome">
+                <div class="icongoal-GD8ZzP icongoal">
+                  <div class="v2">
+                    <img class="gear-2-TESVx9 gear-2" src="img/gear-2-25@2x.png" alt="gear 2" />
+                    <img class="arrow-2" src="img/arrow-2-22@2x.png" alt="arrow 2" />
+                  </div>
+                </div>
+                <p class="this-is-an-outcome-t mulish-bold-royal-blue-16px">
+                  Strategic analysis of alternatives for addressing the problem statement, based on direct and indirect,
+                  present and future costs
+                </p>
+              </article>
+              <article class="outcome">
+                <div class="icongoal-kMoY2J icongoal">
+                  <div class="v2">
+                    <img class="gear-2-wQpVZ6 gear-2" src="img/gear-2-26@2x.png" alt="gear 2" />
+                    <img class="arrow-2" src="img/arrow-2-23@2x.png" alt="arrow 2" />
+                  </div>
+                </div>
+                <p class="this-is-an-outcome-t mulish-bold-royal-blue-16px">
+                  Identification of downstream contract issues that might arise from specific vendors or general
+                  business models
+                </p>
+              </article>
+            </div>
+          </div>
+          <div class="references-YPtuwI">
+            <div class="titlesubsection"><div class="subsection-title titlesection">Further reading</div></div>
+            <div class="frame-140-U1bY2V frame-140">
+              <article class="reference">
+                <div class="number"><div class="x1 body">1.</div></div>
+                <div class="content-5nJ2w0 content">
+                  <div class="frame-163"><div class="source-name subtext">Rego University</div></div>
+                  <a
+                    href="https://cdn2.hubspot.net/hubfs/2652075/Downloadable_Files/regoUniversity%202018/Functional/TCO%20Best%20Practices%20for%20TCO%20Costing_SVMGT01.pdf"
+                    target="_blank"
+                    ><p class="link-title-here mulish-bold-azure-radiance-16px">
+                      Best Practices for TCO Costing [Total Cost of Ownership]
+                    </p>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">2.</div></div>
+                <div class="content-AzLAPK content">
+                  <div class="frame-163"><div class="source-name subtext">FairMarkit</div></div>
+                  <a
+                    href="https://www.fairmarkit.com/blog/4-key-steps-to-performing-an-effective-spend-analysis"
+                    target="_blank"
+                    ><p class="link-title-here mulish-bold-azure-radiance-16px">
+                      4 Key Steps to Performing an Effective Spend Analysis
+                    </p>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">3.</div></div>
+                <div class="content-l0HnfB content">
+                  <div class="frame-163"><div class="source-name subtext">CityMart</div></div>
+                  <a
+                    href="https://medium.com/citymartinsights/unit-3-choosing-your-procurement-path-8e1b711d0268"
+                    target="_blank"
+                    ><div class="link-title-here mulish-bold-azure-radiance-16px">Choosing your procurement path</div>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">4.</div></div>
+                <div class="content-qyxse4 content">
+                  <div class="frame-163"><div class="source-name subtext">CityMart</div></div>
+                  <a
+                    href="https://medium.com/citymartinsights/unit-4-designing-the-ownership-model-b68e82439acb"
+                    target="_blank"
+                    ><div class="link-title-here mulish-bold-azure-radiance-16px">Designing the Ownership Model</div>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">5.</div></div>
+                <div class="content-8WIdx4 content">
+                  <div class="frame-163"><div class="source-name subtext">CoProcure</div></div>
+                  <a
+                    href="https://www.cio.com/article/242681/calculating-the-total-cost-of-ownership-for-enterprise-software.html"
+                    target="_blank"
+                    ><p class="link-title-here mulish-bold-azure-radiance-16px">
+                      Calculating the total cost of ownership for enterprise software
+                    </p>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">6.</div></div>
+                <div class="content-9QPJwq content">
+                  <div class="frame-163"><div class="source-name subtext">SphereGen</div></div>
+                  <a href="https://www.spheregen.com/cost-of-software-development/" target="_blank"
+                    ><p class="link-title-here mulish-bold-azure-radiance-16px">
+                      How to Estimate the Cost of Software Development
+                    </p>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">7.</div></div>
+                <div class="content-GTzSeL content">
+                  <div class="frame-163"><div class="source-name subtext">IMFG Forum</div></div>
+                  <a href="https://imfg.munkschool.utoronto.ca/research/doc/?doc_id=597" target="_blank"
+                    ><p class="link-title-here mulish-bold-azure-radiance-16px">
+                      Digital Dilemmas: Technology, Governance, and Canadian Municipalities
+                    </p>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">8.</div></div>
+                <div class="content-IzLXek content">
+                  <div class="frame-163"><div class="source-name subtext">Ben Balter</div></div>
+                  <a
+                    href="https://ben.balter.com/2014/10/08/why-government-contractors-should-embrace-open-source/"
+                    target="_blank"
+                    ><p class="link-title-here mulish-bold-azure-radiance-16px">
+                      Eight reasons why government contractors should embrace open source software
+                    </p>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">9.</div></div>
+                <div class="content-dmrMNx content">
+                  <div class="frame-163"><div class="source-name subtext">Future Cities Canada</div></div>
+                  <a
+                    href="https://opennorth.ca/publications/technology-procurement-shaping-future-public-value"
+                    target="_blank"
+                    ><p class="link-title-here mulish-bold-azure-radiance-16px">
+                      Technology Procurement: Shaping Future Public Value
+                    </p>
+                  </a>
+                </div>
+              </article>
+            </div>
+          </div>
+          <div class="strategic-paths-YPtuwI">
+            <div class="cluster-AxTf1k cluster">
+              <div class="titlesubsection">
+                <p class="subsection-title titlesection">It’s time to choose a path!</p>
+              </div>
+              <p class="you-should-now-have-NmdUQ1 body">
+                You should now have a clear sense of where your software will come from, based on your needs, your
+                development capacity, and the maturity of the market. At this point, you should be able to choose a path
+                and write your RFP accordingly.
+              </p>
+            </div>
+            <div class="boxes">
+              <div class="cluster-knhNDT cluster">
+                <div class="box-1">
+                  <img
+                    class="iconpathoff-the-shelf"
+                    src="img/icon-path-off-the-shelf-4@2x.png"
+                    alt="icon.path.off-the-shelf"
+                  />
+                  <div class="flex-container-85939205-ZNgO9l">
+                    <div class="text0-85939205-xJp8FX titlesubsection">
+                      <span class="span0-buMv6D titlesubsection">Purchase existing<br /></span>
+                    </div>
+                    <div class="text1-85939205-xJp8FX titlesubsection">
+                      <span class="span1-sfUaGH body">Get software off the shelf</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="box-2">
+                  <div class="iconpathvendor-oss">
+                    <div class="paper-IhxX4b paper">
+                      <img class="union-xDFvni union" src="img/union-62@2x.png" alt="Union" />
+                      <img class="union-XG5ppx union" src="img/union-52@2x.png" alt="Union" />
+                      <img class="union-Ktb4PX union" src="img/union-53@2x.png" alt="Union" />
+                    </div>
+                    <img class="x-IhxX4b" src="img/--8@2x.png" alt="$" />
+                    <div class="fork-standard">
+                      <div class="ellipse-192"></div>
+                      <div class="ellipse-193"></div>
+                      <img class="vector-6" src="img/vector-6-5@2x.png" alt="Vector 6" />
+                      <img class="vector-9pcxaA vector" src="img/vector-36@2x.png" alt="Vector" />
+                      <img class="vector-xyp635 vector" src="img/vector-37@2x.png" alt="Vector" />
+                    </div>
+                  </div>
+                  <div class="flex-container-85939208-7OEeRo">
+                    <div class="text0-85939208-7KI1l9 titlesubsection">
+                      <span class="span0-dtQyWA titlesubsection">Customize OSS<br /></span>
+                    </div>
+                    <div class="text1-85939208-7KI1l9 titlesubsection">
+                      <span class="span1-tujKw6 body">Contract a vendor to adapt open source software</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="cluster-sKoNKP cluster">
+                <div class="box-3">
+                  <div class="iconpathvendor">
+                    <div class="group-146">
+                      <div class="paper-GdsRuo paper">
+                        <img class="union-Fh4M8Q union" src="img/union-63@2x.png" alt="Union" />
+                        <img class="union-qncSE4 union" src="img/union-52@2x.png" alt="Union" />
+                        <img class="union-ipHYzg union" src="img/union-55@2x.png" alt="Union" />
+                      </div>
+                      <img class="code" src="img/code-3@2x.png" alt="code" />
+                      <img class="x-GdsRuo" src="img/--8@2x.png" alt="$" />
+                    </div>
+                  </div>
+                  <div class="flex-container-85939212-G6YuwF">
+                    <div class="text0-85939212-W8uix1 titlesubsection">
+                      <span class="span0-VFe4yG titlesubsection">Custom software<br /></span>
+                    </div>
+                    <div class="text1-85939212-W8uix1 titlesubsection">
+                      <span class="span1-qeTSPE body">Contract a vendor to build software</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="box-4">
+                  <div class="iconpathinhouse">
+                    <img class="union-waQ8to union" src="img/union-56@2x.png" alt="Union" />
+                    <img class="gear-2-waQ8to gear-2" src="img/gear-2-28@2x.png" alt="gear 2" />
+                  </div>
+                  <div class="flex-container-85939215-fTXwnj">
+                    <div class="text0-85939215-yPBVKL titlesubsection">
+                      <span class="span0-xUWudY titlesubsection">Build in-house<br /></span>
+                    </div>
+                    <div class="text1-85939215-yPBVKL titlesubsection">
+                      <span class="span1-oA5Dlv body">Build software (or adapt OSS) in-house</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="footer-nav-YPtuwI">
+            <div class="navfooterprev-v02-xkGDi5">
+              <img class="arrow-lkduxb arrow" src="img/arrow@2x.png" alt="arrow" />
+              <div class="title-lkduxb title mulish-bold-white-16px">1d. Market research</div>
+            </div>
+            <a href="2a-planning-phase-introduction.html">
+              <div class="navfooternext-v02-xkGDi5">
+                <div class="title-RJ9Zjc title mulish-bold-white-16px">2a. Planning phase</div>
+                <img class="arrow-RJ9Zjc arrow" src="img/arrow-6@2x.png" alt="Arrow" /></div
+            ></a>
+          </div>
+        </div>
+        <div class="sidebarv2-wi6YrP">
+          <div class="top-qXrdrN">
+            <div class="navsidebarexpanded-xwm9v2">
+              <article class="navmainv3-XFpxM1 navmainv3">
+                <div class="section-title">
+                  <div class="x1-section-name-foI59t x1-section-name titlesection-p">1. Orientation</div>
+                </div>
+                <div class="subsections">
+                  <a href="1a-getting-oriented.html">
+                    <article class="navsubsectionv2-mC3Agn navsubsectionv2">
+                      <div class="capacity-building body">a. Welcome!</div>
+                    </article></a
+                  ><a href="1b-capacity-building.html">
+                    <article class="navsubsectionv2-NRt2yA navsubsectionv2">
+                      <div class="b-subsection-name body">b. Capacity-building</div>
+                    </article></a
+                  ><a href="1c-discovery-research-and-problem-statement.html">
+                    <article class="navsubsectionv2-iKznGS navsubsectionv2">
+                      <div class="c-subsection-name body">c. Discovery research</div>
+                    </article></a
+                  ><a href="1d-market-research.html">
+                    <article class="navsubsectionv2-kxqbb1 navsubsectionv2">
+                      <div class="d-subsection-name body">d. Market research</div>
+                    </article></a
+                  ><a href="1e-strategic-analysis.html">
+                    <article class="navsubsectionv2-NUtdiw navsubsectionv2">
+                      <div class="capacity-building body">e. Strategic analysis</div>
+                    </article></a
+                  >
+                </div>
+              </article>
+              <article class="navmainv3-vIc2qf navmainv3">
+                <div class="section-title">
+                  <div class="x1-section-name-fZ3S3p x1-section-name titlesection-p">2. Planning</div>
+                </div>
+                <div class="subsections">
+                  <a href="2a-planning-phase-introduction.html">
+                    <article class="navsubsectionv2-0w5cPx navsubsectionv2">
+                      <div class="capacity-building body">a. Planning phase</div>
+                    </article></a
+                  ><a href="2b-modularization.html">
+                    <article class="navsubsectionv2-Yby5Ft navsubsectionv2">
+                      <div class="b-subsection-name body">b. Modularization</div>
+                    </article></a
+                  ><a href="2c-rfp-writing.html">
+                    <article class="navsubsectionv2-2gxVL6 navsubsectionv2">
+                      <div class="c-subsection-name body">c. RFP writing</div>
+                    </article></a
+                  >
+                </div>
+              </article>
+              <article class="navmainv3-a4SuPh navmainv3">
+                <div class="section-title">
+                  <div class="x1-section-name-nFxczh x1-section-name titlesection-p">3. Assessment</div>
+                </div>
+                <div class="subsections">
+                  <a href="3a-assessment-phase.html">
+                    <article class="navsubsectionv2-HXEQui navsubsectionv2">
+                      <div class="capacity-building body">a. Assessment phase</div>
+                    </article></a
+                  ><a href="3b-vendor-interactions.html">
+                    <article class="navsubsectionv2-D7GfbP navsubsectionv2">
+                      <div class="b-subsection-name body">b. Vendor interactions</div>
+                    </article></a
+                  ><a href="3c-bid-evaluation.html">
+                    <article class="navsubsectionv2-225tSx navsubsectionv2">
+                      <div class="c-subsection-name body">c. Bid evaluation</div>
+                    </article></a
+                  ><a href="3d-contracting.html">
+                    <article class="navsubsectionv2-w5YAe9 navsubsectionv2">
+                      <div class="d-subsection-name body"><span class="span0-c1vxYt body">d. Contracting</span></div>
+                    </article></a
+                  >
+                </div>
+              </article>
+              <article class="navmainv3-JKxvCc navmainv3">
+                <div class="section-title">
+                  <div class="x1-section-name-8D8xE3 x1-section-name titlesection-p">4. Implementation</div>
+                </div>
+                <div class="subsections">
+                  <a href="4a-implementation-phase.html">
+                    <article class="navsubsectionv2-oxPVe0 navsubsectionv2">
+                      <div class="capacity-building body">a. Implementation phase</div>
+                    </article></a
+                  ><a href="4b-agile-development.html">
+                    <article class="navsubsectionv2-9l4foQ navsubsectionv2">
+                      <div class="b-subsection-name body">b. Agile development</div>
+                    </article></a
+                  ><a href="4c-integration.html">
+                    <article class="navsubsectionv2-oxo4bf navsubsectionv2">
+                      <div class="c-subsection-name body">c. Integration</div>
+                    </article></a
+                  >
+                </div>
+              </article>
+            </div>
+          </div>
+          <div class="sidebarbottom-qXrdrN">
+            <div class="have-a-question-hqAxWg have-a-question">
+              <div class="have-a-question-Df4MVx have-a-question titlesection-p">Have a question?</div>
+              <a href="mailto:info@publiccode.net" target="_blank"
+                ><div class="email-us-Df4MVx mulish-semi-bold-azure-radiance-16px">Email us</div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer class="footer-U1063x">
+        <a href="https://publiccode.net/" target="_blank">
+          <div class="logo-title-xad13y logo-title">
+            <img class="logo-symbol" src="img/logo-symbol@2x.png" alt="logo symbol" />
+            <div class="foundation-for-public-code valign-text-middle mulish-bold-black-27px">
+              Foundation for Public Code
+            </div>
+          </div></a
+        >
+        <div class="block-trio-xad13y">
+          <div class="about-us-PVRsmm about-us">
+            <div class="content-NQAt9Q content">
+              <div class="about-us-qJCSTw about-us titlepage">About us</div>
+              <div class="flex-container-i8593832285932298-qJCSTw">
+                <div class="text0-i8593832285932298-36fYTP body">
+                  <span class="span0-NKEr9r body"
+                    >All of our staff information, decision-making rules and processes. Our staff manual is developed
+                    collaboratively with the community and can be reused by everyone.<br
+                  /></span>
+                </div>
+                <div class="text1-i8593832285932298-36fYTP body">
+                  <span class="span1-MkLs3K body"
+                    >Read more about our activities, organization, and the glossary of terms and concepts.</span
+                  >
+                </div>
+              </div>
+            </div>
+            <div class="links-NQAt9Q links">
+              <a href="https://about.publiccode.net/" target="_blank"
+                ><p class="how-we-work-b3w3MY mulish-bold-azure-radiance-16px">How we work&nbsp;&nbsp;&gt;</p>
+              </a>
+            </div>
+          </div>
+          <div class="project-resources-PVRsmm project-resources">
+            <div class="content-aIKpbx content">
+              <div class="project-resources-Tl9iJs project-resources titlepage">Project resources</div>
+              <p class="open-products-were-r-Tl9iJs body">
+                Open products we&#39;re researching or developing to further our mission. We rely on these resources for
+                our everyday work. You can, too!
+              </p>
+            </div>
+            <div class="links-aIKpbx links">
+              <a href="https://projects.publiccode.net/" target="_blank"
+                ><p class="free-to-use-and-modify-kSycjO mulish-bold-azure-radiance-16px">
+                  Free to use and modify&nbsp;&nbsp;&gt;
+                </p> </a
+              ><a href="https://github.com/publiccodenet" target="_blank"
+                ><p class="see-all-our-work-on-git-hub-kSycjO mulish-bold-azure-radiance-16px">
+                  See all our work on GitHub&nbsp;&nbsp;&gt;
+                </p>
+              </a>
+            </div>
+          </div>
+          <div class="careers-PVRsmm careers">
+            <div class="content-Gv5lx3 content">
+              <div class="careers-V0Cj0A careers titlepage">Careers</div>
+              <p class="calling-all-publicly-V0Cj0A body">
+                Calling all publicly minded open source people! Find out about working with us, and join our staff.
+              </p>
+            </div>
+            <div class="links-Gv5lx3 links">
+              <a href="https://publiccode.net/careers/" target="_blank"
+                ><div class="open-positions-ZmgUv1 mulish-bold-azure-radiance-16px">Open positions&nbsp;&nbsp;&gt;</div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="information-xad13y">
+          <div class="contact-jgBG4P contact">
+            <div class="contact-LFyqli contact mulish-bold-black-22px">Contact</div>
+            <div class="contact-info-LFyqli">
+              <div class="newsletter-9EoSY6 newsletter">
+                <div class="newsletter-TdBNvt newsletter body">Newsletter:</div>
+                <a href="https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842" target="_blank"
+                  ><div class="join-our-mailing-list-TdBNvt body">Join our mailing list</div>
+                </a>
+              </div>
+              <div class="phone-9EoSY6 phone">
+                <div class="phone-mbDXGz phone body">Phone:</div>
+                <a href="tel:+31202444500" target="_blank"
+                  ><p class="x31-20-2-444-500-mbDXGz body">+31 20 2 444 500</p>
+                </a>
+              </div>
+              <div class="email-9EoSY6 email">
+                <div class="email-FsdY6O email body">Email:</div>
+                <a href="mailto:info@publiccode.net" target="_blank"
+                  ><div class="infopubliccodenet-FsdY6O body">info@publiccode.net</div>
+                </a>
+              </div>
+              <div class="address-9EoSY6 address">
+                <div class="address-XdY8tC address body">Address:</div>
+                <div class="content-XdY8tC content">
+                  <p class="keizersgracht-617-10-Ci9n6j body">Keizersgracht 617, 1017 DS, Amsterdam, the Netherlands</p>
+                  <div class="links-Ci9n6j links">
+                    <a href="https://www.openstreetmap.org/node/2736377676" target="_blank"
+                      ><div class="open-street-map-hRjfvc body">OpenStreetMap</div>
+                    </a>
+                    <div class="x-hRjfvc body">|</div>
+                    <a
+                      href="https://www.google.com/maps/place/Keizersgracht+617,+1017+DS+Amsterdam,+Netherlands"
+                      target="_blank"
+                      ><div class="google-hRjfvc body">Google</div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="organization-jgBG4P">
+            <div class="notes-LlK2cR">
+              <div class="organizational-notes-8qGjIa mulish-bold-black-22px">Organizational notes</div>
+              <div class="flex-container-i8593832285932358-8qGjIa">
+                <div class="text0-i8593832285932358-MKsiiI body">
+                  <span class="span0-VhzCnb body"
+                    >Foundation for Public Code vereniging (met volledige rechtsbevoegdheid) </span
+                  ><a href="https://about.publiccode.net/organization/governance-model.html" target="_blank"
+                    ><span class="span1-VhzCnb body">is a member owned association</span></a
+                  ><span class="span2-VhzCnb body"> registered under </span
+                  ><a href="https://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=74996452" target="_blank"
+                    ><span class="span3-VhzCnb body">chamber of commerce (KvK) registration 74996452</span></a
+                  ><span class="span4-VhzCnb body"> and with identification number (RSIN) 860102294.<br /></span>
+                </div>
+                <div class="text1-i8593832285932358-MKsiiI body">
+                  <span class="span5-kx0Vtv body">We&#39;re recognized as a </span
+                  ><a
+                    href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/what_is_pbo/what_is_a_pbo"
+                    target="_blank"
+                    ><span class="span6-kx0Vtv body">public benefit organization (ANBI)</span></a
+                  ><span class="span7-kx0Vtv body"> by the Dutch Tax and Customs Administration. See </span
+                  ><a href="https://about.publiccode.net/organization/" target="_blank"
+                    ><span class="span8-kx0Vtv body">our ANBI information</span></a
+                  ><span class="span9-kx0Vtv body">.</span>
+                </div>
+              </div>
+            </div>
+            <div class="metadata-LlK2cR">
+              <div class="updated-xJW3Ba">
+                <img class="iconupdated-I9ir6g" src="img/icon-updated-1@2x.png" alt="icon.updated" />
+                <p class="last-updated-22-august-2023-I9ir6g body">Last updated 22 August 2023</p>
+              </div>
+              <div class="copyright-xJW3Ba">
+                <div class="text_label-WSrUbA mulish-semi-bold-black-20px">©</div>
+                <p class="x2023-foundation-for-public-code-WSrUbA body">
+                  <span class="span0-B19nmX body">2023 </span
+                  ><span class="span1-B19nmX body">Foundation for Public Code</span>
+                </p>
+              </div>
+              <div class="license-xJW3Ba">
+                <img class="iconlicense-8lgBBY" src="img/icon-license-1@2x.png" alt="icon.license" />
+                <p class="creative-commons-zero-v10-universal-8lgBBY body">Creative Commons Zero v1.0 Universal</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+     <script src="collapsible.js"></script>
+  </body>
+</html>

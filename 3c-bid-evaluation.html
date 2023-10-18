@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1440, maximum-scale=1.0" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/3c-bid-evaluation.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+
+    <link rel="icon" href="https://brand.publiccode.net/logo/mark-128w128h.png">
+    <script async defer data-domain="publiccode.net" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="3c-bid-evaluation" />
+    <div class="x3c-bid-evaluation screen">
+      <header class="header-t6e5ft">
+        <div class="content-mpuPMs content">
+          <a href="https://publiccode.net/" target="_blank">
+            <div class="logo-title-17F9Kn logo-title">
+              <img class="logo-symbol" src="img/logo-symbol@2x.png" alt="logo symbol" />
+              <div class="foundation-for-public-code valign-text-middle mulish-bold-black-27px">
+                Foundation for Public Code
+              </div>
+            </div></a
+          >
+          <div class="navigation-17F9Kn">
+            <div class="links-BtwTni links">
+              <a href="https://publiccode.net/codebase-stewardship/" target="_blank"
+                ><div class="stewardship-3A6tfK mulish-normal-black-15px">Codebases</div> </a
+              ><a href="https://projects.publiccode.net/" target="_blank"
+                ><div class="resources-3A6tfK mulish-normal-black-15px">Resources</div> </a
+              ><a href="https://publiccode.net/team/" target="_blank"
+                ><div class="who-we-are-3A6tfK mulish-normal-black-15px">Who we are</div> </a
+              ><a href="https://about.publiccode.net/CONTRIBUTING.html" target="_blank"
+                ><div class="join-us-3A6tfK mulish-normal-black-15px">Join us</div>
+              </a>
+            </div>
+            <div class="services-BtwTni">
+              <a href="https://floss.social/@publiccode" target="_blank"
+                ><img class="mastodon-rtzpTw" src="img/mastodon@2x.png" alt="Mastodon" /> </a
+              ><a href="https://twitter.com/publiccodenet" target="_blank"
+                ><img class="twitter-rtzpTw" src="img/twitter@2x.png" alt="Twitter" /> </a
+              ><a href="https://github.com/publiccodenet/" target="_blank"
+                ><img class="github-rtzpTw" src="img/github@2x.png" alt="Github" />
+              </a>
+            </div>
+          </div>
+        </div>
+      </header>
+      <h1 class="title-t6e5ft title titlepage">Process code for software procurement</h1>
+      <div class="main-frame-t6e5ft">
+        <div class="content-jQOZxi content">
+          <div class="intro-bW9o9G">
+            <div class="titlepage-8GRYR9"><div class="page-title-H2BDL7 titlepage">3c. Bid evaluation</div></div>
+            <div class="content-8GRYR9 content">
+              <p class="this-section-will-help-you-ci7KQL mulish-bold-black-16px">This section will help you:</p>
+              <div class="cluster-ci7KQL cluster">
+                <article class="goal">
+                  <img class="icongoal-xzPKwU icongoal" src="img/icon-goal-24@2x.png" alt="icon.goal" />
+                  <p class="this-is-a-goal-for-a-particular-activity detail">
+                    Conduct an objective, fair, quantitative and qualitative assessment of bids
+                  </p>
+                </article>
+                <article class="goal">
+                  <img class="icongoal-wo0597 icongoal" src="img/icon-goal-37@2x.png" alt="icon.goal" />
+                  <p class="this-is-a-goal-for-a-particular-activity detail">
+                    Consider direct and indirect costs associated with full software lifetime
+                  </p>
+                </article>
+                <article class="goal">
+                  <img class="icongoal-d9cAbl icongoal" src="img/icon-goal-36@2x.png" alt="icon.goal" />
+                  <p class="this-is-a-goal-for-a-particular-activity detail">
+                    Conduct thorough technical evaluation that mitigates downstream contract issues
+                  </p>
+                </article>
+              </div>
+            </div>
+          </div>
+          <div class="challenges-bW9o9G">
+            <div class="titlesubsection"><div class="subsection-title titlesection">Common challenges</div></div>
+            <div class="cluster-qdux0A cluster">
+              <p class="you-may-encounter-th-kxuJzU body">
+                <span class="span0-M7QJZC body"
+                  >You may encounter these frictions as you do the work of bid evaluation. These are challenges the </span
+                ><span class="span1-M7QJZC bodylink">Recommended actions</span
+                ><span class="span2-M7QJZC body">
+                  are designed to solve, or that may arise as you take those actions.
+                </span>
+              </p>
+              <div class="challenge">
+                <img class="iconchallenge" src="img/icon-challenge-25@2x.png" alt="icon.challenge" />
+                <div class="content-73YgRW content">
+                  <div class="title-WPbH9e title mulish-bold-black-16px">Cost eclipsing quality</div>
+                  <p class="lorem-ipsum detail">
+                    Quality, user experience, and integrity are very difficult to quantify. In an effort to maintain
+                    objectivity, evaluation processes often default to cost-only comparison, without adequately
+                    accounting for the actual value that the solution will generate.
+                  </p>
+                </div>
+              </div>
+              <div class="challenge">
+                <img class="iconchallenge" src="img/icon-challenge-25@2x.png" alt="icon.challenge" />
+                <div class="content-0AMfMF content">
+                  <div class="title-FihVaL title mulish-bold-black-16px">Fear of the unknown</div>
+                  <p class="lorem-ipsum detail">
+                    Choosing legacy solutions can feel safer—they appear proven or dependable. These legacy systems may
+                    be easier to understand and evaluate, but may not be the best solution for the problem statement.
+                  </p>
+                </div>
+              </div>
+              <div class="challenge">
+                <img class="iconchallenge" src="img/icon-challenge-25@2x.png" alt="icon.challenge" />
+                <div class="content-xuqo2o content">
+                  <div class="title-CWqtUB title mulish-bold-black-16px">Business model pigeonholes</div>
+                  <p class="lorem-ipsum detail">
+                    Procurement norms were established for awarding high-value contracts to private sector companies.
+                    But defaulting to private sector vendors, without adequately considering non-profit or open source
+                    solutions, may sacrifice cost, quality, or opportunities for value-creating solutions.
+                  </p>
+                </div>
+              </div>
+              <div class="challenge">
+                <img class="iconchallenge" src="img/icon-challenge-25@2x.png" alt="icon.challenge" />
+                <div class="content-91N7SC content">
+                  <div class="title-lCS3z3 title mulish-bold-black-16px">Poor vendor interactions</div>
+                  <p class="lorem-ipsum detail">
+                    Ineffective or disrespectful communications can result in bad relationships and compromise future
+                    procurement.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="actions-bW9o9G">
+            <div class="titlesubsection"><div class="subsection-title titlesection">Recommended actions</div></div>
+            <div class="frame-143-pxNM57">
+              <p class="x1-creating-a-selection-panel-2Ch0n2 titlesubsection">1. Creating a selection panel</p>
+              <p class="the-selection-panel-2Ch0n2 body">
+                The selection panel will review bids using the evaluation framework stated in the RFP. Each member will
+                give their professional assessment of the quality of each bid, working separately and together to
+                compare options and assign scores.
+              </p>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-0VP7Xf content">
+                  <div class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Form the selection panel
+                  </div>
+                  <div class="lorem-ipsum detail">(see guidelines below)</div>
+                </div>
+              </div>
+              <div class="guidelinessolo-2Ch0n2">
+                <div class="title-nQeNGp title">
+                  <img class="iconguidelines-eRwvIv" src="img/icon-guidelines@2x.png" alt="icon.guidelines" />
+                  <p class="guidelines-eRwvIv mulish-bold-black-16px">Guidelines for creating a selection panel</p>
+                  <img class="arrowdown-eRwvIv" src="img/arrow-down@2x.png" alt="arrow.down" />
+                </div>
+                <div class="flex-container-i21174582117085-nQeNGp">
+                  <div class="text0-i21174582117085-JS3nEM titlesubsection-p">
+                    <span class="span0-BKOjih titlesubsection-p"
+                      >The panel should reflect the stakeholder group, including:<br
+                    /></span>
+                  </div>
+                  <div class="text1-i21174582117085-JS3nEM titlesubsection-p">
+                    <span class="span1-xFImnv detail"
+                      >A representative from the primary team or business unit that is leading the procurement<br
+                    /></span>
+                  </div>
+                  <div class="text2-i21174582117085-JS3nEM titlesubsection-p">
+                    <span class="span2-xpviVl detail">A technical expert<br /></span>
+                  </div>
+                  <div class="text3-i21174582117085-JS3nEM titlesubsection-p">
+                    <span class="span3-SdELm8 detail">A representative from the group of end users<br /></span>
+                  </div>
+                  <div class="text4-i21174582117085-JS3nEM titlesubsection-p">
+                    <span class="span4-mCyIxv detail"
+                      >Additional individuals who were not involved with writing the tender<br
+                    /></span>
+                  </div>
+                  <div class="text5-i21174582117085-JS3nEM titlesubsection-p">
+                    <span class="span5-kx4f6n titlesubsection-p"
+                      >Do not include people who have conflicts of interest.<br
+                    /></span>
+                  </div>
+                  <div class="text6-i21174582117085-JS3nEM titlesubsection-p">
+                    <span class="span6-ZPjp5W detail"
+                      >Anyone who stands to benefit or lose, on a personal or professional level, from a particular
+                      outcome of the RFP award<br
+                    /></span>
+                  </div>
+                  <div class="text7-i21174582117085-JS3nEM titlesubsection-p">
+                    <span class="span7-xbSPAC titlesubsection-p">Panelists should be briefed on: <br /></span>
+                  </div>
+                  <div class="text8-i21174582117085-JS3nEM titlesubsection-p">
+                    <span class="span8-QGZng8 detail">A summary of the discovery research<br /></span>
+                  </div>
+                  <div class="text9-i21174582117085-JS3nEM titlesubsection-p">
+                    <span class="span9-xgbYgc detail">The evaluation metrics<br /></span>
+                  </div>
+                  <div class="text10-i21174582117085-JS3nEM titlesubsection-p">
+                    <span class="span10-IwgZ8K detail">A summary of the vendor interactions</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="frame-145-pxNM57">
+              <p class="x2-conducting-a-quant-CL264t titlesubsection">
+                2. Conducting a quantitative and technical evaluation
+              </p>
+              <p class="it-is-important-to-c-CL264t body">
+                It is important to conduct a full technical evaluation of software on offer. Does it match up to
+                vendors’ claims? Will it work within the city’s digital environment? Is it secure?
+              </p>
+              <div class="action">
+                <div class="iconknowledge">
+                  <div class="bulb">
+                    <img class="union" src="img/union@2x.png" alt="Union" />
+                    <img class="group-194" src="img/group-194@2x.png" alt="Group 194" />
+                    <img class="line-48" src="img/line-48@2x.png" alt="Line 48" />
+                  </div>
+                </div>
+                <div class="content-nN3fvu content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    You many need to replicate the city’s digital environment outside the city firewall
+                  </p>
+                  <p class="lorem-ipsum detail">
+                    This will enable vendors (or other developers) to run demonstrations on it.
+                  </p>
+                </div>
+              </div>
+              <div class="action">
+                <div class="iconknowledge">
+                  <div class="bulb">
+                    <img class="union" src="img/union@2x.png" alt="Union" />
+                    <img class="group-194" src="img/group-194@2x.png" alt="Group 194" />
+                    <img class="line-48" src="img/line-48@2x.png" alt="Line 48" />
+                  </div>
+                </div>
+                <div class="content-Y4XgOB content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Not every municipality has technical staff who can perform technical analysis
+                  </p>
+                  <p class="lorem-ipsum detail">
+                    You shouldn’t be responsible for full technical auditing. Consider hiring outside impartial
+                    technical consultants.
+                  </p>
+                </div>
+              </div>
+              <div class="action">
+                <div class="iconknowledge">
+                  <div class="bulb">
+                    <img class="union" src="img/union@2x.png" alt="Union" />
+                    <img class="group-194" src="img/group-194@2x.png" alt="Group 194" />
+                    <img class="line-48" src="img/line-48@2x.png" alt="Line 48" />
+                  </div>
+                </div>
+                <div class="content-yr7sld content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Software may not be testable out of the box
+                  </p>
+                  <p class="lorem-ipsum detail">
+                    You can require vendors to demonstrate a clear integration and deployment plan and include the test
+                    as a contingency in the contract.
+                  </p>
+                </div>
+              </div>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-yGm0Ti content">
+                  <div class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Form a technical committee
+                  </div>
+                  <p class="lorem-ipsum detail">
+                    Internal staff or independent experts should perform a technical review. Explore hidden costs and
+                    issues, and determine the truth of vendors’ claims.
+                  </p>
+                </div>
+              </div>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-E16CBT content">
+                  <div class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Involve your IT department
+                  </div>
+                  <p class="lorem-ipsum detail">
+                    Test the software and ensure that it is compatible with existing technical infrastructure at the
+                    city.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="frame-144-pxNM57">
+              <p class="x3-conducting-a-quali-5MN3lT titlesubsection">
+                3. Conducting a qualitative, user-oriented evaluation
+              </p>
+              <p class="if-you-are-comparing-5MN3lT body">
+                If you are comparing existing solutions, you can test how well they address your problem statement by
+                involving the end users.
+              </p>
+              <div class="action">
+                <div class="iconknowledge">
+                  <div class="bulb">
+                    <img class="union" src="img/union@2x.png" alt="Union" />
+                    <img class="group-194" src="img/group-194@2x.png" alt="Group 194" />
+                    <img class="line-48" src="img/line-48@2x.png" alt="Line 48" />
+                  </div>
+                </div>
+                <div class="content-6cv95R content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    The most important evaluation will come from end users
+                  </p>
+                  <p class="lorem-ipsum detail">
+                    These are the people who will eventually be using the software, so they should be directly involved
+                    in the evaluation process.
+                  </p>
+                </div>
+              </div>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-vVoqu8 content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Ask vendors for access to the software and/or schedule demonstrations
+                  </p>
+                  <p class="lorem-ipsum detail">
+                    Run the potential software through the scenarios included in the RFP (literally or as a thought
+                    experiment). Invite all of the end users who contributed to the discovery research and project
+                    scoping.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="frame-142-pxNM57">
+              <p class="x4-considering-value-beyond-cost-OaxBOK titlesubsection">4. Considering value beyond cost</p>
+              <p class="because-you-introduc-OaxBOK body">
+                Because you introduced multiple types of criteria into the RFP, you can evaluate proposals based on a
+                number of important factors beyond cost, such as quality, long-term value creation opportunities,
+                alignment with organizational priorities, and risk.
+              </p>
+              <div class="action">
+                <div class="iconknowledge">
+                  <div class="bulb">
+                    <img class="union" src="img/union@2x.png" alt="Union" />
+                    <img class="group-194" src="img/group-194@2x.png" alt="Group 194" />
+                    <img class="line-48" src="img/line-48@2x.png" alt="Line 48" />
+                  </div>
+                </div>
+                <div class="content-MY6xKx content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Panelists should review all bids individually and separately
+                  </p>
+                  <p class="lorem-ipsum detail">
+                    This should happen before sharing scores and comparing options through discussion.
+                  </p>
+                </div>
+              </div>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-xcxxcx content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Start by scoring the optional criteria
+                  </p>
+                  <p class="lorem-ipsum detail">
+                    These should give you a good sense of value beyond cost. Consider also your interactions with each
+                    vendor. Can you envision them as good partners?
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="frame-146-pxNM57">
+              <div class="x5-post-selection-A4JBWB titlesubsection">5. Post-selection</div>
+              <p class="the-actions-you-take-A4JBWB body">
+                The actions you take after making a selection are crucial for building long-term relationships with the
+                software development community—which is important for the success of future projects.
+              </p>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-uz6RXm content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Continue to communicate with vendors
+                  </p>
+                  <p class="lorem-ipsum detail">Even those who do not win. It is a demonstration of respect.</p>
+                </div>
+              </div>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-Zmce7P content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Give all vendors a post-award debrief
+                  </p>
+                  <p class="lorem-ipsum detail">
+                    Send every bidder a copy of the evaluation and the winning proposal, and offer to do debrief calls.
+                  </p>
+                </div>
+              </div>
+              <div class="action">
+                <img class="iconaction" src="img/icon-action@2x.png" alt="icon.action" />
+                <div class="content-NzaueZ content">
+                  <p class="an-action-that-requires-high-engagement mulish-bold-black-16px">
+                    Conduct a selection process evaluation
+                  </p>
+                  <p class="lorem-ipsum detail">
+                    Did the selection panel find the evaluation criteria effective? Were the categories limiting? Were
+                    the end users involved in a meaningful way?
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="outcomes-bW9o9G">
+            <div class="titlesubsection"><div class="subsection-title titlesection">Takeaways</div></div>
+            <div class="cluster-GamAnx cluster">
+              <p class="create-or-complete-t-h1N5WE body">
+                Create or complete the following outputs before moving on to the next step.
+              </p>
+              <div class="goals-h1N5WE">
+                <article class="outcome">
+                  <div class="icongoal-Xo0wov icongoal">
+                    <div class="v2">
+                      <img class="gear-2" src="img/gear-2-2@2x.png" alt="gear 2" />
+                      <img class="arrow-2" src="img/arrow-2@2x.png" alt="arrow 2" />
+                    </div>
+                  </div>
+                  <p class="this-is-an-outcome-t bodylink">Fair and objective evaluation of all bids</p>
+                </article>
+                <article class="outcome">
+                  <div class="icongoal-R0Iw0L icongoal">
+                    <div class="v2">
+                      <img class="gear-2" src="img/gear-2-25@2x.png" alt="gear 2" />
+                      <img class="arrow-2" src="img/arrow-2-22@2x.png" alt="arrow 2" />
+                    </div>
+                  </div>
+                  <p class="this-is-an-outcome-t bodylink">Choice of a winning bid or vendor</p>
+                </article>
+                <article class="outcome">
+                  <div class="icongoal-WzAk7v icongoal">
+                    <div class="v2">
+                      <img class="gear-2" src="img/gear-2-26@2x.png" alt="gear 2" />
+                      <img class="arrow-2" src="img/arrow-2-23@2x.png" alt="arrow 2" />
+                    </div>
+                  </div>
+                  <div class="this-is-an-outcome-t bodylink">Feedback to all bidders</div>
+                </article>
+              </div>
+            </div>
+          </div>
+          <div class="references-bW9o9G">
+            <div class="titlesubsection"><div class="subsection-title titlesection">Further reading</div></div>
+            <div class="frame-140-jFEpE8">
+              <article class="reference">
+                <div class="number"><div class="x1 body">1.</div></div>
+                <div class="content-Cx4tay content">
+                  <div class="frame-163"><div class="source-name subtext">Open North</div></div>
+                  <a href="https://opennorth.ca/publications/2hvkzrlujufylsvxgf7li5_en" target="_blank"
+                    ><p class="link-title-here mulish-bold-azure-radiance-16px">
+                      Open and Ethical Procurement Guide on Engaging with the Private Sector
+                    </p>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">2.</div></div>
+                <div class="content-3gxUxj content">
+                  <div class="frame-163"><div class="source-name subtext">18F</div></div>
+                  <a href="https://derisking-guide.18f.gov/state-field-guide/questions-to-ask/" target="_blank"
+                    ><p class="link-title-here mulish-bold-azure-radiance-16px">De-risking guide: Questions to ask</p>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">3.</div></div>
+                <div class="content-9qeIVb content">
+                  <div class="frame-163"><div class="source-name subtext">CityMart</div></div>
+                  <a
+                    href="https://medium.com/citymartinsights/unit-5-defining-the-evaluation-framework-3e131df69632"
+                    target="_blank"
+                    ><div class="link-title-here mulish-bold-azure-radiance-16px">
+                      Defining the evaluation framework
+                    </div>
+                  </a>
+                </div>
+              </article>
+              <article class="reference">
+                <div class="number"><div class="x1 body">4.</div></div>
+                <div class="content-SfqDyQ content">
+                  <div class="frame-163"><div class="source-name subtext">FVH Application Evaluator</div></div>
+                  <a href="https://github.com/ForumViriumHelsinki/ApplicationEvaluator" target="_blank"
+                    ><p class="link-title-here mulish-bold-azure-radiance-16px">
+                      ApplicationEvaluator: an open source software tool for comparing bids
+                    </p>
+                  </a>
+                  <p class="you-should-read-this-xZRB6f mulish-normal-black-13px">
+                    The Finnish public innovation agency has developed a tool that facilitates public procurement. It
+                    gives a quick visual overview, and is easy to adjust for different kinds of procurements. Public
+                    administrations can use, replicate and contribute to the code via GitHub.
+                  </p>
+                </div>
+              </article>
+            </div>
+          </div>
+          <div class="footer-nav-bW9o9G">
+            <a href="3b-vendor-interactions.html">
+              <div class="navfooterprev-v02-dnnX9U">
+                <img class="arrow-OtnlE7 arrow" src="img/arrow@2x.png" alt="arrow" />
+                <div class="title-OtnlE7 title mulish-bold-white-16px">3b. Vendor interactions</div>
+              </div></a
+            ><a href="3d-contracting.html">
+              <div class="navfooternext-v02-dnnX9U">
+                <div class="title-AkUsPD title mulish-bold-white-16px">3d. Contracting</div>
+                <img class="arrow-AkUsPD arrow" src="img/arrow-6@2x.png" alt="Arrow" /></div
+            ></a>
+          </div>
+        </div>
+        <div class="sidebarv2-jQOZxi">
+          <div class="top-9wrQuh">
+            <div class="navsidebarexpanded-4tOe2j">
+              <article class="navmainv3-6vivLr navmainv3">
+                <div class="section-title">
+                  <div class="x1-section-name-AOC7uo x1-section-name titlesection-p">1. Orientation</div>
+                </div>
+                <div class="subsections">
+                  <a href="1a-getting-oriented.html">
+                    <article class="navsubsectionv2-xnWiFz navsubsectionv2">
+                      <div class="capacity-building body">a. Welcome!</div>
+                    </article></a
+                  ><a href="1b-capacity-building.html">
+                    <article class="navsubsectionv2-m733lQ navsubsectionv2">
+                      <div class="b-subsection-name body">b. Capacity-building</div>
+                    </article></a
+                  ><a href="1c-discovery-research-and-problem-statement.html">
+                    <article class="navsubsectionv2-EiDP3x navsubsectionv2">
+                      <div class="c-subsection-name body">c. Discovery research</div>
+                    </article></a
+                  ><a href="1d-market-research.html">
+                    <article class="navsubsectionv2-7wwnBu navsubsectionv2">
+                      <div class="d-subsection-name body">d. Market research</div>
+                    </article></a
+                  ><a href="1e-strategic-analysis.html">
+                    <article class="navsubsectionv2-XRRrZ3 navsubsectionv2">
+                      <div class="capacity-building body">e. Strategic analysis</div>
+                    </article></a
+                  >
+                </div>
+              </article>
+              <article class="navmainv3-VATiXT navmainv3">
+                <div class="section-title">
+                  <div class="x1-section-name-DMRwQj x1-section-name titlesection-p">2. Planning</div>
+                </div>
+                <div class="subsections">
+                  <a href="2a-planning-phase-introduction.html">
+                    <article class="navsubsectionv2-FHeHf4 navsubsectionv2">
+                      <div class="capacity-building body">a. Planning phase</div>
+                    </article></a
+                  ><a href="2b-modularization.html">
+                    <article class="navsubsectionv2-DqfmrI navsubsectionv2">
+                      <div class="b-subsection-name body">b. Modularization</div>
+                    </article></a
+                  ><a href="2c-rfp-writing.html">
+                    <article class="navsubsectionv2-YYDx5m navsubsectionv2">
+                      <div class="capacity-building body">c. RFP writing</div>
+                    </article></a
+                  >
+                </div>
+              </article>
+              <article class="navmainv3-sY0OjL navmainv3">
+                <div class="section-title">
+                  <div class="x1-section-name-U9vfUx x1-section-name titlesection-p">3. Assessment</div>
+                </div>
+                <div class="subsections">
+                  <a href="3a-assessment-phase.html">
+                    <article class="navsubsectionv2-ZUQppv navsubsectionv2">
+                      <div class="capacity-building body">a. Assessment phase</div>
+                    </article></a
+                  ><a href="3b-vendor-interactions.html">
+                    <article class="navsubsectionv2-xkC68B navsubsectionv2">
+                      <div class="b-subsection-name body">b. Vendor interactions</div>
+                    </article></a
+                  ><a href="3c-bid-evaluation.html">
+                    <article class="navsubsectionv2-xSqTlF navsubsectionv2">
+                      <div class="c-subsection-name body">c. Bid evaluation</div>
+                    </article></a
+                  ><a href="3d-contracting.html">
+                    <article class="navsubsectionv2-QnbnHn navsubsectionv2">
+                      <div class="d-subsection-name body"><span class="span0-JbpZS4 body">d. Contracting</span></div>
+                    </article></a
+                  >
+                </div>
+              </article>
+              <article class="navmainv3-hENnNn navmainv3">
+                <div class="section-title">
+                  <div class="x1-section-name-5Y6IaC x1-section-name titlesection-p">4. Implementation</div>
+                </div>
+                <div class="subsections">
+                  <a href="4a-implementation-phase.html">
+                    <article class="navsubsectionv2-zYxddf navsubsectionv2">
+                      <div class="capacity-building body">a. Implementation phase</div>
+                    </article></a
+                  ><a href="4b-agile-development.html">
+                    <article class="navsubsectionv2-dSFlnf navsubsectionv2">
+                      <div class="b-subsection-name body">b. Agile development</div>
+                    </article></a
+                  ><a href="4c-integration.html">
+                    <article class="navsubsectionv2-6siWQ1 navsubsectionv2">
+                      <div class="c-subsection-name body">c. Integration</div>
+                    </article></a
+                  >
+                </div>
+              </article>
+            </div>
+          </div>
+          <div class="sidebarbottom-9wrQuh">
+            <div class="have-a-question-1XUNLB have-a-question">
+              <div class="have-a-question-i33SCt have-a-question titlesection-p">Have a question?</div>
+              <a href="mailto:info@publiccode.net" target="_blank"
+                ><div class="email-us-i33SCt mulish-semi-bold-azure-radiance-16px">Email us</div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer class="footer-t6e5ft">
+        <a href="https://publiccode.net/" target="_blank">
+          <div class="logo-title-Ebg0Hq logo-title">
+            <img class="logo-symbol" src="img/logo-symbol@2x.png" alt="logo symbol" />
+            <div class="foundation-for-public-code valign-text-middle mulish-bold-black-27px">
+              Foundation for Public Code
+            </div>
+          </div></a
+        >
+        <div class="block-trio-Ebg0Hq">
+          <div class="about-us-oBEw2x about-us">
+            <div class="content-xEf2vx content">
+              <div class="about-us-GtPFGR about-us titlepage">About us</div>
+              <div class="flex-container-i8593871285932298-GtPFGR">
+                <div class="text0-i8593871285932298-8OOHt6 body">
+                  <span class="span0-a3CPIz body"
+                    >All of our staff information, decision-making rules and processes. Our staff manual is developed
+                    collaboratively with the community and can be reused by everyone.<br
+                  /></span>
+                </div>
+                <div class="text1-i8593871285932298-8OOHt6 body">
+                  <span class="span1-Lb696f body"
+                    >Read more about our activities, organization, and the glossary of terms and concepts.</span
+                  >
+                </div>
+              </div>
+            </div>
+            <div class="links-xEf2vx links">
+              <a href="https://about.publiccode.net/" target="_blank"
+                ><p class="how-we-work-EpwRPU mulish-bold-azure-radiance-16px">How we work&nbsp;&nbsp;&gt;</p>
+              </a>
+            </div>
+          </div>
+          <div class="project-resources-oBEw2x project-resources">
+            <div class="content-xlmNiQ content">
+              <div class="project-resources-EfFagz project-resources titlepage">Project resources</div>
+              <p class="open-products-were-r-EfFagz body">
+                Open products we&#39;re researching or developing to further our mission. We rely on these resources for
+                our everyday work. You can, too!
+              </p>
+            </div>
+            <div class="links-xlmNiQ links">
+              <a href="https://projects.publiccode.net/" target="_blank"
+                ><p class="free-to-use-and-modify-2WaKJf mulish-bold-azure-radiance-16px">
+                  Free to use and modify&nbsp;&nbsp;&gt;
+                </p> </a
+              ><a href="https://github.com/publiccodenet" target="_blank"
+                ><p class="see-all-our-work-on-git-hub-2WaKJf mulish-bold-azure-radiance-16px">
+                  See all our work on GitHub&nbsp;&nbsp;&gt;
+                </p>
+              </a>
+            </div>
+          </div>
+          <div class="careers-oBEw2x careers">
+            <div class="content-jIIMfz content">
+              <div class="careers-M2x37e careers titlepage">Careers</div>
+              <p class="calling-all-publicly-M2x37e body">
+                Calling all publicly minded open source people! Find out about working with us, and join our staff.
+              </p>
+            </div>
+            <div class="links-jIIMfz links">
+              <a href="https://publiccode.net/careers/" target="_blank"
+                ><div class="open-positions-WeSzP6 mulish-bold-azure-radiance-16px">Open positions&nbsp;&nbsp;&gt;</div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="information-Ebg0Hq">
+          <div class="contact-AjFxY4 contact">
+            <div class="contact-Qum9EH contact mulish-bold-black-22px">Contact</div>
+            <div class="contact-info-Qum9EH">
+              <div class="newsletter-YRqUBJ newsletter">
+                <div class="newsletter-5TPAKD newsletter body">Newsletter:</div>
+                <a href="https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842" target="_blank"
+                  ><div class="join-our-mailing-list-5TPAKD body">Join our mailing list</div>
+                </a>
+              </div>
+              <div class="phone-YRqUBJ phone">
+                <div class="phone-faMzdA phone body">Phone:</div>
+                <a href="tel:+31202444500" target="_blank"
+                  ><p class="x31-20-2-444-500-faMzdA body">+31 20 2 444 500</p>
+                </a>
+              </div>
+              <div class="email-YRqUBJ email">
+                <div class="email-zxa5n8 email body">Email:</div>
+                <a href="mailto:info@publiccode.net" target="_blank"
+                  ><div class="infopubliccodenet-zxa5n8 body">info@publiccode.net</div>
+                </a>
+              </div>
+              <div class="address-YRqUBJ address">
+                <div class="address-9jHPxU address body">Address:</div>
+                <div class="content-9jHPxU content">
+                  <p class="keizersgracht-617-10-eiza3y body">Keizersgracht 617, 1017 DS, Amsterdam, the Netherlands</p>
+                  <div class="links-eiza3y links">
+                    <a href="https://www.openstreetmap.org/node/2736377676" target="_blank"
+                      ><div class="open-street-map-wmpnYx body">OpenStreetMap</div>
+                    </a>
+                    <div class="x-wmpnYx body">|</div>
+                    <a
+                      href="https://www.google.com/maps/place/Keizersgracht+617,+1017+DS+Amsterdam,+Netherlands"
+                      target="_blank"
+                      ><div class="google-wmpnYx body">Google</div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="organization-AjFxY4">
+            <div class="notes-Ih1hFZ">
+              <div class="organizational-notes-aBik3t mulish-bold-black-22px">Organizational notes</div>
+              <div class="flex-container-i8593871285932358-aBik3t">
+                <div class="text0-i8593871285932358-UIQcI4 body">
+                  <span class="span0-2PubU9 body"
+                    >Foundation for Public Code vereniging (met volledige rechtsbevoegdheid) </span
+                  ><a href="https://about.publiccode.net/organization/governance-model.html" target="_blank"
+                    ><span class="span1-2PubU9 body">is a member owned association</span></a
+                  ><span class="span2-2PubU9 body"> registered under </span
+                  ><a href="https://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=74996452" target="_blank"
+                    ><span class="span3-2PubU9 body">chamber of commerce (KvK) registration 74996452</span></a
+                  ><span class="span4-2PubU9 body"> and with identification number (RSIN) 860102294.<br /></span>
+                </div>
+                <div class="text1-i8593871285932358-UIQcI4 body">
+                  <span class="span5-AI2qLc body">We&#39;re recognized as a </span
+                  ><a
+                    href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/what_is_pbo/what_is_a_pbo"
+                    target="_blank"
+                    ><span class="span6-AI2qLc body">public benefit organization (ANBI)</span></a
+                  ><span class="span7-AI2qLc body"> by the Dutch Tax and Customs Administration. See </span
+                  ><a href="https://about.publiccode.net/organization/" target="_blank"
+                    ><span class="span8-AI2qLc body">our ANBI information</span></a
+                  ><span class="span9-AI2qLc body">.</span>
+                </div>
+              </div>
+            </div>
+            <div class="metadata-Ih1hFZ">
+              <div class="updated-ssw9Xp">
+                <img class="iconupdated-OK66nC" src="img/icon-updated-1@2x.png" alt="icon.updated" />
+                <p class="last-updated-22-august-2023-OK66nC body">Last updated 22 August 2023</p>
+              </div>
+              <div class="copyright-ssw9Xp">
+                <div class="text_label-3uQfFx mulish-semi-bold-black-20px">©</div>
+                <p class="x2023-foundation-for-public-code-3uQfFx body">
+                  <span class="span0-ZckpIC body">2023 </span
+                  ><span class="span1-ZckpIC body">Foundation for Public Code</span>
+                </p>
+              </div>
+              <div class="license-ssw9Xp">
+                <img class="iconlicense-xb0jF6" src="img/icon-license-1@2x.png" alt="icon.license" />
+                <p class="creative-commons-zero-v10-universal-xb0jF6 body">Creative Commons Zero v1.0 Universal</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+     <script src="collapsible.js"></script>
+  </body>
+</html>

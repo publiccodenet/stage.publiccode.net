@@ -1,0 +1,1782 @@
+/* screen - 2a-planning-phase-introduction */
+
+.x2a-planning-phase-introduction {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  left: 0px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  top: 0px;
+}
+
+.x2a-planning-phase-introduction .header-qdfCq7 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--concrete);
+  display: flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  justify-content: space-around;
+  padding: 30px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .content-UleI0q {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 16px 16px;
+  justify-content: space-between;
+}
+
+.x2a-planning-phase-introduction .logo-title-pmLZvx {
+  width: 426px;
+}
+
+.x2a-planning-phase-introduction .navigation-pmLZvx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 40px;
+  justify-content: flex-end;
+  position: relative;
+  width: 534px;
+}
+
+.x2a-planning-phase-introduction .links-lVpBSH {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 30px 30px;
+  justify-content: flex-end;
+}
+
+.x2a-planning-phase-introduction .stewardship-9fv2E0 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction .resources-9fv2E0 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction .who-we-are-9fv2E0 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction .join-us-9fv2E0 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction .services-lVpBSH {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction .mastodon-qDx1Rs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.x2a-planning-phase-introduction .twitter-qDx1Rs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.x2a-planning-phase-introduction .github-qDx1Rs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.x2a-planning-phase-introduction .title-qdfCq7 {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  text-align: left;
+  width: 1080px;
+}
+
+.x2a-planning-phase-introduction .main-frame-qdfCq7 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 58px;
+  padding: 0px 0px 60px;
+  position: relative;
+  width: 1080px;
+}
+
+.x2a-planning-phase-introduction .content-Da68lG {
+  align-items: flex-start;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 60px;
+}
+
+.x2a-planning-phase-introduction .intro-IQx2Sm {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .titlepage-ulMaRU {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--fpcgraydark);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .page-title-M5ZExq {
+  background-color: transparent;
+  color: var(--black);
+  flex: 1;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .cluster-ulMaRU {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .phaseplanning-Fu5VaN {
+  background-color: var(--fpcblue);
+  border-radius: 12px;
+  height: 230px;
+  overflow: hidden;
+  position: relative;
+  width: 230px;
+}
+
+.x2a-planning-phase-introduction .group-148-Pzho89 {
+  background-color: transparent;
+  height: 86.25%;
+  left: 7.38%;
+  position: relative;
+  top: 1.46%;
+  width: 93.80%;
+}
+
+.x2a-planning-phase-introduction .rectangle-11-BeThfx {
+  background-color: var(--white);
+  height: 9.39%;
+  left: 29.19%;
+  position: absolute;
+  top: 49.38%;
+  width: 14.21%;
+}
+
+.x2a-planning-phase-introduction .vector-BeThfx {
+  height: 8.86%;
+  left: 21.73%;
+  top: 23.52%;
+  width: 12.30%;
+}
+
+.x2a-planning-phase-introduction .vector-4G1luh {
+  height: 13.02%;
+  left: 22.09%;
+  top: 22.01%;
+  width: 15.31%;
+}
+
+.x2a-planning-phase-introduction .vector-3vsZm2 {
+  height: 11.79%;
+  left: 22.11%;
+  top: 22.32%;
+  width: 18.26%;
+}
+
+.x2a-planning-phase-introduction .group-2-BeThfx {
+  height: 23.02%;
+  left: 37.31%;
+  top: 76.98%;
+  width: 51.84%;
+}
+
+.x2a-planning-phase-introduction .ellipse-BeThfx {
+  background-color: transparent;
+  border: 2px solid;
+  border-color: var(--blue-violet);
+  border-radius: 65.89px/66.17px;
+  height: 66.71%;
+  left: 17.31%;
+  position: absolute;
+  top: 22.37%;
+  width: 61.09%;
+}
+
+.x2a-planning-phase-introduction .comment-BeThfx {
+  height: 19.32%;
+  left: 8.88%;
+  top: 78.91%;
+  transform: rotate(-90.00deg);
+  width: 17.77%;
+}
+
+.x2a-planning-phase-introduction .union-9AQ9Fc {
+  height: 100.00%;
+  left: 0px;
+  top: 0px;
+  transform: rotate(90.00deg);
+  width: 100.00%;
+}
+
+.x2a-planning-phase-introduction .rectangle-315-9AQ9Fc {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--white);
+  height: 11.43%;
+  left: 25.71%;
+  top: 44.29%;
+  width: 11.43%;
+}
+
+.x2a-planning-phase-introduction .rectangle-316-9AQ9Fc {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--white);
+  height: 11.43%;
+  left: 44.29%;
+  top: 44.29%;
+  width: 11.43%;
+}
+
+.x2a-planning-phase-introduction .rectangle-317-9AQ9Fc {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--white);
+  height: 11.43%;
+  left: 62.86%;
+  top: 44.29%;
+  width: 11.43%;
+}
+
+.x2a-planning-phase-introduction .rectangle-315-BeThfx {
+  background-color: var(--blue-violet);
+  height: 2.21%;
+  left: 31.98%;
+  top: 52.96%;
+  width: 2.03%;
+}
+
+.x2a-planning-phase-introduction .rectangle-316-BeThfx {
+  background-color: var(--blue-violet);
+  height: 2.21%;
+  left: 35.28%;
+  top: 52.96%;
+  width: 2.03%;
+}
+
+.x2a-planning-phase-introduction .rectangle-317-BeThfx {
+  background-color: var(--blue-violet);
+  height: 2.21%;
+  left: 38.58%;
+  top: 52.96%;
+  width: 2.03%;
+}
+
+.x2a-planning-phase-introduction .ellipse-4G1luh {
+  background-color: var(--fpchlyellow);
+  border-radius: 7.39px;
+  height: 7.45%;
+  left: 28.68%;
+  position: absolute;
+  top: 39.71%;
+  width: 6.85%;
+}
+
+.x2a-planning-phase-introduction .symbol-dev-BeThfx {
+  height: 5.80%;
+  left: 41.63%;
+  top: 19.84%;
+  width: 12.18%;
+}
+
+.x2a-planning-phase-introduction .rectangle-GoBIvA {
+  left: -12.18%;
+}
+
+.x2a-planning-phase-introduction .rectangle-OijcIa {
+  left: 82.11%;
+}
+
+.x2a-planning-phase-introduction .ellipse-GoBIvA {
+  background-color: var(--fpchlyellow);
+  border-radius: 4.11px;
+  height: 71.43%;
+  left: 33.33%;
+  position: absolute;
+  top: 14.29%;
+  width: 31.25%;
+}
+
+.x2a-planning-phase-introduction .ellipse-3vsZm2 {
+  background-color: transparent;
+  height: 44.25%;
+  left: 17.31%;
+  position: absolute;
+  top: 35.07%;
+  width: 72.64%;
+}
+
+.x2a-planning-phase-introduction .ellipse-qBkyBm {
+  background-color: transparent;
+  height: 28.23%;
+  left: 42.69%;
+  position: absolute;
+  top: 39.87%;
+  width: 35.70%;
+}
+
+.x2a-planning-phase-introduction .ellipse-X6cz5t {
+  background-color: transparent;
+  height: 78.90%;
+  left: 28.54%;
+  position: absolute;
+  top: 14.70%;
+  width: 58.05%;
+}
+
+.x2a-planning-phase-introduction .vector-qBkyBm {
+  height: 28.23%;
+  left: 2.33%;
+  top: 43.07%;
+  width: 30.25%;
+}
+
+.x2a-planning-phase-introduction .ellipse-D03NRS {
+  background-color: var(--fpchlyellow);
+  border-radius: 6.57px;
+  height: 6.63%;
+  left: 44.42%;
+  position: absolute;
+  top: 85.26%;
+  width: 6.09%;
+}
+
+.x2a-planning-phase-introduction .group-BeThfx {
+  height: 7.63%;
+  left: 79.24%;
+  top: 80.62%;
+  width: 7.02%;
+}
+
+.x2a-planning-phase-introduction .vector-X6cz5t {
+  height: 24.22%;
+  left: 3.01%;
+  top: 13.07%;
+  width: 39.67%;
+}
+
+.x2a-planning-phase-introduction .group-4G1luh {
+  height: 6.66%;
+  left: 4.87%;
+  top: 14.92%;
+  width: 6.12%;
+}
+
+.x2a-planning-phase-introduction .rectangle-9-BeThfx {
+  background-color: var(--blue-violet);
+  height: 9.39%;
+  left: 47.72%;
+  position: absolute;
+  top: 55.72%;
+  width: 14.21%;
+}
+
+.x2a-planning-phase-introduction .symbol-dev-4G1luh {
+  height: 5.44%;
+  left: 50.05%;
+  top: 57.70%;
+  width: 9.80%;
+}
+
+.x2a-planning-phase-introduction .rectangle-10-BeThfx {
+  background-color: var(--carnation);
+  height: 9.39%;
+  left: 14.98%;
+  position: absolute;
+  top: 62.90%;
+  width: 14.21%;
+}
+
+.x2a-planning-phase-introduction .symbol-dev-3vsZm2 {
+  height: 5.44%;
+  left: 17.31%;
+  top: 64.88%;
+  width: 9.80%;
+}
+
+.x2a-planning-phase-introduction .ellipse-2-BeThfx {
+  background-color: var(--bittersweet);
+  border-radius: 3.29px;
+  height: 3.31%;
+  left: 46.20%;
+  position: absolute;
+  top: 59.04%;
+  width: 3.05%;
+}
+
+.x2a-planning-phase-introduction .ellipse-5-BeThfx {
+  background-color: var(--bittersweet);
+  border-radius: 3.29px;
+  height: 3.31%;
+  left: 27.67%;
+  position: absolute;
+  top: 52.41%;
+  width: 3.05%;
+}
+
+.x2a-planning-phase-introduction .ellipse-3-BeThfx {
+  background-color: var(--blue-violet);
+  border-radius: 3.29px;
+  height: 3.31%;
+  left: 27.67%;
+  position: absolute;
+  top: 66.22%;
+  width: 3.05%;
+}
+
+.x2a-planning-phase-introduction .ellipse-4-BeThfx {
+  background-color: var(--blue-violet);
+  border-radius: 3.29px;
+  height: 3.31%;
+  left: 45.94%;
+  position: absolute;
+  top: 86.92%;
+  width: 3.05%;
+}
+
+.x2a-planning-phase-introduction .ellipse-BlptSt {
+  background-color: var(--fpchlyellow);
+  border-radius: 4.11px;
+  height: 4.14%;
+  left: 15.74%;
+  position: absolute;
+  top: 52.96%;
+  width: 3.81%;
+}
+
+.x2a-planning-phase-introduction .vector-3-BeThfx {
+  background-color: transparent;
+  height: 8.32%;
+  left: 28.60%;
+  position: absolute;
+  top: 60.19%;
+  width: 19.58%;
+}
+
+.x2a-planning-phase-introduction .vector-5-BeThfx {
+  background-color: transparent;
+  height: 11.50%;
+  left: 13.62%;
+  position: absolute;
+  top: 43.07%;
+  width: 16.16%;
+}
+
+.x2a-planning-phase-introduction .vector-4-BeThfx {
+  background-color: transparent;
+  height: 21.71%;
+  left: 28.73%;
+  position: absolute;
+  top: 67.51%;
+  width: 19.08%;
+}
+
+.x2a-planning-phase-introduction .ellipse-RabFzi {
+  background-color: var(--fpchlyellow);
+  border-radius: 4.11px;
+  height: 4.14%;
+  left: 75.90%;
+  position: absolute;
+  top: 52.96%;
+  width: 3.81%;
+}
+
+.x2a-planning-phase-introduction .ellipse-QAPpz7 {
+  background-color: var(--fpchlyellow);
+  border-radius: 4.11px;
+  height: 4.14%;
+  left: 24.62%;
+  position: absolute;
+  top: 76.98%;
+  width: 3.81%;
+}
+
+.x2a-planning-phase-introduction .ellipse-lXZiUv {
+  background-color: var(--fpchlyellow);
+  border-radius: 12.32px;
+  height: 12.42%;
+  left: 53.05%;
+  position: absolute;
+  top: 29.50%;
+  width: 11.42%;
+}
+
+.x2a-planning-phase-introduction .comment-4G1luh {
+  height: 15.74%;
+  left: 51.53%;
+  top: 27.84%;
+  transform: rotate(180deg);
+  width: 14.47%;
+}
+
+.x2a-planning-phase-introduction .union-jt4cKl {
+  height: 106.41%;
+  left: -3.20%;
+  top: -3.20%;
+  transform: rotate(-180deg);
+  width: 106.41%;
+}
+
+.x2a-planning-phase-introduction .group-2-jt4cKl {
+  height: 37.84%;
+  left: 31.08%;
+  top: 31.08%;
+  transform: rotate(-180deg);
+  width: 37.84%;
+}
+
+.x2a-planning-phase-introduction .flex-container-1483862-Fu5VaN {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x2a-planning-phase-introduction .text0-1483862-Gxq1ue {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .span0-DhGbEL {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .span1-DhGbEL {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x2a-planning-phase-introduction .span2-DhGbEL {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .span3-DhGbEL {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x2a-planning-phase-introduction .span4-DhGbEL {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .text1-1483862-Gxq1ue {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .span5-8oqRXR {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .flex-container-2259843-ulMaRU {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x2a-planning-phase-introduction .text0-2259843-gNpqSz {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .span0-cFNNEx {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .text1-2259843-gNpqSz {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .span1-jxhcED {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .span2-jxhcED {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x2a-planning-phase-introduction .span3-jxhcED {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .span4-jxhcED {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.x2a-planning-phase-introduction .span5-jxhcED {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .text2-2259843-gNpqSz {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .span6-FdEIgz {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .footer-nav-IQx2Sm {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .navfooterprev-v02-2kAvi7 {
+  align-items: center;
+  background-color: var(--fpcgreen);
+  border-radius: 64px 4px 4px 64px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  justify-content: flex-end;
+  min-width: 140px;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction .arrow-SGR9bS {
+  margin-left: -0.85px;
+}
+
+.x2a-planning-phase-introduction .title-SGR9bS {
+  flex: 1;
+  letter-spacing: 0.00px;
+  margin-top: -1.00px;
+  text-align: right;
+}
+
+.x2a-planning-phase-introduction .navfooternext-v02-2kAvi7 {
+  align-items: center;
+  background-color: var(--fpcblue);
+  border-radius: 4px 64px 64px 4px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  min-width: 140px;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction .title-1QaKSV {
+  flex: 1;
+  letter-spacing: 0.00px;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .arrow-1QaKSV {
+  margin-right: -0.85px;
+}
+
+.x2a-planning-phase-introduction .sidebarv2-Da68lG {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--cultured-pearl);
+  border-radius: 6px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction .top-9ePirF {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction .navsidebarexpanded-JGWO10 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 240px;
+}
+
+.x2a-planning-phase-introduction .navmainv3-J3FQSi {
+  background-color: var(--algae-green);
+}
+
+.x2a-planning-phase-introduction .x1-section-name-88iunj {
+  color: var(--black);
+}
+
+.x2a-planning-phase-introduction .navsubsectionv2-TsTnob {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction .navsubsectionv2-JkxdlA {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction .navsubsectionv2-cCcLQz {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction .navsubsectionv2-Ywd10q {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction .navsubsectionv2-REEbEU {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction .navmainv3-6DKd05 {
+  background-color: var(--fpcbluehl);
+}
+
+.x2a-planning-phase-introduction .x1-section-name-IXKROI {
+  color: var(--black-2);
+}
+
+.x2a-planning-phase-introduction .navsubsectionv2-UVaKoE {
+  background-color: var(--fpcblue50);
+}
+
+.x2a-planning-phase-introduction .navsubsectionv2-DfNkLg {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction .navsubsectionv2-w08yxx {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction .navmainv3-BqhsBH {
+  background-color: var(--fpchlpeach);
+}
+
+.x2a-planning-phase-introduction .x1-section-name-3euc7M {
+  color: var(--black);
+}
+
+.x2a-planning-phase-introduction .navsubsectionv2-KPFFs8 {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction .navsubsectionv2-isZLRj {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction .navsubsectionv2-oBloLT {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction .navsubsectionv2-DUnHnP {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction .span0-MlVjc1 {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .navmainv3-gyg3vy {
+  background-color: var(--periwinkle-gray);
+}
+
+.x2a-planning-phase-introduction .x1-section-name-X2QY9O {
+  color: var(--black-2);
+}
+
+.x2a-planning-phase-introduction .navsubsectionv2-ViUGbE {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction .navsubsectionv2-435RHn {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction .navsubsectionv2-ZjZb9g {
+  background-color: transparent;
+}
+
+.x2a-planning-phase-introduction .sidebarbottom-9ePirF {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+  width: 240px;
+}
+
+.x2a-planning-phase-introduction .have-a-question-K5IqIl {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .have-a-question-oJVDBo {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .email-us-oJVDBo {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x2a-planning-phase-introduction .footer-qdfCq7 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--concrete);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  min-width: 800px;
+  padding: 60px;
+  position: relative;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .logo-title-E3iBzA {
+  flex: 0 0 auto;
+  width: 409.66314697265625px;
+}
+
+.x2a-planning-phase-introduction .block-trio-E3iBzA {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .about-us-0zRMkh {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  padding: 30px;
+}
+
+.x2a-planning-phase-introduction .content-LwgAr0 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .about-us-kCKVsP {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .flex-container-i8593838785932298-kCKVsP {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x2a-planning-phase-introduction .text0-i8593838785932298-lY4jWF {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .span0-ngC96h {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .text1-i8593838785932298-lY4jWF {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .span1-OrfnjV {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .links-LwgAr0 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .how-we-work-YZfDi1 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction .project-resources-0zRMkh {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x2a-planning-phase-introduction .content-zcJZbP {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .project-resources-KQhhF7 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .open-products-were-r-KQhhF7 {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .links-zcJZbP {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .free-to-use-and-modify-WatzDA {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+}
+
+.x2a-planning-phase-introduction .see-all-our-work-on-git-hub-WatzDA {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: right;
+}
+
+.x2a-planning-phase-introduction .careers-0zRMkh {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.x2a-planning-phase-introduction .content-Da5muJ {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .careers-2um7U4 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .calling-all-publicly-2um7U4 {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .links-Da5muJ {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .open-positions-HqFbCh {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction .information-E3iBzA {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  max-width: 1160px;
+  position: relative;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .contact-Sy1x96 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 373px;
+}
+
+.x2a-planning-phase-introduction .contact-YfBzuQ {
+  align-self: stretch;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .contact-info-YfBzuQ {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  margin-right: -15.00px;
+  position: relative;
+  width: 388px;
+}
+
+.x2a-planning-phase-introduction .newsletter-Ringx4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .newsletter-6nSmQ3 {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x2a-planning-phase-introduction .join-our-mailing-list-6nSmQ3 {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x2a-planning-phase-introduction .phone-Ringx4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .phone-xBPmum {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x2a-planning-phase-introduction .x31-20-2-444-500-xBPmum {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x2a-planning-phase-introduction .email-Ringx4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .email-kAyHZx {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x2a-planning-phase-introduction .infopubliccodenet-kAyHZx {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  flex: 1;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.x2a-planning-phase-introduction .address-Ringx4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .address-DuzubA {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+  width: 90px;
+}
+
+.x2a-planning-phase-introduction .content-DuzubA {
+  align-items: flex-start;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.x2a-planning-phase-introduction .keizersgracht-617-10-oFGuyC {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 240px;
+}
+
+.x2a-planning-phase-introduction .links-oFGuyC {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+}
+
+.x2a-planning-phase-introduction .open-street-map-rftWKb {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction .x-rftWKb {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction .google-rftWKb {
+  background-color: transparent;
+  color: var(--basic-link);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction .organization-Sy1x96 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction .notes-ZxpdtE {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .organizational-notes-WbVVDy {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .flex-container-i8593838785932358-WbVVDy {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.x2a-planning-phase-introduction .text0-i8593838785932358-dj6d7x {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .span0-IjOHIQ {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .span1-IjOHIQ {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2a-planning-phase-introduction .span2-IjOHIQ {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .span3-IjOHIQ {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2a-planning-phase-introduction .span4-IjOHIQ {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .text1-i8593838785932358-dj6d7x {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .span5-BdxrMJ {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .span6-BdxrMJ {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2a-planning-phase-introduction .span7-BdxrMJ {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .span8-BdxrMJ {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2a-planning-phase-introduction .span9-BdxrMJ {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .metadata-ZxpdtE {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .updated-xEpyLx {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction .iconupdated-xpL8Nm {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.x2a-planning-phase-introduction .last-updated-22-august-2023-xpL8Nm {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x2a-planning-phase-introduction .copyright-xEpyLx {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction .text_label-xb02fu {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.x2a-planning-phase-introduction .x2023-foundation-for-public-code-xb02fu {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: 299px;
+}
+
+.x2a-planning-phase-introduction .span0-I1NZkS {
+  font-style: normal;
+}
+
+.x2a-planning-phase-introduction .span1-I1NZkS {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.x2a-planning-phase-introduction .license-xEpyLx {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction .iconlicense-e78X77 {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.x2a-planning-phase-introduction .creative-commons-zero-v10-universal-e78X77 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: 299px;
+}
+
+.x2a-planning-phase-introduction .arrow {
+  background-color: transparent;
+  height: 12.468994140625px;
+  position: relative;
+  width: 15.23828125px;
+}
+
+.x2a-planning-phase-introduction .comment {
+  background-color: transparent;
+  position: absolute;
+}
+
+.x2a-planning-phase-introduction .contact {
+  background-color: transparent;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction .content {
+  background-color: transparent;
+  display: flex;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction .foundation-for-public-code {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.x2a-planning-phase-introduction .group-2 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.x2a-planning-phase-introduction .links {
+  background-color: transparent;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction .logo-symbol {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.6640625px;
+}
+
+.x2a-planning-phase-introduction .logo-title {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  gap: 13px;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction .navsubsectionv2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  padding: 2px 8px 3px;
+  position: relative;
+  width: 100%;
+}
+
+.x2a-planning-phase-introduction .rectangle {
+  background-color: transparent;
+  height: 117.20%;
+  position: absolute;
+  top: -8.60%;
+  width: 30.06%;
+}
+
+.x2a-planning-phase-introduction .rectangle-315 {
+  border-radius: 5px;
+  position: absolute;
+}
+
+.x2a-planning-phase-introduction .rectangle-316 {
+  border-radius: 5px;
+  position: absolute;
+}
+
+.x2a-planning-phase-introduction .rectangle-317 {
+  border-radius: 5px;
+  position: absolute;
+}
+
+.x2a-planning-phase-introduction .title {
+  background-color: transparent;
+  line-height: normal;
+  position: relative;
+}
+
+.x2a-planning-phase-introduction .union {
+  background-color: transparent;
+  position: absolute;
+}
+
+.x2a-planning-phase-introduction .vector {
+  background-color: transparent;
+  position: absolute;
+}
