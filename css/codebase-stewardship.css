@@ -493,7 +493,7 @@
 .codebase-stewardship .span1-oIxrXu {
   color: var(--white);
   font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xs);
+  font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 400;
 }
@@ -714,7 +714,7 @@
   color: var(--white);
   flex: 1;
   font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 700;
 }
