@@ -222,6 +222,7 @@
 .home-u40indexu41 .frame-192-Pzx5Iy {
   align-items: flex-start;
   background-color: transparent;
+  cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -1054,6 +1055,7 @@
 }
 
 .home-u40indexu41 .buttonsecondary-3z3Qz7 {
+  cursor: pointer;
   display: flex;
   width: 400px;
 }
@@ -1165,6 +1167,7 @@
 
 .home-u40indexu41 .buttonsecondary-gVymZp {
   align-self: stretch;
+  cursor: pointer;
   display: flex;
   width: 100%;
 }
@@ -1238,6 +1241,217 @@
 }
 
 .home-u40indexu41 .span2-ED5pLF {
+}
+
+.home-u40indexu41 .frame-203-adxqax {
+  align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  margin-right: -4.00px;
+  position: relative;
+  width: 100%;
+}
+
+.home-u40indexu41 .flex-container-33364111-aI74Sy {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 321px;
+  left: 0px;
+  position: absolute;
+  top: -700px;
+  width: 495px;
+}
+
+.home-u40indexu41 .text0-33364111-YxzJaZ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.home-u40indexu41 .span0-qN2N0H {
+}
+
+.home-u40indexu41 .text1-33364111-YxzJaZ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.home-u40indexu41 .span1-uxvaAN {
+}
+
+.home-u40indexu41 .text2-33364111-YxzJaZ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.home-u40indexu41 .span2-81AO5i {
+}
+
+.home-u40indexu41 .text3-33364111-YxzJaZ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.home-u40indexu41 .span3-7B9zTt {
+}
+
+.home-u40indexu41 .text4-33364111-YxzJaZ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.home-u40indexu41 .span4-b35Ib8 {
+}
+
+.home-u40indexu41 .text5-33364111-YxzJaZ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.home-u40indexu41 .span5-KGqeAf {
+}
+
+.home-u40indexu41 .text6-33364111-YxzJaZ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.home-u40indexu41 .span6-VjM1cb {
+}
+
+.home-u40indexu41 .span7-VjM1cb {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-l);
+  font-style: italic;
+  font-weight: 400;
+}
+
+.home-u40indexu41 .flex-container-33364112-aI74Sy {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 246px;
+  left: 585px;
+  position: absolute;
+  top: -700px;
+  width: 495px;
+}
+
+.home-u40indexu41 .text0-33364112-sesvuq {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.home-u40indexu41 .span0-vFCY7d {
+}
+
+.home-u40indexu41 .text1-33364112-sesvuq {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.home-u40indexu41 .span1-2g5elS {
+}
+
+.home-u40indexu41 .text2-33364112-sesvuq {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.home-u40indexu41 .span2-xXxgz2 {
+}
+
+.home-u40indexu41 .text3-33364112-sesvuq {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.home-u40indexu41 .span3-jJxMxu {
+}
+
+.home-u40indexu41 .text4-33364112-sesvuq {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.home-u40indexu41 .span4-5TBMkH {
+}
+
+.home-u40indexu41 .text5-33364112-sesvuq {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.home-u40indexu41 .span5-KeGafx {
+}
+
+.home-u40indexu41 .text6-33364112-sesvuq {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.home-u40indexu41 .span6-OH24Aw {
 }
 
 .home-u40indexu41 .frame-193-qjSTrx {
@@ -1516,6 +1730,7 @@
 }
 
 .home-u40indexu41 .buttonsecondary-9GsLuc {
+  cursor: pointer;
   display: inline-flex;
 }
 
