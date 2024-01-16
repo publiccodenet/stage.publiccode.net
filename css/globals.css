@@ -1,5 +1,5 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
-@import url("https://fonts.googleapis.com/css?family=Mulish:400italic,400,600,500,700");
+@import url("https://fonts.googleapis.com/css?family=Mulish:500,700,600,400|Xanh+Mono:400,400italic|IBM+Plex+Serif:400,400italic|Cormorant+Garamond:600italic,600|Playfair+Display:400,400italic");
 /* The following line is used to measure usage of this code. You can remove it if you want. */
 
 
@@ -8,12 +8,6 @@
   font-style: italic;
   font-weight: 400;
   src: url("../fonts/.26929.otf") format("opentype");
-}
-@font-face {
-  font-family: "Bressay-Regular";
-  font-style: normal;
-  font-weight: 400;
-  src: url("../fonts/.26930.otf") format("opentype");
 }
 
 
@@ -52,21 +46,6 @@
   box-sizing: border-box;
 }
 
-.about-us {
-  align-self: stretch;
-  position: relative;
-}
-
-.address {
-  background-color: transparent;
-  position: relative;
-}
-
-.careers {
-  align-self: stretch;
-  position: relative;
-}
-
 .codebase-steward-for-communites {
   align-self: stretch;
   background-color: transparent;
@@ -76,14 +55,14 @@
   text-align: left;
 }
 
-.contact {
-  background-color: transparent;
-  position: relative;
-}
-
 .email {
+  align-self: stretch;
   background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
   position: relative;
+  text-align: left;
+  text-decoration: underline;
 }
 
 .foundation-for-public-code {
@@ -94,23 +73,12 @@
   text-align: left;
 }
 
-.github {
-  background-color: transparent;
-  position: relative;
-}
-
 .group-194 {
   background-color: transparent;
   height: 21px;
   left: 215px;
   position: absolute;
   width: 21px;
-}
-
-.links {
-  background-color: transparent;
-  flex: 0 0 auto;
-  position: relative;
 }
 
 .logo-title {
@@ -122,14 +90,11 @@
   position: relative;
 }
 
-.mastodon {
+.mask-group {
   background-color: transparent;
+  height: 220px;
   position: relative;
-}
-
-.newsletter {
-  background-color: transparent;
-  position: relative;
+  width: 220px;
 }
 
 .person-name {
@@ -142,51 +107,8 @@
   text-align: left;
 }
 
-.phone {
-  background-color: transparent;
-  position: relative;
-}
-
 .project-resources {
   align-self: stretch;
-  position: relative;
-}
-
-.twitter {
-  background-color: transparent;
-  position: relative;
-}
-
-.blockmediasummary {
-  align-items: flex-end;
-  background-color: var(--machine-grey);
-  border-radius: 6px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  overflow: hidden;
-  position: relative;
-}
-
-.headline {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-}
-
-.medialabel {
-  align-items: flex-start;
-  border-radius: 4px;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  height: 30px;
-  padding: 5px 10px;
   position: relative;
 }
 
@@ -197,15 +119,6 @@
   margin-top: -1.00px;
   position: relative;
   text-align: left;
-  width: fit-content;
-}
-
-.x12-aug-2023 {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: right;
   width: fit-content;
 }
 
@@ -232,9 +145,55 @@
   position: absolute;
 }
 
+.github {
+  background-color: transparent;
+  position: relative;
+}
+
 .icon {
   background-color: transparent;
   height: 14px;
   position: relative;
   width: 14px;
+}
+
+.contact-us {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 150px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  position: relative;
+}
+
+.logogithub {
+  background-color: transparent;
+  position: relative;
+}
+
+.logomastodon {
+  background-color: transparent;
+  overflow: hidden;
+  position: relative;
+}
+
+.logotwitter {
+  background-color: transparent;
+  position: relative;
+}
+
+.read-more {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.subtract {
+  background-color: transparent;
+  position: absolute;
 }

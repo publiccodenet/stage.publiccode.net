@@ -566,12 +566,16 @@
 }
 
 .codebase-stewardship .mastodon-p5bkNx {
+  background-color: transparent;
   height: 32px;
+  position: relative;
   width: 32px;
 }
 
 .codebase-stewardship .twitter-p5bkNx {
+  background-color: transparent;
   height: 32px;
+  position: relative;
   width: 32.0595703125px;
 }
 
@@ -583,8 +587,10 @@
 }
 
 .codebase-stewardship .github-p5bkNx {
+  background-color: transparent;
   height: 28px;
-  width: 28.0517578125px;
+  position: relative;
+  width: 28.05194854736328px;
 }
 
 .codebase-stewardship .who-we-are-kDTvLA {
@@ -731,10 +737,13 @@
 
 .codebase-stewardship .links-JVB6Pu {
   align-items: flex-start;
+  background-color: transparent;
   display: inline-flex;
+  flex: 0 0 auto;
   flex-wrap: wrap;
   gap: 30px 30px;
   justify-content: flex-end;
+  position: relative;
 }
 
 .codebase-stewardship .stewardship-t3YqXU {
@@ -794,21 +803,37 @@
   position: relative;
 }
 
-.codebase-stewardship .mastodon-p8mt9w {
+.codebase-stewardship .logomastodon-p8mt9w {
+  background-color: transparent;
   cursor: pointer;
   height: 24px;
+  overflow: hidden;
+  position: relative;
   width: 24px;
 }
 
-.codebase-stewardship .twitter-p8mt9w {
+.codebase-stewardship .subtract-ftJT5f {
+  background-color: transparent;
+  height: 24px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.codebase-stewardship .logotwitter-p8mt9w {
+  background-color: transparent;
   cursor: pointer;
   height: 24px;
+  position: relative;
   width: 24px;
 }
 
-.codebase-stewardship .github-p8mt9w {
+.codebase-stewardship .logogithub-p8mt9w {
+  background-color: transparent;
   cursor: pointer;
   height: 24px;
+  position: relative;
   width: 24px;
 }
 
@@ -829,7 +854,6 @@
 .codebase-stewardship .logo-title-C8bYKx {
   align-self: stretch;
   flex: 0 0 auto;
-  padding: 0px 80px;
   width: 100%;
 }
 
@@ -837,32 +861,46 @@
   width: 349px;
 }
 
-.codebase-stewardship .block-trio-C8bYKx {
+.codebase-stewardship .frame-217-C8bYKx {
   align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   display: flex;
   flex: 0 0 auto;
-  gap: 20px;
-  max-width: 1160px;
+  gap: 60px;
+  justify-content: center;
   position: relative;
   width: 100%;
 }
 
-.codebase-stewardship .about-us-bOdDLD {
-  align-items: center;
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
+.codebase-stewardship .blocks-6xD4Mc {
+  align-items: flex-start;
+  background-color: transparent;
   display: flex;
   flex: 1;
   flex-direction: column;
   flex-grow: 1;
+  gap: 20px;
+  max-width: 1160px;
+  position: relative;
+}
+
+.codebase-stewardship .about-us-uuuy3R {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
   gap: 30px;
   padding: 30px;
+  position: relative;
+  width: 100%;
 }
 
-.codebase-stewardship .content-OUEJ1A {
+.codebase-stewardship .content-vqgr11 {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -871,23 +909,17 @@
   width: 100%;
 }
 
-.codebase-stewardship .about-us-Wwb6xW {
+.codebase-stewardship .our-operational-details-EjnFyJ {
+  align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
+  position: relative;
   text-align: left;
 }
 
-.codebase-stewardship .flex-container-i3190506485932298-Wwb6xW {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.codebase-stewardship .text0-i3190506485932298-acxzlD {
+.codebase-stewardship .our-staff-informatio-EjnFyJ {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -896,55 +928,31 @@
   text-align: left;
 }
 
-.codebase-stewardship .span0-BGKAWx {
-}
-
-.codebase-stewardship .text1-i3190506485932298-acxzlD {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.codebase-stewardship .span1-3K5iLg {
-}
-
-.codebase-stewardship .links-OUEJ1A {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  gap: 10px;
-  justify-content: flex-end;
-  width: 100%;
-}
-
-.codebase-stewardship .how-we-work-wpexST {
-  background-color: transparent;
+.codebase-stewardship .buttonsecondary-vqgr11 {
   cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: right;
-  width: fit-content;
+  gap: 8px;
 }
 
-.codebase-stewardship .project-resources-bOdDLD {
-  align-items: flex-end;
+.codebase-stewardship .arrow-gd3Q32 {
+  height: 12.46875px;
+  margin-right: -0.85px;
+  width: 15.2392578125px;
+}
+
+.codebase-stewardship .project-resources-uuuy3R {
+  align-items: flex-start;
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 4px 0px #00000026;
   display: flex;
-  flex: 1;
+  flex: 0 0 auto;
   flex-direction: column;
-  flex-grow: 1;
-  justify-content: space-between;
+  gap: 30px;
   padding: 30px;
+  width: 100%;
 }
 
-.codebase-stewardship .content-xfhUQ5 {
+.codebase-stewardship .content-wPaHob {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -953,7 +961,7 @@
   width: 100%;
 }
 
-.codebase-stewardship .project-resources-Zrdb5T {
+.codebase-stewardship .project-resources-euBhx8 {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -961,7 +969,7 @@
   text-align: left;
 }
 
-.codebase-stewardship .open-products-were-r-Zrdb5T {
+.codebase-stewardship .open-products-were-r-euBhx8 {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -970,287 +978,18 @@
   text-align: left;
 }
 
-.codebase-stewardship .links-xfhUQ5 {
-  align-items: flex-end;
-  align-self: stretch;
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-  width: 100%;
-}
-
-.codebase-stewardship .free-to-use-and-modify-XYNNNB {
-  align-self: stretch;
-  background-color: transparent;
+.codebase-stewardship .buttonsecondary-wPaHob {
   cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: right;
+  gap: 8px;
 }
 
-.codebase-stewardship .careers-bOdDLD {
-  align-items: flex-end;
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  justify-content: space-between;
-  padding: 30px;
+.codebase-stewardship .arrow-gHqi9c {
+  height: 12.46875px;
+  margin-right: -0.85px;
+  width: 15.2392578125px;
 }
 
-.codebase-stewardship .content-XyEcT7 {
-  align-items: flex-start;
-  align-self: stretch;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 15px;
-  width: 100%;
-}
-
-.codebase-stewardship .careers-ExTRoj {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-}
-
-.codebase-stewardship .calling-all-publicly-ExTRoj {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.codebase-stewardship .links-XyEcT7 {
-  align-items: flex-end;
-  align-self: stretch;
-  display: flex;
-  gap: 10px;
-  justify-content: flex-end;
-  width: 100%;
-}
-
-.codebase-stewardship .open-positions-qWaYpZ {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: right;
-  width: fit-content;
-}
-
-.codebase-stewardship .information-C8bYKx {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 20px;
-  max-width: 1160px;
-  position: relative;
-  width: 100%;
-}
-
-.codebase-stewardship .contact-Q5Ud8Q {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  width: 373px;
-}
-
-.codebase-stewardship .contact-bx1AMm {
-  align-self: stretch;
-  letter-spacing: 0.00px;
-  line-height: 26px;
-  margin-top: -1.00px;
-  text-align: left;
-}
-
-.codebase-stewardship .contact-info-bx1AMm {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 15px;
-  margin-right: -15.00px;
-  position: relative;
-  width: 388px;
-}
-
-.codebase-stewardship .newsletter-Qc2nbA {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  width: 100%;
-}
-
-.codebase-stewardship .newsletter-eSpj1j {
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-  width: 90px;
-}
-
-.codebase-stewardship .join-our-mailing-list-eSpj1j {
-  background-color: transparent;
-  cursor: pointer;
-  flex: 1;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.codebase-stewardship .phone-Qc2nbA {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  width: 100%;
-}
-
-.codebase-stewardship .phone-iDCVAz {
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-  width: 90px;
-}
-
-.codebase-stewardship .x31-20-2-444-500-iDCVAz {
-  background-color: transparent;
-  cursor: pointer;
-  flex: 1;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.codebase-stewardship .email-Qc2nbA {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  width: 100%;
-}
-
-.codebase-stewardship .email-D6fSlO {
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-  width: 90px;
-}
-
-.codebase-stewardship .infopubliccodenet-D6fSlO {
-  background-color: transparent;
-  cursor: pointer;
-  flex: 1;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.codebase-stewardship .address-Qc2nbA {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  width: 100%;
-}
-
-.codebase-stewardship .address-wkWVjX {
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-  width: 90px;
-}
-
-.codebase-stewardship .content-wkWVjX {
-  align-items: flex-start;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-}
-
-.codebase-stewardship .keizersgracht-617-10-Qa2JxE {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: 240px;
-}
-
-.codebase-stewardship .links-Qa2JxE {
-  align-items: flex-start;
-  display: inline-flex;
-  gap: 10px;
-}
-
-.codebase-stewardship .open-street-map-C6jxYx {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.codebase-stewardship .x-C6jxYx {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.codebase-stewardship .google-C6jxYx {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.codebase-stewardship .organization-Q5Ud8Q {
+.codebase-stewardship .information-6xD4Mc {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -1258,10 +997,108 @@
   flex-direction: column;
   flex-grow: 1;
   gap: 30px;
+  max-width: 1160px;
   position: relative;
 }
 
-.codebase-stewardship .notes-lZxGN5 {
+.codebase-stewardship .div-Wkoiiy {
+  margin-top: -2.00px;
+}
+
+.codebase-stewardship .contact-Wkoiiy {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.codebase-stewardship .contact-info-PS6ePi {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.codebase-stewardship .frame-218-99Z4GN {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  position: relative;
+}
+
+.codebase-stewardship .phone-31-20-2-444-500-MiZuoR {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.codebase-stewardship .span0-rNT49V {
+}
+
+.codebase-stewardship .span1-rNT49V {
+  text-decoration: underline;
+}
+
+.codebase-stewardship .email-infopubliccodenet-MiZuoR {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.codebase-stewardship .span0-YFnwIk {
+}
+
+.codebase-stewardship .span1-YFnwIk {
+  text-decoration: underline;
+}
+
+.codebase-stewardship .keizersgracht-617-10-99Z4GN {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.codebase-stewardship .span0-Nmm7I8 {
+}
+
+.codebase-stewardship .span1-Nmm7I8 {
+  text-decoration: underline;
+}
+
+.codebase-stewardship .span2-Nmm7I8 {
+}
+
+.codebase-stewardship .span3-Nmm7I8 {
+  text-decoration: underline;
+}
+
+.codebase-stewardship .notes-Wkoiiy {
   align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
@@ -1273,17 +1110,7 @@
   width: 100%;
 }
 
-.codebase-stewardship .organizational-notes-mBejP0 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-}
-
-.codebase-stewardship .flex-container-i3190506485932358-mBejP0 {
+.codebase-stewardship .flex-container-i3381593633815548-gqAIfa {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -1291,59 +1118,59 @@
   gap: 10px;
 }
 
-.codebase-stewardship .text0-i3190506485932358-JGPSAx {
+.codebase-stewardship .text0-i3381593633815548-pdffQx {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
-  line-height: 24px;
+  line-height: normal;
   position: relative;
   text-align: left;
 }
 
-.codebase-stewardship .span0-6DujuX {
+.codebase-stewardship .span0-h1h8LP {
 }
 
-.codebase-stewardship .span1-6DujuX {
+.codebase-stewardship .span1-h1h8LP {
   text-decoration: underline;
 }
 
-.codebase-stewardship .span2-6DujuX {
+.codebase-stewardship .span2-h1h8LP {
 }
 
-.codebase-stewardship .span3-6DujuX {
+.codebase-stewardship .span3-h1h8LP {
   text-decoration: underline;
 }
 
-.codebase-stewardship .span4-6DujuX {
+.codebase-stewardship .span4-h1h8LP {
 }
 
-.codebase-stewardship .text1-i3190506485932358-JGPSAx {
+.codebase-stewardship .text1-i3381593633815548-pdffQx {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
-  line-height: 24px;
+  line-height: normal;
   position: relative;
   text-align: left;
 }
 
-.codebase-stewardship .span5-EOn2kb {
+.codebase-stewardship .span5-zSQxys {
 }
 
-.codebase-stewardship .span6-EOn2kb {
+.codebase-stewardship .span6-zSQxys {
   text-decoration: underline;
 }
 
-.codebase-stewardship .span7-EOn2kb {
+.codebase-stewardship .span7-zSQxys {
 }
 
-.codebase-stewardship .span8-EOn2kb {
+.codebase-stewardship .span8-zSQxys {
   text-decoration: underline;
 }
 
-.codebase-stewardship .span9-EOn2kb {
+.codebase-stewardship .span9-zSQxys {
 }
 
-.codebase-stewardship .metadata-lZxGN5 {
+.codebase-stewardship .metadata-Wkoiiy {
   align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
@@ -1355,23 +1182,25 @@
   width: 100%;
 }
 
-.codebase-stewardship .updated-Z0ISCx {
+.codebase-stewardship .updated-SUowhW {
   align-items: center;
+  align-self: stretch;
   background-color: transparent;
-  display: inline-flex;
+  display: flex;
   flex: 0 0 auto;
   gap: 8px;
   position: relative;
+  width: 100%;
 }
 
-.codebase-stewardship .iconupdated-AjJi9x {
+.codebase-stewardship .iconupdated-46atUD {
   background-color: transparent;
   height: 16px;
   position: relative;
   width: 16px;
 }
 
-.codebase-stewardship .last-updated-22-august-2023-AjJi9x {
+.codebase-stewardship .last-updated-22-august-2023-46atUD {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -1381,58 +1210,60 @@
   width: 299px;
 }
 
-.codebase-stewardship .copyright-Z0ISCx {
+.codebase-stewardship .copyright-SUowhW {
   align-items: center;
+  align-self: stretch;
   background-color: transparent;
-  display: inline-flex;
+  display: flex;
   flex: 0 0 auto;
   gap: 7px;
   position: relative;
+  width: 100%;
 }
 
-.codebase-stewardship .text_label-igfxs8 {
+.codebase-stewardship .image-hgPwrZ {
+  background-color: transparent;
+  height: 14.4599609375px;
+  position: relative;
+  width: 14.4599609375px;
+}
+
+.codebase-stewardship .x2023-foundation-for-public-code-hgPwrZ {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
   text-align: left;
-  width: fit-content;
-}
-
-.codebase-stewardship .x2023-foundation-for-public-code-igfxs8 {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
   width: 299px;
 }
 
-.codebase-stewardship .span0-9UaBvZ {
+.codebase-stewardship .span0-jDmiV5 {
 }
 
-.codebase-stewardship .span1-9UaBvZ {
+.codebase-stewardship .span1-jDmiV5 {
   text-decoration: underline;
 }
 
-.codebase-stewardship .license-Z0ISCx {
+.codebase-stewardship .license-SUowhW {
   align-items: center;
+  align-self: stretch;
   background-color: transparent;
-  display: inline-flex;
+  display: flex;
   flex: 0 0 auto;
   gap: 8px;
   position: relative;
+  width: 100%;
 }
 
-.codebase-stewardship .iconlicense-g5AxnY {
+.codebase-stewardship .iconlicense-lZSU2B {
   background-color: transparent;
   height: 14.5px;
   position: relative;
   width: 16px;
 }
 
-.codebase-stewardship .creative-commons-zero-v10-universal-g5AxnY {
+.codebase-stewardship .creative-commons-zero-v10-universal-lZSU2B {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -1503,5 +1334,5 @@
   background-color: transparent;
   height: 55px;
   position: relative;
-  width: 47.6630859375px;
+  width: 47.66314697265625px;
 }
