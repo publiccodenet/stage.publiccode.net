@@ -1,0 +1,174 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Mulish:500,700,600,400|IBM+Plex+Serif:400,400italic|Xanh+Mono:400,400italic|Cormorant+Garamond:600italic,600|Playfair+Display:400,400italic");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+
+
+
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.valign-text-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.content {
+  background-color: transparent;
+  display: flex;
+  position: relative;
+}
+
+.foundation-for-public-code {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.project-resources {
+  align-self: stretch;
+  position: relative;
+}
+
+.text {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.button-text {
+  background-color: transparent;
+  letter-spacing: -0.14px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.buttongithub {
+  align-items: center;
+  background-color: var(--fpcwhite);
+  border: 1px solid;
+  border-color: var(--fpcmachine-grey-dark);
+  border-radius: 30px;
+  display: inline-flex;
+  gap: 4px;
+  left: 0px;
+  padding: 8px 15px;
+  position: absolute;
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.icon {
+  background-color: transparent;
+  height: 14px;
+  position: relative;
+  width: 14px;
+}
+
+.logogithub {
+  background-color: transparent;
+  position: relative;
+}
+
+.logomastodon {
+  background-color: transparent;
+  overflow: hidden;
+  position: relative;
+}
+
+.logotwitter {
+  background-color: transparent;
+  position: relative;
+}
+
+.subtract {
+  background-color: transparent;
+  position: absolute;
+}
+
+.codebase-steward-for-communites {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.email {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.mask-group {
+  background-color: transparent;
+  height: 220px;
+  position: relative;
+  width: 220px;
+}
+
+.person-name {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.read-more {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
