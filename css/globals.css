@@ -1,14 +1,8 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
-@import url("https://fonts.googleapis.com/css?family=Mulish:500,700,600,400|Xanh+Mono:400,400italic|IBM+Plex+Serif:400,400italic|Cormorant+Garamond:600italic,600|Playfair+Display:400,400italic");
+@import url("https://fonts.googleapis.com/css?family=Mulish:500,700,600,400|IBM+Plex+Serif:400,400italic|Xanh+Mono:400,400italic|Cormorant+Garamond:600italic,600|Playfair+Display:400,400italic");
 /* The following line is used to measure usage of this code. You can remove it if you want. */
 
 
-@font-face {
-  font-family: "Bressay-Italic";
-  font-style: italic;
-  font-weight: 400;
-  src: url("../fonts/.26929.otf") format("opentype");
-}
 
 
 .screen textarea:focus,
@@ -46,63 +40,16 @@
   box-sizing: border-box;
 }
 
-.codebase-steward-for-communites {
-  align-self: stretch;
+.content {
   background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
+  display: flex;
   position: relative;
-  text-align: left;
-}
-
-.email {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
 }
 
 .foundation-for-public-code {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.group-194 {
-  background-color: transparent;
-  height: 21px;
-  left: 215px;
-  position: absolute;
-  width: 21px;
-}
-
-.logo-title {
-  align-items: center;
-  background-color: transparent;
-  cursor: pointer;
-  display: flex;
-  gap: 13px;
-  position: relative;
-}
-
-.mask-group {
-  background-color: transparent;
-  height: 220px;
-  position: relative;
-  width: 220px;
-}
-
-.person-name {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
   position: relative;
   text-align: left;
 }
@@ -134,9 +81,9 @@
 
 .buttongithub {
   align-items: center;
-  background-color: var(--white);
+  background-color: var(--fpcwhite);
   border: 1px solid;
-  border-color: var(--celeste);
+  border-color: var(--fpcmachine-grey-dark);
   border-radius: 30px;
   display: inline-flex;
   gap: 4px;
@@ -145,8 +92,9 @@
   position: absolute;
 }
 
-.github {
-  background-color: transparent;
+.contact {
+  display: flex;
+  flex-direction: column;
   position: relative;
 }
 
@@ -155,16 +103,6 @@
   height: 14px;
   position: relative;
   width: 14px;
-}
-
-.contact-us {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 150px;
-  display: flex;
-  flex-direction: column;
-  padding: 30px;
-  position: relative;
 }
 
 .logogithub {
@@ -183,6 +121,48 @@
   position: relative;
 }
 
+.subtract {
+  background-color: transparent;
+  position: absolute;
+}
+
+.codebase-steward-for-communites {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.email {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.mask-group {
+  background-color: transparent;
+  height: 220px;
+  position: relative;
+  width: 220px;
+}
+
+.person-name {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
 .read-more {
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -191,9 +171,4 @@
   position: relative;
   text-align: left;
   width: fit-content;
-}
-
-.subtract {
-  background-color: transparent;
-  position: absolute;
 }

@@ -2,7 +2,7 @@
 
 .our-services {
   align-items: center;
-  background-color: var(--white);
+  background-color: var(--fpcwhite);
   display: flex;
   flex-direction: column;
   gap: 60px;
@@ -16,7 +16,7 @@
 .our-services .navheader-RQB2Az {
   align-items: center;
   align-self: stretch;
-  background-color: var(--machine-grey);
+  background-color: var(--fpcmachine-grey);
   box-shadow: 0px 4px 0px #00000026;
   display: flex;
   flex: 0 0 auto;
@@ -174,7 +174,7 @@
 }
 
 .our-services .card-6ZTXWm {
-  background-color: var(--yellow);
+  background-color: var(--fpcyellow);
   padding: 20px;
 }
 
@@ -212,7 +212,7 @@
 .our-services .title-5UtCqR {
   align-self: stretch;
   background-color: transparent;
-  color: var(--black);
+  color: var(--fpcblack);
   font-family: var(--font-family-mulish);
   font-size: 36px;
   font-style: normal;
@@ -227,11 +227,6 @@
 .our-services .we-plan-and-facilita-5UtCqR {
   align-self: stretch;
   background-color: transparent;
-  color: var(--black);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 400;
   letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
@@ -502,7 +497,7 @@
 }
 
 .our-services .card-EXgXif {
-  background-color: var(--purple);
+  background-color: var(--fpcpurple);
   padding: 30px;
 }
 
@@ -539,7 +534,7 @@
 
 .our-services .communities-of-practice-lsYC9N {
   background-color: transparent;
-  color: var(--white);
+  color: var(--fpcwhite);
   font-family: var(--font-family-mulish);
   font-size: 36px;
   font-style: normal;
@@ -803,7 +798,7 @@
   background-position: 50% 50%;
   background-size: cover;
   border: 3.999985456466675px solid;
-  border-color: var(--yellow);
+  border-color: var(--fpcyellow);
   border-radius: 80px;
   height: 87.99997091293335px;
   margin-bottom: -4.00px;
@@ -832,11 +827,6 @@
 .our-services .text0-i3396486034036497-nKlDu2 {
   align-self: stretch;
   background-color: transparent;
-  color: transparent;
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
   letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
@@ -844,17 +834,11 @@
 }
 
 .our-services .span0-2LSQgZ {
-  font-style: normal;
 }
 
 .our-services .text1-i3396486034036497-nKlDu2 {
   align-self: stretch;
   background-color: transparent;
-  color: transparent;
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
   letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
@@ -862,7 +846,6 @@
 }
 
 .our-services .span1-NNpxVG {
-  font-style: normal;
 }
 
 .our-services .div-eeQsDx {
@@ -882,11 +865,6 @@
 }
 
 .our-services .span1-QK6GnY {
-  color: var(--red);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xxxxl);
-  font-style: normal;
-  font-weight: 700;
 }
 
 .our-services .span2-QK6GnY {
@@ -921,11 +899,6 @@
 .our-services .lets-quickly-see-how-5Gqjab {
   align-self: stretch;
   background-color: transparent;
-  color: var(--black);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 400;
   letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
@@ -1141,11 +1114,6 @@
 .our-services .join-our-mailing-list-979KfP {
   align-self: stretch;
   background-color: transparent;
-  color: var(--white);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 700;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
@@ -1154,14 +1122,14 @@
 }
 
 .our-services .buttonprimary-vICRKL {
-  background-color: var(--white);
+  background-color: var(--fpcwhite);
   cursor: pointer;
 }
 
 .our-services .footer-RQB2Az {
   align-items: center;
   align-self: stretch;
-  background-color: var(--machine-grey);
+  background-color: var(--fpcmachine-grey);
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -1209,7 +1177,7 @@
 .our-services .about-us-ZeZGQ5 {
   align-items: flex-start;
   align-self: stretch;
-  background-color: var(--white);
+  background-color: var(--fpcwhite);
   border-radius: 6px;
   box-shadow: 0px 4px 0px #00000026;
   display: flex;
@@ -1251,7 +1219,7 @@
 
 .our-services .project-resources-ZeZGQ5 {
   align-items: flex-start;
-  background-color: var(--white);
+  background-color: var(--fpcwhite);
   border-radius: 6px;
   box-shadow: 0px 4px 0px #00000026;
   display: flex;
@@ -1636,9 +1604,13 @@
   position: relative;
 }
 
-.our-services .content {
-  background-color: transparent;
+.our-services .contact-us {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 150px;
   display: flex;
+  flex-direction: column;
+  padding: 30px;
   position: relative;
 }
 
@@ -1649,7 +1621,7 @@
 }
 
 .our-services .ellipse-11 {
-  background-color: var(--machine-grey-light);
+  background-color: var(--fpcmachine-grey-light);
   border: 1px solid;
   border-color: var(--basic-link);
   border-radius: 16px;
@@ -1727,6 +1699,15 @@
   width: 47.66314697265625px;
 }
 
+.our-services .logo-title {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  gap: 13px;
+  position: relative;
+}
+
 .our-services .modules-include {
   align-self: stretch;
   background-color: transparent;
@@ -1788,9 +1769,9 @@
 .our-services .uitextfieldsingle {
   align-items: flex-start;
   align-self: stretch;
-  background-color: var(--machine-grey-light);
+  background-color: var(--fpcmachine-grey-light);
   border: 1px solid;
-  border-color: var(--machine-grey);
+  border-color: var(--fpcmachine-grey);
   border-radius: 6px;
   display: flex;
   gap: 10px;
@@ -1801,7 +1782,7 @@
 
 .our-services .workshop {
   align-items: flex-start;
-  background-color: var(--white);
+  background-color: var(--fpcwhite);
   border-radius: 6px;
   box-shadow: 0px 4px 0px #00000026;
   display: flex;

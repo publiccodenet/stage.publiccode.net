@@ -2,7 +2,7 @@
 
 .resources-and-projects {
   align-items: center;
-  background-color: var(--white);
+  background-color: var(--fpcwhite);
   display: flex;
   flex-direction: column;
   gap: 60px;
@@ -75,7 +75,7 @@
 .resources-and-projects .we-built-these-openl-mJ8yXu {
   align-self: stretch;
   background-color: transparent;
-  color: var(--black);
+  color: var(--fpcblack);
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-xl);
   font-style: normal;
@@ -88,6 +88,7 @@
 
 .resources-and-projects .buttonsecondary-mJ8yXu {
   gap: 15px;
+  padding: 0px 6px 0px 0px;
 }
 
 .resources-and-projects .arrow-xrxpur {
@@ -119,6 +120,7 @@
   align-items: center;
   flex-direction: column;
   gap: 60px;
+  padding: 0px 0px 60px;
   width: 1080px;
 }
 
@@ -149,20 +151,34 @@
   text-align: left;
 }
 
-.resources-and-projects .frame-195-ItiCnI {
+.resources-and-projects .frame-258-ItiCnI {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.resources-and-projects .frame-195-i4cX5S {
   align-items: flex-start;
   align-self: stretch;
-  gap: 30px;
+  gap: 15px;
   justify-content: center;
   width: 100%;
 }
 
-.resources-and-projects .module-jxWmQ0 {
+.resources-and-projects .module-xvrG8i {
+  border-color: var(--charcoal);
   flex: 1;
   flex-grow: 1;
+  padding: 30px 45px 30px 30px;
 }
 
-.resources-and-projects .content-UcssRO {
+.resources-and-projects .content-mK1uzv {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -171,7 +187,7 @@
   width: 100%;
 }
 
-.resources-and-projects .the-standard-for-public-code-uvx9WF {
+.resources-and-projects .the-standard-for-public-code-46VJho {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -181,7 +197,7 @@
   text-align: left;
 }
 
-.resources-and-projects .flex-container-30972759-uvx9WF {
+.resources-and-projects .flex-container-30972759-46VJho {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -189,7 +205,7 @@
   gap: 10px;
 }
 
-.resources-and-projects .text0-30972759-TfEHOm {
+.resources-and-projects .text0-30972759-whbwod {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -198,10 +214,10 @@
   text-align: left;
 }
 
-.resources-and-projects .span0-pd3D7K {
+.resources-and-projects .span0-CGYwQa {
 }
 
-.resources-and-projects .text1-30972759-TfEHOm {
+.resources-and-projects .text1-30972759-whbwod {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -210,25 +226,27 @@
   text-align: left;
 }
 
-.resources-and-projects .span1-Km4iiZ {
+.resources-and-projects .span1-i9OQiE {
 }
 
-.resources-and-projects .buttonsecondary-UcssRO {
+.resources-and-projects .buttonsecondary-mK1uzv {
   gap: 8px;
 }
 
-.resources-and-projects .arrow-Xt2jae {
+.resources-and-projects .arrow-Ug1Fs1 {
   height: 12.46875px;
   margin-right: -0.85px;
   width: 15.23828125px;
 }
 
-.resources-and-projects .module-jqfsYn {
+.resources-and-projects .module-sPThZH {
+  border-color: var(--charcoal);
   flex: 1;
   flex-grow: 1;
+  padding: 30px 45px 30px 30px;
 }
 
-.resources-and-projects .content-Y2cj1q {
+.resources-and-projects .content-6Y4LtC {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -237,7 +255,7 @@
   width: 100%;
 }
 
-.resources-and-projects .governance-game-InS7RF {
+.resources-and-projects .governance-game-Ish9ll {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -247,7 +265,7 @@
   width: fit-content;
 }
 
-.resources-and-projects .flex-container-30972763-InS7RF {
+.resources-and-projects .flex-container-30972763-Ish9ll {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -255,7 +273,7 @@
   gap: 10px;
 }
 
-.resources-and-projects .text0-30972763-kRjtsJ {
+.resources-and-projects .text0-30972763-5voLDp {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -264,10 +282,10 @@
   text-align: left;
 }
 
-.resources-and-projects .span0-mQm72Y {
+.resources-and-projects .span0-GRr9IU {
 }
 
-.resources-and-projects .text1-30972763-kRjtsJ {
+.resources-and-projects .text1-30972763-5voLDp {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -276,37 +294,39 @@
   text-align: left;
 }
 
-.resources-and-projects .span1-7DjwbA {
+.resources-and-projects .span1-4yWqrb {
 }
 
-.resources-and-projects .buttonsecondary-Y2cj1q {
+.resources-and-projects .buttonsecondary-6Y4LtC {
   gap: 8px;
 }
 
-.resources-and-projects .arrow-82uXd6 {
+.resources-and-projects .arrow-TxQxE7 {
   height: 12.46875px;
   margin-right: -0.85px;
   width: 15.23828125px;
 }
 
-.resources-and-projects .frame-196-ItiCnI {
+.resources-and-projects .frame-196-i4cX5S {
   align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   display: flex;
   flex: 0 0 auto;
-  gap: 30px;
+  gap: 15px;
   justify-content: center;
   position: relative;
   width: 100%;
 }
 
-.resources-and-projects .module-1LJHbh {
+.resources-and-projects .module-gy9fnZ {
   align-self: stretch;
+  border-color: var(--charcoal);
+  padding: 30px;
   width: 340px;
 }
 
-.resources-and-projects .content-8yYcnN {
+.resources-and-projects .content-RYNDxB {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -315,7 +335,7 @@
   width: 100%;
 }
 
-.resources-and-projects .our-podcast-lets-talk-about-public-code-XMiCd0 {
+.resources-and-projects .our-podcast-lets-talk-about-public-code-wQ6R9S {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -325,7 +345,7 @@
   text-align: left;
 }
 
-.resources-and-projects .flex-container-31903044-XMiCd0 {
+.resources-and-projects .flex-container-31903044-wQ6R9S {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -333,7 +353,7 @@
   gap: 10px;
 }
 
-.resources-and-projects .text0-31903044-rmXLmF {
+.resources-and-projects .text0-31903044-X76xkb {
   align-self: stretch;
   background-color: transparent;
   line-height: 24px;
@@ -341,15 +361,15 @@
   text-align: left;
 }
 
-.resources-and-projects .span0-DBXsww {
+.resources-and-projects .span0-PkRcv0 {
   letter-spacing: 0.00px;
 }
 
-.resources-and-projects .span1-DBXsww {
-  letter-spacing: -0.24px;
+.resources-and-projects .span1-PkRcv0 {
+  letter-spacing: -0.04px;
 }
 
-.resources-and-projects .text1-31903044-rmXLmF {
+.resources-and-projects .text1-31903044-X76xkb {
   align-self: stretch;
   background-color: transparent;
   line-height: 24px;
@@ -357,26 +377,28 @@
   text-align: left;
 }
 
-.resources-and-projects .span2-pIzvAn {
+.resources-and-projects .span2-PETg6G {
   letter-spacing: 0.00px;
 }
 
-.resources-and-projects .buttonsecondary-8yYcnN {
+.resources-and-projects .buttonsecondary-RYNDxB {
   gap: 8px;
 }
 
-.resources-and-projects .arrow-kRLK5f {
+.resources-and-projects .arrow-D9K78B {
   height: 12.46875px;
   margin-right: -0.85px;
   width: 15.23828125px;
 }
 
-.resources-and-projects .module-LgDpxp {
+.resources-and-projects .module-ut64ap {
+  border-color: var(--charcoal);
   flex: 1;
   flex-grow: 1;
+  padding: 30px 45px 30px 30px;
 }
 
-.resources-and-projects .content-DhiZGJ {
+.resources-and-projects .content-d2qRjW {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -385,7 +407,7 @@
   width: 100%;
 }
 
-.resources-and-projects .ospo-alliance-and-ospo-zone-tmSdGz {
+.resources-and-projects .ospo-alliance-and-ospo-zone-0ukop7 {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -395,7 +417,7 @@
   width: fit-content;
 }
 
-.resources-and-projects .flex-container-31903049-tmSdGz {
+.resources-and-projects .flex-container-31903049-0ukop7 {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -403,7 +425,7 @@
   gap: 10px;
 }
 
-.resources-and-projects .text0-31903049-TvUVz2 {
+.resources-and-projects .text0-31903049-OC4X43 {
   align-self: stretch;
   background-color: transparent;
   line-height: 24px;
@@ -411,11 +433,11 @@
   text-align: left;
 }
 
-.resources-and-projects .span0-00aqgX {
-  letter-spacing: -0.16px;
+.resources-and-projects .span0-3EUlp2 {
+  letter-spacing: -0.03px;
 }
 
-.resources-and-projects .text1-31903049-TvUVz2 {
+.resources-and-projects .text1-31903049-OC4X43 {
   align-self: stretch;
   background-color: transparent;
   line-height: 24px;
@@ -423,11 +445,11 @@
   text-align: left;
 }
 
-.resources-and-projects .span1-ONJ6pu {
+.resources-and-projects .span1-1nlrE1 {
   letter-spacing: 0.00px;
 }
 
-.resources-and-projects .text2-31903049-TvUVz2 {
+.resources-and-projects .text2-31903049-OC4X43 {
   align-self: stretch;
   background-color: transparent;
   line-height: 24px;
@@ -435,31 +457,33 @@
   text-align: left;
 }
 
-.resources-and-projects .span2-d2fy17 {
+.resources-and-projects .span2-txJKVx {
   letter-spacing: 0.00px;
 }
 
-.resources-and-projects .buttonsecondary-DhiZGJ {
+.resources-and-projects .buttonsecondary-d2qRjW {
   gap: 8px;
 }
 
-.resources-and-projects .arrow-UTqBVi {
+.resources-and-projects .arrow-iI38NX {
   height: 12.46875px;
   margin-right: -0.85px;
   width: 15.23828125px;
 }
 
-.resources-and-projects .frame-197-ItiCnI {
-  gap: 30px;
+.resources-and-projects .frame-197-i4cX5S {
+  align-items: flex-start;
   justify-content: center;
 }
 
-.resources-and-projects .module-vxHe88 {
+.resources-and-projects .module-hvUCV2 {
+  border-color: var(--charcoal);
   flex: 1;
   flex-grow: 1;
+  padding: 30px 45px 30px 30px;
 }
 
-.resources-and-projects .content-ByvWx1 {
+.resources-and-projects .content-DaLsa5 {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -468,7 +492,7 @@
   width: 100%;
 }
 
-.resources-and-projects .bumperscripter-fhzxtT {
+.resources-and-projects .bumperscripter-2LIQMZ {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -478,7 +502,7 @@
   text-align: left;
 }
 
-.resources-and-projects .flex-container-31903059-fhzxtT {
+.resources-and-projects .flex-container-31903059-2LIQMZ {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -486,7 +510,7 @@
   gap: 10px;
 }
 
-.resources-and-projects .text0-31903059-ciJT3u {
+.resources-and-projects .text0-31903059-jDqgmk {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -495,10 +519,10 @@
   text-align: left;
 }
 
-.resources-and-projects .span0-Z0J1xK {
+.resources-and-projects .span0-HJZhdD {
 }
 
-.resources-and-projects .text1-31903059-ciJT3u {
+.resources-and-projects .text1-31903059-jDqgmk {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -507,25 +531,27 @@
   text-align: left;
 }
 
-.resources-and-projects .span1-YoJfRA {
+.resources-and-projects .span1-tSnUro {
 }
 
-.resources-and-projects .buttonsecondary-ByvWx1 {
+.resources-and-projects .buttonsecondary-DaLsa5 {
   gap: 8px;
 }
 
-.resources-and-projects .arrow-LhySgv {
+.resources-and-projects .arrow-ub1P34 {
   height: 12.46875px;
   margin-right: -0.85px;
   width: 15.23828125px;
 }
 
-.resources-and-projects .module-JCEyfo {
+.resources-and-projects .module-WR8Oxk {
+  border-color: var(--charcoal);
   flex: 1;
   flex-grow: 1;
+  padding: 30px 45px 30px 30px;
 }
 
-.resources-and-projects .content-CKy4OB {
+.resources-and-projects .content-HVeVQM {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -534,7 +560,7 @@
   width: 100%;
 }
 
-.resources-and-projects .url-check-dyAz44 {
+.resources-and-projects .url-check-buHFy1 {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -544,7 +570,7 @@
   width: fit-content;
 }
 
-.resources-and-projects .flex-container-31903064-dyAz44 {
+.resources-and-projects .flex-container-31903064-buHFy1 {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -552,7 +578,7 @@
   gap: 10px;
 }
 
-.resources-and-projects .text0-31903064-dBEFsx {
+.resources-and-projects .text0-31903064-mUZq1G {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -561,10 +587,10 @@
   text-align: left;
 }
 
-.resources-and-projects .span0-BAE7td {
+.resources-and-projects .span0-xP3F72 {
 }
 
-.resources-and-projects .text1-31903064-dBEFsx {
+.resources-and-projects .text1-31903064-mUZq1G {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -574,30 +600,30 @@
   text-align: left;
 }
 
-.resources-and-projects .span1-GTkCmS {
+.resources-and-projects .span1-oI9zEm {
 }
 
-.resources-and-projects .span2-GTkCmS {
+.resources-and-projects .span2-oI9zEm {
   text-decoration: underline;
 }
 
-.resources-and-projects .span3-GTkCmS {
+.resources-and-projects .span3-oI9zEm {
 }
 
-.resources-and-projects .buttonsecondary-CKy4OB {
+.resources-and-projects .buttonsecondary-HVeVQM {
   gap: 8px;
 }
 
-.resources-and-projects .span0-45GlIZ {
+.resources-and-projects .span0-Z58oqk {
 }
 
-.resources-and-projects .span1-45GlIZ {
+.resources-and-projects .span1-Z58oqk {
 }
 
-.resources-and-projects .span2-45GlIZ {
+.resources-and-projects .span2-Z58oqk {
 }
 
-.resources-and-projects .arrow-FVaTNH {
+.resources-and-projects .arrow-TmCxO4 {
   height: 12.46875px;
   margin-right: -0.85px;
   width: 15.23828125px;
@@ -636,15 +662,17 @@
   background-color: transparent;
   display: flex;
   flex: 0 0 auto;
-  gap: 30px;
+  gap: 15px;
   justify-content: center;
   position: relative;
   width: 100%;
 }
 
 .resources-and-projects .module-RQi3q9 {
+  border-color: var(--fpcblack);
   flex: 1;
   flex-grow: 1;
+  padding: 30px 45px 30px 30px;
 }
 
 .resources-and-projects .content-V0kOrs {
@@ -732,8 +760,10 @@
 
 .resources-and-projects .module-qYaelR {
   align-self: stretch;
+  border-color: var(--fpcblack);
   flex: 1;
   flex-grow: 1;
+  padding: 30px 45px 30px 30px;
 }
 
 .resources-and-projects .content-wHWxLh {
@@ -837,94 +867,10 @@
   width: 100%;
 }
 
-.resources-and-projects .contact-us-xLbBxF {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: var(--machine-grey);
-  border-radius: 6px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 23px;
-  padding: 30px;
-  position: relative;
-}
-
-.resources-and-projects .frame-197-fkVzgQ {
-  flex-direction: column;
-  gap: 15px;
-}
-
-.resources-and-projects .questions-YPexrj {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-right: -0.83px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: 450.8348693847656px;
-}
-
-.resources-and-projects .please-reach-out-wit-YPexrj {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.resources-and-projects .span0-xuGT6R {
-}
-
-.resources-and-projects .span1-xuGT6R {
-  text-decoration: underline;
-}
-
-.resources-and-projects .span2-xuGT6R {
-}
-
-.resources-and-projects .socials-fkVzgQ {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 20px;
-  position: relative;
-}
-
-.resources-and-projects .mastodon-PFBlx9 {
-  background-color: transparent;
-  height: 32px;
-  position: relative;
-  width: 32px;
-}
-
-.resources-and-projects .twitter-PFBlx9 {
-  background-color: transparent;
-  height: 32px;
-  position: relative;
-  width: 32.05936813354492px;
-}
-
-.resources-and-projects .you-tube-PFBlx9 {
-  background-color: transparent;
-  height: 32px;
-  position: relative;
-  width: 32.05936813354492px;
-}
-
-.resources-and-projects .github-PFBlx9 {
-  height: 28px;
-  width: 28.052734375px;
-}
-
 .resources-and-projects .who-we-are-xLbBxF {
   align-items: flex-start;
   align-self: stretch;
-  background-color: var(--machine-grey);
+  background-color: var(--fpcmachine-grey);
   border-radius: 6px;
   display: flex;
   flex: 1;
@@ -936,8 +882,8 @@
 }
 
 .resources-and-projects .frame-197-x2ixxx {
+  align-items: flex-start;
   flex-direction: column;
-  gap: 15px;
 }
 
 .resources-and-projects .contribute-on-git-hub-rliSEk {
@@ -970,7 +916,9 @@
 }
 
 .resources-and-projects .github-rliSEk {
+  background-color: transparent;
   height: 74px;
+  position: relative;
   width: 137px;
 }
 
@@ -1000,6 +948,170 @@
   width: 14px;
 }
 
+.resources-and-projects .connect-pjck3o {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.resources-and-projects .contact-AQDV9r {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 150px;
+  flex: 1;
+  flex-grow: 1;
+  gap: 30px;
+  padding: 30px;
+}
+
+.resources-and-projects .frame-197-Baw446 {
+  align-items: center;
+  flex-direction: column;
+  max-width: 520px;
+}
+
+.resources-and-projects .connect-with-us-LNWrHh {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.resources-and-projects .got-a-question-sugge-LNWrHh {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.resources-and-projects .span0-BD2LBu {
+}
+
+.resources-and-projects .span1-BD2LBu {
+  text-decoration: underline;
+}
+
+.resources-and-projects .span2-BD2LBu {
+}
+
+.resources-and-projects .channels-Baw446 {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+}
+
+.resources-and-projects .logomastodon-mrLMBc {
+  cursor: pointer;
+  height: 32px;
+  width: 32px;
+}
+
+.resources-and-projects .subtract-eKHd0h {
+  height: 32px;
+  left: 1px;
+  top: 0px;
+  width: 30px;
+}
+
+.resources-and-projects .logotwitter-mrLMBc {
+  cursor: pointer;
+  height: 32px;
+  width: 32px;
+}
+
+.resources-and-projects .logoyoutube-mrLMBc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31.94074249267578px;
+  overflow: hidden;
+  position: relative;
+  width: 32px;
+}
+
+.resources-and-projects .subtract-TRtjrf {
+  height: 22px;
+  left: 0px;
+  top: 5px;
+  width: 32px;
+}
+
+.resources-and-projects .logogithub-mrLMBc {
+  cursor: pointer;
+  height: 32px;
+  width: 32px;
+}
+
+.resources-and-projects .mailing-list-AQDV9r {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 150px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 217px;
+  justify-content: center;
+  padding: 30px;
+  position: relative;
+  width: 217px;
+}
+
+.resources-and-projects .frame-197-U5XDQB {
+  align-items: center;
+  flex-direction: column;
+}
+
+.resources-and-projects .join-our-mailing-list-4RLl95 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.resources-and-projects .buttonprimary-U5XDQB {
+  align-items: center;
+  background-color: var(--fpcwhite);
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.resources-and-projects .read-more-HDpkwa {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.resources-and-projects .arrow-HDpkwa {
+  height: 12.46875px;
+  margin-right: -0.85px;
+  width: 15.23828125px;
+}
+
 .resources-and-projects .navheader-xqb7lB {
   align-items: center;
   background-color: transparent;
@@ -1021,22 +1133,29 @@
   justify-content: space-between;
 }
 
-.resources-and-projects .logo-title-NAixyj {
+.resources-and-projects .logo-lockup-NAixyj {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  gap: 13px;
+  position: relative;
   width: 426px;
 }
 
-.resources-and-projects .foundation-for-public-code-5raxEt {
+.resources-and-projects .foundation-for-public-code-dx6UKb {
   flex: 1;
 }
 
 .resources-and-projects .navigation-NAixyj {
   align-items: center;
   background-color: transparent;
-  display: flex;
-  gap: 40px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 40px 40px;
   justify-content: flex-end;
   position: relative;
-  width: 534px;
 }
 
 .resources-and-projects .links-0ZQniN {
@@ -1058,7 +1177,6 @@
   margin-top: -1.00px;
   position: relative;
   text-align: left;
-  text-decoration: underline;
   width: fit-content;
 }
 
@@ -1070,7 +1188,6 @@
   margin-top: -1.00px;
   position: relative;
   text-align: left;
-  text-decoration: underline;
   width: fit-content;
 }
 
@@ -1082,7 +1199,6 @@
   margin-top: -1.00px;
   position: relative;
   text-align: left;
-  text-decoration: underline;
   width: fit-content;
 }
 
@@ -1094,7 +1210,6 @@
   margin-top: -1.00px;
   position: relative;
   text-align: left;
-  text-decoration: underline;
   width: fit-content;
 }
 
@@ -1108,43 +1223,31 @@
 }
 
 .resources-and-projects .logomastodon-uKWJ4F {
-  background-color: transparent;
-  cursor: pointer;
   height: 24px;
-  overflow: hidden;
-  position: relative;
   width: 24px;
 }
 
 .resources-and-projects .subtract-Ah55yZ {
-  background-color: transparent;
   height: 24px;
   left: 1px;
-  position: absolute;
   top: 0px;
   width: 22px;
 }
 
 .resources-and-projects .logotwitter-uKWJ4F {
-  background-color: transparent;
-  cursor: pointer;
   height: 24px;
-  position: relative;
   width: 24px;
 }
 
 .resources-and-projects .logogithub-uKWJ4F {
-  background-color: transparent;
-  cursor: pointer;
   height: 24px;
-  position: relative;
   width: 24px;
 }
 
 .resources-and-projects .footer-xqb7lB {
   align-items: center;
   align-self: stretch;
-  background-color: var(--machine-grey);
+  background-color: var(--fpcmachine-grey);
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -1156,8 +1259,14 @@
 }
 
 .resources-and-projects .logo-title-LwDHpZ {
+  align-items: center;
   align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
   flex: 0 0 auto;
+  gap: 13px;
+  position: relative;
   width: 100%;
 }
 
@@ -1192,7 +1301,7 @@
 .resources-and-projects .about-us-WAQP7b {
   align-items: flex-start;
   align-self: stretch;
-  background-color: var(--white);
+  background-color: var(--fpcwhite);
   border-radius: 6px;
   box-shadow: 0px 4px 0px #00000026;
   display: flex;
@@ -1245,7 +1354,7 @@
 
 .resources-and-projects .project-resources-WAQP7b {
   align-items: flex-start;
-  background-color: var(--white);
+  background-color: var(--fpcwhite);
   border-radius: 6px;
   box-shadow: 0px 4px 0px #00000026;
   display: flex;
@@ -1313,11 +1422,8 @@
   align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
-  display: flex;
   flex: 0 0 auto;
-  flex-direction: column;
   gap: 10px;
-  position: relative;
   width: 100%;
 }
 
@@ -1591,12 +1697,6 @@
   position: relative;
 }
 
-.resources-and-projects .content {
-  background-color: transparent;
-  display: flex;
-  position: relative;
-}
-
 .resources-and-projects .div {
   align-self: stretch;
   background-color: transparent;
@@ -1613,11 +1713,11 @@
 }
 
 .resources-and-projects .frame-197 {
-  align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   display: flex;
   flex: 0 0 auto;
+  gap: 15px;
   position: relative;
   width: 100%;
 }
@@ -1631,13 +1731,11 @@
 
 .resources-and-projects .module {
   align-items: flex-start;
-  background-color: var(--white);
+  background-color: var(--fpcwhite);
   border: 2px solid;
-  border-color: var(--black);
   border-radius: 6px;
   display: flex;
   flex-direction: column;
   gap: 20px;
-  padding: 30px;
   position: relative;
 }

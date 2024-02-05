@@ -2,7 +2,7 @@
 
 .the-standard {
   align-items: center;
-  background-color: var(--white);
+  background-color: var(--fpcwhite);
   display: flex;
   flex-direction: column;
   gap: 60px;
@@ -14,11 +14,16 @@
 }
 
 .the-standard .header-3jX1xq {
+  align-items: center;
+  align-self: stretch;
   background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
   height: 700px;
   overflow: hidden;
   position: relative;
-  width: 1440px;
+  width: 100%;
 }
 
 .the-standard .base-BxA86X {
@@ -49,1373 +54,19 @@
   width: 828px;
 }
 
-.the-standard .frame-148-BxA86X {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 30px;
-  left: 180px;
-  position: absolute;
-  top: 250px;
-}
-
-.the-standard .welcome-to-the-standard-for-public-code-NkWCXx {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: 600px;
-}
-
-.the-standard .the-standard-for-pub-NkWCXx {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-  width: 520px;
-}
-
-.the-standard .become-a-member-NkWCXx {
-  align-items: flex-start;
-  background-color: var(--machine-grey);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  padding: 20px 19px;
-  position: relative;
-  width: 300px;
-}
-
-.the-standard .version-071-pre-release-wP2Wu6 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .published-31-july-2023-on-git-hub-wP2Wu6 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span0-X4TOGg {
-}
-
-.the-standard .span1-X4TOGg {
-  text-decoration: underline;
-}
-
-.the-standard .main-3jX1xq {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 60px;
-  position: relative;
-  width: 1080px;
-}
-
-.the-standard .frame-193-MaSwrH {
-  gap: 60px;
-}
-
-.the-standard .cluster-5D5XND {
-  background-color: transparent;
-  gap: 30px;
-  width: 710px;
-}
-
-.the-standard .flex-container-317710430-3A8Xuj {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.the-standard .text0-317710430-kMX1j0 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span0-0aU2HJ {
-}
-
-.the-standard .text1-317710430-kMX1j0 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span1-0r2ivX {
-}
-
-.the-standard .text2-317710430-kMX1j0 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span2-FNPYnd {
-}
-
-.the-standard .text3-317710430-kMX1j0 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span3-C56wuC {
-}
-
-.the-standard .text4-317710430-kMX1j0 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span4-fk5Abi {
-}
-
-.the-standard .dpg-3A8Xuj {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: var(--machine-grey);
-  border-radius: 6px;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 15px;
-  padding: 20px 19px;
-  position: relative;
-  width: 100%;
-}
-
-.the-standard .dpg-YWNoeu {
-  background-color: transparent;
-  height: 46.470001220703125px;
-  position: relative;
-  width: 92.19000244140625px;
-}
-
-.the-standard .the-standard-was-acc-YWNoeu {
-  background-color: transparent;
-  flex: 1;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span0-A02WCR {
-}
-
-.the-standard .span1-A02WCR {
-  text-decoration: underline;
-}
-
-.the-standard .span2-A02WCR {
-}
-
-.the-standard .cluster-9m6956 {
-  align-self: stretch;
-  background-color: var(--white);
-  border: 2px solid;
-  border-color: var(--black);
-  border-radius: 6px;
-  flex: 1;
-  flex-grow: 1;
-  gap: 15px;
-  padding: 30px;
-}
-
-.the-standard .community-calls-3X66lj {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .flex-container-317810683-3X66lj {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.the-standard .text0-317810683-lHbsT2 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span0-5Bpdvx {
-}
-
-.the-standard .span1-5Bpdvx {
-  text-decoration: underline;
-}
-
-.the-standard .span2-5Bpdvx {
-}
-
-.the-standard .text1-317810683-lHbsT2 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span3-yQgeQt {
-  text-decoration: underline;
-}
-
-.the-standard .span4-yQgeQt {
-}
-
-.the-standard .line-8-MaSwrH {
-  align-self: stretch;
-  background-color: transparent;
-  height: 2px;
-  position: relative;
-  width: 100%;
-}
-
-.the-standard .frame-154-MaSwrH {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 30px;
-  position: relative;
-  width: 100%;
-}
-
-.the-standard .web-edition-version-071-4OwRX0 {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: 1080px;
-}
-
-.the-standard .index-4OwRX0 {
-  align-items: flex-end;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  position: relative;
-  width: 1080px;
-}
-
-.the-standard .flex-container-30973212-Z2o1qX {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.the-standard .text0-30973212-cDC4ST {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span0-EImHXH {
-}
-
-.the-standard .text1-30973212-cDC4ST {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span1-SrNvpr {
-}
-
-.the-standard .text2-30973212-cDC4ST {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span2-9vz4Tp {
-}
-
-.the-standard .text3-30973212-cDC4ST {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span3-WUGKe9 {
-}
-
-.the-standard .frame-193-Z2o1qX {
-  gap: 10px;
-  justify-content: flex-end;
-  padding: 0px 30px;
-}
-
-.the-standard .flex-container-30973213-bVbPTx {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
-}
-
-.the-standard .text0-30973213-uFjmbP {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span0-nYcDi0 {
-}
-
-.the-standard .text1-30973213-uFjmbP {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span1-O3cmXM {
-}
-
-.the-standard .text2-30973213-uFjmbP {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span2-VGvq9t {
-}
-
-.the-standard .text3-30973213-uFjmbP {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span3-7aCwQS {
-}
-
-.the-standard .text4-30973213-uFjmbP {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span4-FBZ90N {
-}
-
-.the-standard .flex-container-317710448-bVbPTx {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
-}
-
-.the-standard .text0-317710448-kx7roI {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span0-KymZ0b {
-}
-
-.the-standard .text1-317710448-kx7roI {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span1-L9sYlY {
-}
-
-.the-standard .text2-317710448-kx7roI {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span2-jg8JiX {
-}
-
-.the-standard .text3-317710448-kx7roI {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span3-SxGbFO {
-}
-
-.the-standard .text4-317710448-kx7roI {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span4-YbsV5I {
-}
-
-.the-standard .flex-container-317810538-bVbPTx {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
-}
-
-.the-standard .text0-317810538-c6bDLs {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span0-wUIRq6 {
-}
-
-.the-standard .text1-317810538-c6bDLs {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span1-GXWhLy {
-}
-
-.the-standard .text2-317810538-c6bDLs {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span2-XYDZFS {
-}
-
-.the-standard .text3-317810538-c6bDLs {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span3-yxJbaY {
-}
-
-.the-standard .text4-317810538-c6bDLs {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span4-7zxZCP {
-}
-
-.the-standard .flex-container-30973214-Z2o1qX {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.the-standard .text0-30973214-uaPb9T {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span0-riL59Z {
-}
-
-.the-standard .text1-30973214-uaPb9T {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span1-3Yiord {
-}
-
-.the-standard .text2-30973214-uaPb9T {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span2-WRMhmh {
-}
-
-.the-standard .text3-30973214-uaPb9T {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span3-edfK0Z {
-}
-
-.the-standard .text4-30973214-uaPb9T {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span4-XDtDSW {
-}
-
-.the-standard .text5-30973214-uaPb9T {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.the-standard .span5-7qXXJ6 {
-}
-
-.the-standard .line-9-MaSwrH {
-  align-self: stretch;
-  background-color: transparent;
-  height: 2px;
-  position: relative;
-  width: 100%;
-}
-
-.the-standard .cluster-MaSwrH {
-  align-self: stretch;
-  background-color: transparent;
-  flex: 0 0 auto;
-  gap: 60px;
-  width: 100%;
-}
-
-.the-standard .frame-193-TFJOlj {
-  flex-direction: column;
-  gap: 30px;
-}
-
-.the-standard .downloadable-edition-grx58O {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: 1080px;
-}
-
-.the-standard .button1temp-grx58O {
-  align-items: center;
-  background-color: transparent;
-  border: 2px solid;
-  border-color: var(--light-grey);
-  border-radius: 60px;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  padding: 10px 23px 11px;
-  position: relative;
-}
-
-.the-standard .label-sULDSD {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.the-standard .flex-container-317810525-moAKLb {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  width: 478.4462890625px;
-}
-
-.the-standard .text0-317810525-cQdjHu {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span0-V7Wah7 {
-}
-
-.the-standard .text1-317810525-cQdjHu {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span1-5tET5x {
-  text-decoration: underline;
-}
-
-.the-standard .text2-317810525-cQdjHu {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span2-LmwiyA {
-  text-decoration: underline;
-}
-
-.the-standard .text3-317810525-cQdjHu {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span3-xFSNVb {
-  text-decoration: underline;
-}
-
-.the-standard .flex-container-317810720-moAKLb {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  width: 478.4462890625px;
-}
-
-.the-standard .text0-317810720-UFt6Ff {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span0-CzZWKS {
-}
-
-.the-standard .text1-317810720-UFt6Ff {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span1-ksaYxt {
-  text-decoration: underline;
-}
-
-.the-standard .text2-317810720-UFt6Ff {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span2-nsVgRZ {
-  text-decoration: underline;
-}
-
-.the-standard .text3-317810720-UFt6Ff {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span3-FBlJLU {
-  text-decoration: underline;
-}
-
-.the-standard .text4-317810720-UFt6Ff {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span4-5fjmku {
-  text-decoration: underline;
-}
-
-.the-standard .text5-317810720-UFt6Ff {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span5-izjVNW {
-  text-decoration: underline;
-}
-
-.the-standard .text6-317810720-UFt6Ff {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span6-9yMqx0 {
-}
-
-.the-standard .span7-9yMqx0 {
-  text-decoration: underline;
-}
-
-.the-standard .span8-9yMqx0 {
-}
-
-.the-standard .span9-9yMqx0 {
-  text-decoration: underline;
-}
-
-.the-standard .frame-195-MaSwrH {
-  justify-content: center;
-}
-
-.the-standard .content-mlq7nf {
-  align-items: flex-start;
-  align-self: stretch;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 15px;
-  width: 100%;
-}
-
-.the-standard .community-built-implementation-guide-unaYeH {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .to-let-the-community-unaYeH {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .content-JuEyA4 {
-  align-items: flex-start;
-  align-self: stretch;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 15px;
-  width: 100%;
-}
-
-.the-standard .introduction-course-UhQkpv {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.the-standard .together-with-open-a-UhQkpv {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span0-o8vyx9 {
-}
-
-.the-standard .span1-o8vyx9 {
-  text-decoration: underline;
-}
-
-.the-standard .span2-o8vyx9 {
-}
-
-.the-standard .content-ipL9tj {
-  align-items: flex-start;
-  align-self: stretch;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 15px;
-  width: 100%;
-}
-
-.the-standard .community-translations-w3fUc6 {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.the-standard .to-increase-the-acce-w3fUc6 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span0-F2dsI6 {
-}
-
-.the-standard .span1-F2dsI6 {
-  text-decoration: underline;
-}
-
-.the-standard .span2-F2dsI6 {
-}
-
-.the-standard .testimonial-MaSwrH {
-  align-items: center;
-  align-self: stretch;
-  background: radial-gradient(50% 50% at 50% 50%, rgb(86.00000247359276, 203.00000309944153, 242.00000077486038) 0%, rgb(58.00000034272671, 162.00000554323196, 251.00000023841858) 100%);
-  background-color: transparent;
-  border-radius: 200px;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 30px;
-  justify-content: center;
-  padding: 60px 120px;
-  position: relative;
-  width: 100%;
-}
-
-.the-standard .frame-194-Qb0Uz3 {
-  align-items: flex-end;
-}
-
-.the-standard .in-just-two-sessions-26v6Ox {
-  background-color: transparent;
-  color: var(--white);
-  flex: 1;
-  font-family: var(--font-family-bressay-italic);
-  font-size: 28px;
-  font-style: italic;
-  font-weight: 400;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .cluster-26v6Ox {
-  align-self: stretch;
-  background-color: transparent;
-  justify-content: space-between;
-  width: 240px;
-}
-
-.the-standard .attr-V96gIK {
+.the-standard .navheader-BxA86X {
   align-items: center;
   align-self: stretch;
   background-color: transparent;
   display: flex;
   flex: 0 0 auto;
-  gap: 15px;
-  position: relative;
-  width: 100%;
-}
-
-.the-standard .attrportraits-inpx0R {
-  background-color: transparent;
-  height: 64px;
-  position: relative;
-  width: 64.00022888183594px;
-}
-
-.the-standard .audrey-tang-ZQoH4C {
-  background-color: transparent;
-  height: 64px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 64px;
-}
-
-.the-standard .flex-container-i317811034317810826-inpx0R {
-  align-items: flex-start;
-  background-color: transparent;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 3px;
-}
-
-.the-standard .text0-i317811034317810826-y1FwrS {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span0-axI2iu {
-}
-
-.the-standard .text1-i317811034317810826-y1FwrS {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span1-2xOWHS {
-  color: var(--white);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.the-standard .span2-2xOWHS {
-}
-
-.the-standard .frame-194-MaSwrH {
-  align-items: flex-start;
-}
-
-.the-standard .contact-us-NwRvjU {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: var(--machine-grey);
-  border-radius: 6px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 23px;
-  padding: 30px;
-  position: relative;
-}
-
-.the-standard .questions-Dx2nYw {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-right: -0.83px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: 450.8348693847656px;
-}
-
-.the-standard .every-situation-is-d-Dx2nYw {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span0-2QHzbA {
-}
-
-.the-standard .span1-2QHzbA {
-  text-decoration: underline;
-}
-
-.the-standard .span2-2QHzbA {
-}
-
-.the-standard .channels-aXNtga {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 20px;
-  position: relative;
-}
-
-.the-standard .mastodon-dCbk5O {
-  background-color: transparent;
-  height: 32px;
-  position: relative;
-  width: 32px;
-}
-
-.the-standard .twitter-dCbk5O {
-  background-color: transparent;
-  height: 32px;
-  position: relative;
-  width: 32.0595703125px;
-}
-
-.the-standard .you-tube-dCbk5O {
-  background-color: transparent;
-  height: 32px;
-  position: relative;
-  width: 32.0595703125px;
-}
-
-.the-standard .github-dCbk5O {
-  height: 28px;
-  width: 28.05194854736328px;
-}
-
-.the-standard .who-we-are-NwRvjU {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: var(--machine-grey);
-  border-radius: 6px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 13px;
-  padding: 30px;
-  position: relative;
-}
-
-.the-standard .contribute-on-git-hub-SitFsm {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .this-site-was-last-p-SitFsm {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span0-NhIecm {
-}
-
-.the-standard .span1-NhIecm {
-  text-decoration: underline;
-}
-
-.the-standard .span2-NhIecm {
-}
-
-.the-standard .github-SitFsm {
-  height: 74px;
-  width: 137px;
-}
-
-.the-standard .buttongithub-x1OJ64 {
-  top: 40px;
-}
-
-.the-standard .icongithubissue-XCJtGD {
-  background-color: transparent;
-  height: 14px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 14px;
-}
-
-.the-standard .buttongithub-xezbBu {
-  top: 0px;
-}
-
-.the-standard .icongithubedit-Hp0d73 {
-  background-color: transparent;
-  height: 14px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 14px;
-}
-
-.the-standard .frame-179-MaSwrH {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: var(--machine-grey);
-  border-radius: 6px;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  padding: 30px;
-  position: relative;
-  width: 100%;
-}
-
-.the-standard .copyright-and-license-Gssdxx {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-  width: 953.7319946289062px;
-}
-
-.the-standard .flex-container-317810515-Gssdxx {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  width: 953.7319946289062px;
-}
-
-.the-standard .text0-317810515-tRSsKQ {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span0-8dN3gF {
-}
-
-.the-standard .span1-8dN3gF {
-  text-decoration: underline;
-}
-
-.the-standard .text1-317810515-tRSsKQ {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard .span2-9YPvxl {
-  text-decoration: underline;
-}
-
-.the-standard .home-the-standard-3jX1xq {
-  background-color: transparent;
-  height: auto;
-  left: 180px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 174px;
-  width: 567px;
-}
-
-.the-standard .span0-SlddE5 {
-  text-decoration: underline;
-}
-
-.the-standard .span1-SlddE5 {
-}
-
-.the-standard .navheader-3jX1xq {
-  align-items: center;
-  background-color: transparent;
-  display: flex;
   justify-content: space-around;
-  left: 0px;
   padding: 30px 60px;
-  position: absolute;
-  top: 0px;
-  width: 1440px;
+  position: relative;
+  width: 100%;
 }
 
-.the-standard .content-Y72bw8 {
+.the-standard .content-UAxMHh {
   align-items: center;
   flex: 1;
   flex-grow: 1;
@@ -1424,25 +75,32 @@
   justify-content: space-between;
 }
 
-.the-standard .logo-title-piXnfM {
+.the-standard .logo-lockup-S7Fmj1 {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  gap: 13px;
+  position: relative;
   width: 426px;
 }
 
-.the-standard .foundation-for-public-code-SsmKqf {
+.the-standard .foundation-for-public-code-B6zajR {
   flex: 1;
 }
 
-.the-standard .navigation-piXnfM {
+.the-standard .navigation-S7Fmj1 {
   align-items: center;
   background-color: transparent;
-  display: flex;
-  gap: 40px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 40px 40px;
   justify-content: flex-end;
   position: relative;
-  width: 534px;
 }
 
-.the-standard .links-4xWDq5 {
+.the-standard .links-1w74O6 {
   align-items: flex-start;
   background-color: transparent;
   display: inline-flex;
@@ -1453,7 +111,7 @@
   position: relative;
 }
 
-.the-standard .stewardship-19XOUG {
+.the-standard .stewardship-TBo35x {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -1461,11 +119,10 @@
   margin-top: -1.00px;
   position: relative;
   text-align: left;
-  text-decoration: underline;
   width: fit-content;
 }
 
-.the-standard .resources-19XOUG {
+.the-standard .resources-TBo35x {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -1473,11 +130,10 @@
   margin-top: -1.00px;
   position: relative;
   text-align: left;
-  text-decoration: underline;
   width: fit-content;
 }
 
-.the-standard .who-we-are-19XOUG {
+.the-standard .who-we-are-TBo35x {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -1485,11 +141,10 @@
   margin-top: -1.00px;
   position: relative;
   text-align: left;
-  text-decoration: underline;
   width: fit-content;
 }
 
-.the-standard .join-us-19XOUG {
+.the-standard .join-us-TBo35x {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -1497,11 +152,10 @@
   margin-top: -1.00px;
   position: relative;
   text-align: left;
-  text-decoration: underline;
   width: fit-content;
 }
 
-.the-standard .services-4xWDq5 {
+.the-standard .services-1w74O6 {
   align-items: flex-start;
   background-color: transparent;
   display: inline-flex;
@@ -1510,44 +164,1795 @@
   position: relative;
 }
 
-.the-standard .logomastodon-l8aRFz {
-  background-color: transparent;
-  cursor: pointer;
+.the-standard .logomastodon-GQb6Za {
   height: 24px;
-  overflow: hidden;
-  position: relative;
   width: 24px;
 }
 
-.the-standard .subtract-m1ZyvD {
-  background-color: transparent;
+.the-standard .subtract-YnSN8Q {
   height: 24px;
   left: 1px;
-  position: absolute;
   top: 0px;
   width: 22px;
 }
 
-.the-standard .logotwitter-l8aRFz {
-  background-color: transparent;
-  cursor: pointer;
+.the-standard .logotwitter-GQb6Za {
   height: 24px;
-  position: relative;
   width: 24px;
 }
 
-.the-standard .logogithub-l8aRFz {
+.the-standard .logogithub-GQb6Za {
+  height: 24px;
+  width: 24px;
+}
+
+.the-standard .cluster-BxA86X {
+  background-color: transparent;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 1120px;
+  padding: 0px 20px;
+  width: 100%;
+}
+
+.the-standard .cluster-Nq7B87 {
+  background-color: transparent;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 55px;
+  max-width: 600px;
+  width: 100%;
+}
+
+.the-standard .home-the-standard-CTcSep {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span0-5IBuk3 {
+  text-decoration: underline;
+}
+
+.the-standard .span1-5IBuk3 {
+}
+
+.the-standard .frame-148-CTcSep {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.the-standard .welcome-to-the-standard-for-public-code-nNUg8v {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .the-standard-for-pub-nNUg8v {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .link-down-nNUg8v {
+  align-items: flex-start;
+  background-color: var(--fpcwhite);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5px;
+  padding: 20px;
+  position: relative;
+}
+
+.the-standard .buttonsecondary-T0LtOP {
+  gap: 15px;
+  padding: 0px 6px 0px 0px;
+}
+
+.the-standard .arrow-xCKVyf {
+  height: 15.2392578125px;
+  margin-right: -6.23px;
+  width: 12.46875px;
+}
+
+.the-standard .published-09-january-2024-on-git-hub-T0LtOP {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span0-b7uVCi {
+}
+
+.the-standard .span1-b7uVCi {
+}
+
+.the-standard .span2-b7uVCi {
+  text-decoration: underline;
+}
+
+.the-standard .main-3jX1xq {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  max-width: 1120px;
+  padding: 0px 20px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.the-standard .cluster-MaSwrH {
+  background-color: transparent;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  width: 100%;
+}
+
+.the-standard .key-reasons-to-use-t-TFJOlj {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .cluster-TFJOlj {
+  background-color: transparent;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 15px 15px;
+  width: 100%;
+}
+
+.the-standard .frame-245-iccJVm {
+  align-items: flex-start;
+  background-color: var(--fpcmachine-grey);
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 360px;
+  min-width: 240px;
+  padding: 15px;
+  position: relative;
+}
+
+.the-standard .flex-container-34366149-p5jt3s {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.the-standard .text0-34366149-DmjIWG {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span0-XGM634 {
+}
+
+.the-standard .text1-34366149-DmjIWG {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span1-anv9K1 {
+}
+
+.the-standard .frame-246-iccJVm {
+  align-items: flex-start;
+  background-color: var(--fpcmachine-grey);
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 360px;
+  min-width: 240px;
+  padding: 15px;
+  position: relative;
+}
+
+.the-standard .flex-container-34366150-LpW8dX {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.the-standard .text0-34366150-UDCbMq {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span0-VydI5G {
+}
+
+.the-standard .text1-34366150-UDCbMq {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span1-CCP8xU {
+}
+
+.the-standard .frame-247-iccJVm {
+  align-items: flex-start;
+  background-color: var(--fpcmachine-grey);
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 360px;
+  min-width: 240px;
+  padding: 15px;
+  position: relative;
+}
+
+.the-standard .flex-container-34366151-Tsqtxm {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.the-standard .text0-34366151-xjopaX {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span0-Cqsx6i {
+}
+
+.the-standard .text1-34366151-xjopaX {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span1-Zz3BFB {
+}
+
+.the-standard .frame-248-iccJVm {
+  align-items: flex-start;
+  background-color: var(--fpcmachine-grey);
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 360px;
+  min-width: 240px;
+  padding: 15px;
+  position: relative;
+}
+
+.the-standard .flex-container-34366152-jivnVS {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.the-standard .text0-34366152-QI1Si3 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span0-7cruY8 {
+}
+
+.the-standard .text1-34366152-QI1Si3 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span1-7uo4y4 {
+}
+
+.the-standard .cluster-sLiDBP {
+  background-color: transparent;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  width: 100%;
+}
+
+.the-standard .web-edition-080-pre-release-KS4PRM {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 1080px;
+}
+
+.the-standard .additional-context-a-KS4PRM {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: relative;
+  text-align: left;
+  width: 1080px;
+}
+
+.the-standard .span0-NQdJdI {
+}
+
+.the-standard .span1-NQdJdI {
+  line-height: 24px;
+}
+
+.the-standard .span2-NQdJdI {
+  line-height: 24px;
+  text-decoration: underline;
+}
+
+.the-standard .span3-NQdJdI {
+  line-height: 24px;
+}
+
+.the-standard .index-KS4PRM {
+  align-items: flex-end;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.the-standard .flex-container-30973212-JWxZ9O {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.the-standard .text0-30973212-2kRoWC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span0-a862Sa {
+}
+
+.the-standard .text1-30973212-2kRoWC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span1-m4Bt3m {
+}
+
+.the-standard .text2-30973212-2kRoWC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span2-PCij7t {
+}
+
+.the-standard .text3-30973212-2kRoWC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span3-0ZV0tU {
+}
+
+.the-standard .frame-193-JWxZ9O {
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 0px 30px;
+}
+
+.the-standard .flex-container-30973213-LwDOrM {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.the-standard .text0-30973213-FyhV3g {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span0-xiKxYV {
+}
+
+.the-standard .text1-30973213-FyhV3g {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span1-bPOf2D {
+}
+
+.the-standard .text2-30973213-FyhV3g {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span2-jiS4Ak {
+}
+
+.the-standard .text3-30973213-FyhV3g {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span3-ZqLpqx {
+}
+
+.the-standard .text4-30973213-FyhV3g {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span4-728oOI {
+}
+
+.the-standard .flex-container-317710448-LwDOrM {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.the-standard .text0-317710448-1YNJy4 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span0-GxhBKa {
+}
+
+.the-standard .text1-317710448-1YNJy4 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span1-cwnPJW {
+}
+
+.the-standard .text2-317710448-1YNJy4 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span2-jsjZj5 {
+}
+
+.the-standard .text3-317710448-1YNJy4 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span3-w4H7CO {
+}
+
+.the-standard .text4-317710448-1YNJy4 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span4-hormOf {
+}
+
+.the-standard .flex-container-317810538-LwDOrM {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.the-standard .text0-317810538-R0aVaA {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span0-urDZbP {
+}
+
+.the-standard .text1-317810538-R0aVaA {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span1-tTaBJw {
+}
+
+.the-standard .text2-317810538-R0aVaA {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span2-KcfU6T {
+}
+
+.the-standard .text3-317810538-R0aVaA {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span3-00fXGF {
+}
+
+.the-standard .text4-317810538-R0aVaA {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span4-izmEeP {
+}
+
+.the-standard .flex-container-30973214-JWxZ9O {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.the-standard .text0-30973214-bcaxrB {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span0-Mm6luX {
+}
+
+.the-standard .text1-30973214-bcaxrB {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span1-e28QSy {
+}
+
+.the-standard .text2-30973214-bcaxrB {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span2-tnAg4f {
+}
+
+.the-standard .text3-30973214-bcaxrB {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span3-50crIg {
+}
+
+.the-standard .text4-30973214-bcaxrB {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.the-standard .span4-DcNFXO {
+}
+
+.the-standard .cluster-LETSvS {
+  background-color: transparent;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  width: 100%;
+}
+
+.the-standard .frame-193-ebO4uW {
+  flex-direction: column;
+  gap: 30px;
+}
+
+.the-standard .print-edition-W5Qxay {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 1080px;
+}
+
+.the-standard .button1temp-W5Qxay {
+  align-items: center;
+  background-color: transparent;
+  border: 2px solid;
+  border-color: var(--fpcmachine-grey-dark);
+  border-radius: 60px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 10px 23px 11px;
+  position: relative;
+}
+
+.the-standard .label-Pjkftj {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.the-standard .frame-195-ebO4uW {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.the-standard .flex-container-317810525-x8WD5g {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.the-standard .text0-317810525-hdQvYb {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span0-4y4bhx {
+}
+
+.the-standard .text1-317810525-hdQvYb {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span1-1dOoC7 {
+  text-decoration: underline;
+}
+
+.the-standard .text2-317810525-hdQvYb {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span2-Xn0Bru {
+  text-decoration: underline;
+}
+
+.the-standard .text3-317810525-hdQvYb {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span3-nS4gJy {
+  text-decoration: underline;
+}
+
+.the-standard .flex-container-317810720-x8WD5g {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.the-standard .text0-317810720-tw7rFC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span0-G4hSJ6 {
+}
+
+.the-standard .text1-317810720-tw7rFC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span1-DGesTp {
+  text-decoration: underline;
+}
+
+.the-standard .text2-317810720-tw7rFC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span2-ptpg5J {
+  text-decoration: underline;
+}
+
+.the-standard .text3-317810720-tw7rFC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span3-dm0LkF {
+  text-decoration: underline;
+}
+
+.the-standard .text4-317810720-tw7rFC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span4-gsgrDf {
+  text-decoration: underline;
+}
+
+.the-standard .text5-317810720-tw7rFC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span5-SkJVVS {
+  text-decoration: underline;
+}
+
+.the-standard .text6-317810720-tw7rFC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span6-4HppMk {
+}
+
+.the-standard .span7-4HppMk {
+  text-decoration: underline;
+}
+
+.the-standard .span8-4HppMk {
+}
+
+.the-standard .span9-4HppMk {
+  text-decoration: underline;
+}
+
+.the-standard .cluster-Fl25Me {
+  background-color: transparent;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 15px 15px;
+  width: 100%;
+}
+
+.the-standard .content-dwN3j2 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.the-standard .compliance-self-assessment-oXHPdm {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .see-if-your-public-s-oXHPdm {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .buttonsecondary-dwN3j2 {
+  cursor: pointer;
+  gap: 8px;
+}
+
+.the-standard .arrow-lLbLFI {
+  height: 12.46875px;
+  margin-right: -0.85px;
+  width: 15.2392578125px;
+}
+
+.the-standard .content-qxmNKn {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.the-standard .criteria-templates-548r4S {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .used-by-foundation-f-548r4S {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .buttonsecondary-qxmNKn {
+  cursor: pointer;
+  gap: 8px;
+}
+
+.the-standard .arrow-kprT3k {
+  height: 12.46875px;
+  margin-right: -0.85px;
+  width: 15.2392578125px;
+}
+
+.the-standard .buttonsecondary-gD8SRT {
+  cursor: pointer;
+  gap: 8px;
+}
+
+.the-standard .arrow-gPjO06 {
+  height: 12.46875px;
+  margin-right: -0.85px;
+  width: 15.2392578125px;
+}
+
+.the-standard .content-IK3F1h {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.the-standard .community-implementation-guide-SATQhl {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .users-of-the-standar-SATQhl {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .buttonsecondary-IK3F1h {
+  cursor: pointer;
+  gap: 8px;
+}
+
+.the-standard .arrow-FhxiGz {
+  height: 12.46875px;
+  margin-right: -0.85px;
+  width: 15.2392578125px;
+}
+
+.the-standard .content-Uvoza1 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.the-standard .standard-compliant-codebases-RBSrhw {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .a-list-of-compliant-RBSrhw {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .buttonsecondary-Uvoza1 {
+  cursor: pointer;
+  gap: 8px;
+}
+
+.the-standard .arrow-zHTc88 {
+  height: 12.46875px;
+  margin-right: -0.85px;
+  width: 15.2392578125px;
+}
+
+.the-standard .cluster-Zzvxma {
+  background-color: transparent;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  width: 100%;
+}
+
+.the-standard .cluster-NLDo2Z {
+  background-color: transparent;
+  flex: 0 0 auto;
+  gap: 15px;
+  width: 100%;
+}
+
+.the-standard .dpg-dOfPpQ {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--fpcwhite);
+  border: 2px solid;
+  border-color: var(--charcoal);
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  justify-content: flex-end;
+  padding: 20px;
+  position: relative;
+}
+
+.the-standard .dpg-tYNlwL {
+  background-color: transparent;
+  height: 69.705078125px;
+  position: relative;
+  width: 138.28515625px;
+}
+
+.the-standard .the-standard-was-acc-tYNlwL {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span0-pi3PrR {
+}
+
+.the-standard .buttonsecondary-tYNlwL {
+  cursor: pointer;
+  gap: 8px;
+}
+
+.the-standard .arrow-DnFxPN {
+  height: 12.46875px;
+  margin-right: -0.85px;
+  width: 15.2392578125px;
+}
+
+.the-standard .frame-203-dOfPpQ {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--fpcwhite);
+  border: 2px solid;
+  border-color: var(--charcoal);
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  justify-content: flex-end;
+  padding: 20px;
+  position: relative;
+}
+
+.the-standard .frame-205-a0IrIP {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  border-radius: 6px;
+  display: flex;
+  gap: 10px;
+  height: 160px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.the-standard .roberto-viola-1-ZNSvxh {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  height: 160px;
+  position: relative;
+}
+
+.the-standard .adoption-of-the-standard-is-accelerating-a0IrIP {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .buttonsecondary-a0IrIP {
+  cursor: pointer;
+  gap: 8px;
+}
+
+.the-standard .arrow-VR4B33 {
+  height: 12.46875px;
+  margin-right: -0.85px;
+  width: 15.2392578125px;
+}
+
+.the-standard .cluster-dOfPpQ {
+  background-color: var(--fpcyellow);
+  border-radius: 24px;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  justify-content: flex-end;
+  padding: 30px;
+}
+
+.the-standard .community-calls-mFktu8 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .join-us-monthly-on-f-mFktu8 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span0-t3yTwX {
+}
+
+.the-standard .span1-t3yTwX {
+  text-decoration: underline;
+}
+
+.the-standard .span2-t3yTwX {
+}
+
+.the-standard .span3-t3yTwX {
+}
+
+.the-standard .buttonsecondary-mFktu8 {
+  cursor: pointer;
+  gap: 8px;
+}
+
+.the-standard .arrow-bIgVQI {
+  height: 12.46875px;
+  margin-right: -0.85px;
+  width: 15.2392578125px;
+}
+
+.the-standard .frame-mFktu8 {
+  background-color: transparent;
+  border: 2px dashed;
+  border-color: var(--charcoal);
+  border-radius: 24px;
+  height: 272px;
+  left: -6px;
+  position: absolute;
+  top: -6px;
+  width: 352px;
+}
+
+.the-standard .testimonial-NLDo2Z {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  padding: 30px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.the-standard .the-foundation-for-p-keDYax {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.the-standard .attr-keDYax {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.the-standard .attrportraits-8Ql1Ei {
+  background-color: transparent;
+  background-image: url(../img/attr-portraits@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 3.999985456466675px solid;
+  border-color: var(--blue);
+  border-radius: 80px;
+  height: 87.99997091293335px;
+  margin-bottom: -4.00px;
+  margin-top: -4.00px;
+  position: relative;
+  width: 88.000253200531px;
+}
+
+.the-standard .audrey-tang-ySEFYP {
+  background-color: transparent;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.the-standard .flex-container-i3437635834036497-8Ql1Ei {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.the-standard .text0-i3437635834036497-lxEmxx {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span0-WCj5OQ {
+}
+
+.the-standard .text1-i3437635834036497-lxEmxx {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span1-7dgGvS {
+}
+
+.the-standard .span2-7dgGvS {
+  color: var(--fpcblack);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.the-standard .frame-242-MaSwrH {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.the-standard .frame-179-Gx54f6 {
+  align-items: flex-start;
+  background-color: var(--fpcmachine-grey);
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 10px;
+  padding: 30px;
+  position: relative;
+}
+
+.the-standard .copyright-and-license-aAGld9 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .flex-container-34345227-aAGld9 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.the-standard .text0-34345227-BuDVgi {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-bottom: -7.00px;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span0-111OLO {
+}
+
+.the-standard .span1-111OLO {
+}
+
+.the-standard .span2-111OLO {
+  text-decoration: underline;
+}
+
+.the-standard .text1-34345227-BuDVgi {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span3-arDAbR {
+  text-decoration: underline;
+}
+
+.the-standard .frame-194-Gx54f6 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 60px;
+  position: relative;
+}
+
+.the-standard .who-we-are-0xVp9r {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--fpcmachine-grey);
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 13px;
+  padding: 30px;
+  position: relative;
+}
+
+.the-standard .frame-197-SMVfwt {
+  align-items: flex-start;
+}
+
+.the-standard .contribute-on-git-hub-DmIiJD {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .this-site-was-last-p-DmIiJD {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard .span0-Sx56FU {
+}
+
+.the-standard .span1-Sx56FU {
+}
+
+.the-standard .span2-Sx56FU {
+  text-decoration: underline;
+}
+
+.the-standard .span3-Sx56FU {
+}
+
+.the-standard .span4-Sx56FU {
+}
+
+.the-standard .github-DmIiJD {
+  background-color: transparent;
+  height: 74px;
+  position: relative;
+  width: 137px;
+}
+
+.the-standard .buttongithub-q9AdZt {
+  top: 40px;
+}
+
+.the-standard .icongithubissue-8Fyspa {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 14px;
+}
+
+.the-standard .buttongithub-TsC3rb {
+  top: 0px;
+}
+
+.the-standard .icongithubedit-oeqKvm {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 14px;
+}
+
+.the-standard .connect-MaSwrH {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.the-standard .contact-8ZIks0 {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 150px;
+  flex: 1;
+  flex-grow: 1;
+  gap: 30px;
+  padding: 30px;
+}
+
+.the-standard .frame-197-nNxYn5 {
+  align-items: center;
+  max-width: 520px;
+}
+
+.the-standard .connect-with-us-xX7zOx {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.the-standard .got-a-question-sugge-xX7zOx {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.the-standard .span0-x9fZzE {
+}
+
+.the-standard .span1-x9fZzE {
+  text-decoration: underline;
+}
+
+.the-standard .span2-x9fZzE {
+}
+
+.the-standard .channels-nNxYn5 {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+}
+
+.the-standard .logomastodon-V6eFB6 {
+  cursor: pointer;
+  height: 32px;
+  width: 32px;
+}
+
+.the-standard .subtract-ymVbU0 {
+  height: 32px;
+  left: 1px;
+  top: 0px;
+  width: 30px;
+}
+
+.the-standard .logotwitter-V6eFB6 {
+  cursor: pointer;
+  height: 32px;
+  width: 32px;
+}
+
+.the-standard .logoyoutube-V6eFB6 {
   background-color: transparent;
   cursor: pointer;
-  height: 24px;
+  height: 31.94074249267578px;
+  overflow: hidden;
   position: relative;
-  width: 24px;
+  width: 32px;
+}
+
+.the-standard .subtract-2QCwDX {
+  height: 22px;
+  left: 0px;
+  top: 5px;
+  width: 32px;
+}
+
+.the-standard .logogithub-V6eFB6 {
+  cursor: pointer;
+  height: 32px;
+  width: 32px;
+}
+
+.the-standard .mailing-list-8ZIks0 {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 150px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 217px;
+  justify-content: center;
+  padding: 30px;
+  position: relative;
+  width: 217px;
+}
+
+.the-standard .frame-197-lZS8q5 {
+  align-items: center;
+}
+
+.the-standard .join-our-mailing-list-yJbExI {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.the-standard .buttonprimary-lZS8q5 {
+  align-items: center;
+  background-color: var(--fpcwhite);
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.the-standard .read-more-a5xG7l {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.the-standard .arrow-a5xG7l {
+  height: 12.46875px;
+  margin-right: -0.85px;
+  width: 15.2392578125px;
 }
 
 .the-standard .footer-3jX1xq {
   align-items: center;
   align-self: stretch;
-  background-color: var(--machine-grey);
+  background-color: var(--fpcmachine-grey);
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -1559,8 +1964,14 @@
 }
 
 .the-standard .logo-title-J7lvty {
+  align-items: center;
   align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
   flex: 0 0 auto;
+  gap: 13px;
+  position: relative;
   width: 100%;
 }
 
@@ -1595,7 +2006,7 @@
 .the-standard .about-us-0SXYFq {
   align-items: flex-start;
   align-self: stretch;
-  background-color: var(--white);
+  background-color: var(--fpcwhite);
   border-radius: 6px;
   box-shadow: 0px 4px 0px #00000026;
   display: flex;
@@ -1637,11 +2048,18 @@
 
 .the-standard .buttonsecondary-TrTuBb {
   cursor: pointer;
+  gap: 8px;
+}
+
+.the-standard .arrow-hPk8p8 {
+  height: 12.46875px;
+  margin-right: -0.85px;
+  width: 15.2392578125px;
 }
 
 .the-standard .project-resources-0SXYFq {
   align-items: flex-start;
-  background-color: var(--white);
+  background-color: var(--fpcwhite);
   border-radius: 6px;
   box-shadow: 0px 4px 0px #00000026;
   display: flex;
@@ -1680,6 +2098,13 @@
 
 .the-standard .buttonsecondary-SPS9pJ {
   cursor: pointer;
+  gap: 8px;
+}
+
+.the-standard .arrow-YDlisx {
+  height: 12.46875px;
+  margin-right: -0.85px;
+  width: 15.2392578125px;
 }
 
 .the-standard .information-GNx2iy {
@@ -1702,11 +2127,8 @@
   align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
-  display: flex;
   flex: 0 0 auto;
-  flex-direction: column;
   gap: 10px;
-  position: relative;
   width: 100%;
 }
 
@@ -1969,10 +2391,7 @@
 
 .the-standard .arrow {
   background-color: transparent;
-  height: 12.46875px;
-  margin-right: -0.85px;
   position: relative;
-  width: 15.2392578125px;
 }
 
 .the-standard .buttonsecondary {
@@ -1980,19 +2399,12 @@
   background-color: transparent;
   display: inline-flex;
   flex: 0 0 auto;
-  gap: 8px;
   position: relative;
 }
 
 .the-standard .cluster {
   align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  position: relative;
-}
-
-.the-standard .content {
-  background-color: transparent;
+  align-self: stretch;
   display: flex;
   position: relative;
 }
@@ -2015,29 +2427,7 @@
   width: 100%;
 }
 
-.the-standard .frame-194 {
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 60px;
-  position: relative;
-  width: 100%;
-}
-
-.the-standard .frame-195 {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 30px;
-  position: relative;
-  width: 100%;
-}
-
 .the-standard .frame-197 {
-  align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -2057,16 +2447,19 @@
 
 .the-standard .module {
   align-items: flex-start;
-  align-self: stretch;
-  background-color: var(--white);
+  background-color: var(--fpcwhite);
   border: 2px solid;
-  border-color: var(--black);
+  border-color: var(--fpcblack);
   border-radius: 6px;
   display: flex;
   flex: 1;
   flex-direction: column;
   flex-grow: 1;
   gap: 20px;
+  height: 285px;
+  justify-content: flex-end;
+  max-width: 360px;
+  min-width: 240px;
   padding: 30px;
   position: relative;
 }
