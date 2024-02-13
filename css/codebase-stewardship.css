@@ -6,14 +6,10 @@
   display: flex;
   flex-direction: column;
   gap: 60px;
-  left: 0px;
-  overflow: hidden;
-  overflow-x: hidden;
   position: relative;
-  top: 0px;
 }
 
-.codebase-stewardship .header-Wzhfqz {
+.codebase-stewardship .header {
   align-items: center;
   align-self: stretch;
   background-color: transparent;
@@ -26,63 +22,45 @@
   width: 100%;
 }
 
-.codebase-stewardship .base-xXd0DV {
-  background: linear-gradient(180deg, rgb(91.00000217556953, 87.00000241398811, 202.00000315904617) 0%, rgb(59.00000028312206, 133.00000727176666, 244.0000006556511) 100%);
-  background-color: transparent;
+.codebase-stewardship .base {
+  background: linear-gradient(180deg, rgb(91, 87, 202) 0%, rgb(59, 133, 244) 100%);
   box-shadow: inset -200px 250px 200px #5b57ca;
   height: 700px;
-  left: 0px;
+  left: 0;
   position: absolute;
-  top: 0px;
+  top: 0;
   width: 1440px;
 }
 
-.codebase-stewardship .bg-xXd0DV {
-  background-color: transparent;
-  height: 700px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 1440px;
-}
-
-.codebase-stewardship .illostewardship-transparent-hands-xXd0DV {
-  background-color: transparent;
+.codebase-stewardship .illostewardship-transparent-hands {
+  background-image: url(../img/vector-1.png);
+  background-size: 100% 100%;
   height: 800px;
-  left: 724px;
-  overflow: hidden;
+  left: -17767px;
   position: absolute;
-  top: 78px;
+  top: -2px;
   width: 800px;
 }
 
-.codebase-stewardship .vector-O0EtcP {
-  background-color: transparent;
-  height: 800px;
-  left: -14471px;
-  position: absolute;
-  top: -5104px;
-  width: 800px;
-}
-
-.codebase-stewardship .group-O0EtcP {
-  background-color: transparent;
+.codebase-stewardship .group {
+  align-items: flex-start;
+  display: flex;
   height: 674px;
   left: 63px;
-  position: absolute;
+  min-width: 673px;
+  position: relative;
   top: 69px;
-  width: 673px;
 }
 
-.codebase-stewardship .subtract-xYxxzb {
+.codebase-stewardship .overlap-group {
+  background-image: url(../img/subtract-14.svg);
+  background-size: 100% 100%;
   height: 553px;
-  left: 0px;
-  top: 0px;
+  position: relative;
   width: 653px;
 }
 
-.codebase-stewardship .right-hand-fingers-xYxxzb {
-  background-color: transparent;
+.codebase-stewardship .right-hand-fingers {
   height: 429px;
   left: 81px;
   position: absolute;
@@ -90,8 +68,7 @@
   width: 210px;
 }
 
-.codebase-stewardship .left-hand-fingers-xYxxzb {
-  background-color: transparent;
+.codebase-stewardship .left-hand-fingers {
   height: 338px;
   left: 260px;
   position: absolute;
@@ -99,8 +76,7 @@
   width: 214px;
 }
 
-.codebase-stewardship .mask-group-xYxxzb {
-  background-color: transparent;
+.codebase-stewardship .mask-group {
   height: 440px;
   left: 62px;
   position: absolute;
@@ -108,10 +84,9 @@
   width: 438px;
 }
 
-.codebase-stewardship .navheader-xXd0DV {
+.codebase-stewardship .navheader {
   align-items: center;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   justify-content: space-around;
@@ -120,18 +95,19 @@
   width: 100%;
 }
 
-.codebase-stewardship .content-SUA2x3 {
+.codebase-stewardship .content {
   align-items: center;
+  display: flex;
   flex: 1;
   flex-grow: 1;
   flex-wrap: wrap;
   gap: 16px 16px;
   justify-content: space-between;
+  position: relative;
 }
 
-.codebase-stewardship .logo-lockup-MyYGlb {
+.codebase-stewardship .logo-lockup {
   align-items: center;
-  background-color: transparent;
   cursor: pointer;
   display: flex;
   gap: 13px;
@@ -139,18 +115,25 @@
   width: 426px;
 }
 
-.codebase-stewardship .foundation-for-public-code-eM7KSR {
+.codebase-stewardship .logo-symbol {
+  height: 55px;
+  position: relative;
+  width: 47.66px;
+}
+
+.codebase-stewardship .foundation-for-public-code {
   color: var(--fpcwhite);
   flex: 1;
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-xxxl);
-  font-style: normal;
   font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
 }
 
-.codebase-stewardship .navigation-MyYGlb {
+.codebase-stewardship .navigation {
   align-items: center;
-  background-color: transparent;
   display: flex;
   gap: 40px;
   justify-content: flex-end;
@@ -158,9 +141,8 @@
   width: 534px;
 }
 
-.codebase-stewardship .links-2uLQBy {
+.codebase-stewardship .links {
   align-items: flex-start;
-  background-color: transparent;
   display: inline-flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
@@ -169,201 +151,140 @@
   position: relative;
 }
 
-.codebase-stewardship .stewardship-Gt7UCV {
-  background-color: transparent;
+.codebase-stewardship .link {
   cursor: pointer;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
-  text-align: left;
   text-decoration: underline;
   width: fit-content;
 }
 
-.codebase-stewardship .resources-Gt7UCV {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.codebase-stewardship .who-we-are-Gt7UCV {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.codebase-stewardship .join-us-Gt7UCV {
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: fit-content;
-}
-
-.codebase-stewardship .services-2uLQBy {
+.codebase-stewardship .services {
   align-items: flex-start;
-  background-color: transparent;
   display: inline-flex;
   flex: 0 0 auto;
   gap: 20px;
   position: relative;
 }
 
-.codebase-stewardship .logomastodon-rvwAzo {
+.codebase-stewardship .logo {
   height: 24px;
+  position: relative;
   width: 24px;
 }
 
-.codebase-stewardship .subtract-6l9B0B {
+.codebase-stewardship .subtract {
   height: 24px;
   left: 1px;
-  top: 0px;
+  position: absolute;
+  top: 0;
   width: 22px;
 }
 
-.codebase-stewardship .logotwitter-rvwAzo {
-  height: 24px;
-  width: 24px;
-}
-
-.codebase-stewardship .logogithub-rvwAzo {
-  height: 24px;
-  width: 24px;
-}
-
-.codebase-stewardship .cluster-xXd0DV {
+.codebase-stewardship .cluster-1 {
   align-items: flex-start;
-  align-self: stretch;
-  flex: 0 0 auto;
   gap: 10px;
   max-width: 1120px;
   padding: 0px 20px;
-  width: 100%;
 }
 
-.codebase-stewardship .cluster-Szo3r6 {
+.codebase-stewardship .cluster-2 {
   align-items: flex-start;
-  align-self: stretch;
-  flex: 0 0 auto;
   gap: 55px;
   max-width: 600px;
-  width: 100%;
 }
 
-.codebase-stewardship .home-codebase-stewardship-TUHD45 {
+.codebase-stewardship .home-codebase-stewardship {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .span0-MGrtR9 {
-  text-decoration: underline;
-}
-
-.codebase-stewardship .span1-MGrtR9 {
+.codebase-stewardship .span1 {
   color: #ffffff80;
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-m);
-  font-style: normal;
   font-weight: 400;
 }
 
-.codebase-stewardship .frame-148-TUHD45 {
+.codebase-stewardship .frame-148 {
+  align-items: flex-start;
   align-self: stretch;
-  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
   gap: 30px;
   width: 100%;
 }
 
-.codebase-stewardship .title-hcRtFk {
+.codebase-stewardship .codebase-stewardship-1 {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .our-stewards-help-yo-hcRtFk {
+.codebase-stewardship .our-stewards-help-yo {
   align-self: stretch;
-  background-color: transparent;
   color: var(--fpcwhite);
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-m);
-  font-style: normal;
   font-weight: 500;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: 24px;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .buttonsecondary-hcRtFk {
+.codebase-stewardship .buttonsecondary-2 {
   gap: 15px;
   padding: 0px 6px 0px 0px;
 }
 
-.codebase-stewardship .arrow-aOTXDf {
-  height: 15.2392578125px;
-  margin-right: -6.23px;
-  width: 12.46875px;
+.codebase-stewardship .text {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
 }
 
-.codebase-stewardship .cluster-Wzhfqz {
+.codebase-stewardship .arrow-2 {
+  height: 15.24px;
+  margin-right: -6.23px;
+  position: relative;
+  width: 12.47px;
+}
+
+.codebase-stewardship .cluster-3 {
   align-items: center;
-  align-self: stretch;
-  flex: 0 0 auto;
   gap: 60px;
   max-width: 1120px;
   padding: 0px 20px 60px;
-  width: 100%;
 }
 
-.codebase-stewardship .frame-260-wD8Vxl {
+.codebase-stewardship .frame-260 {
   align-items: center;
   align-self: stretch;
-  background-color: transparent;
-  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 30px;
-  position: relative;
   width: 100%;
 }
 
-.codebase-stewardship .x01-npD0c0 {
+.codebase-stewardship .frame-260-item {
   align-items: center;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   position: relative;
   width: 100%;
 }
 
-.codebase-stewardship .story-g50mZM {
+.codebase-stewardship .story {
   background-color: var(--fpcpeach);
   border-radius: 24px;
   height: 300px;
@@ -372,8 +293,7 @@
   width: 300px;
 }
 
-.codebase-stewardship .illo-8fBu3w {
-  background-color: transparent;
+.codebase-stewardship .illo {
   height: 196px;
   left: 47px;
   position: absolute;
@@ -381,330 +301,234 @@
   width: 207px;
 }
 
-.codebase-stewardship .cluster-g50mZM {
+.codebase-stewardship .cluster {
   align-items: center;
+  display: flex;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 10px;
   padding: 0px 75px 0px 60px;
+  position: relative;
 }
 
-.codebase-stewardship .x1-code-auditing-mAbEEb {
+.codebase-stewardship .x1-code-auditing {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .ensure-code-tests-an-mAbEEb {
+.codebase-stewardship .div {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.codebase-stewardship .our-audit-process-ch-mAbEEb {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.codebase-stewardship .x02-npD0c0 {
-  align-items: center;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
+  background-color: var(--fpcpeach);
+  border-radius: 2px;
+  height: 2px;
   position: relative;
   width: 100%;
 }
 
-.codebase-stewardship .community-z8LIjP {
-  background-color: transparent;
+.codebase-stewardship .ensure-code-tests-a {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.codebase-stewardship .our-audit-process-ch {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.codebase-stewardship .community {
   height: 300px;
   position: relative;
   width: 300px;
 }
 
-.codebase-stewardship .cluster-z8LIjP {
-  align-items: center;
-  flex: 1;
-  flex-grow: 1;
-  gap: 10px;
-  padding: 0px 75px 0px 60px;
-}
-
-.codebase-stewardship .x2-community-building-7UCofK {
+.codebase-stewardship .x2-community-building {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .enable-community-to-7UCofK {
+.codebase-stewardship .div-1 {
+  background-color: var(--fpcblue);
+}
+
+.codebase-stewardship .enable-community-to {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .we-co-develop-commun-7UCofK {
+.codebase-stewardship .we-co-develop-commun {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: 24px;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .x03-npD0c0 {
-  align-items: center;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  position: relative;
-  width: 100%;
-}
-
-.codebase-stewardship .code-up-to-standard-54VbUr {
-  background-color: transparent;
+.codebase-stewardship .code-up-to-standard {
   height: 300px;
   position: relative;
   width: 300px;
 }
 
-.codebase-stewardship .cluster-54VbUr {
-  align-items: center;
-  flex: 1;
-  flex-grow: 1;
-  gap: 10px;
-  padding: 0px 75px 0px 60px;
-}
-
-.codebase-stewardship .x3-marketing-LHZoQf {
+.codebase-stewardship .x3-marketing {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .build-the-story-that-LHZoQf {
+.codebase-stewardship .div-2 {
+  background-color: var(--fpcgreen);
+}
+
+.codebase-stewardship .build-the-story-that {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .we-manage-and-mature-LHZoQf {
+.codebase-stewardship .we-manage-and-mature {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: 24px;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .x04-npD0c0 {
-  align-items: center;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  position: relative;
-  width: 100%;
-}
-
-.codebase-stewardship .service-3-If0aYX {
-  background-color: transparent;
+.codebase-stewardship .service-3 {
   height: 300px;
   position: relative;
   width: 300px;
 }
 
-.codebase-stewardship .cluster-If0aYX {
-  align-items: center;
-  flex: 1;
-  flex-grow: 1;
-  gap: 10px;
-  padding: 0px 75px 0px 60px;
-}
-
-.codebase-stewardship .x4-support-hialCf {
+.codebase-stewardship .x4-support {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .provide-tools-skills-hialCf {
+.codebase-stewardship .div-3 {
+  background-color: var(--fpcpeach);
+}
+
+.codebase-stewardship .provide-tools-skill {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .we-help-developers-w-hialCf {
+.codebase-stewardship .we-help-developers-w {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: 24px;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .x05-npD0c0 {
-  align-items: center;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  position: relative;
-  width: 100%;
-}
-
-.codebase-stewardship .collaborative-dev2-LKFhjH {
-  background-color: transparent;
+.codebase-stewardship .collaborative-dev2 {
   height: 300px;
   position: relative;
   width: 300px;
 }
 
-.codebase-stewardship .cluster-LKFhjH {
-  align-items: center;
-  flex: 1;
-  flex-grow: 1;
-  gap: 10px;
-  padding: 0px 75px 0px 60px;
-}
-
-.codebase-stewardship .x5-advise-TVO1dk {
+.codebase-stewardship .x5-advise {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .take-care-of-operati-TVO1dk {
+.codebase-stewardship .div-4 {
+  background-color: var(--fpcpurple);
+}
+
+.codebase-stewardship .take-care-of-operati {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .we-provide-operation-TVO1dk {
+.codebase-stewardship .we-provide-operation {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: 24px;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .x06-npD0c0 {
-  align-items: center;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  position: relative;
-  width: 100%;
-}
-
-.codebase-stewardship .portable-code-2zAImd {
-  background-color: transparent;
+.codebase-stewardship .portable-code {
   height: 300px;
   position: relative;
   width: 300px;
 }
 
-.codebase-stewardship .cluster-2zAImd {
-  align-items: center;
-  flex: 1;
-  flex-grow: 1;
-  gap: 10px;
-  padding: 0px 75px 0px 60px;
-}
-
-.codebase-stewardship .x6-grow-6qLXek {
+.codebase-stewardship .x6-grow {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .operate-globally-think-locally-6qLXek {
+.codebase-stewardship .div-5 {
+  background-color: var(--fpcyellow);
+}
+
+.codebase-stewardship .operate-globally-think-locally {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .we-collaborate-with-6qLXek {
+.codebase-stewardship .we-collaborate-with {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: 24px;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .cta-eg-get-in-touch-wD8Vxl {
+.codebase-stewardship .div-6 {
+  background-color: var(--charcoal);
+}
+
+.codebase-stewardship .cta-get-in-touch-w {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   position: relative;
   text-align: center;
 }
 
-.codebase-stewardship .frame-243-wD8Vxl {
+.codebase-stewardship .div-7 {
+  background-color: var(--charcoal);
+}
+
+.codebase-stewardship .frame-243 {
   align-items: center;
   align-self: stretch;
-  background-color: transparent;
-  display: flex;
   flex: 0 0 auto;
   gap: 30px;
-  position: relative;
   width: 100%;
 }
 
-.codebase-stewardship .testimonial-128QhR {
+.codebase-stewardship .testimonial {
   align-items: center;
-  background-color: transparent;
   display: flex;
   flex: 1;
   flex-direction: column;
@@ -714,99 +538,85 @@
   position: relative;
 }
 
-.codebase-stewardship .the-foundation-for-p-S5QZlw {
+.codebase-stewardship .quoted-text {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
   text-align: center;
 }
 
-.codebase-stewardship .attr-S5QZlw {
+.codebase-stewardship .attr {
   align-items: center;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   gap: 15px;
   justify-content: center;
+  padding: 0px 10px 0px 5px;
   position: relative;
   width: 100%;
 }
 
-.codebase-stewardship .attrportraits-5uR0jX {
-  background-color: transparent;
-  background-image: url(../img/attr-portraits@2x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  border: 3.999985456466675px solid;
+.codebase-stewardship .attrportraits {
+  background-image: url(../img/logius-logo.svg);
+  background-size: 100% 100%;
+  border: 1px solid;
   border-color: var(--fpcpurple);
   border-radius: 80px;
-  height: 87.99997091293335px;
-  margin-bottom: -4.00px;
-  margin-top: -4.00px;
-  position: relative;
-  width: 88.000253200531px;
-}
-
-.codebase-stewardship .logius-logo-ai4tZv {
-  background-color: transparent;
   height: 80px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 80px;
+  position: relative;
+  width: 80.0px;
 }
 
-.codebase-stewardship .flex-container-i3435540034036497-5uR0jX {
-  align-items: flex-start;
-  background-color: transparent;
+.codebase-stewardship .rim {
+  border: 4px solid;
+  border-color: var(--fpcpurple);
+  border-radius: 44px;
+  height: 88px;
+  left: -4px;
+  position: relative;
+  top: -4px;
+  width: 88px;
+}
+
+.codebase-stewardship .flex-container-i3435540034036497 {
   display: inline-flex;
-  flex-direction: column;
   gap: 3px;
 }
 
-.codebase-stewardship .text0-i3435540034036497-PX2AIW {
+.codebase-stewardship .text0-i3435540034036497 {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .span0-uxi8v4 {
-}
-
-.codebase-stewardship .text1-i3435540034036497-PX2AIW {
+.codebase-stewardship .text1-i3435540034036497 {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .span1-jk4w8q {
-}
-
-.codebase-stewardship .link-to-our-collaborators-page-128QhR {
-  background-color: transparent;
+.codebase-stewardship .link-to-our-collaborators-page {
   color: var(--red);
   flex: 1;
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-m);
-  font-style: normal;
   font-weight: 700;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: 24px;
   position: relative;
   text-align: center;
 }
 
-.codebase-stewardship .related-info-wD8Vxl {
+.codebase-stewardship .div-8 {
+  background-color: var(--charcoal);
+}
+
+.codebase-stewardship .related-info {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--fpcmachine-grey);
@@ -820,69 +630,50 @@
   width: 100%;
 }
 
-.codebase-stewardship .frame-197-yi7vMw {
+.codebase-stewardship .frame-197 {
   align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
 }
 
-.codebase-stewardship .related-info-keep-oSoxeB {
+.codebase-stewardship .related-info-keep {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .frame-148-oSoxeB {
+.codebase-stewardship .frame-148-1 {
+  align-items: flex-start;
   display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
   gap: 15px;
+  position: relative;
 }
 
-.codebase-stewardship .buttonsecondary-SfpxUu {
+.codebase-stewardship .buttonsecondary {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
   gap: 8px;
+  position: relative;
 }
 
-.codebase-stewardship .arrow-zn0iLM {
-  height: 12.46875px;
+.codebase-stewardship .arrow {
+  height: 12.47px;
   margin-right: -0.85px;
-  width: 15.2392578125px;
+  position: relative;
+  width: 15.24px;
 }
 
-.codebase-stewardship .buttonsecondary-eFwxl7 {
-  gap: 8px;
-}
-
-.codebase-stewardship .arrow-tC86aV {
-  height: 12.46875px;
-  margin-right: -0.85px;
-  width: 15.2392578125px;
-}
-
-.codebase-stewardship .buttonsecondary-xT6qDQ {
-  gap: 8px;
-}
-
-.codebase-stewardship .arrow-0pvqwL {
-  height: 12.46875px;
-  margin-right: -0.85px;
-  width: 15.2392578125px;
-}
-
-.codebase-stewardship .buttonsecondary-nioTmA {
-  gap: 8px;
-}
-
-.codebase-stewardship .arrow-PPBUkc {
-  height: 12.46875px;
-  margin-right: -0.85px;
-  width: 15.2392578125px;
-}
-
-.codebase-stewardship .connect-wD8Vxl {
+.codebase-stewardship .connect {
   align-items: center;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   gap: 15px;
@@ -890,101 +681,56 @@
   width: 100%;
 }
 
-.codebase-stewardship .contact-zR0lvr {
+.codebase-stewardship .contact {
   align-items: center;
   background-color: var(--basic-link);
   border-radius: 150px;
+  display: flex;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 30px;
   padding: 30px;
+  position: relative;
 }
 
-.codebase-stewardship .frame-197-Vji2Ex {
-  align-items: center;
+.codebase-stewardship .frame-197-1 {
   max-width: 520px;
 }
 
-.codebase-stewardship .connect-with-us-ZELEqD {
+.codebase-stewardship .connect-with-us {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
   text-align: center;
 }
 
-.codebase-stewardship .got-a-question-sugge-ZELEqD {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: center;
-}
-
-.codebase-stewardship .span0-kDtA7K {
-}
-
-.codebase-stewardship .span1-kDtA7K {
-  text-decoration: underline;
-}
-
-.codebase-stewardship .span2-kDtA7K {
-}
-
-.codebase-stewardship .channels-Vji2Ex {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 30px;
-  position: relative;
-}
-
-.codebase-stewardship .logomastodon-Dm1RYx {
+.codebase-stewardship .logo-1 {
   cursor: pointer;
   height: 32px;
+  position: relative;
   width: 32px;
 }
 
-.codebase-stewardship .subtract-dCWiOu {
+.codebase-stewardship .subtract-1 {
   height: 32px;
   left: 1px;
-  top: 0px;
+  position: absolute;
+  top: 0;
   width: 30px;
 }
 
-.codebase-stewardship .logotwitter-Dm1RYx {
-  cursor: pointer;
-  height: 32px;
-  width: 32px;
-}
-
-.codebase-stewardship .logoyoutube-Dm1RYx {
-  background-color: transparent;
-  cursor: pointer;
-  height: 31.94074249267578px;
-  overflow: hidden;
-  position: relative;
-  width: 32px;
-}
-
-.codebase-stewardship .subtract-5TsVDE {
+.codebase-stewardship .subtract-2 {
   height: 22px;
-  left: 0px;
+  left: 0;
+  position: absolute;
   top: 5px;
   width: 32px;
 }
 
-.codebase-stewardship .logogithub-Dm1RYx {
-  cursor: pointer;
-  height: 32px;
-  width: 32px;
-}
-
-.codebase-stewardship .mailing-list-zR0lvr {
+.codebase-stewardship .mailing-list {
   align-items: center;
   background-color: var(--basic-link);
   border-radius: 150px;
@@ -998,21 +744,7 @@
   width: 217px;
 }
 
-.codebase-stewardship .frame-197-e3zXjO {
-  align-items: center;
-}
-
-.codebase-stewardship .join-our-mailing-list-YvqzET {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: center;
-}
-
-.codebase-stewardship .buttonprimary-e3zXjO {
+.codebase-stewardship .buttonprimary {
   align-items: center;
   background-color: var(--fpcwhite);
   border-radius: 6px;
@@ -1025,23 +757,7 @@
   position: relative;
 }
 
-.codebase-stewardship .read-more-VuQSXZ {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.codebase-stewardship .arrow-VuQSXZ {
-  height: 12.46875px;
-  margin-right: -0.85px;
-  width: 15.2392578125px;
-}
-
-.codebase-stewardship .footer-Wzhfqz {
+.codebase-stewardship .footer {
   align-items: center;
   align-self: stretch;
   background-color: var(--fpcmachine-grey);
@@ -1055,10 +771,9 @@
   width: 100%;
 }
 
-.codebase-stewardship .logo-title-C8bYKx {
+.codebase-stewardship .logo-lockup-1 {
   align-items: center;
   align-self: stretch;
-  background-color: transparent;
   cursor: pointer;
   display: flex;
   flex: 0 0 auto;
@@ -1067,25 +782,24 @@
   width: 100%;
 }
 
-.codebase-stewardship .foundation-for-public-code-u5DVST {
-  width: 349px;
+.codebase-stewardship .foundation-for-public-code-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
 }
 
-.codebase-stewardship .frame-217-C8bYKx {
+.codebase-stewardship .frame-217 {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
-  display: flex;
   flex: 0 0 auto;
   gap: 60px;
   justify-content: center;
-  position: relative;
   width: 100%;
 }
 
-.codebase-stewardship .blocks-6xD4Mc {
+.codebase-stewardship .blocks {
   align-items: flex-start;
-  background-color: transparent;
   display: flex;
   flex: 1;
   flex-direction: column;
@@ -1095,7 +809,7 @@
   position: relative;
 }
 
-.codebase-stewardship .about-us-uuuy3R {
+.codebase-stewardship .blocks-item {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--fpcwhite);
@@ -1110,98 +824,20 @@
   width: 100%;
 }
 
-.codebase-stewardship .content-vqgr11 {
-  align-items: flex-start;
-  align-self: stretch;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 15px;
-  width: 100%;
-}
-
-.codebase-stewardship .our-operational-details-EjnFyJ {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-}
-
-.codebase-stewardship .our-staff-informatio-EjnFyJ {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.codebase-stewardship .buttonsecondary-vqgr11 {
+.codebase-stewardship .buttonsecondary-1 {
   cursor: pointer;
   gap: 8px;
 }
 
-.codebase-stewardship .arrow-gd3Q32 {
-  height: 12.46875px;
+.codebase-stewardship .arrow-1 {
+  height: 12.47px;
   margin-right: -0.85px;
-  width: 15.2392578125px;
-}
-
-.codebase-stewardship .project-resources-uuuy3R {
-  align-items: flex-start;
-  background-color: var(--fpcwhite);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 30px;
-  padding: 30px;
-  width: 100%;
-}
-
-.codebase-stewardship .content-wPaHob {
-  align-items: flex-start;
-  align-self: stretch;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 15px;
-  width: 100%;
-}
-
-.codebase-stewardship .project-resources-euBhx8 {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  text-align: left;
-}
-
-.codebase-stewardship .open-products-were-r-euBhx8 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
   position: relative;
-  text-align: left;
+  width: 15.24px;
 }
 
-.codebase-stewardship .buttonsecondary-wPaHob {
-  cursor: pointer;
-  gap: 8px;
-}
-
-.codebase-stewardship .arrow-gHqi9c {
-  height: 12.46875px;
-  margin-right: -0.85px;
-  width: 15.2392578125px;
-}
-
-.codebase-stewardship .information-6xD4Mc {
+.codebase-stewardship .information {
   align-items: flex-start;
-  background-color: transparent;
   display: flex;
   flex: 1;
   flex-direction: column;
@@ -1211,23 +847,24 @@
   position: relative;
 }
 
-.codebase-stewardship .div-Wkoiiy {
-  margin-top: -2.00px;
+.codebase-stewardship .div-9 {
+  background-color: var(--charcoal);
 }
 
-.codebase-stewardship .contact-Wkoiiy {
+.codebase-stewardship .information-item {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
+  display: flex;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 10px;
+  position: relative;
   width: 100%;
 }
 
-.codebase-stewardship .contact-info-PS6ePi {
+.codebase-stewardship .contact-info {
   align-items: flex-start;
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   gap: 15px;
@@ -1235,291 +872,75 @@
   width: 100%;
 }
 
-.codebase-stewardship .frame-218-99Z4GN {
+.codebase-stewardship .frame-218 {
   align-items: flex-start;
-  background-color: transparent;
-  display: flex;
   flex: 1;
   flex-direction: column;
   flex-grow: 1;
   gap: 15px;
-  position: relative;
 }
 
-.codebase-stewardship .phone-31-20-2-444-500-MiZuoR {
-  align-self: stretch;
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-}
-
-.codebase-stewardship .span0-rNT49V {
-}
-
-.codebase-stewardship .span1-rNT49V {
-  text-decoration: underline;
-}
-
-.codebase-stewardship .email-infopubliccodenet-MiZuoR {
-  align-self: stretch;
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.codebase-stewardship .span0-YFnwIk {
-}
-
-.codebase-stewardship .span1-YFnwIk {
-  text-decoration: underline;
-}
-
-.codebase-stewardship .keizersgracht-617-10-99Z4GN {
-  background-color: transparent;
+.codebase-stewardship .keizersgracht-617-1 {
   flex: 1;
-  letter-spacing: 0.00px;
-  line-height: normal;
+  letter-spacing: 0;
+  line-height: 20px;
   margin-top: -1.00px;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .span0-Nmm7I8 {
+.codebase-stewardship .div-10 {
+  background-color: var(--charcoal);
 }
 
-.codebase-stewardship .span1-Nmm7I8 {
-  text-decoration: underline;
-}
-
-.codebase-stewardship .span2-Nmm7I8 {
-}
-
-.codebase-stewardship .span3-Nmm7I8 {
-  text-decoration: underline;
-}
-
-.codebase-stewardship .notes-Wkoiiy {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
+.codebase-stewardship .flex-container-i3381593633815548 {
   display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
-.codebase-stewardship .flex-container-i3381593633815548-gqAIfa {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
   gap: 10px;
 }
 
-.codebase-stewardship .text0-i3381593633815548-pdffQx {
+.codebase-stewardship .text-1 {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
+  letter-spacing: 0;
+  line-height: 20px;
   position: relative;
-  text-align: left;
 }
 
-.codebase-stewardship .span0-h1h8LP {
+.codebase-stewardship .div-11 {
+  background-color: var(--charcoal);
 }
 
-.codebase-stewardship .span1-h1h8LP {
-  text-decoration: underline;
-}
-
-.codebase-stewardship .span2-h1h8LP {
-}
-
-.codebase-stewardship .span3-h1h8LP {
-  text-decoration: underline;
-}
-
-.codebase-stewardship .span4-h1h8LP {
-}
-
-.codebase-stewardship .text1-i3381593633815548-pdffQx {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
+.codebase-stewardship .image {
+  height: 14.46px;
   position: relative;
-  text-align: left;
+  width: 14.46px;
 }
 
-.codebase-stewardship .span5-zSQxys {
-}
-
-.codebase-stewardship .span6-zSQxys {
-  text-decoration: underline;
-}
-
-.codebase-stewardship .span7-zSQxys {
-}
-
-.codebase-stewardship .span8-zSQxys {
-  text-decoration: underline;
-}
-
-.codebase-stewardship .span9-zSQxys {
-}
-
-.codebase-stewardship .metadata-Wkoiiy {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  position: relative;
-  width: 100%;
-}
-
-.codebase-stewardship .updated-SUowhW {
-  align-items: center;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
-.codebase-stewardship .iconupdated-46atUD {
-  background-color: transparent;
-  height: 16px;
-  position: relative;
-  width: 16px;
-}
-
-.codebase-stewardship .last-updated-22-august-2023-46atUD {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
+.codebase-stewardship .address {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
   margin-top: -1.00px;
   position: relative;
-  text-align: left;
-  width: 299px;
 }
 
-.codebase-stewardship .copyright-SUowhW {
+.codebase-stewardship .buttonsecondary-3 {
   align-items: center;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 7px;
-  position: relative;
-  width: 100%;
-}
-
-.codebase-stewardship .image-hgPwrZ {
-  background-color: transparent;
-  height: 14.4599609375px;
-  position: relative;
-  width: 14.4599609375px;
-}
-
-.codebase-stewardship .x2023-foundation-for-public-code-hgPwrZ {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: 299px;
-}
-
-.codebase-stewardship .span0-jDmiV5 {
-}
-
-.codebase-stewardship .span1-jDmiV5 {
-  text-decoration: underline;
-}
-
-.codebase-stewardship .license-SUowhW {
-  align-items: center;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
-.codebase-stewardship .iconlicense-lZSU2B {
-  background-color: transparent;
-  height: 14.5px;
-  position: relative;
-  width: 16px;
-}
-
-.codebase-stewardship .creative-commons-zero-v10-universal-lZSU2B {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-  width: 299px;
-}
-
-.codebase-stewardship .arrow {
-  background-color: transparent;
-  position: relative;
-}
-
-.codebase-stewardship .buttonsecondary {
-  align-items: center;
-  background-color: transparent;
   display: inline-flex;
   flex: 0 0 auto;
   position: relative;
 }
 
-.codebase-stewardship .cluster {
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  position: relative;
-}
-
-.codebase-stewardship .div {
+.codebase-stewardship .cluster-4 {
   align-self: stretch;
-  background-color: transparent;
-  height: 2px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
   position: relative;
   width: 100%;
 }
 
-.codebase-stewardship .frame-148 {
+.codebase-stewardship .content-3 {
   align-items: flex-start;
-  background-color: transparent;
-  flex: 0 0 auto;
-  flex-direction: column;
-  position: relative;
-}
-
-.codebase-stewardship .frame-197 {
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -1528,9 +949,31 @@
   width: 100%;
 }
 
-.codebase-stewardship .logo-symbol {
-  background-color: transparent;
-  height: 55px;
+.codebase-stewardship .div-12 {
+  align-self: stretch;
+  border-radius: 2px;
+  height: 2px;
   position: relative;
-  width: 47.66314697265625px;
+  width: 100%;
+}
+
+.codebase-stewardship .flex-container {
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.codebase-stewardship .frame {
+  display: flex;
+  position: relative;
+}
+
+.codebase-stewardship .frame-197-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 100%;
 }
