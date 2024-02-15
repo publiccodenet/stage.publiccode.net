@@ -29,11 +29,14 @@ link.href = 'mailto:pc-feedback@publiccode.net?subject=Feedback from ' + encodeU
 link.style = 'position: fixed; top: 50%; left: 100%; transform: translate(-70%, -50%) rotate(-90deg); font-family: var(--font-family-mulish); font-size: var(--font-size-m); color: var(--basic-link);';
 document.body.appendChild(link);
 
-let stewardship = document.querySelectorAll("[href='https://staging.publiccode.net/codebase-stewardship.html']");
+// Add Donate button
+let stewardship = document.querySelectorAll("[href='/codebase-stewardship/']");
 Array.from(stewardship).forEach(link => {
+  if (link.childNodes[0].innerHTML != 'Stewardship') {
+    return
+  }
   html = link.outerHTML;
   html = html.replace('Stewardship', 'Donate')
-  html = html.replace('https://staging.publiccode.net/codebase-stewardship.html', 'https://secure.infinitegiving.com/gift/foundation-for-public-code')
-  console.log(link, html)
+  html = html.replace('/codebase-stewardship/', 'https://secure.infinitegiving.com/gift/foundation-for-public-code')
   link.insertAdjacentHTML('beforebegin', html);
 })
