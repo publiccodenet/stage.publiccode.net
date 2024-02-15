@@ -13,6 +13,24 @@ os.rename(old_filename, new_filename)
 # do string substitution for each pattern across all HTML files
 directory = '.'
 
+urlpatterns = [
+# TODO: where should this go?
+# (r"""https://about.publiccode.net/""", """https://staging.publiccode.net/our-mission"""),
+(r"""https://publiccode.net/codebase-stewardship/""", """https://staging.publiccode.net/codebase-stewardship.html"""),
+(r"""https://projects.publiccode.net/""", """https://staging.publiccode.net/resources-and-projects.html"""),
+(r"""https://projects.publiccode.net""", """https://staging.publiccode.net/resources-and-projects.html"""),
+(r"""https://about.publiccode.net/CONTRIBUTING.html""", """https://staging.publiccode.net/contributing.html"""),
+(r"""https://publiccode.net/standard-for-public-code/""", """https://staging.publiccode.net/the-standard.html"""),
+(r'https://publiccode.net/codebases/"', """https://staging.publiccode.net/codebases-we-work-with.html"""),
+#TODO: slightly different pages?
+(r"""https://publiccode.net/who-we-are/""", """https://staging.publiccode.net/who-we-are-1.html"""),
+(r"""https://publiccode.net/team/""", """https://staging.publiccode.net/who-we-are-1.html"""),
+# Links open in current window
+(r' target="_blank"', ''),
+(r"""https://publiccode.net/""", """https://staging.publiccode.net/"""),
+(r"""https://publiccode.net""", """https://staging.publiccode.net/"""),
+]
+
 patterns = [
 (r"""    <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
     <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
@@ -28,21 +46,8 @@ patterns = [
     <link rel="icon" href="https://brand.publiccode.net/logo/mark-128w128h.png">
     <script async defer data-domain="publiccode.net" src="https://plausible.io/js/plausible.js"></script>
   </head>"""),
-# TODO: where should this go?
-# (r"""https://about.publiccode.net/""", """https://staging.publiccode.net/our-mission"""),
-(r"""https://publiccode.net/codebase-stewardship/""", """https://staging.publiccode.net/codebase-stewardship.html"""),
-(r"""https://projects.publiccode.net/""", """https://staging.publiccode.net/resources-and-projects.html"""),
-(r"""https://projects.publiccode.net""", """https://staging.publiccode.net/resources-and-projects.html"""),
-(r"""https://about.publiccode.net/CONTRIBUTING.html""", """https://staging.publiccode.net/contributing.html"""),
-(r"""https://publiccode.net/standard-for-public-code/""", """https://staging.publiccode.net/the-standard.html"""),
-#TODO: slightly different pages?
-(r"""https://publiccode.net/who-we-are/""", """https://staging.publiccode.net/who-we-are-1.html"""),
-(r"""https://publiccode.net/team/""", """https://staging.publiccode.net/who-we-are-1.html"""),
-# Links open in current window
-(r' target="_blank"', ''),
-(r"""https://publiccode.net/""", """https://staging.publiccode.net/"""),
-(r"""https://publiccode.net""", """https://staging.publiccode.net/"""),
 ]
+patterns += urlpatterns
 
 for root, dirs, files in os.walk(directory):
     for file in files:
@@ -58,22 +63,8 @@ for root, dirs, files in os.walk(directory):
 cssdirectory = './css/'
 csspatterns = [
 (r"""@import url\("https://px.animaapp.com/6406baa484a3afe9c63921de.6406baa605cc73851b593804.*.hcp.png"\);""", ''),
-(r"""home-u40desktopu41-all-breakpoints.html""", """index.html"""),
-# TODO: where should this go?
-# (r"""https://about.publiccode.net/""", """https://staging.publiccode.net/our-mission"""),
-(r"""https://publiccode.net/codebase-stewardship/""", """https://staging.publiccode.net/codebase-stewardship.html"""),
-(r"""https://projects.publiccode.net/""", """https://staging.publiccode.net/resources-and-projects.html"""),
-(r"""https://projects.publiccode.net""", """https://staging.publiccode.net/resources-and-projects.html"""),
-(r"""https://about.publiccode.net/CONTRIBUTING.html""", """https://staging.publiccode.net/contributing.html"""),
-(r"""https://publiccode.net/standard-for-public-code/""", """https://staging.publiccode.net/the-standard.html"""),
-#TODO: slightly different pages?
-(r"""https://publiccode.net/who-we-are/""", """https://staging.publiccode.net/who-we-are-1.html"""),
-(r"""https://publiccode.net/team/""", """https://staging.publiccode.net/who-we-are-1.html"""),
-# Links open in current window
-(r' target="_blank"', ''),
-(r"""https://publiccode.net/""", """https://staging.publiccode.net/"""),
-(r"""https://publiccode.net""", """https://staging.publiccode.net/"""),
 ]
+csspatterns += urlpatterns
 # process css
 for root, dirs, files in os.walk(cssdirectory):
     for file in files:
