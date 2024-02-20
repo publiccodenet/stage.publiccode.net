@@ -476,7 +476,7 @@ input#show-site-nav:checked ~ ul {
 
 @media screen and (min-width:68em) {
   main {
-    padding: 4em;
+/*    padding: 4em;*/
   }
   main>h1 {
     font-size: 3em;
