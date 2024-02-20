@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Codebases we work with - Signalen, Process code</title>
+  <meta name="description" content="">
+
+  <link rel="stylesheet" href="/assets/style.css">
+
+  
+  <link rel="canonical" href="/codebases/signalen.html">
+  
+
+  <link rel="icon" href="https://brand.publiccode.net/logo/mark-128w128h.png">
+
+  
+  
+
+  <script async defer data-domain="publiccode.net" src="https://plausible.io/js/plausible.js"></script>
+</head>
+
+
+  <body class=" ">
+
+    <nav class="theme-nav">
+  <a href="https://publiccode.net/" title="Homepage of the Foundation for Public Code" class="logo-mark">
+    <img src="https://brand.publiccode.net/logo/mark.svg" alt="The mark of the Foundation for Public Code looks like a little greek temple, or government building, in a hexagon" aria-hidden="true">
+    <p>Foundation&nbsp;for Public&nbsp;Code</p>
+  </a>
+  <ul>
+    <li><a href="https://publiccode.net/codebase-stewardship/" title="Codebase Stewardship">Stewardship</a></li>
+    <li><a href="https://projects.publiccode.net/" title="Project Resources">Resources</a></li>
+    <li><a href="https://publiccode.net/who-we-are/">Who we are</a></li>
+    <li><a href="https://about.publiccode.net/CONTRIBUTING.html">Join us</a></li>
+    <li><a href="https://floss.social/@publiccode"  title="The Foundation for Public Code on Mastodon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" style="overflow:visible;enable-background:new 0 0 24 24;" xml:space="preserve"><style type="text/css">.mastodon-logo{fill-rule:evenodd;clip-rule:evenodd;fill:#24292E;transform:translateY(6px);}</style><path
+     style="stroke-width:1" class="mastodon-logo" d="m 15.48675,0.6259278 -0.338293,0.0286534 c -0.733449,0.4231435 -1.49511,0.8743875 -2.256768,1.2975314 -0.253885,0.1410477 -0.536093,0.2253467 -0.818189,0.3663943 -0.310304,0.141048 -0.620943,0.3105265 -0.903039,0.5079943 -0.141048,0.1128375 -0.281985,0.1972461 -0.451241,0.1972461 -0.197469,0 -0.366727,0.028653 -0.564194,0.028653 C 9.0830622,3.0241881 8.0396346,2.9958702 6.9676708,2.9394521 6.770204,2.9112396 6.6288248,2.967444 6.4877772,3.1366983 5.9800047,3.7291003 5.5007715,4.2931826 4.992999,4.8573741 4.0902924,5.872919 3.1309441,6.775849 2.0871896,7.6221359 1.8615135,7.7913931 1.7487846,7.9889719 1.7769942,8.2992766 c 0.084627,0.7334487 0.1693683,1.4666813 0.2539968,2.1719204 0.028213,0.394934 0.112617,0.790199 0.1972464,1.185134 0.056415,0.282096 0.028213,0.648491 0,0.930584 2.395e-4,9.61e-4 3.104e-4,0.0011 5.643e-4,0.0021 0.1410476,0.451352 0.5594538,3.823613 0.6440824,4.133918 0.225677,0.902707 0.4513542,1.833405 0.70524,2.736112 0.056415,0.169257 0.1977981,0.338846 0.3388459,0.479894 0.3385153,0.310304 0.7331199,0.563971 1.0716344,0.902486 0.8462876,0.846287 1.9789705,1.675056 2.7124202,2.634184 0.056415,0 0.084628,1.1e-4 0.1410475,-0.02811 1.0155455,-0.423145 2.0871811,-0.733119 3.1873559,-0.930585 0.282095,-0.05642 0.56452,-0.169479 0.62094,-0.507994 0.169259,-0.874498 0.338295,-1.720679 0.479343,-2.566965 -0.789869,-0.479564 -1.607948,-0.507994 -2.3978171,-0.507994 0.112842,0.592402 -0.1689258,1.071965 -0.3663931,1.551528 -0.056417,0.08464 -0.2260074,0.140939 -0.3388464,0.169148 -0.2256753,0.05642 -0.4795626,0.02831 -0.7052397,0.112956 C 8.067529,20.852246 7.898381,20.796042 7.7291228,20.570371 7.3623992,20.090863 6.9957835,19.639284 6.5726397,19.216143 6.3187538,18.962256 6.4034927,18.313325 6.4034927,18.256905 9.0220695,15.607439 9.5529675,15.821151 12.77874,15.097651 c 0.253886,0.197467 0.535761,0.366615 0.761438,0.592291 0.479562,0.423143 1.3826,1.636046 1.467232,1.720677 0.169255,0.169257 0.342453,-0.252332 0.229614,-0.02665 3.840633,-5.909872 4.736073,-7.17506 7.838222,-11.1161427 -1.015547,0 -2.059304,-0.027991 -3.103057,-0.056196 -0.122118,0.0131 -0.353847,0.028453 -0.423145,0.028097 C 19.136684,6.1920712 18.359917,6.1435607 18.068591,5.6362484 17.871124,5.3541522 15.768847,0.99266896 15.48675,0.6259441 Z"/></svg></a></li>
+    <li><a href="https://twitter.com/publiccodenet" title="The Foundation for Public Code on Twitter"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" x="0px" y="0px" width="24" height="24" viewBox="0 0 24 24" style="overflow:visible;enable-background:new 0 0 24 24;" xml:space="preserve"><style type="text/css">#path172{fill-rule:evenodd;clip-rule:evenodd;fill:#24292E;transform:translateY(6px);}</style><path d="m 9.9653138,4.2421956 c -1.6089791,-1.989512 -5.260932,-1.871851 -7.3020383,0.793517 -0.3681602,0.480686 -0.656245,1.104014 -0.873826,1.811853 L 0.427,7.4162646 1.4938942,8.0795126 C 1.0031695,10.772662 1.2884528,14.095209 1.9757474,15.713059 4.0810541,20.668631 10.890267,22.078472 14.842211,20.519452 20.576825,18.256796 23.573,13.677089 23.573,13.677089 c 0,0 -6.694119,-0.0712 -13.6076862,-9.4348934 z m -4.71161,2.266391 c -0.078441,0.384969 -0.5117356,0.62613 -0.9679087,0.538117 -0.4561732,-0.08778 -0.7624675,-0.471348 -0.6840263,-0.856317 0.078208,-0.384969 0.5117357,-0.626129 0.9679088,-0.53835 0.4561731,0.08801 0.762234,0.471348 0.6840262,0.85655 z M 18.751666,15.522325 c -0.561696,1.484548 -3.161229,1.876987 -5.805352,0.876394 -2.644357,-1.000592 -4.3327107,-3.015318 -3.7710154,-4.500332 0.5616952,-1.48478 3.1609944,-1.87722 5.8055854,-0.876394 2.644123,1.000593 4.332477,3.015552 3.770782,4.500332 z" id="path172" style="stroke-width:1" /></svg></a></li>
+    <li><a href="https://github.com/publiccodenet/" title="The Foundation for Public Code on Github"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" style="overflow:visible;enable-background:new 0 0 24 24;" xml:space="preserve"><style type="text/css">.github-logo{fill-rule:evenodd;clip-rule:evenodd;fill:#24292E;transform:translateY(6px);}</style><path class="github-logo" d="M12,0C5.4,0,0,5.5,0,12.3c0,5.4,3.5,10,8.2,11.7C8.8,24.1,9,23.7,9,23.4c0-0.3,0-1.1,0-2.1 c-3.3,0.8-4-1.7-4-1.7c-0.5-1.4-1.3-1.8-1.3-1.8c-1.1-0.8,0.1-0.8,0.1-0.8c1.2,0.1,1.8,1.3,1.8,1.3c1.1,1.9,2.8,1.4,3.5,1.1 c0.1-0.8,0.4-1.4,0.7-1.7c-2.7-0.3-5.4-1.4-5.4-6.1c0-1.4,0.4-2.4,1.3-3.3C5.4,8.1,5,6.8,5.7,5.1c0,0,1-0.3,3.3,1.3 c1-0.3,2-0.4,3-0.4s2.1,0.2,3,0.4c2.3-1.6,3.3-1.3,3.3-1.3c0.7,1.7,0.2,2.9,0.1,3.2c0.7,0.8,1.3,2,1.3,3.3c0,4.8-2.8,5.7-5.4,6 c0.4,0.4,0.8,1.1,0.8,2.3c0,1.7,0,2.9,0,3.4c0,0.3,0.2,0.7,0.8,0.6c4.8-1.7,8.2-6.3,8.2-11.7C24,5.5,18.6,0,12,0z"/></svg></a></li>
+  </ul>
+</nav>
+
+
+    <!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- SPDX-FileCopyrightText: 2018-2023 The Foundation for Public Code <info@publiccode.net> -->
+
+
+<hr>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1440, maximum-scale=1.0" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="/css/digital-omgevingsbeleid.css" />
+    <link rel="stylesheet" type="text/css" href="/css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="/css/globals.css" />
+
+    <link rel="stylesheet" href="/assets/style.css">
+    <link rel="stylesheet" href="/assets/style_codebases.css">
+    <link rel="stylesheet" href="/assets/lightbox.css">
+
+
+    <link rel="icon" href="https://brand.publiccode.net/logo/mark-128w128h.png">
+    <script async defer data-domain="publiccode.net" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="digital-omgevingsbeleid" />
+    <div class="digital-omgevingsbeleid screen">
+      <div class="navheader">
+        <div class="content-1 content-3">
+          <a href="/">
+            <div class="logo-lockup">
+              <img class="logo-symbol" src="/img/logo-symbol-4.svg" alt="logo symbol" />
+              <div class="foundation-for-public-code valign-text-middle mulish-bold-black-27px">
+                Foundation for Public Code
+              </div>
+            </div></a
+          >
+          <div class="navigation">
+            <div class="links">
+              <a href="/codebase-stewardship/"
+                ><div class="link mulish-medium-black-16px">Stewardship</div> </a
+              ><a href="/resources-and-projects.html"
+                ><div class="link mulish-medium-black-16px">Resources</div> </a
+              ><a href="/who-we-are/"
+                ><div class="link mulish-medium-black-16px">Who we are</div> </a
+              ><a href="/contributing.html"
+                ><div class="link mulish-medium-black-16px">Join us</div>
+              </a>
+            </div>
+            <div class="services">
+              <div class="logo"><img class="subtract" src="/img/subtract-10.svg" alt="Subtract" /></div>
+              <img class="logo" src="/img/logo-twitter-4.svg" alt="logo.twitter" />
+              <img class="logo" src="/img/logo-github-4.svg" alt="logo.github" />
+            </div>
+          </div>
+        </div>
+      </div>
+<main>
+
+<div class="cb-section">
+  <div>
+    <h1 class="title">Codebases we work with</h1>
+  </div>
+</div>
+
+<hr>
+
+<div class="cb-section">
+  <div class="cb-maturity-detail-header">
+    <div class="cb-maturity-detail-title cb-maturity-s2">
+      <div class="cb-logo"><img src="../photos/codebases/signalen/signalen_logo_small.png" alt="Signalen"></div>
+      <h1>Signalen</h1>
+    </div>
+    <div class="cb-maturity-stage cb-maturity-s2">Stage 2: <strong>Incubation</strong></div>
+  </div>
+
+  <div class="cb-detail-intro">
+    <div class="cb-detail-info">
+      <h3>What it is</h3>
+      <p>Signalen makes it easier for residents to make a report, and helps the city respond to the most important things first.</p>
+      <p><strong>It includes:</strong></p>
+      <ul>
+        <li>Algorithmic processing by type of complaint, and second layer triaging and prioritization by humans</li>
+        <li>Automatic updates to complainants about the status of their report</li>
+        <li>Automatic alerts to city staff based on analysis of combined reports</li>
+        <li>Allowing reports to be passed on to other city workers and subcontractors</li>
+      </ul>
+    </div>
+
+    <div class="cb-detail-gallery">
+      <a href="#img1">
+        <img class="lb-thumb" src="../photos/codebases/signalen/signalen_thumb_g01.png" alt="A web form with a map">
+      </a>
+      <!-- lightbox container hidden with CSS -->
+      <div class="lightbox" id="img1">
+        <a href="#img3" class="lb-btn lb-btn-prev"><span class="lb-btn-text">previous</span></a>
+        <a href="#_" class="lb-btn lb-btn-close"><span class="lb-btn-text">close</span></a>
+        <a href="#img2"><img src="../photos/codebases/signalen/signalen_g01.png" alt="A map with an address search field"></a>
+        <a href="#img2" class="lb-btn lb-btn-next"><span class="lb-btn-text">next</span></a>
+      </div>
+      <!-- lightbox container hidden with CSS -->
+      <div class="lightbox" id="img2">
+        <a href="#img3" class="lb-btn lb-btn-prev"><span class="lb-btn-text">previous</span></a>
+        <a href="#_" class="lb-btn lb-btn-close"><span class="lb-btn-text">close</span></a>
+        <a href="#img3"><img src="../photos/codebases/signalen/signalen_g02.png" alt="A map with an address displayed on it"></a>
+        <a href="#img3" class="lb-btn lb-btn-next"><span class="lb-btn-text">next</span></a>
+      </div>
+      <!-- lightbox container hidden with CSS -->
+      <div class="lightbox" id="img3">
+        <a href="#img2" class="lb-btn lb-btn-prev"><span class="lb-btn-text">previous</span></a>
+        <a href="#_" class="lb-btn lb-btn-close"><span class="lb-btn-text">close</span></a>
+        <a href="#img1"><img src="../photos/codebases/signalen/signalen_g03.png" alt="An overview of an incoming report in the admin interface"></a>
+        <a href="#img1" class="lb-btn lb-btn-next"><span class="lb-btn-text">next</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<div class="cb-section">
+  <div class="cb-detail-info">
+    <h3>How we're helping</h3>
+    <p>We're helping Amsterdam and the Association of Netherlands Municipalities (VNG) define a governance structure, including shared feature roadmaps and technical steering.</p>
+    <p>We're also helping make the codebase more conducive to collaboration, including:</p>
+    <ul>
+      <li>Clear branching and gitflow models</li>
+      <li>Automated unit tests and integration testing</li>
+      <li>Engineering guidelines</li>
+      <li>Help prepare the community to empower market parties to offer the solution as Software as a Service (SaaS)</li>
+    </ul>
+  </div>
+</div>
+
+<hr>
+
+<div class="cb-section">
+  <div class="cb-detail-info">
+    <h3>Technology</h3>
+    <dl>
+      <dt>Languages and frameworks:</dt>
+      <dd>Django Python</dd>
+    </dl>
+  </div>
+</div>
+
+<hr>
+
+<div class="cb-section">
+  <div class="cb-detail-info">
+    <h3>Community</h3>
+    <dl>
+      <dt>Created by:</dt>
+      <dd>Amsterdam, the Netherlands (2018)</dd>
+    </dl>
+    <dl>
+      <dt>Replicating:</dt>
+      <dd>s'-Hertogenbosch was the first replicator. Alphen en de Rijn, Almere, Urk and Haarlem are in implementing phase. Strong interest from other Dutch cities and the VNG (representing 355 municipalities), as well as Ghent (Belgium) as part of the European SCORE project.</dd>
+    </dl>
+  </div>
+</div>
+
+<hr>
+
+<div class="cb-section">
+  <div class="cb-detail-info">
+    <h3>Opportunity</h3>
+    <dl>
+      <dt>Scaling potential:</dt>
+      <dd>Initially other Dutch municipalities, but it has potential to scale internationally</dd>
+    </dl>
+    <p>The VNG wants to make it 'one click deployable' from their Common Ground appstore.</p>
+    <p>Amsterdam, the VNG and 's-Hertogenbosch have asked for our expertise while they refactor the codebase to be more modular and reusable while it's in production in Amsterdam.</p>
+  </div>
+</div>
+
+<hr>
+
+<div class="cb-section cb-section-links">
+  <div class="cb-detail-info">
+    <h3>Find out more</h3>
+    <ul>
+      <li><a href="https://signalen.org" target="_blank">Signalen website</a></li>
+      <li><a href="https://youtube.com/watch?v=AdBNyYwbf8A" target="_blank">"Signalen: helping cities manage and prioritize citizens' reports"</a> (video)</li>
+      <li><a href="https://github.com/Amsterdam/signals" target="_blank">Github: backend</a></li>
+      <li><a href="https://github.com/Amsterdam/signals-frontend" target="_blank">Github: frontend</a></li>
+      <li><a href="https://meldingen.amsterdam.nl" target="_blank">Amsterdam public interface</a></li>
+      <li><a href="https://github.com/Amsterdam/signals/blob/main/docs/topics/signalen-and-standard-for-public-code.md">Assessment of the backend towards the Standard for Public Code</a>
+    </ul>
+  </div>
+</div>
+
+
+</main>
+<footer class="footer">
+        <a href="/">
+          <div class="logo-lockup-1">
+            <img class="logo-symbol" src="/img/logo-symbol-5.svg" alt="logo symbol" />
+            <div class="foundation-for-public-code-1 valign-text-middle mulish-bold-black-27px">
+              Foundation for Public Code
+            </div>
+          </div></a
+        >
+        <div class="frame-217">
+          <div class="blocks">
+            <div class="blocks-item">
+              <div class="content">
+                <div class="our-operational-details mulish-bold-black-24px">Our operational details</div>
+                <p class="our-staff-informatio mulish-normal-black-16px">
+                  Our staff information, rules and processes are co-developed with the community, and can be reused by
+                  everyone. Read about our activities, organization, as well as key terms and concepts.
+                </p>
+              </div>
+              <a href="https://about.publiccode.net/">
+                <div class="buttonsecondary">
+                  <div class="text-3 text-5 mulish-bold-azure-radiance-16px">How we operate</div>
+                  <img class="arrow" src="/img/arrow-25.svg" alt="arrow" /></div
+              ></a>
+            </div>
+            <div class="blocks-item">
+              <div class="content">
+                <div class="project-resources mulish-bold-black-24px">Project resources</div>
+                <p class="open-products-were mulish-normal-black-16px">
+                  Open products we&#39;re researching or developing to further our mission. We rely on these resources
+                  for our everyday work. You can, too!
+                </p>
+              </div>
+              <a href="/resources-and-projects.html">
+                <div class="buttonsecondary">
+                  <p class="text-4 text-5 mulish-bold-azure-radiance-16px">Free to use and modify</p>
+                  <img class="arrow" src="/img/arrow-25.svg" alt="arrow" /></div
+              ></a>
+            </div>
+          </div>
+          <div class="information">
+            <div class="div-9"></div>
+            <div class="information-item">
+              <div class="contact-info">
+                <div class="frame-218">
+                  <a href="tel:+31202444500"
+                    ><p class="phone-31-20-2-444-500 mulish-normal-white-14px">
+                      <span class="mulish-normal-black-14px">Phone: </span
+                      ><a href="tel:+31202444500"
+                        ><span class="span-1 mulish-normal-azure-radiance-14px">+31 20 2 444 500</span></a
+                      >
+                    </p> </a
+                  ><a href="mailto:info@publiccode.net"
+                    ><div class="email-infopubliccodenet mulish-normal-white-14px">
+                      <span class="mulish-normal-black-14px">Email: </span
+                      ><a href="mailto:info@publiccode.net"
+                        ><span class="span-1 mulish-normal-azure-radiance-14px">info@publiccode.net</span></a
+                      >
+                    </div>
+                  </a>
+                </div>
+                <p class="keizersgracht-617-1 mulish-normal-white-14px">
+                  <span class="mulish-normal-black-14px">Keizersgracht 617, 1017 DS, Amsterdam, the Netherlands</span
+                  ><a href="https://www.openstreetmap.org/node/2736377676"
+                    ><span class="span-1 mulish-normal-azure-radiance-14px">OpenStreetMap</span></a
+                  ><span class="mulish-normal-black-14px"> / </span
+                  ><a
+                    href="https://www.google.com/maps/place/Keizersgracht+617,+1017+DS+Amsterdam,+Netherlands"
+
+                    ><span class="span-1 mulish-normal-azure-radiance-14px">Google</span></a
+                  >
+                </p>
+              </div>
+            </div>
+            <div class="div-9"></div>
+            <div class="notes">
+              <div class="flex-container mulish-normal-black-14px">
+                <div class="text-2 text-5">
+                  <span class="mulish-normal-black-14px"
+                    >Foundation for Public Code vereniging (met volledige rechtsbevoegdheid) </span
+                  ><a href="https://about.publiccode.net/organization/governance-model.html"
+                    ><span class="span-1 mulish-normal-black-14px">is a member owned association</span></a
+                  ><span class="mulish-normal-black-14px"> registered under </span
+                  ><a href="https://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=74996452"
+                    ><span class="span-1 mulish-normal-black-14px"
+                      >chamber of commerce (KvK) registration 74996452</span
+                    ></a
+                  ><span class="mulish-normal-black-14px"> and with identification number (RSIN) 860102294.</span>
+                </div>
+                <div class="text-2 text-5">
+                  <span class="mulish-normal-black-14px">We&#39;re recognized as a </span
+                  ><a
+                    href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/what_is_pbo/what_is_a_pbo"
+
+                    ><span class="span-1 mulish-normal-black-14px">public benefit organization (ANBI)</span></a
+                  ><span class="mulish-normal-black-14px"> by the Dutch Tax and Customs Administration. See </span
+                  ><a href="https://about.publiccode.net/organization/"
+                    ><span class="span-1 mulish-normal-black-14px">our ANBI information</span></a
+                  ><span class="mulish-normal-black-14px">.</span>
+                </div>
+              </div>
+            </div>
+            <div class="div-9"></div>
+            <div class="information-item">
+              <div class="information-item-item">
+                <img class="iconupdated" src="/img/icon-updated-2.svg" alt="icon.updated" />
+                <p class="last-updated-22-august-2023 mulish-normal-black-14px">Last updated 22 August 2023</p>
+              </div>
+              <div class="copyright">
+                <img class="image" src="/img/--2.svg" alt="image" />
+                <p class="address mulish-normal-black-14px">
+                  <span class="mulish-normal-black-14px">2023 </span
+                  ><a href="/"
+                    ><span class="span-1 mulish-normal-black-14px">Foundation for Public Code</span></a
+                  >
+                </p>
+              </div>
+              <div class="information-item-item">
+                <img class="iconlicense" src="/img/icon-license-2.svg" alt="icon.license" />
+                <p class="creative-commons-zer mulish-normal-black-14px">
+                  <a href="https://creativecommons.org/publicdomain/zero/1.0/"
+                    ><span class="span-1 mulish-normal-black-14px">Creative Commons Zero v1.0 Universal</span></a
+                  ><span class="mulish-normal-black-14px">, unless otherwise noted</span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script src="/collapsible.js"></script>
+  </body>
+</html>
+
+<hr>
+
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- SPDX-FileCopyrightText: 2018-2023 The Foundation for Public Code <info@publiccode.net> -->
+<footer id="site-footer">
+
+  <section>
+    <h3>On this site</h3>
+    <ul>
+      <li><a href="/codebase-stewardship">Codebase stewardship</a></li>
+      <li><a href="/codebases">Codebases we work with</a></li>
+      <li><a href="/background">Background</a></li>
+      <li><a href="/who-we-are">Who we are</a></li>
+      <li><a href="/careers">Careers</a></li>
+
+    </ul>
+  </section>
+  
+  <section>
+    <h3>This site on GitHub</h3>
+    <p>This site was last published 20 February 2024 from the source at GitHub</p>
+    <ul>
+      <li><a href="https://github.com/publiccodenet/staging.publiccode.net">publiccodenet/staging.publiccode.net</a></li>
+      <li><a class="github-button" href="https://github.com/publiccodenet/staging.publiccode.net" data-icon="octicon-star" data-count-href="//stargazers" data-count-api="/repos//#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star / on GitHub">Star</a></li>
+      <li><a class="github-button" href="https://github.com/publiccodenet/staging.publiccode.net/issues" data-icon="octicon-issue-opened" aria-label="Issue ntkme/github-buttons on GitHub" data-show-count="true">Issue</a></li>
+    </ul>
+  </section>
+
+</footer>
+
+
+    <nav class="theme-nav">
+  <a href="https://publiccode.net/" title="Homepage of the Foundation for Public Code" class="logo-mark">
+    <img src="https://brand.publiccode.net/logo/mark.svg" alt="The mark of the Foundation for Public Code looks like a little greek temple, or government building, in a hexagon">
+    <p>Foundation for Public Code</p>
+  </a>
+</nav>
+
+
+    
+<footer id="foundation-footer">
+
+  <div class="footer-trio">
+    <section>
+      <div class="footer-section-content">
+        <h2>About us</h2>
+        <p>All of our staff information, decision-making rules and processes. Our staff manual is developed collaboratively with the community and can be reused by everyone.</p>
+        <p>Read more about our activities, organization, and the glossary of terms and concepts.</p>
+      </div>
+      <div class="footer-links">
+        <a href="https://about.publiccode.net">How we work</a>
+      </div>
+    </section>
+    <section>
+      <div class="footer-section-content">
+        <h2>Project resources</h2>
+        <p>Open products we're researching or developing to further our mission. We rely on these resources for our everyday work. You can, too!</p>
+      </div>
+      <div class="footer-links">
+        <a href="https://projects.publiccode.net">Free to use and modify</a>
+        <a href="https://github.com/publiccodenet">See all our work on Github</a>
+      </div>
+    </section>
+    <section>
+      <div class="footer-section-content">
+        <h2>Careers</h2>
+        <p>Calling all publicly minded open source people! Find out about working with us, and join our staff.</p>
+      </div>
+      <div class="footer-links">
+        <a href="https://publiccode.net/careers/">Open positions</a>
+      </div>
+    </section>
+  </div>
+
+  <div class="footer-duo">
+    <section class="footer-contact">
+      <h2>Contact</h2>
+      <dl>
+          <dt>Newsletter:</dt>
+          <dd><a href="https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842">Join our mailing list</a></dd>
+
+          <dt>Phone:</dt>
+          <dd><a href="tel:+31202444500">+31 20 2 444 500</a></dd>
+
+          <dt>Email:</dt>
+          <dd><a href="mailto:info@publiccode.net">info@publiccode.net</a></dd>
+
+          <dt>Address:</dt>
+          <dd><address>Keizersgracht 617, 1017 DS, Amsterdam, the Netherlands</address>
+          <a href="https://www.openstreetmap.org/node/2736377676" title="OpenStreetMap">OpenStreetMap</a> | <a href="https://www.google.com/maps/place/Keizersgracht+617,+1017+DS+Amsterdam,+Netherlands" title="Google Maps">Google</a>
+          </dd>
+      </dl>
+    </section>
+
+    <section class="footer-notes">
+      <h2>Organizational notes</h2>
+      <p>Foundation for Public Code vereniging (met volledige rechtsbevoegdheid) <a href="https://about.publiccode.net/organization/governance-model.html" title="Governance model">is a member owned association</a> registered under <a href="https://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=74996452" title="KVK registration">chamber of commerce (KvK) registration 74996452</a> and with identification number (RSIN) 860102294.</p>
+      <p>We're recognized as a <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/what_is_pbo/what_is_a_pbo" title="public benefit organization (ANBI)">public benefit organization (ANBI)</a> by the Dutch Tax and Customs Administration. See <a href="https://about.publiccode.net/organization/" title="our ANBI information">our ANBI information</a>. </p>
+      <div class="footer-note-cluster"></div>
+        <p class="footer-last-updated">Last updated 20 February 2024</p>
+        <p class="footer-copyright">2024 <a href="https://publiccode.net">Foundation for Public Code</a></p>
+        <p class="footer-license">All content licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Creative Commons Zero v1.0 Universal" rel="license">Creative Commons Zero v1.0 Universal</a>, unless otherwise noted</p>
+        </div>
+    </section>
+  </div>
+
+</footer>
+
+
+
+  </body>
+
+</html>
