@@ -194,7 +194,7 @@ body>hr {
   }
   body>*:not(hr) {
     box-sizing: border-box;
-    max-width: 80em;
+/*    max-width: 80em;*/
     margin: auto;
   }
   body.with-site-nav>*:not(hr) {
