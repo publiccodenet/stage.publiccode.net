@@ -24,7 +24,6 @@ files_to_move = [
     (r'codebase-stewardship.html', '/codebase-stewardship/index.html'),
     (r'the-standard.html', '/standard-for-public-code/index.html'),
     (r'codebases-we-work-with.html', '/codebases/index.html'),
-    (r'digital-omgevingsbeleid.html', '/codebases/omgevingsbeleid.html'),
     (r'who-we-are-1.html', '/who-we-are/index.html'),
     (r'who-we-are-2.html', '/who-we-are/index-2.html'),
     (r'background.html', '/background/index.html'),
@@ -32,6 +31,7 @@ files_to_move = [
 
 # URLs to replace
 urlpatterns = [
+(r'digital-omgevingsbeleid.html', '/codebases/omgevingsbeleidhtml'),
 (r"""https://projects.publiccode.net/""", """/resources-and-projects.html"""),
 (r"""https://projects.publiccode.net""", """/resources-and-projects.html"""),
 (r"""https://about.publiccode.net/CONTRIBUTING.html""", """/contributing.html"""),
@@ -58,6 +58,7 @@ html_patterns = [
   </head>"""),
 (r"""<link rel="stylesheet" type="text/css" href="css/""", """<link rel="stylesheet" type="text/css" href="/css/"""),
 (r'" src="img/', '" src="/img/'),
+# contact us form
 (r"""<div class="frame-211 frame">
           <div class="contact-form contact-1 mulish-bold-black-32px">Contact form</div>
           <p class="lets-quickly-see-ho mulish-normal-black-20px">
