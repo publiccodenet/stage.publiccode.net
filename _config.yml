@@ -3,7 +3,7 @@
 
 title: Process code
 
-remote_theme: publiccodenet/jekyll-theme
+remote_theme: publiccodenet/staging-jekyll-theme
 include:
   - "index.md"
 
