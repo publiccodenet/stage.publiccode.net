@@ -20,11 +20,11 @@ def updateFiles(patterns, path='.', ending='.html'):
 
 # files to move to match existing site structure
 files_to_move = [
-    (r'product-model-u40desktopu41-ne.html', 'index.html'),
-    # (r'codebase-stewardship.html', '/codebase-stewardship/index.html'),
-    # (r'the-standard.html', '/standard-for-public-code/index.html'),
-    # (r'codebases-we-work-with.html', '/codebases/index.html'),
-    # (r'who-we-are-1.html', '/who-we-are/index.html'),
+    (r'home-u40desktopu41-ne.html', 'index.html'),
+    (r'product-model-u40desktopu41-ne.html', 'product-model.html'),
+    (r'the-standard-u40desktopu41-ne.html', '/standard-for-public-code/index.html'),
+    (r'about-public-code-u40desktopu41-ne.html', 'about.html'),
+    (r'who-we-are-u43-background-u40desktopu41-ne.html', '/who-we-are/index.html'),
     # (r'who-we-are-2.html', '/who-we-are/index-2.html'),
     # (r'background.html', '/background/index.html'),
 ]
