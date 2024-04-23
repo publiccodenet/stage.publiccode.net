@@ -6,13 +6,17 @@
   display: flex;
   flex-direction: column;
   gap: 60px;
+  left: 0px;
+  overflow: hidden;
+  overflow-x: hidden;
   position: relative;
+  top: 0px;
 }
 
-.codebases-we-work-with .navheader {
+.codebases-we-work-with .navheader-2Gxsyn {
   align-items: center;
   align-self: stretch;
-  background-color: var(--fpcmachine-grey);
+  background-color: var(--fpcgrey-f2);
   box-shadow: 0px 4px 0px #00000026;
   display: flex;
   flex: 0 0 auto;
@@ -22,7 +26,7 @@
   width: 100%;
 }
 
-.codebases-we-work-with .content-3 {
+.codebases-we-work-with .content-tOPKr0 {
   align-items: center;
   flex: 1;
   flex-grow: 1;
@@ -31,30 +35,17 @@
   justify-content: space-between;
 }
 
-.codebases-we-work-with .logo-lockup {
-  align-items: center;
-  cursor: pointer;
+.codebases-we-work-with .logo-lockup-xidFkX {
   display: inline-flex;
-  flex: 0 0 auto;
-  gap: 13px;
-  position: relative;
 }
 
-.codebases-we-work-with .logo-symbol {
-  height: 55px;
-  position: relative;
-  width: 47.66px;
+.codebases-we-work-with .foundation-for-public-code-mSiYxg {
+  width: 365.33685302734375px;
 }
 
-.codebases-we-work-with .foundation-for-public-code {
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-  width: 365.34px;
-}
-
-.codebases-we-work-with .navigation {
+.codebases-we-work-with .navigation-xidFkX {
   align-items: center;
+  background-color: transparent;
   display: flex;
   flex: 1;
   flex-grow: 1;
@@ -64,8 +55,9 @@
   position: relative;
 }
 
-.codebases-we-work-with .links {
+.codebases-we-work-with .links-oDO8sB {
   align-items: flex-start;
+  background-color: transparent;
   display: inline-flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
@@ -74,38 +66,82 @@
   position: relative;
 }
 
-.codebases-we-work-with .link {
+.codebases-we-work-with .stewardship-ywOMqd {
+  background-color: transparent;
   cursor: pointer;
-  letter-spacing: 0;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
   width: fit-content;
 }
 
-.codebases-we-work-with .services {
+.codebases-we-work-with .resources-ywOMqd {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.codebases-we-work-with .who-we-are-ywOMqd {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.codebases-we-work-with .join-us-ywOMqd {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.codebases-we-work-with .services-oDO8sB {
   align-items: flex-start;
+  background-color: transparent;
   display: inline-flex;
   flex: 0 0 auto;
   gap: 20px;
   position: relative;
 }
 
-.codebases-we-work-with .logo {
+.codebases-we-work-with .logomastodon-Y7dwkq {
   height: 24px;
-  position: relative;
   width: 24px;
 }
 
-.codebases-we-work-with .subtract {
+.codebases-we-work-with .subtract-B89IIr {
   height: 24px;
   left: 1px;
-  position: absolute;
-  top: 0;
+  top: 0px;
   width: 22px;
 }
 
-.codebases-we-work-with .content-4 {
+.codebases-we-work-with .logotwitter-Y7dwkq {
+  height: 24px;
+  width: 24px;
+}
+
+.codebases-we-work-with .logogithub-Y7dwkq {
+  height: 24px;
+  width: 24px;
+}
+
+.codebases-we-work-with .content-2Gxsyn {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -117,314 +153,445 @@
   width: 100%;
 }
 
-.codebases-we-work-with .codebases-we-work-with-1 {
-  letter-spacing: 0;
+.codebases-we-work-with .breadcrumbs-rS5WCI {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.codebases-we-work-with .home-CdaGUU {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
+  text-decoration: underline;
   width: fit-content;
 }
 
-.codebases-we-work-with .title {
-  align-self: stretch;
-  letter-spacing: 0;
+.codebases-we-work-with .x-CdaGUU {
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
+  margin-top: -1.00px;
   position: relative;
+  text-align: left;
+  width: fit-content;
 }
 
-.codebases-we-work-with .flex-container {
+.codebases-we-work-with .codebases-we-work-with-CdaGUU {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.codebases-we-work-with .title-rS5WCI {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .flex-container-34679354-rS5WCI {
   align-items: flex-start;
+  background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 10px;
 }
 
-.codebases-we-work-with .text0-34679354 {
+.codebases-we-work-with .text0-34679354-4aBx3B {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-bottom: -11.00px;
+  position: relative;
+  text-align: left;
 }
 
-.codebases-we-work-with .text1-34679354 {
+.codebases-we-work-with .span0-zGoY4x {
+}
+
+.codebases-we-work-with .span1-zGoY4x {
+  text-decoration: underline;
+}
+
+.codebases-we-work-with .span2-zGoY4x {
+}
+
+.codebases-we-work-with .text1-34679354-4aBx3B {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
+  position: relative;
+  text-align: left;
 }
 
-.codebases-we-work-with .stage-1 {
+.codebases-we-work-with .span3-95mXxy {
+}
+
+.codebases-we-work-with .span4-95mXxy {
+  text-decoration: underline;
+}
+
+.codebases-we-work-with .span5-95mXxy {
+}
+
+.codebases-we-work-with .stage-1-rS5WCI {
+  align-items: center;
+  align-self: stretch;
   background-color: var(--fpcblue25);
+  border-radius: 6px;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
 }
 
-.codebases-we-work-with .content {
+.codebases-we-work-with .tab-hDs2Jt {
+  background-color: var(--fpcblue);
+}
+
+.codebases-we-work-with .content-hDs2Jt {
   align-items: flex-start;
-  display: flex;
   flex: 1;
   flex-direction: column;
   flex-grow: 1;
   gap: 15px;
   justify-content: center;
   padding: 30px;
-  position: relative;
 }
 
-.codebases-we-work-with .stage-1-assessment {
+.codebases-we-work-with .stage-1-assessment-ZXtq8a {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.codebases-we-work-with .div {
-  align-self: stretch;
+.codebases-we-work-with .div-ZXtq8a {
   background-color: var(--fpcblue);
-  border-radius: 2px;
-  height: 2px;
-  position: relative;
-  width: 100%;
 }
 
-.codebases-we-work-with .text0-34679363 {
-  line-height: 24px;
-}
-
-.codebases-we-work-with .text1-34679363 {
-  line-height: 24px;
-}
-
-.codebases-we-work-with .text2-34679363 {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: 24px;
-  position: relative;
-}
-
-.codebases-we-work-with .currently-in-public-assessment {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: 24px;
-  position: relative;
-}
-
-.codebases-we-work-with .cluster {
+.codebases-we-work-with .flex-container-34679363-ZXtq8a {
   align-items: flex-start;
-  align-self: stretch;
+  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.codebases-we-work-with .text0-34679363-bE9nXI {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .span0-QFSdzo {
+}
+
+.codebases-we-work-with .text1-34679363-bE9nXI {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .span1-JjquJU {
+}
+
+.codebases-we-work-with .text2-34679363-bE9nXI {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .span2-0viB18 {
+}
+
+.codebases-we-work-with .currently-in-public-assessment-ZXtq8a {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .cluster-ZXtq8a {
   gap: 15px 15px;
-  position: relative;
-  width: 100%;
 }
 
-.codebases-we-work-with .card {
-  align-items: flex-start;
-  background-color: var(--fpcwhite);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  display: flex;
-  flex: 1;
-  flex-grow: 1;
-  gap: 15px;
+.codebases-we-work-with .card-rODfw8 {
   max-width: 497px;
-  min-width: 360px;
-  padding: 15px;
-  position: relative;
 }
 
-.codebases-we-work-with .ellipse-12 {
-  background-color: var(--fpcmachine-grey);
-  border-radius: 36px;
+.codebases-we-work-with .digital-omgevingsbeleid-u9gRhQ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .explore-all-the-spat-u9gRhQ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .cluster-u9gRhQ {
+  gap: 20px 20px;
+}
+
+.codebases-we-work-with .card-h2Hgbx {
+  max-width: 497px;
+}
+
+.codebases-we-work-with .circu-law-logo-1-OGpfVb {
+  background-color: transparent;
   height: 72px;
+  object-fit: cover;
   position: relative;
   width: 72px;
 }
 
-.codebases-we-work-with .frame-261 {
+.codebases-we-work-with .circu-law-4BED8R {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .a-knowledge-platform-4BED8R {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .cluster-4BED8R {
+  gap: 20px 20px;
+}
+
+.codebases-we-work-with .arrow-Hh40Rl {
+  height: 10.52056884765625px;
+  width: 11.5234375px;
+}
+
+.codebases-we-work-with .stage-2-rS5WCI {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcpurple25);
+  border-radius: 6px;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.codebases-we-work-with .tab-F2R5NX {
+  background-color: var(--fpcpurple);
+}
+
+.codebases-we-work-with .content-F2R5NX {
   align-items: flex-start;
   flex: 1;
   flex-direction: column;
   flex-grow: 1;
-  gap: 10px;
-}
-
-.codebases-we-work-with .digital-omgevingsbeleid {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-}
-
-.codebases-we-work-with .explore-all-the-spat {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-}
-
-.codebases-we-work-with .cluster-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 20px 20px;
-  position: relative;
-  width: 100%;
-}
-
-.codebases-we-work-with .buttonsecondary {
-  align-items: center;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-}
-
-.codebases-we-work-with .circu-law-logo-1 {
-  height: 72px;
-  object-fit: cover;
-  position: relative;
-  width: 72px;
-}
-
-.codebases-we-work-with .circu-law {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-}
-
-.codebases-we-work-with .a-knowledge-platform {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-}
-
-.codebases-we-work-with .arrow-2 {
-  height: 10.52px;
-  width: 11.52px;
-}
-
-.codebases-we-work-with .stage-2 {
-  background-color: var(--fpcpurple25);
-}
-
-.codebases-we-work-with .tab-1 {
-  background-color: var(--fpcpurple);
-}
-
-.codebases-we-work-with .stage-2-incubation {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-}
-
-.codebases-we-work-with .div-1 {
-  background-color: var(--fpcpurple);
-}
-
-.codebases-we-work-with .codebases-in-incubat {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: 24px;
-  position: relative;
-}
-
-.codebases-we-work-with .currently-in-incubation {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: 24px;
-  position: relative;
-}
-
-.codebases-we-work-with .card-1 {
-  align-items: flex-start;
-  background-color: var(--fpcwhite);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  display: flex;
-  flex: 1;
-  flex-grow: 1;
   gap: 15px;
-  max-width: 496.5px;
-  min-width: 360px;
-  padding: 15px;
-  position: relative;
+  justify-content: center;
+  padding: 30px;
 }
 
-.codebases-we-work-with .open-source-project-template {
+.codebases-we-work-with .stage-2-incubation-JjpLlq {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.codebases-we-work-with .open-source-project {
+.codebases-we-work-with .div-JjpLlq {
+  background-color: var(--fpcpurple);
+}
+
+.codebases-we-work-with .codebases-in-incubat-JjpLlq {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .currently-in-incubation-JjpLlq {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .cluster-JjpLlq {
+  gap: 15px 15px;
+}
+
+.codebases-we-work-with .card-0zJuMh {
+  max-width: 496.5px;
+}
+
+.codebases-we-work-with .open-source-project-template-xDPGKC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .open-source-project-xDPGKC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
+  text-align: left;
 }
 
-.codebases-we-work-with .arrow {
-  height: 10.52px;
-  margin-right: -0.85px;
-  position: relative;
-  width: 11.52px;
+.codebases-we-work-with .cluster-xDPGKC {
+  gap: 20px 20px;
 }
 
-.codebases-we-work-with .x52713039-1 {
+.codebases-we-work-with .arrow-jkKjnR {
+  height: 10.5206298828125px;
+  width: 11.5234375px;
+}
+
+.codebases-we-work-with .card-K5jAPU {
+  max-width: 496.5px;
+}
+
+.codebases-we-work-with .x52713039-1-3mxuRW {
+  background-color: transparent;
   height: 72px;
   object-fit: cover;
   position: relative;
   width: 72px;
 }
 
-.codebases-we-work-with .open-zaak {
+.codebases-we-work-with .open-zaak-zx9qWZ {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.codebases-we-work-with .backend-component-to {
+.codebases-we-work-with .backend-component-to-zx9qWZ {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
+  text-align: left;
 }
 
-.codebases-we-work-with .signalen_logo_small-1 {
+.codebases-we-work-with .cluster-zx9qWZ {
+  gap: 20px 20px;
+}
+
+.codebases-we-work-with .arrow-R72VsP {
+  height: 10.5206298828125px;
+  width: 11.5234375px;
+}
+
+.codebases-we-work-with .card-mMAoLm {
+  max-width: 496.5px;
+}
+
+.codebases-we-work-with .signalen_logo_small-1-v2GxqE {
+  background-color: transparent;
   height: 75px;
   object-fit: cover;
   position: relative;
   width: 75px;
 }
 
-.codebases-we-work-with .signalen {
+.codebases-we-work-with .signalen-r8bUbD {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.codebases-we-work-with .receiving-automatic {
+.codebases-we-work-with .receiving-automatica-r8bUbD {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
+  text-align: left;
 }
 
-.codebases-we-work-with .stage {
+.codebases-we-work-with .cluster-r8bUbD {
+  gap: 20px 20px;
+}
+
+.codebases-we-work-with .arrow-MVN7K6 {
+  height: 10.5206298828125px;
+  width: 11.5234375px;
+}
+
+.codebases-we-work-with .stage-5-rS5WCI {
   align-items: center;
   align-self: stretch;
+  background-color: transparent;
   border-radius: 6px;
   display: flex;
   flex: 0 0 auto;
@@ -432,11 +599,11 @@
   width: 100%;
 }
 
-.codebases-we-work-with .tab-2 {
+.codebases-we-work-with .tab-n1uxrJ {
   background-color: var(--fpcgreen);
 }
 
-.codebases-we-work-with .content-1 {
+.codebases-we-work-with .content-n1uxrJ {
   align-items: flex-start;
   flex: 1;
   flex-direction: column;
@@ -446,134 +613,199 @@
   padding: 0px 30px;
 }
 
-.codebases-we-work-with .stage-3-mature {
+.codebases-we-work-with .stage-3-mature-FWOrcU {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.codebases-we-work-with .div-2 {
+.codebases-we-work-with .div-FWOrcU {
   background-color: var(--fpcgreen);
 }
 
-.codebases-we-work-with .mature-codebases-and {
+.codebases-we-work-with .mature-codebases-and-FWOrcU {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 24px;
   position: relative;
+  text-align: left;
 }
 
-.codebases-we-work-with .there-are-currently {
-  align-self: stretch;
-  color: var(--fpcblack);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: italic;
-  font-weight: 400;
-  letter-spacing: 0;
-  line-height: 24px;
-  position: relative;
-}
-
-.codebases-we-work-with .tab-3 {
-  background-color: var(--fpcpeach);
-}
-
-.codebases-we-work-with .stage-4-attic {
-  align-self: stretch;
-  color: transparent;
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xxxxl);
-  font-weight: 700;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-}
-
-.codebases-we-work-with .div-3 {
-  background-color: var(--fpcpeach);
-}
-
-.codebases-we-work-with .codebases-and-commun {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: 24px;
-  position: relative;
-}
-
-.codebases-we-work-with .div-4 {
-  background-color: var(--charcoal);
-}
-
-.codebases-we-work-with .connect {
+.codebases-we-work-with .stage-6-rS5WCI {
   align-items: center;
   align-self: stretch;
+  background-color: transparent;
+  border-radius: 6px;
   display: flex;
   flex: 0 0 auto;
-  gap: 15px;
   position: relative;
   width: 100%;
 }
 
-.codebases-we-work-with .contact {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 150px;
-  display: flex;
+.codebases-we-work-with .tab-Y9HY40 {
+  background-color: var(--fpcpeach);
+}
+
+.codebases-we-work-with .content-Y9HY40 {
+  align-items: flex-start;
   flex: 1;
   flex-direction: column;
   flex-grow: 1;
-  gap: 30px;
-  padding: 30px;
-  position: relative;
+  gap: 15px;
+  justify-content: center;
+  padding: 0px 30px;
 }
 
-.codebases-we-work-with .frame-197 {
+.codebases-we-work-with .stage-4-attic-lpFb5s {
+  align-self: stretch;
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .span0-7wNUOg {
+  font-style: normal;
+}
+
+.codebases-we-work-with .span1-7wNUOg {
+  font-style: normal;
+}
+
+.codebases-we-work-with .div-lpFb5s {
+  background-color: var(--fpcpeach);
+}
+
+.codebases-we-work-with .codebases-and-commun-lpFb5s {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .div-rS5WCI {
+  background-color: var(--charcoal);
+}
+
+.codebases-we-work-with .connect-rS5WCI {
   align-items: center;
   align-self: stretch;
+  background-color: transparent;
+  display: flex;
   flex: 0 0 auto;
-  flex-direction: column;
   gap: 15px;
-  max-width: 520px;
+  position: relative;
   width: 100%;
 }
 
-.codebases-we-work-with .connect-with-us {
+.codebases-we-work-with .contact-awZISu {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 150px;
+  flex: 1;
+  flex-grow: 1;
+  gap: 30px;
+  padding: 30px;
+}
+
+.codebases-we-work-with .frame-197-e4tYka {
+  max-width: 520px;
+}
+
+.codebases-we-work-with .connect-with-us-PZV8A3 {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
   text-align: center;
 }
 
-.codebases-we-work-with .logo-1 {
+.codebases-we-work-with .got-a-question-sugge-PZV8A3 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.codebases-we-work-with .span0-xVKAwB {
+}
+
+.codebases-we-work-with .span1-xVKAwB {
+  text-decoration: underline;
+}
+
+.codebases-we-work-with .span2-xVKAwB {
+}
+
+.codebases-we-work-with .channels-e4tYka {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+}
+
+.codebases-we-work-with .logomastodon-9leZk9 {
   cursor: pointer;
   height: 32px;
+  width: 32px;
+}
+
+.codebases-we-work-with .subtract-UrxC3e {
+  height: 32px;
+  left: 1px;
+  top: 0px;
+  width: 30px;
+}
+
+.codebases-we-work-with .logotwitter-9leZk9 {
+  cursor: pointer;
+  height: 32px;
+  width: 32px;
+}
+
+.codebases-we-work-with .logoyoutube-9leZk9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31.94074249267578px;
+  overflow: hidden;
   position: relative;
   width: 32px;
 }
 
-.codebases-we-work-with .subtract-1 {
-  height: 32px;
-  left: 1px;
-  position: absolute;
-  top: 0;
-  width: 30px;
-}
-
-.codebases-we-work-with .subtract-2 {
+.codebases-we-work-with .subtract-SSL93x {
   height: 22px;
-  left: 0;
-  position: absolute;
+  left: 0px;
   top: 5px;
   width: 32px;
 }
 
-.codebases-we-work-with .mailing-list {
+.codebases-we-work-with .logogithub-9leZk9 {
+  cursor: pointer;
+  height: 32px;
+  width: 32px;
+}
+
+.codebases-we-work-with .mailing-list-awZISu {
   align-items: center;
   background-color: var(--basic-link);
   border-radius: 150px;
@@ -587,18 +819,17 @@
   width: 217px;
 }
 
-.codebases-we-work-with .frame-197-1 {
-  align-items: center;
+.codebases-we-work-with .join-our-mailing-list-Dp0ok0 {
   align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 15px;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
   position: relative;
-  width: 100%;
+  text-align: center;
 }
 
-.codebases-we-work-with .buttonprimary {
+.codebases-we-work-with .buttonprimary-wTDJ4Z {
   align-items: center;
   background-color: var(--fpcwhite);
   border-radius: 6px;
@@ -611,15 +842,25 @@
   position: relative;
 }
 
-.codebases-we-work-with .arrow-1 {
-  height: 12.47px;
-  width: 15.24px;
+.codebases-we-work-with .read-more-Sd5ck2 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
 }
 
-.codebases-we-work-with .footer {
+.codebases-we-work-with .arrow-Sd5ck2 {
+  height: 12.46923828125px;
+  width: 15.23828125px;
+}
+
+.codebases-we-work-with .footer-2Gxsyn {
   align-items: center;
   align-self: stretch;
-  background-color: var(--fpcmachine-grey);
+  background-color: var(--fpcgrey-f2);
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -630,35 +871,31 @@
   width: 100%;
 }
 
-.codebases-we-work-with .logo-lockup-1 {
-  align-items: center;
+.codebases-we-work-with .logo-lockup-xPDz9z {
   align-self: stretch;
-  cursor: pointer;
   display: flex;
-  flex: 0 0 auto;
-  gap: 13px;
-  position: relative;
   width: 100%;
 }
 
-.codebases-we-work-with .foundation-for-public-code-1 {
+.codebases-we-work-with .foundation-for-public-code-dQB0JU {
   flex: 1;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
 }
 
-.codebases-we-work-with .frame-217 {
+.codebases-we-work-with .frame-217-xPDz9z {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
+  display: flex;
   flex: 0 0 auto;
   gap: 60px;
   justify-content: center;
+  position: relative;
   width: 100%;
 }
 
-.codebases-we-work-with .blocks {
+.codebases-we-work-with .blocks-B0u7bw {
   align-items: flex-start;
+  background-color: transparent;
   display: flex;
   flex: 1;
   flex-direction: column;
@@ -668,7 +905,7 @@
   position: relative;
 }
 
-.codebases-we-work-with .blocks-item {
+.codebases-we-work-with .about-us-5eDv7J {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--fpcwhite);
@@ -683,7 +920,7 @@
   width: 100%;
 }
 
-.codebases-we-work-with .content-2 {
+.codebases-we-work-with .content-xwSrmv {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -692,8 +929,77 @@
   width: 100%;
 }
 
-.codebases-we-work-with .information {
+.codebases-we-work-with .our-operational-details-x8Bnu0 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .our-staff-informatio-x8Bnu0 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .arrow-EBHwLq {
+  height: 12.46923828125px;
+  width: 15.23828125px;
+}
+
+.codebases-we-work-with .project-resources-5eDv7J {
   align-items: flex-start;
+  background-color: var(--fpcwhite);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  padding: 30px;
+  width: 100%;
+}
+
+.codebases-we-work-with .content-qnPpGv {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.codebases-we-work-with .project-resources-R4lxLB {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.codebases-we-work-with .open-products-were-r-R4lxLB {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .arrow-OWWsht {
+  height: 12.46923828125px;
+  width: 15.23828125px;
+}
+
+.codebases-we-work-with .information-B0u7bw {
+  align-items: flex-start;
+  background-color: transparent;
   display: flex;
   flex: 1;
   flex-direction: column;
@@ -703,13 +1009,184 @@
   position: relative;
 }
 
-.codebases-we-work-with .div-5 {
+.codebases-we-work-with .div-hs3gx6 {
   background-color: var(--charcoal);
 }
 
-.codebases-we-work-with .information-item {
+.codebases-we-work-with .contact-hs3gx6 {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.codebases-we-work-with .contact-info-lPrVZm {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.codebases-we-work-with .frame-218-A05hWx {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  position: relative;
+}
+
+.codebases-we-work-with .phone-31-20-2-444-500-pxCOwS {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .span0-qec3KQ {
+}
+
+.codebases-we-work-with .span1-qec3KQ {
+  text-decoration: underline;
+}
+
+.codebases-we-work-with .email-infopubliccodenet-pxCOwS {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .span0-pthQNQ {
+}
+
+.codebases-we-work-with .span1-pthQNQ {
+  text-decoration: underline;
+}
+
+.codebases-we-work-with .keizersgracht-617-10-A05hWx {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .span0-5ynmmC {
+}
+
+.codebases-we-work-with .span1-5ynmmC {
+  text-decoration: underline;
+}
+
+.codebases-we-work-with .span2-5ynmmC {
+}
+
+.codebases-we-work-with .span3-5ynmmC {
+  text-decoration: underline;
+}
+
+.codebases-we-work-with .div-ffYmQ3 {
+  background-color: var(--charcoal);
+}
+
+.codebases-we-work-with .notes-hs3gx6 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.codebases-we-work-with .flex-container-i3467944433815548-7jXFhc {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.codebases-we-work-with .text0-i3467944433815548-BI6u7B {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .span0-U1hTWs {
+}
+
+.codebases-we-work-with .span1-U1hTWs {
+  text-decoration: underline;
+}
+
+.codebases-we-work-with .span2-U1hTWs {
+}
+
+.codebases-we-work-with .span3-U1hTWs {
+  text-decoration: underline;
+}
+
+.codebases-we-work-with .span4-U1hTWs {
+}
+
+.codebases-we-work-with .text1-i3467944433815548-BI6u7B {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .span5-D5gCyo {
+}
+
+.codebases-we-work-with .span6-D5gCyo {
+  text-decoration: underline;
+}
+
+.codebases-we-work-with .span7-D5gCyo {
+}
+
+.codebases-we-work-with .span8-D5gCyo {
+  text-decoration: underline;
+}
+
+.codebases-we-work-with .span9-D5gCyo {
+}
+
+.codebases-we-work-with .div-GIucgN {
+  background-color: var(--charcoal);
+}
+
+.codebases-we-work-with .metadata-hs3gx6 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -718,72 +1195,152 @@
   width: 100%;
 }
 
-.codebases-we-work-with .contact-info {
-  align-items: flex-start;
+.codebases-we-work-with .updated-rbrLKH {
+  align-items: center;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
-  gap: 15px;
+  gap: 8px;
   position: relative;
   width: 100%;
 }
 
-.codebases-we-work-with .frame-218 {
-  align-items: flex-start;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 15px;
+.codebases-we-work-with .iconupdated-2o7eZx {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
 }
 
-.codebases-we-work-with .keizersgracht-617-1 {
+.codebases-we-work-with .last-updated-22-august-2023-2o7eZx {
+  background-color: transparent;
   flex: 1;
-  letter-spacing: 0;
+  letter-spacing: 0.00px;
   line-height: 20px;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.codebases-we-work-with .div-6 {
-  background-color: var(--charcoal);
-}
-
-.codebases-we-work-with .text {
+.codebases-we-work-with .copyright-rbrLKH {
+  align-items: center;
   align-self: stretch;
-  letter-spacing: 0;
-  line-height: 20px;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 7px;
   position: relative;
+  width: 100%;
 }
 
-.codebases-we-work-with .div-7 {
-  background-color: var(--charcoal);
-}
-
-.codebases-we-work-with .image {
-  height: 14.46px;
+.codebases-we-work-with .image-egxwSL {
+  background-color: transparent;
+  height: 14.4599609375px;
   position: relative;
-  width: 14.46px;
+  width: 14.4609375px;
 }
 
-.codebases-we-work-with .address {
+.codebases-we-work-with .x2023-foundation-for-public-code-egxwSL {
+  background-color: transparent;
   flex: 1;
-  letter-spacing: 0;
+  letter-spacing: 0.00px;
   line-height: 20px;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.codebases-we-work-with .arrow-3 {
+.codebases-we-work-with .span0-cArs6m {
+}
+
+.codebases-we-work-with .span1-cArs6m {
+  text-decoration: underline;
+}
+
+.codebases-we-work-with .license-rbrLKH {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.codebases-we-work-with .iconlicense-YsX2AP {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.codebases-we-work-with .creative-commons-zer-YsX2AP {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .span0-M8jom4 {
+  text-decoration: underline;
+}
+
+.codebases-we-work-with .span1-M8jom4 {
+}
+
+.codebases-we-work-with .arrow {
+  background-color: transparent;
   margin-right: -0.85px;
   position: relative;
 }
 
-.codebases-we-work-with .content-5 {
-  display: flex;
+.codebases-we-work-with .buttonsecondary {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
   position: relative;
 }
 
-.codebases-we-work-with .div-8 {
+.codebases-we-work-with .card {
+  align-items: flex-start;
+  background-color: var(--fpcwhite);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 15px;
+  min-width: 360px;
+  padding: 15px;
+  position: relative;
+}
+
+.codebases-we-work-with .cluster {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  position: relative;
+  width: 100%;
+}
+
+.codebases-we-work-with .contact {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.codebases-we-work-with .div {
   align-self: stretch;
   border-radius: 2px;
   height: 2px;
@@ -791,44 +1348,83 @@
   width: 100%;
 }
 
-.codebases-we-work-with .frame {
-  display: flex;
+.codebases-we-work-with .ellipse-12 {
+  background-color: var(--fpcgrey-f2);
+  border-radius: 36px;
+  height: 72px;
   position: relative;
+  width: 72px;
 }
 
-.codebases-we-work-with .stage-3 {
+.codebases-we-work-with .foundation-for-public-code {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.codebases-we-work-with .frame-197 {
   align-items: center;
   align-self: stretch;
-  border-radius: 6px;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
   position: relative;
   width: 100%;
 }
 
-.codebases-we-work-with .tab-4 {
+.codebases-we-work-with .frame-261 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 10px;
+  position: relative;
+}
+
+.codebases-we-work-with .logo-lockup {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  flex: 0 0 auto;
+  gap: 13px;
+  position: relative;
+}
+
+.codebases-we-work-with .logo-symbol {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.6640625px;
+}
+
+.codebases-we-work-with .tab {
   align-self: stretch;
   border-radius: 6px;
   position: relative;
   width: 12px;
 }
 
-.codebases-we-work-with .text-13 {
-  letter-spacing: 0;
+.codebases-we-work-with .text {
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
   width: fit-content;
 }
 
-.codebases-we-work-with .text0 {
+.codebases-we-work-with .there-are-currently {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
   position: relative;
-}
-
-.codebases-we-work-with .text1 {
-  align-self: stretch;
-  letter-spacing: 0;
-  position: relative;
+  text-align: left;
 }

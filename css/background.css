@@ -6,13 +6,17 @@
   display: flex;
   flex-direction: column;
   gap: 60px;
+  left: 0px;
+  overflow: hidden;
+  overflow-x: hidden;
   position: relative;
+  top: 0px;
 }
 
-.background .navheader {
+.background .navheader-xkwFH4 {
   align-items: center;
   align-self: stretch;
-  background-color: var(--fpcmachine-grey);
+  background-color: var(--fpcgrey-f2);
   box-shadow: 0px 4px 0px #00000026;
   display: flex;
   flex: 0 0 auto;
@@ -22,7 +26,7 @@
   width: 100%;
 }
 
-.background .content-1 {
+.background .content-VGnqYx {
   align-items: center;
   flex: 1;
   flex-grow: 1;
@@ -31,30 +35,17 @@
   justify-content: space-between;
 }
 
-.background .logo-lockup {
-  align-items: center;
-  cursor: pointer;
+.background .logo-lockup-xN8doQ {
   display: inline-flex;
-  flex: 0 0 auto;
-  gap: 13px;
-  position: relative;
 }
 
-.background .logo-symbol {
-  height: 55px;
-  position: relative;
-  width: 47.66px;
+.background .foundation-for-public-code-AHvZrx {
+  width: 365.33685302734375px;
 }
 
-.background .foundation-for-public-code {
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-  width: 365.34px;
-}
-
-.background .navigation {
+.background .navigation-xN8doQ {
   align-items: center;
+  background-color: transparent;
   display: flex;
   flex: 1;
   flex-grow: 1;
@@ -64,8 +55,9 @@
   position: relative;
 }
 
-.background .links {
+.background .links-Kc9MOa {
   align-items: flex-start;
+  background-color: transparent;
   display: inline-flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
@@ -74,38 +66,76 @@
   position: relative;
 }
 
-.background .link {
+.background .stewardship-2Ampgr {
+  background-color: transparent;
   cursor: pointer;
-  letter-spacing: 0;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
   width: fit-content;
 }
 
-.background .services {
+.background .resources-2Ampgr {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.background .who-we-are-2Ampgr {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.background .join-us-2Ampgr {
+  cursor: pointer;
+  width: fit-content;
+}
+
+.background .services-Kc9MOa {
   align-items: flex-start;
+  background-color: transparent;
   display: inline-flex;
   flex: 0 0 auto;
   gap: 20px;
   position: relative;
 }
 
-.background .logo {
+.background .logomastodon-HWWOJ6 {
   height: 24px;
-  position: relative;
   width: 24px;
 }
 
-.background .subtract {
+.background .subtract-OLBJOT {
   height: 24px;
   left: 1px;
-  position: absolute;
-  top: 0;
+  top: 0px;
   width: 22px;
 }
 
-.background .content-2 {
+.background .logotwitter-HWWOJ6 {
+  height: 24px;
+  width: 24px;
+}
+
+.background .logogithub-HWWOJ6 {
+  height: 24px;
+  width: 24px;
+}
+
+.background .content-xkwFH4 {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -117,21 +147,50 @@
   width: 100%;
 }
 
-.background .text-3 {
-  line-height: normal;
-  margin-top: -1.00px;
-  width: fit-content;
+.background .breadcrumbs-U75cxt {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
 }
 
-.background .background-1 {
-  letter-spacing: 0;
+.background .home-yfUZDx {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
+  text-decoration: underline;
   width: fit-content;
 }
 
-.background .content-3 {
+.background .x-yfUZDx {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.background .background-yfUZDx {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.background .content-U75cxt {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -140,91 +199,400 @@
   width: 100%;
 }
 
-.background .background-an-intro {
+.background .title-2qQOK0 {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.background .flex-container {
+.background .flex-container-347111751-2qQOK0 {
   align-items: flex-start;
+  background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 10px;
 }
 
-.background .text {
+.background .text0-347111751-8DTHyz {
   align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 20px;
+  position: relative;
+  text-align: left;
 }
 
-.background .span0 {
+.background .span0-jQDuZl {
   line-height: 30px;
 }
 
-.background .span1 {
+.background .text1-347111751-8DTHyz {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span1-3F0rzj {
   line-height: 24px;
 }
 
-.background .cluster {
-  align-items: center;
+.background .public-code-serves-the-public-interest-xBHE7y {
   align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.background .flex-container-35234857-xBHE7y {
+  align-items: flex-start;
+  background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
   flex-direction: column;
-  gap: 20px;
-  justify-content: center;
-  position: relative;
-  width: 100%;
+  gap: 10px;
 }
 
-.background .public-code-serves-the-public-interest {
+.background .text0-35234857-zJIndt {
   align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-}
-
-.background .text-1 {
-  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 24px;
+  position: relative;
+  text-align: left;
 }
 
-.background .helping-public-open {
+.background .span0-xE3YQm {
+}
+
+.background .text1-35234857-zJIndt {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span1-rIE6tM {
+}
+
+.background .text2-35234857-zJIndt {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span2-bXxIZJ {
+}
+
+.background .text3-35234857-zJIndt {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span3-eR5DZx {
+}
+
+.background .helping-public-open-S8XxwW {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.background .sustainable-codebase-stewardship {
+.background .flex-container-35234860-S8XxwW {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.background .text0-35234860-9EQxcK {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span0-xFC5On {
+}
+
+.background .text1-35234860-9EQxcK {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span1-FoMvMv {
+}
+
+.background .text2-35234860-9EQxcK {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span2-MOjQDS {
+}
+
+.background .text3-35234860-9EQxcK {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span3-e13qux {
+}
+
+.background .text4-35234860-9EQxcK {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span4-q1WSvL {
+}
+
+.background .text5-35234860-9EQxcK {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span5-3FWVZi {
+}
+
+.background .text6-35234860-9EQxcK {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span6-V9brUR {
+}
+
+.background .text7-35234860-9EQxcK {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span7-IJS6jJ {
+}
+
+.background .sustainable-codebase-stewardship-sipxfP {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.background .join-us {
+.background .flex-container-35234880-sipxfP {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.background .text0-35234880-7hKeEj {
   align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1.00px;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
   position: relative;
+  text-align: left;
 }
 
-.background .text-2 {
+.background .span0-D3SeJj {
+}
+
+.background .span1-D3SeJj {
+}
+
+.background .span2-D3SeJj {
+}
+
+.background .text1-35234880-7hKeEj {
   align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span3-e0LIt3 {
+}
+
+.background .text2-35234880-7hKeEj {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span4-2lkSWP {
+}
+
+.background .text3-35234880-7hKeEj {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span5-9DxoXt {
+}
+
+.background .text4-35234880-7hKeEj {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span6-yqDBOf {
+}
+
+.background .text5-35234880-7hKeEj {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span7-KPwzLk {
+}
+
+.background .text6-35234880-7hKeEj {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span8-awHRK2 {
+}
+
+.background .text7-35234880-7hKeEj {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span9-4NAbNG {
+}
+
+.background .span10-4NAbNG {
+}
+
+.background .span11-4NAbNG {
+}
+
+.background .join-us-cxKLhC {
+  align-self: stretch;
+}
+
+.background .flex-container-35234883-cxKLhC {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.background .text0-35234883-OSZSwC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 30px;
+  position: relative;
+  text-align: left;
 }
 
-.background .connect {
+.background .span0-OxF95J {
+}
+
+.background .text1-35234883-OSZSwC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span1-TEx9tx {
+  text-decoration: underline;
+}
+
+.background .span2-TEx9tx {
+}
+
+.background .connect-U75cxt {
   align-items: center;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   gap: 15px;
@@ -232,60 +600,100 @@
   width: 100%;
 }
 
-.background .contact {
+.background .contact-xjRXNv {
   align-items: center;
   background-color: var(--basic-link);
   border-radius: 150px;
   flex: 1;
-  flex-direction: column;
   flex-grow: 1;
   gap: 30px;
   padding: 30px;
 }
 
-.background .frame-197 {
-  align-items: center;
-  align-self: stretch;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 15px;
+.background .frame-197-0TWM2T {
   max-width: 520px;
-  width: 100%;
 }
 
-.background .connect-with-us {
+.background .connect-with-us-K3hW9B {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
   text-align: center;
 }
 
-.background .logo-1 {
+.background .got-a-question-sugge-K3hW9B {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.background .span0-7TuRdQ {
+}
+
+.background .span1-7TuRdQ {
+  text-decoration: underline;
+}
+
+.background .span2-7TuRdQ {
+}
+
+.background .channels-0TWM2T {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+}
+
+.background .logomastodon-Da2WKm {
   cursor: pointer;
   height: 32px;
+  width: 32px;
+}
+
+.background .subtract-INzqcW {
+  height: 32px;
+  left: 1px;
+  top: 0px;
+  width: 30px;
+}
+
+.background .logotwitter-Da2WKm {
+  cursor: pointer;
+  height: 32px;
+  width: 32px;
+}
+
+.background .logoyoutube-Da2WKm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31.94074249267578px;
+  overflow: hidden;
   position: relative;
   width: 32px;
 }
 
-.background .subtract-1 {
-  height: 32px;
-  left: 1px;
-  position: absolute;
-  top: 0;
-  width: 30px;
-}
-
-.background .subtract-2 {
+.background .subtract-ikfE6j {
   height: 22px;
-  left: 0;
-  position: absolute;
+  left: 0px;
   top: 5px;
   width: 32px;
 }
 
-.background .mailing-list {
+.background .logogithub-Da2WKm {
+  cursor: pointer;
+  height: 32px;
+  width: 32px;
+}
+
+.background .mailing-list-xjRXNv {
   align-items: center;
   background-color: var(--basic-link);
   border-radius: 150px;
@@ -299,18 +707,17 @@
   width: 217px;
 }
 
-.background .frame-197-1 {
-  align-items: center;
+.background .join-our-mailing-list-Nnuk7I {
   align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 15px;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
   position: relative;
-  width: 100%;
+  text-align: center;
 }
 
-.background .buttonprimary {
+.background .buttonprimary-RTmEvy {
   align-items: center;
   background-color: var(--fpcwhite);
   border-radius: 6px;
@@ -323,10 +730,24 @@
   position: relative;
 }
 
-.background .footer {
+.background .read-more-pihnVm {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.background .arrow-pihnVm {
+  height: 12.468994140625px;
+}
+
+.background .footer-xkwFH4 {
   align-items: center;
   align-self: stretch;
-  background-color: var(--fpcmachine-grey);
+  background-color: var(--fpcgrey-f2);
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -337,52 +758,56 @@
   width: 100%;
 }
 
-.background .logo-lockup-1 {
-  align-items: center;
+.background .logo-lockup-hCtWpv {
   align-self: stretch;
-  cursor: pointer;
   display: flex;
-  flex: 0 0 auto;
-  gap: 13px;
-  position: relative;
   width: 100%;
 }
 
-.background .foundation-for-public-code-1 {
+.background .foundation-for-public-code-GnzBha {
   flex: 1;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
 }
 
-.background .frame-217 {
+.background .frame-217-hCtWpv {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
+  display: flex;
   flex: 0 0 auto;
   gap: 60px;
   justify-content: center;
+  position: relative;
   width: 100%;
 }
 
-.background .blocks {
+.background .blocks-x6EywP {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
   flex: 1;
+  flex-direction: column;
   flex-grow: 1;
   gap: 20px;
   max-width: 1160px;
+  position: relative;
 }
 
-.background .blocks-item {
+.background .about-us-mGi4rG {
+  align-items: flex-start;
   align-self: stretch;
   background-color: var(--fpcwhite);
   border-radius: 6px;
   box-shadow: 0px 4px 0px #00000026;
+  display: flex;
   flex: 0 0 auto;
+  flex-direction: column;
   gap: 30px;
   padding: 30px;
+  position: relative;
   width: 100%;
 }
 
-.background .content {
+.background .content-VRfHMB {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -391,8 +816,366 @@
   width: 100%;
 }
 
+.background .our-operational-details-uMbUwA {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.background .our-staff-informatio-uMbUwA {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.background .arrow-RmzzMc {
+  height: 12.46923828125px;
+}
+
+.background .project-resources-mGi4rG {
+  align-items: flex-start;
+  background-color: var(--fpcwhite);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  padding: 30px;
+  width: 100%;
+}
+
+.background .content-jZKPad {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.background .project-resources-4yT13S {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.background .open-products-were-r-4yT13S {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.background .arrow-slNrif {
+  height: 12.46923828125px;
+}
+
+.background .information-x6EywP {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  max-width: 1160px;
+  position: relative;
+}
+
+.background .contact-gIagc8 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.background .contact-info-ExpkdK {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.background .frame-218-tFNDNW {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  position: relative;
+}
+
+.background .phone-31-20-2-444-500-xaMZml {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span0-5QK0OO {
+}
+
+.background .span1-5QK0OO {
+  text-decoration: underline;
+}
+
+.background .email-infopubliccodenet-xaMZml {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span0-cpeuxm {
+}
+
+.background .span1-cpeuxm {
+  text-decoration: underline;
+}
+
+.background .keizersgracht-617-10-tFNDNW {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span0-zdArcJ {
+}
+
+.background .span1-zdArcJ {
+  text-decoration: underline;
+}
+
+.background .span2-zdArcJ {
+}
+
+.background .span3-zdArcJ {
+  text-decoration: underline;
+}
+
+.background .notes-gIagc8 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.background .flex-container-i34711183033815548-M89J5S {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.background .text0-i34711183033815548-xZSxsT {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span0-A2m4y5 {
+}
+
+.background .span1-A2m4y5 {
+  text-decoration: underline;
+}
+
+.background .span2-A2m4y5 {
+}
+
+.background .span3-A2m4y5 {
+  text-decoration: underline;
+}
+
+.background .span4-A2m4y5 {
+}
+
+.background .text1-i34711183033815548-xZSxsT {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span5-1WJ0bz {
+}
+
+.background .span6-1WJ0bz {
+  text-decoration: underline;
+}
+
+.background .span7-1WJ0bz {
+}
+
+.background .span8-1WJ0bz {
+  text-decoration: underline;
+}
+
+.background .span9-1WJ0bz {
+}
+
+.background .metadata-gIagc8 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.background .updated-Y1lpgx {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.background .iconupdated-gqlv3W {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.background .last-updated-22-august-2023-gqlv3W {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.background .copyright-Y1lpgx {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+  width: 100%;
+}
+
+.background .image-DngxWt {
+  background-color: transparent;
+  height: 14.4599609375px;
+  position: relative;
+  width: 14.4599609375px;
+}
+
+.background .x2023-foundation-for-public-code-DngxWt {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span0-KJ3jMX {
+}
+
+.background .span1-KJ3jMX {
+  text-decoration: underline;
+}
+
+.background .license-Y1lpgx {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.background .iconlicense-27tzow {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.background .creative-commons-zer-27tzow {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.background .span0-9mNzW8 {
+  text-decoration: underline;
+}
+
+.background .span1-9mNzW8 {
+}
+
+.background .arrow {
+  background-color: transparent;
+  margin-right: -0.85px;
+  position: relative;
+  width: 15.2392578125px;
+}
+
 .background .buttonsecondary {
   align-items: center;
+  background-color: transparent;
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
@@ -400,95 +1183,26 @@
   position: relative;
 }
 
-.background .text-4 {
-  line-height: normal;
-  margin-top: -1.00px;
-  width: fit-content;
-}
-
-.background .text-5 {
-  line-height: normal;
-  margin-top: -1.00px;
-  width: fit-content;
-}
-
-.background .information {
-  flex: 1;
-  flex-grow: 1;
-  gap: 30px;
-  max-width: 1160px;
-}
-
-.background .information-item {
+.background .cluster {
+  align-items: center;
   align-self: stretch;
+  background-color: transparent;
+  display: flex;
   flex: 0 0 auto;
-  gap: 10px;
-  width: 100%;
-}
-
-.background .contact-info {
-  align-items: flex-start;
-  align-self: stretch;
-  flex: 0 0 auto;
-  gap: 15px;
-  width: 100%;
-}
-
-.background .frame-218 {
-  align-items: flex-start;
-  flex: 1;
   flex-direction: column;
-  flex-grow: 1;
-  gap: 15px;
-}
-
-.background .keizersgracht-617-1 {
-  flex: 1;
-  letter-spacing: 0;
-  line-height: 20px;
-  margin-top: -1.00px;
+  gap: 20px;
+  justify-content: center;
   position: relative;
+  width: 100%;
 }
 
-.background .image {
-  height: 14.46px;
-  position: relative;
-  width: 14.46px;
-}
-
-.background .address {
-  flex: 1;
-  letter-spacing: 0;
-  line-height: 20px;
-  margin-top: -1.00px;
-  position: relative;
-}
-
-.background .arrow-2 {
-  height: 12.47px;
-  margin-right: -0.85px;
-  position: relative;
-  width: 15.24px;
-}
-
-.background .blocks-1 {
-  align-items: flex-start;
+.background .contact {
   display: flex;
   flex-direction: column;
   position: relative;
 }
 
-.background .contact-1 {
-  display: flex;
-  position: relative;
-}
-
-.background .content-4 {
-  display: flex;
-  position: relative;
-}
-
-.background .div-4 {
+.background .div {
   align-self: stretch;
   background-color: var(--charcoal);
   border-radius: 2px;
@@ -497,19 +1211,57 @@
   width: 100%;
 }
 
-.background .frame {
-  display: flex;
+.background .foundation-for-public-code {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
   position: relative;
+  text-align: left;
 }
 
-.background .information-1 {
-  align-items: flex-start;
+.background .frame-197 {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
   display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.background .join-us {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.background .logo-lockup {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  flex: 0 0 auto;
+  gap: 13px;
   position: relative;
 }
 
-.background .text-6 {
-  letter-spacing: 0;
+.background .logo-symbol {
+  background-color: transparent;
+  height: 55px;
   position: relative;
+  width: 47.66314697265625px;
+}
+
+.background .text {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
 }

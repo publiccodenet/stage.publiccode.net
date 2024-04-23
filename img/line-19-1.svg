@@ -1,1 +1,3 @@
-<svg fill="none" height="512" viewBox="0 0 2 512" width="2" xmlns="http://www.w3.org/2000/svg"><path d="m1 .268066-.000022 511.097934" stroke="#000" stroke-width="2"/></svg>
+<svg width="2" height="512" viewBox="0 0 2 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="1" y1="0.268066" x2="0.999978" y2="511.366" stroke="black" stroke-width="2"/>
+</svg>

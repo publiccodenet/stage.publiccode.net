@@ -6,328 +6,302 @@
   display: flex;
   flex-direction: column;
   gap: 60px;
+  left: 0px;
+  overflow: hidden;
+  overflow-x: hidden;
   position: relative;
+  top: 0px;
 }
 
-.resources-and-projects .header {
-  background: linear-gradient(180deg, rgb(243.11, 198, 156.36) 0%, rgb(253, 187, 171) 100%);
+.resources-and-projects .header-xqb7lB {
   background-color: transparent;
-  background-image: url(../img/bg.png);
-  background-size: 100% 100%;
-  box-shadow: inset -200px 250px 200px #fdbbab;
   height: 700px;
   overflow: hidden;
   position: relative;
   width: 1440px;
 }
 
-.resources-and-projects .overlap-group6 {
-  height: 680px;
-  left: 180px;
-  position: relative;
-  top: 116px;
-  width: 1236px;
-}
-
-.resources-and-projects .overlap-group5 {
-  height: 680px;
-  left: 0;
+.resources-and-projects .base-E3EZB4 {
+  background: linear-gradient(180deg, rgb(243.1131586432457, 198.00266325473785, 156.36226326227188) 0%, rgb(253.0000001192093, 187.00000405311584, 171.00000500679016) 100%);
+  background-color: transparent;
+  box-shadow: inset -200px 250px 200px #fdbbab;
+  height: 700px;
+  left: 0px;
   position: absolute;
-  top: 0;
-  width: 1236px;
+  top: 0px;
+  width: 1440px;
 }
 
-.resources-and-projects .service-3 {
-  align-items: flex-start;
-  display: flex;
+.resources-and-projects .bg-E3EZB4 {
+  background-color: transparent;
+  height: 700px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.resources-and-projects .service-3-E3EZB4 {
+  background-color: transparent;
   height: 680px;
-  left: 556px;
+  left: 736px;
   overflow: hidden;
-  padding: 63.1px 0;
   position: absolute;
-  top: 0;
+  top: 116px;
   width: 680px;
 }
 
-.resources-and-projects .overlap-group4 {
+.resources-and-projects .group-q28O8u {
+  background-color: transparent;
   height: 521px;
-  position: relative;
-  width: 610px;
-}
-
-.resources-and-projects .group {
-  height: 521px;
-  left: 0;
+  left: -0px;
   position: absolute;
-  top: 0;
+  top: 63px;
   width: 507px;
 }
 
-.resources-and-projects .union {
+.resources-and-projects .union-q28O8u {
   height: 316px;
   left: 293px;
-  position: absolute;
-  top: 4px;
+  top: 67px;
   width: 316px;
 }
 
-.resources-and-projects .wrench {
-  align-items: flex-end;
-  display: flex;
+.resources-and-projects .wrench-q28O8u {
+  background-color: transparent;
   height: 219px;
-  justify-content: flex-end;
   left: 409px;
-  min-width: 64px;
   position: absolute;
-  top: 113px;
+  top: 176px;
   transform: rotate(-105.00deg);
+  width: 64px;
 }
 
-.resources-and-projects .overlap-group {
-  height: 233px;
-  margin-bottom: -11.38px;
-  position: relative;
-  width: 147px;
-}
-
-.resources-and-projects .union-1 {
+.resources-and-projects .union-wbfSAP {
   height: 95px;
-  left: -34px;
-  position: absolute;
-  top: 69px;
+  left: -68px;
+  top: 66px;
   transform: rotate(105.00deg);
   width: 216px;
 }
 
-.resources-and-projects .rectangle {
+.resources-and-projects .rectangle-wbfSAP {
   background-color: var(--turbo);
   border-radius: 16.19px;
   height: 156px;
-  left: 58px;
+  left: 24px;
   position: absolute;
-  top: 60px;
+  top: 57px;
   width: 16px;
 }
 
-.resources-and-projects .union-2 {
+.resources-and-projects .union-p7hnST {
   height: 169px;
   left: 352px;
-  position: absolute;
-  top: 352px;
+  top: 415px;
   width: 196px;
 }
 
-.resources-and-projects .screwdriver {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 29px;
+.resources-and-projects .screwdriver-q28O8u {
+  background-color: transparent;
+  height: 220px;
   left: 433px;
-  min-height: 220px;
-  padding: 0.0px 0;
   position: absolute;
-  top: 8px;
+  top: 72px;
   transform: rotate(90.00deg);
   width: 50px;
 }
 
-.resources-and-projects .rectangle-1 {
+.resources-and-projects .rectangle-TvW9qy {
+  background-color: transparent;
   height: 39px;
-  margin-left: -30.15px;
-  margin-top: 36px;
+  left: -30px;
+  position: absolute;
+  top: 36px;
   transform: rotate(-90.00deg);
   width: 111px;
 }
 
-.resources-and-projects .overlap-group2 {
-  height: 116px;
-  margin-left: 0;
-  position: relative;
-  width: 50px;
-}
-
-.resources-and-projects .overlap-group1 {
-  height: 109px;
+.resources-and-projects .rectangle-Qk0UmY {
+  background-color: var(--turbo);
+  border-radius: 16.19px;
+  height: 86px;
   left: 14px;
   position: absolute;
-  top: 7px;
-  width: 23px;
-}
-
-.resources-and-projects .rectangle-2 {
-  background-color: var(--turbo);
-  border-radius: 16.19px;
-  height: 86px;
-  left: 0;
-  position: absolute;
-  top: 6px;
+  top: 118px;
   width: 5px;
 }
 
-.resources-and-projects .rectangle-3 {
+.resources-and-projects .rectangle-tvV6mo {
   background-color: var(--turbo);
   border-radius: 16.19px;
   height: 86px;
-  left: 18px;
+  left: 32px;
   position: absolute;
-  top: 6px;
+  top: 118px;
   width: 5px;
 }
 
-.resources-and-projects .rectangle-4 {
+.resources-and-projects .rectangle-bHAeVA {
   background-color: var(--turbo);
   border-radius: 16.19px;
   height: 86px;
-  left: 9px;
+  left: 23px;
   position: absolute;
-  top: 6px;
+  top: 118px;
   width: 5px;
 }
 
-.resources-and-projects .rectangle-5 {
+.resources-and-projects .rectangle-vvWQoa {
+  background-color: transparent;
   height: 16px;
-  left: -42px;
+  left: -29px;
   position: absolute;
-  top: 46px;
+  top: 158px;
   transform: rotate(-90.00deg);
   width: 109px;
 }
 
-.resources-and-projects .rectangle-6 {
+.resources-and-projects .rectangle-g2FPLR {
+  background-color: transparent;
   height: 16px;
-  left: 0;
+  left: 14px;
   position: absolute;
-  top: 89px;
+  top: 201px;
   transform: rotate(-90.00deg);
   width: 23px;
 }
 
-.resources-and-projects .rectangle-7 {
+.resources-and-projects .rectangle-ZlZL2h {
   background-color: var(--turbo);
   border-radius: 16.19px;
   height: 8px;
-  left: 0;
+  left: -0px;
   position: absolute;
-  top: 0;
+  top: 104px;
   width: 50px;
 }
 
-.resources-and-projects .bolt-ortho {
-  align-items: flex-start;
-  display: flex;
+.resources-and-projects .bolt-ortho-q28O8u {
+  background-color: transparent;
   height: 51px;
   left: 468px;
-  min-width: 58px;
-  padding: 0 0.9px;
   position: absolute;
-  top: 457px;
+  top: 520px;
   transform: rotate(-105.00deg);
+  width: 58px;
 }
 
-.resources-and-projects .subtract {
+.resources-and-projects .subtract-gDSL3b {
   height: 56px;
-  margin-top: -2.74px;
+  left: 1px;
+  top: -3px;
   transform: rotate(105.00deg);
   width: 56px;
 }
 
-.resources-and-projects .nut {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
+.resources-and-projects .nut-q28O8u {
+  background-color: transparent;
+  height: 78px;
   left: 402px;
-  min-height: 78px;
-  padding: 0.0px 0;
   position: absolute;
-  top: 382px;
+  top: 445px;
   transform: rotate(-120.35deg);
   width: 57px;
 }
 
-.resources-and-projects .overlap-group3 {
-  align-items: flex-start;
-  background-color: var(--fpcyellow);
-  border-radius: 1.62px;
-  display: flex;
-  justify-content: flex-end;
-  margin-left: 0;
-  min-width: 57px;
-  padding: 0 14.8px;
-}
-
-.resources-and-projects .rectangle-8 {
-  background-color: var(--turbo);
-  border-radius: 1.62px;
-  height: 15px;
-  width: 28px;
-}
-
-.resources-and-projects .rectangle-9 {
+.resources-and-projects .rectangle-aRFxT6 {
+  background-color: transparent;
   height: 52px;
-  margin-left: -3.64px;
+  left: -4px;
+  position: absolute;
+  top: 20px;
   transform: rotate(120.35deg);
   width: 66px;
 }
 
-.resources-and-projects .home-resources-and-projects {
-  left: 0;
-  letter-spacing: 0;
-  line-height: normal;
+.resources-and-projects .rectangle-UZ5TQP {
+  background-color: var(--fpcyellow);
+  border-radius: 1.62px;
+  height: 15px;
+  left: -0px;
   position: absolute;
-  top: 58px;
-  width: 567px;
+  top: 0px;
+  width: 57px;
 }
 
-.resources-and-projects .headline {
+.resources-and-projects .rectangle-5M8xgM {
+  background-color: var(--turbo);
+  border-radius: 1.62px;
+  height: 15px;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: 28px;
+}
+
+.resources-and-projects .headline-E3EZB4 {
   align-items: flex-start;
+  background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 30px;
-  left: 0;
+  left: 180px;
   position: absolute;
-  top: 134px;
+  top: 250px;
   width: 525px;
 }
 
-.resources-and-projects .title {
+.resources-and-projects .title-mJ8yXu {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .we-built-these-openl {
+.resources-and-projects .we-built-these-openl-mJ8yXu {
   align-self: stretch;
-  color: var(--fpcblack);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xl);
-  font-weight: 500;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 30px;
   position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .buttonsecondary-2 {
+.resources-and-projects .buttonsecondary-mJ8yXu {
   gap: 15px;
   padding: 0px 6px 0px 0px;
 }
 
-.resources-and-projects .text-2 {
-  line-height: normal;
-  margin-top: -1.00px;
-  width: fit-content;
-}
-
-.resources-and-projects .arrow-2 {
-  height: 15.24px;
+.resources-and-projects .arrow-xrxpur {
+  height: 15.239288330078125px;
   margin-right: -6.23px;
-  position: relative;
-  width: 12.47px;
+  width: 12.46875px;
 }
 
-.resources-and-projects .frame-195-1 {
+.resources-and-projects .home-resources-and-projects-E3EZB4 {
+  background-color: transparent;
+  height: auto;
+  left: 180px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 174px;
+  width: 567px;
+}
+
+.resources-and-projects .span0-6JYy3k {
+  text-decoration: underline;
+}
+
+.resources-and-projects .span1-6JYy3k {
+}
+
+.resources-and-projects .frame-195-xqb7lB {
   align-items: center;
   flex-direction: column;
   gap: 60px;
@@ -335,33 +309,37 @@
   width: 1080px;
 }
 
-.resources-and-projects .frame-195 {
+.resources-and-projects .frame-195-pjck3o {
   align-items: center;
   align-self: stretch;
-  flex: 0 0 auto;
   flex-direction: column;
   gap: 30px;
   width: 100%;
 }
 
-.resources-and-projects .current-projects {
+.resources-and-projects .current-projects-ItiCnI {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .we-rely-on-these-res {
+.resources-and-projects .we-rely-on-these-res-ItiCnI {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 24px;
   position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .frame {
+.resources-and-projects .frame-258-ItiCnI {
   align-items: center;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -370,7 +348,7 @@
   width: 100%;
 }
 
-.resources-and-projects .frame-195-2 {
+.resources-and-projects .frame-195-i4cX5S {
   align-items: flex-start;
   align-self: stretch;
   gap: 15px;
@@ -378,77 +356,82 @@
   width: 100%;
 }
 
-.resources-and-projects .module {
-  align-items: flex-start;
-  background-color: var(--fpcwhite);
-  border: 2px solid;
+.resources-and-projects .module-xvrG8i {
   border-color: var(--charcoal);
-  border-radius: 6px;
-  display: flex;
   flex: 1;
-  flex-direction: column;
   flex-grow: 1;
-  gap: 20px;
   padding: 30px 45px 30px 30px;
-  position: relative;
 }
 
-.resources-and-projects .content {
+.resources-and-projects .content-mK1uzv {
   align-items: flex-start;
   align-self: stretch;
-  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 15px;
-  position: relative;
   width: 100%;
 }
 
-.resources-and-projects .the-standard-for-public-code {
+.resources-and-projects .the-standard-for-public-code-46VJho {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .flex-container {
+.resources-and-projects .flex-container-30972759-46VJho {
   align-items: flex-start;
+  background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 10px;
 }
 
-.resources-and-projects .text0-30972759 {
+.resources-and-projects .text0-30972759-whbwod {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 24px;
+  position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .text1-30972759 {
-  line-height: 24px;
+.resources-and-projects .span0-CGYwQa {
 }
 
-.resources-and-projects .buttonsecondary {
-  align-items: center;
-  display: inline-flex;
-  flex: 0 0 auto;
+.resources-and-projects .text1-30972759-whbwod {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .span1-i9OQiE {
+}
+
+.resources-and-projects .buttonsecondary-mK1uzv {
   gap: 8px;
-  position: relative;
 }
 
-.resources-and-projects .text-3 {
-  line-height: normal;
-  margin-top: -1.00px;
-  width: fit-content;
-}
-
-.resources-and-projects .arrow {
-  height: 12.47px;
+.resources-and-projects .arrow-Ug1Fs1 {
+  height: 12.468994140625px;
   margin-right: -0.85px;
-  position: relative;
-  width: 15.24px;
+  width: 15.23828125px;
 }
 
-.resources-and-projects .content-1 {
+.resources-and-projects .module-sPThZH {
+  border-color: var(--charcoal);
+  flex: 1;
+  flex-grow: 1;
+  padding: 30px 45px 30px 30px;
+}
+
+.resources-and-projects .content-6Y4LtC {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -457,45 +440,78 @@
   width: 100%;
 }
 
-.resources-and-projects .governance-game {
-  letter-spacing: 0;
+.resources-and-projects .governance-game-Ish9ll {
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
   width: fit-content;
 }
 
-.resources-and-projects .text0-30972763 {
+.resources-and-projects .flex-container-30972763-Ish9ll {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.resources-and-projects .text0-30972763-5voLDp {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 24px;
+  position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .text1-30972763 {
+.resources-and-projects .span0-GRr9IU {
+}
+
+.resources-and-projects .text1-30972763-5voLDp {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 24px;
+  position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .text-4 {
-  line-height: normal;
-  margin-top: -1.00px;
-  width: fit-content;
+.resources-and-projects .span1-4yWqrb {
 }
 
-.resources-and-projects .frame-196 {
+.resources-and-projects .buttonsecondary-6Y4LtC {
+  gap: 8px;
+}
+
+.resources-and-projects .arrow-TxQxE7 {
+  height: 12.468994140625px;
+  margin-right: -0.85px;
+  width: 15.23828125px;
+}
+
+.resources-and-projects .frame-196-i4cX5S {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
+  display: flex;
   flex: 0 0 auto;
   gap: 15px;
   justify-content: center;
+  position: relative;
   width: 100%;
 }
 
-.resources-and-projects .module-1 {
+.resources-and-projects .module-gy9fnZ {
   align-self: stretch;
   border-color: var(--charcoal);
   padding: 30px;
   width: 340px;
 }
 
-.resources-and-projects .content-2 {
+.resources-and-projects .content-RYNDxB {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -504,35 +520,70 @@
   width: 100%;
 }
 
-.resources-and-projects .our-podcast-lets {
+.resources-and-projects .our-podcast-lets-talk-about-public-code-wQ6R9S {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .text {
+.resources-and-projects .flex-container-31903044-wQ6R9S {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.resources-and-projects .text0-31903044-X76xkb {
   align-self: stretch;
+  background-color: transparent;
   line-height: 24px;
   position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .span-2 {
-  letter-spacing: 0;
+.resources-and-projects .span0-PkRcv0 {
+  letter-spacing: 0.00px;
 }
 
-.resources-and-projects .span1 {
+.resources-and-projects .span1-PkRcv0 {
   letter-spacing: -0.04px;
 }
 
-.resources-and-projects .text-5 {
-  line-height: normal;
-  margin-top: -1.00px;
-  width: fit-content;
+.resources-and-projects .text1-31903044-X76xkb {
+  align-self: stretch;
+  background-color: transparent;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .content-3 {
+.resources-and-projects .span2-PETg6G {
+  letter-spacing: 0.00px;
+}
+
+.resources-and-projects .buttonsecondary-RYNDxB {
+  gap: 8px;
+}
+
+.resources-and-projects .arrow-D9K78B {
+  height: 12.468994140625px;
+  margin-right: -0.85px;
+  width: 15.23828125px;
+}
+
+.resources-and-projects .module-ut64ap {
+  border-color: var(--charcoal);
+  flex: 1;
+  flex-grow: 1;
+  padding: 30px 45px 30px 30px;
+}
+
+.resources-and-projects .content-d2qRjW {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -541,34 +592,83 @@
   width: 100%;
 }
 
-.resources-and-projects .ospo-alliance-and-ospo-zone {
-  letter-spacing: 0;
+.resources-and-projects .ospo-alliance-and-ospo-zone-0ukop7 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
   width: fit-content;
 }
 
-.resources-and-projects .span0 {
+.resources-and-projects .flex-container-31903049-0ukop7 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.resources-and-projects .text0-31903049-OC4X43 {
+  align-self: stretch;
+  background-color: transparent;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .span0-3EUlp2 {
   letter-spacing: -0.03px;
 }
 
-.resources-and-projects .text-6 {
-  line-height: normal;
-  margin-top: -1.00px;
-  width: fit-content;
+.resources-and-projects .text1-31903049-OC4X43 {
+  align-self: stretch;
+  background-color: transparent;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .frame-197 {
-  align-items: flex-start;
+.resources-and-projects .span1-1nlrE1 {
+  letter-spacing: 0.00px;
+}
+
+.resources-and-projects .text2-31903049-OC4X43 {
   align-self: stretch;
-  flex: 0 0 auto;
-  gap: 15px;
+  background-color: transparent;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .span2-txJKVx {
+  letter-spacing: 0.00px;
+}
+
+.resources-and-projects .buttonsecondary-d2qRjW {
+  gap: 8px;
+}
+
+.resources-and-projects .arrow-iI38NX {
+  height: 12.468994140625px;
+  margin-right: -0.85px;
+  width: 15.23828125px;
+}
+
+.resources-and-projects .frame-197-i4cX5S {
+  align-items: flex-start;
   justify-content: center;
-  width: 100%;
 }
 
-.resources-and-projects .content-4 {
+.resources-and-projects .module-hvUCV2 {
+  border-color: var(--charcoal);
+  flex: 1;
+  flex-grow: 1;
+  padding: 30px 45px 30px 30px;
+}
+
+.resources-and-projects .content-DaLsa5 {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -577,23 +677,66 @@
   width: 100%;
 }
 
-.resources-and-projects .bumperscripter {
+.resources-and-projects .bumperscripter-2LIQMZ {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .text0-31903059 {
+.resources-and-projects .flex-container-31903059-2LIQMZ {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.resources-and-projects .text0-31903059-jDqgmk {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 24px;
+  position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .text1-31903059 {
+.resources-and-projects .span0-HJZhdD {
+}
+
+.resources-and-projects .text1-31903059-jDqgmk {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 24px;
+  position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .content-5 {
+.resources-and-projects .span1-tSnUro {
+}
+
+.resources-and-projects .buttonsecondary-DaLsa5 {
+  gap: 8px;
+}
+
+.resources-and-projects .arrow-ub1P34 {
+  height: 12.468994140625px;
+  margin-right: -0.85px;
+  width: 15.23828125px;
+}
+
+.resources-and-projects .module-WR8Oxk {
+  border-color: var(--charcoal);
+  flex: 1;
+  flex-grow: 1;
+  padding: 30px 45px 30px 30px;
+}
+
+.resources-and-projects .content-HVeVQM {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -602,50 +745,106 @@
   width: 100%;
 }
 
-.resources-and-projects .url-check {
-  letter-spacing: 0;
+.resources-and-projects .url-check-buHFy1 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
   width: fit-content;
 }
 
-.resources-and-projects .text0-31903064 {
-  line-height: 24px;
+.resources-and-projects .flex-container-31903064-buHFy1 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
-.resources-and-projects .text1-31903064 {
+.resources-and-projects .text0-31903064-mUZq1G {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .span0-xP3F72 {
+}
+
+.resources-and-projects .text1-31903064-mUZq1G {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 24px;
   margin-bottom: -14.00px;
+  position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .div {
+.resources-and-projects .span1-oI9zEm {
+}
+
+.resources-and-projects .span2-oI9zEm {
+  text-decoration: underline;
+}
+
+.resources-and-projects .span3-oI9zEm {
+}
+
+.resources-and-projects .buttonsecondary-HVeVQM {
+  gap: 8px;
+}
+
+.resources-and-projects .span0-Z58oqk {
+}
+
+.resources-and-projects .span1-Z58oqk {
+}
+
+.resources-and-projects .span2-Z58oqk {
+}
+
+.resources-and-projects .arrow-TmCxO4 {
+  height: 12.468994140625px;
+  margin-right: -0.85px;
+  width: 15.23828125px;
+}
+
+.resources-and-projects .frame-195-dLubJo {
+  align-items: center;
   align-self: stretch;
-  background-color: var(--charcoal);
-  border-radius: 2px;
-  height: 2px;
-  position: relative;
+  flex-direction: column;
+  gap: 30px;
   width: 100%;
 }
 
-.resources-and-projects .past-projects {
+.resources-and-projects .past-projects-4D9xE5 {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .though-our-involveme {
+.resources-and-projects .though-our-involveme-4D9xE5 {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 24px;
   position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .cluster {
+.resources-and-projects .cluster-4D9xE5 {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   gap: 15px;
@@ -654,14 +853,14 @@
   width: 100%;
 }
 
-.resources-and-projects .module-2 {
+.resources-and-projects .module-RQi3q9 {
   border-color: var(--fpcblack);
   flex: 1;
   flex-grow: 1;
   padding: 30px 45px 30px 30px;
 }
 
-.resources-and-projects .content-6 {
+.resources-and-projects .content-V0kOrs {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -670,30 +869,81 @@
   width: 100%;
 }
 
-.resources-and-projects .text0-30972773 {
-  line-height: normal;
+.resources-and-projects .flex-container-30972773-z6nPvk {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
-.resources-and-projects .text1-30972773 {
+.resources-and-projects .text0-30972773-7cWKAQ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
-}
-
-.resources-and-projects .text0-30972774 {
-  line-height: normal;
-}
-
-.resources-and-projects .text1-30972774 {
-  line-height: normal;
-}
-
-.resources-and-projects .arrow-1 {
-  height: 12.47px;
-  margin-right: -0.85px;
   position: relative;
-  width: 15.24px;
+  text-align: left;
 }
 
-.resources-and-projects .module-3 {
+.resources-and-projects .span0-AzispY {
+}
+
+.resources-and-projects .text1-30972773-7cWKAQ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .span1-8H7BSG {
+}
+
+.resources-and-projects .flex-container-30972774-z6nPvk {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.resources-and-projects .text0-30972774-tdXdqb {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .span0-q8zKtx {
+}
+
+.resources-and-projects .text1-30972774-tdXdqb {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .span1-bGRxLL {
+}
+
+.resources-and-projects .buttonsecondary-V0kOrs {
+  gap: 8px;
+}
+
+.resources-and-projects .arrow-RSAo4y {
+  height: 12.46923828125px;
+  margin-right: -0.85px;
+  width: 15.23828125px;
+}
+
+.resources-and-projects .module-qYaelR {
   align-self: stretch;
   border-color: var(--fpcblack);
   flex: 1;
@@ -701,7 +951,7 @@
   padding: 30px 45px 30px 30px;
 }
 
-.resources-and-projects .content-7 {
+.resources-and-projects .content-wHWxLh {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -710,111 +960,286 @@
   width: 100%;
 }
 
-.resources-and-projects .text0-30972776 {
-  line-height: normal;
+.resources-and-projects .flex-container-30972776-Pziulg {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
-.resources-and-projects .text1-30972776 {
+.resources-and-projects .text0-30972776-k8RECa {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
+  position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .text0-30972777 {
-  line-height: normal;
+.resources-and-projects .span0-k4QS0H {
 }
 
-.resources-and-projects .text1-30972777 {
+.resources-and-projects .text1-30972776-k8RECa {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
+  position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .frame-194 {
+.resources-and-projects .span1-Fet7OI {
+}
+
+.resources-and-projects .flex-container-30972777-Pziulg {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.resources-and-projects .text0-30972777-jxBq5m {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .span0-xKzd0H {
+}
+
+.resources-and-projects .text1-30972777-jxBq5m {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .span1-KsSWCI {
+}
+
+.resources-and-projects .span2-KsSWCI {
+  text-decoration: underline;
+}
+
+.resources-and-projects .span3-KsSWCI {
+}
+
+.resources-and-projects .buttonsecondary-wHWxLh {
+  gap: 8px;
+}
+
+.resources-and-projects .arrow-x0iiVt {
+  height: 12.46923828125px;
+  margin-right: -0.85px;
+  width: 15.23828125px;
+}
+
+.resources-and-projects .frame-194-pjck3o {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
+  display: flex;
   flex: 0 0 auto;
   gap: 60px;
+  position: relative;
   width: 100%;
 }
 
-.resources-and-projects .frame-197-1 {
+.resources-and-projects .who-we-are-xLbBxF {
   align-items: flex-start;
-}
-
-.resources-and-projects .icon {
-  background-image: url(../img/icon-github-issue.svg);
-  background-size: 100% 100%;
-  height: 14px;
-  position: relative;
-  width: 14px;
-}
-
-.resources-and-projects .icon-1 {
-  background-image: url(../img/icon-github-edit-2.svg);
-  background-size: 100% 100%;
-  height: 14px;
-  position: relative;
-  width: 14px;
-}
-
-.resources-and-projects .connect {
-  align-items: center;
   align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 15px;
-  position: relative;
-  width: 100%;
-}
-
-.resources-and-projects .contact {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 150px;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 6px;
   display: flex;
   flex: 1;
   flex-direction: column;
   flex-grow: 1;
-  gap: 30px;
+  gap: 13px;
   padding: 30px;
   position: relative;
 }
 
-.resources-and-projects .frame-197-2 {
+.resources-and-projects .frame-197-x2ixxx {
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.resources-and-projects .contribute-on-git-hub-rliSEk {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .this-site-was-last-p-rliSEk {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .span0-LUWRWn {
+}
+
+.resources-and-projects .span1-LUWRWn {
+  text-decoration: underline;
+}
+
+.resources-and-projects .span2-LUWRWn {
+}
+
+.resources-and-projects .github-rliSEk {
+  background-color: transparent;
+  height: 74px;
+  position: relative;
+  width: 137px;
+}
+
+.resources-and-projects .buttongithub-aKnDt5 {
+  top: 40px;
+}
+
+.resources-and-projects .icongithubissue-5Ij4mF {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 14px;
+}
+
+.resources-and-projects .buttongithub-CYBL41 {
+  top: 0px;
+}
+
+.resources-and-projects .icongithubedit-b6zALw {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 14px;
+}
+
+.resources-and-projects .connect-pjck3o {
   align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.resources-and-projects .contact-AQDV9r {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 150px;
+  flex: 1;
+  flex-grow: 1;
+  gap: 30px;
+  padding: 30px;
+}
+
+.resources-and-projects .frame-197-Baw446 {
+  align-items: center;
+  flex-direction: column;
   max-width: 520px;
 }
 
-.resources-and-projects .connect-with-us {
+.resources-and-projects .connect-with-us-LNWrHh {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
   text-align: center;
 }
 
-.resources-and-projects .logo {
+.resources-and-projects .got-a-question-sugge-LNWrHh {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.resources-and-projects .span0-BD2LBu {
+}
+
+.resources-and-projects .span1-BD2LBu {
+  text-decoration: underline;
+}
+
+.resources-and-projects .span2-BD2LBu {
+}
+
+.resources-and-projects .channels-Baw446 {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+}
+
+.resources-and-projects .logomastodon-mrLMBc {
   cursor: pointer;
   height: 32px;
+  width: 32px;
+}
+
+.resources-and-projects .subtract-eKHd0h {
+  height: 32px;
+  left: 1px;
+  top: 0px;
+  width: 30px;
+}
+
+.resources-and-projects .logotwitter-mrLMBc {
+  cursor: pointer;
+  height: 32px;
+  width: 32px;
+}
+
+.resources-and-projects .logoyoutube-mrLMBc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31.94074249267578px;
+  overflow: hidden;
   position: relative;
   width: 32px;
 }
 
-.resources-and-projects .subtract-1 {
-  height: 32px;
-  left: 1px;
-  position: absolute;
-  top: 0;
-  width: 30px;
-}
-
-.resources-and-projects .subtract-2 {
+.resources-and-projects .subtract-TRtjrf {
   height: 22px;
-  left: 0;
-  position: absolute;
+  left: 0px;
   top: 5px;
   width: 32px;
 }
 
-.resources-and-projects .mailing-list {
+.resources-and-projects .logogithub-mrLMBc {
+  cursor: pointer;
+  height: 32px;
+  width: 32px;
+}
+
+.resources-and-projects .mailing-list-AQDV9r {
   align-items: center;
   background-color: var(--basic-link);
   border-radius: 150px;
@@ -828,7 +1253,22 @@
   width: 217px;
 }
 
-.resources-and-projects .buttonprimary {
+.resources-and-projects .frame-197-U5XDQB {
+  align-items: center;
+  flex-direction: column;
+}
+
+.resources-and-projects .join-our-mailing-list-4RLl95 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.resources-and-projects .buttonprimary-U5XDQB {
   align-items: center;
   background-color: var(--fpcwhite);
   border-radius: 6px;
@@ -841,18 +1281,35 @@
   position: relative;
 }
 
-.resources-and-projects .navheader {
+.resources-and-projects .read-more-HDpkwa {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.resources-and-projects .arrow-HDpkwa {
+  height: 12.46923828125px;
+  margin-right: -0.85px;
+  width: 15.23828125px;
+}
+
+.resources-and-projects .navheader-xqb7lB {
   align-items: center;
+  background-color: transparent;
   display: flex;
   justify-content: space-around;
-  left: 0;
+  left: 0px;
   padding: 30px 60px;
   position: absolute;
-  top: 0;
+  top: 0px;
   width: 1440px;
 }
 
-.resources-and-projects .content-8 {
+.resources-and-projects .content-NrIDWa {
   align-items: center;
   flex: 1;
   flex-grow: 1;
@@ -861,30 +1318,17 @@
   justify-content: space-between;
 }
 
-.resources-and-projects .logo-lockup {
-  align-items: center;
-  cursor: pointer;
+.resources-and-projects .logo-lockup-NAixyj {
   display: inline-flex;
-  flex: 0 0 auto;
-  gap: 13px;
-  position: relative;
 }
 
-.resources-and-projects .logo-symbol {
-  height: 55px;
-  position: relative;
-  width: 47.66px;
+.resources-and-projects .foundation-for-public-code-dx6UKb {
+  width: 365.33685302734375px;
 }
 
-.resources-and-projects .foundation-for-public-code {
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-  width: 365.34px;
-}
-
-.resources-and-projects .navigation {
+.resources-and-projects .navigation-NAixyj {
   align-items: center;
+  background-color: transparent;
   display: flex;
   flex: 1;
   flex-grow: 1;
@@ -894,8 +1338,9 @@
   position: relative;
 }
 
-.resources-and-projects .links {
+.resources-and-projects .links-0ZQniN {
   align-items: flex-start;
+  background-color: transparent;
   display: inline-flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
@@ -904,41 +1349,85 @@
   position: relative;
 }
 
-.resources-and-projects .link {
+.resources-and-projects .stewardship-9eHMwY {
+  background-color: transparent;
   cursor: pointer;
-  letter-spacing: 0;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
   width: fit-content;
 }
 
-.resources-and-projects .services {
+.resources-and-projects .resources-9eHMwY {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.resources-and-projects .who-we-are-9eHMwY {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.resources-and-projects .join-us-9eHMwY {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.resources-and-projects .services-0ZQniN {
   align-items: flex-start;
+  background-color: transparent;
   display: inline-flex;
   flex: 0 0 auto;
   gap: 20px;
   position: relative;
 }
 
-.resources-and-projects .logo-1 {
+.resources-and-projects .logomastodon-uKWJ4F {
   height: 24px;
-  position: relative;
   width: 24px;
 }
 
-.resources-and-projects .subtract-3 {
+.resources-and-projects .subtract-Ah55yZ {
   height: 24px;
   left: 1px;
-  position: absolute;
-  top: 0;
+  top: 0px;
   width: 22px;
 }
 
-.resources-and-projects .footer {
+.resources-and-projects .logotwitter-uKWJ4F {
+  height: 24px;
+  width: 24px;
+}
+
+.resources-and-projects .logogithub-uKWJ4F {
+  height: 24px;
+  width: 24px;
+}
+
+.resources-and-projects .footer-xqb7lB {
   align-items: center;
   align-self: stretch;
-  background-color: var(--fpcmachine-grey);
+  background-color: var(--fpcgrey-f2);
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -949,35 +1438,31 @@
   width: 100%;
 }
 
-.resources-and-projects .logo-lockup-1 {
-  align-items: center;
+.resources-and-projects .logo-lockup-LwDHpZ {
   align-self: stretch;
-  cursor: pointer;
   display: flex;
-  flex: 0 0 auto;
-  gap: 13px;
-  position: relative;
   width: 100%;
 }
 
-.resources-and-projects .foundation-for-public-code-1 {
+.resources-and-projects .foundation-for-public-code-ouCIkV {
   flex: 1;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
 }
 
-.resources-and-projects .frame-217 {
+.resources-and-projects .frame-217-LwDHpZ {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
+  display: flex;
   flex: 0 0 auto;
   gap: 60px;
   justify-content: center;
+  position: relative;
   width: 100%;
 }
 
-.resources-and-projects .blocks {
+.resources-and-projects .blocks-tFdAwM {
   align-items: flex-start;
+  background-color: transparent;
   display: flex;
   flex: 1;
   flex-direction: column;
@@ -987,7 +1472,7 @@
   position: relative;
 }
 
-.resources-and-projects .blocks-item {
+.resources-and-projects .about-us-WAQP7b {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--fpcwhite);
@@ -1002,7 +1487,7 @@
   width: 100%;
 }
 
-.resources-and-projects .content-9 {
+.resources-and-projects .content-4xg893 {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -1011,18 +1496,50 @@
   width: 100%;
 }
 
-.resources-and-projects .buttonsecondary-1 {
+.resources-and-projects .our-operational-details-NQXP2O {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .our-staff-informatio-NQXP2O {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .buttonsecondary-4xg893 {
   cursor: pointer;
   gap: 8px;
 }
 
-.resources-and-projects .text-11 {
-  line-height: normal;
-  margin-top: -1.00px;
-  width: fit-content;
+.resources-and-projects .arrow-aJFJB2 {
+  height: 12.46923828125px;
+  margin-right: -0.85px;
+  width: 15.23828125px;
 }
 
-.resources-and-projects .content-10 {
+.resources-and-projects .project-resources-WAQP7b {
+  align-items: flex-start;
+  background-color: var(--fpcwhite);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  padding: 30px;
+  width: 100%;
+}
+
+.resources-and-projects .content-07XdZg {
   align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
@@ -1031,14 +1548,37 @@
   width: 100%;
 }
 
-.resources-and-projects .text-12 {
+.resources-and-projects .project-resources-s60kRA {
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
-  width: fit-content;
+  text-align: left;
 }
 
-.resources-and-projects .information {
+.resources-and-projects .open-products-were-r-s60kRA {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .buttonsecondary-07XdZg {
+  cursor: pointer;
+  gap: 8px;
+}
+
+.resources-and-projects .arrow-wy4JkH {
+  height: 12.46923828125px;
+  margin-right: -0.85px;
+  width: 15.23828125px;
+}
+
+.resources-and-projects .information-tFdAwM {
   align-items: flex-start;
+  background-color: transparent;
   display: flex;
   flex: 1;
   flex-direction: column;
@@ -1048,9 +1588,172 @@
   position: relative;
 }
 
-.resources-and-projects .information-item {
+.resources-and-projects .contact-VlZT7n {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.resources-and-projects .contact-info-8F9hlL {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.resources-and-projects .frame-218-NT8U9p {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  position: relative;
+}
+
+.resources-and-projects .phone-31-20-2-444-500-1xVvTc {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .span0-UJFbWC {
+}
+
+.resources-and-projects .span1-UJFbWC {
+  text-decoration: underline;
+}
+
+.resources-and-projects .email-infopubliccodenet-1xVvTc {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .span0-LNyYEW {
+}
+
+.resources-and-projects .span1-LNyYEW {
+  text-decoration: underline;
+}
+
+.resources-and-projects .keizersgracht-617-10-NT8U9p {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .span0-C3rQc5 {
+}
+
+.resources-and-projects .span1-C3rQc5 {
+  text-decoration: underline;
+}
+
+.resources-and-projects .span2-C3rQc5 {
+}
+
+.resources-and-projects .span3-C3rQc5 {
+  text-decoration: underline;
+}
+
+.resources-and-projects .notes-VlZT7n {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.resources-and-projects .flex-container-i3381613733815548-xfQeGY {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.resources-and-projects .text0-i3381613733815548-FZytRi {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .span0-UVx7zY {
+}
+
+.resources-and-projects .span1-UVx7zY {
+  text-decoration: underline;
+}
+
+.resources-and-projects .span2-UVx7zY {
+}
+
+.resources-and-projects .span3-UVx7zY {
+  text-decoration: underline;
+}
+
+.resources-and-projects .span4-UVx7zY {
+}
+
+.resources-and-projects .text1-i3381613733815548-FZytRi {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .span5-xgDe96 {
+}
+
+.resources-and-projects .span6-xgDe96 {
+  text-decoration: underline;
+}
+
+.resources-and-projects .span7-xgDe96 {
+}
+
+.resources-and-projects .span8-xgDe96 {
+  text-decoration: underline;
+}
+
+.resources-and-projects .span9-xgDe96 {
+}
+
+.resources-and-projects .metadata-VlZT7n {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -1059,64 +1762,124 @@
   width: 100%;
 }
 
-.resources-and-projects .contact-info {
-  align-items: flex-start;
+.resources-and-projects .updated-xIxm9x {
+  align-items: center;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
-  gap: 15px;
+  gap: 8px;
   position: relative;
   width: 100%;
 }
 
-.resources-and-projects .frame-218 {
-  align-items: flex-start;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 15px;
+.resources-and-projects .iconupdated-1Dl0Rj {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
 }
 
-.resources-and-projects .keizersgracht-617-1 {
+.resources-and-projects .last-updated-22-august-2023-1Dl0Rj {
+  background-color: transparent;
   flex: 1;
-  letter-spacing: 0;
+  letter-spacing: 0.00px;
   line-height: 20px;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .text-1 {
-  align-self: stretch;
-  line-height: 20px;
-}
-
-.resources-and-projects .image {
-  height: 14.46px;
-  position: relative;
-  width: 14.46px;
-}
-
-.resources-and-projects .address {
-  flex: 1;
-  letter-spacing: 0;
-  line-height: 20px;
-  margin-top: -1.00px;
-  position: relative;
-}
-
-.resources-and-projects .buttonsecondary-3 {
+.resources-and-projects .copyright-xIxm9x {
   align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+  width: 100%;
+}
+
+.resources-and-projects .image-J4B40y {
+  background-color: transparent;
+  height: 14.4599609375px;
+  position: relative;
+  width: 14.4609375px;
+}
+
+.resources-and-projects .x2023-foundation-for-public-code-J4B40y {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .span0-bdROyp {
+}
+
+.resources-and-projects .span1-bdROyp {
+  text-decoration: underline;
+}
+
+.resources-and-projects .license-xIxm9x {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.resources-and-projects .iconlicense-Yst4Vs {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.resources-and-projects .creative-commons-zer-Yst4Vs {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.resources-and-projects .span0-yQqXiz {
+  text-decoration: underline;
+}
+
+.resources-and-projects .span1-yQqXiz {
+}
+
+.resources-and-projects .arrow {
+  background-color: transparent;
+  position: relative;
+}
+
+.resources-and-projects .buttonsecondary {
+  align-items: center;
+  background-color: transparent;
   display: inline-flex;
   flex: 0 0 auto;
   position: relative;
 }
 
-.resources-and-projects .content-11 {
+.resources-and-projects .contact {
   display: flex;
+  flex-direction: column;
   position: relative;
 }
 
-.resources-and-projects .div-6 {
+.resources-and-projects .div {
   align-self: stretch;
   background-color: var(--charcoal);
   border-radius: 2px;
@@ -1125,28 +1888,48 @@
   width: 100%;
 }
 
-.resources-and-projects .frame-1 {
-  display: flex;
+.resources-and-projects .foundation-for-public-code {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
   position: relative;
+  text-align: left;
 }
 
-.resources-and-projects .frame-195-3 {
+.resources-and-projects .frame-195 {
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   position: relative;
 }
 
-.resources-and-projects .frame-197-3 {
+.resources-and-projects .frame-197 {
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
-  flex-direction: column;
   gap: 15px;
   position: relative;
   width: 100%;
 }
 
-.resources-and-projects .module-4 {
+.resources-and-projects .logo-lockup {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  flex: 0 0 auto;
+  gap: 13px;
+  position: relative;
+}
+
+.resources-and-projects .logo-symbol {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.6640625px;
+}
+
+.resources-and-projects .module {
   align-items: flex-start;
   background-color: var(--fpcwhite);
   border: 2px solid;
@@ -1157,19 +1940,17 @@
   position: relative;
 }
 
-.resources-and-projects .text-13 {
-  letter-spacing: 0;
+.resources-and-projects .text {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
   position: relative;
+  text-align: left;
+  width: fit-content;
 }
 
-.resources-and-projects .text0 {
-  align-self: stretch;
-  letter-spacing: 0;
-  position: relative;
-}
-
-.resources-and-projects .text1 {
-  align-self: stretch;
-  letter-spacing: 0;
-  position: relative;
+.resources-and-projects .union {
+  background-color: transparent;
+  position: absolute;
 }
