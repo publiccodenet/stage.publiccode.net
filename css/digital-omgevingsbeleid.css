@@ -1,0 +1,1138 @@
+/* screen - digital-omgevingsbeleid */
+
+.digital-omgevingsbeleid {
+  align-items: center;
+  background-color: var(--fpcwhite);
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  left: 0px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  top: 0px;
+}
+
+.digital-omgevingsbeleid .navheader-EmMCgT {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcgrey-f2);
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-around;
+  padding: 30px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .content-JDzmk9 {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 16px 16px;
+  justify-content: space-between;
+}
+
+.digital-omgevingsbeleid .logo-lockup-qhqYuj {
+  display: inline-flex;
+}
+
+.digital-omgevingsbeleid .foundation-for-public-code-fUsPLO {
+  width: 365.33685302734375px;
+}
+
+.digital-omgevingsbeleid .navigation-qhqYuj {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 40px 20px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.digital-omgevingsbeleid .links-nsGjH3 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 25px 25px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.digital-omgevingsbeleid .stewardship-5F4VmB {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.digital-omgevingsbeleid .resources-5F4VmB {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.digital-omgevingsbeleid .who-we-are-5F4VmB {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.digital-omgevingsbeleid .join-us-5F4VmB {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.digital-omgevingsbeleid .services-nsGjH3 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+}
+
+.digital-omgevingsbeleid .logomastodon-jWuQDx {
+  background-color: transparent;
+  height: 24px;
+  overflow: hidden;
+  position: relative;
+  width: 24px;
+}
+
+.digital-omgevingsbeleid .subtract-w7G6FQ {
+  background-color: transparent;
+  height: 24px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.digital-omgevingsbeleid .logotwitter-jWuQDx {
+  background-color: transparent;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.digital-omgevingsbeleid .logogithub-jWuQDx {
+  background-color: transparent;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.digital-omgevingsbeleid .content-EmMCgT {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  justify-content: center;
+  max-width: 1120px;
+  padding: 0px 20px 60px;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .breadcrumbs-IHnEhe {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .home-R9TeHW {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.digital-omgevingsbeleid .codebases-we-work-with-R9TeHW {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.digital-omgevingsbeleid .title-IHnEhe {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .header-IHnEhe {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .codebase-title-5EIHdW {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+}
+
+.digital-omgevingsbeleid .tab-x0emdR {
+  align-self: stretch;
+  background-color: var(--fpcblue);
+  border-radius: 6px;
+  position: relative;
+  width: 12px;
+}
+
+.digital-omgevingsbeleid .frame-264-5EIHdW {
+  align-items: center;
+  background-color: var(--fpcblue25);
+  border-radius: 6px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.digital-omgevingsbeleid .stage-1-assessment-UksD9A {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.digital-omgevingsbeleid .frame-267-IHnEhe {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .what-it-is-00osBI {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .flex-container-347214475-H9It7D {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.digital-omgevingsbeleid .text0-347214475-m0AtuL {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .span0-NT7JmL {
+}
+
+.digital-omgevingsbeleid .span1-NT7JmL {
+  text-decoration: underline;
+}
+
+.digital-omgevingsbeleid .span2-NT7JmL {
+}
+
+.digital-omgevingsbeleid .text1-347214475-m0AtuL {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .span3-Uj7PHL {
+}
+
+.digital-omgevingsbeleid .frame-266-H9It7D {
+  align-items: flex-end;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 6px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.digital-omgevingsbeleid .omgevingsbeleid_thumb_g01-1-CZ988l {
+  background-color: transparent;
+  height: 200.625px;
+  object-fit: cover;
+  position: relative;
+  width: 300px;
+}
+
+.digital-omgevingsbeleid .uiarrowexpand-CZ988l {
+  background-color: transparent;
+  height: 20.654296875px;
+  margin-bottom: -0.75px;
+  margin-right: -0.75px;
+  position: relative;
+  width: 20.65234375px;
+}
+
+.digital-omgevingsbeleid .how-were-helping-LTn6hN {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .flex-container-347214508-tEqUQA {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.digital-omgevingsbeleid .text0-347214508-JREIoM {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .span0-6rj7dx {
+}
+
+.digital-omgevingsbeleid .text1-347214508-JREIoM {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .span1-9VQLdo {
+}
+
+.digital-omgevingsbeleid .text2-347214508-JREIoM {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .span2-YOLpHI {
+}
+
+.digital-omgevingsbeleid .text3-347214508-JREIoM {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .span3-xfujqg {
+}
+
+.digital-omgevingsbeleid .technology-vBvx45 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .languages-and-frameworks-MlOr1w {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 260px;
+}
+
+.digital-omgevingsbeleid .python-microsoft-sql-server-MlOr1w {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .community-2MHjpX {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .created-by-FJKLw4 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 260px;
+}
+
+.digital-omgevingsbeleid .province-of-south-holland-FJKLw4 {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .replicating-5ggACP {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 260px;
+}
+
+.digital-omgevingsbeleid .none-yet-interest-fr-5ggACP {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .opportunity-uMmuSH {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .scaling-potential-spaqS9 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 260px;
+}
+
+.digital-omgevingsbeleid .easy-reuse-by-other-spaqS9 {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .technical-details-tzlC4f {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .flex-container-347214564-tzlC4f {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.digital-omgevingsbeleid .text0-347214564-HLUkRT {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.digital-omgevingsbeleid .span0-kbQvj7 {
+}
+
+.digital-omgevingsbeleid .text1-347214564-HLUkRT {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.digital-omgevingsbeleid .span1-uHM5aK {
+}
+
+.digital-omgevingsbeleid .text2-347214564-HLUkRT {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.digital-omgevingsbeleid .span2-xr3IVQ {
+}
+
+.digital-omgevingsbeleid .text3-347214564-HLUkRT {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.digital-omgevingsbeleid .span3-GB1VC5 {
+}
+
+.digital-omgevingsbeleid .footer-EmMCgT {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcgrey-f2);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  min-width: 800px;
+  padding: 60px;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .logo-lockup-QHKC0C {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .foundation-for-public-code-lStEab {
+  flex: 1;
+}
+
+.digital-omgevingsbeleid .frame-217-QHKC0C {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 60px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .blocks-vfqjoB {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  max-width: 1160px;
+  position: relative;
+}
+
+.digital-omgevingsbeleid .about-us-yt5SqL {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--fpcwhite);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .content-3FRA5x {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .our-operational-details-JHUlep {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .our-staff-informatio-JHUlep {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .project-resources-yt5SqL {
+  align-items: flex-start;
+  background-color: var(--fpcwhite);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  padding: 30px;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .content-pVueKS {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .project-resources-EheePe {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .open-products-were-r-EheePe {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .information-vfqjoB {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  max-width: 1160px;
+  position: relative;
+}
+
+.digital-omgevingsbeleid .contact-gqEvQJ {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .contact-info-Tj6hEA {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .frame-218-gxXQiQ {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  position: relative;
+}
+
+.digital-omgevingsbeleid .phone-31-20-2-444-500-0w8x1h {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .span0-n57arN {
+}
+
+.digital-omgevingsbeleid .span1-n57arN {
+  text-decoration: underline;
+}
+
+.digital-omgevingsbeleid .email-infopubliccodenet-0w8x1h {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .span0-sfCmKW {
+}
+
+.digital-omgevingsbeleid .span1-sfCmKW {
+  text-decoration: underline;
+}
+
+.digital-omgevingsbeleid .keizersgracht-617-10-gxXQiQ {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .span0-8K1rhf {
+}
+
+.digital-omgevingsbeleid .span1-8K1rhf {
+  text-decoration: underline;
+}
+
+.digital-omgevingsbeleid .span2-8K1rhf {
+}
+
+.digital-omgevingsbeleid .span3-8K1rhf {
+  text-decoration: underline;
+}
+
+.digital-omgevingsbeleid .notes-gqEvQJ {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .flex-container-i34721435033815548-PPcnW4 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.digital-omgevingsbeleid .text0-i34721435033815548-k2kUL9 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .span0-Kgg77e {
+}
+
+.digital-omgevingsbeleid .span1-Kgg77e {
+  text-decoration: underline;
+}
+
+.digital-omgevingsbeleid .span2-Kgg77e {
+}
+
+.digital-omgevingsbeleid .span3-Kgg77e {
+  text-decoration: underline;
+}
+
+.digital-omgevingsbeleid .span4-Kgg77e {
+}
+
+.digital-omgevingsbeleid .text1-i34721435033815548-k2kUL9 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .span5-ppPuAC {
+}
+
+.digital-omgevingsbeleid .span6-ppPuAC {
+  text-decoration: underline;
+}
+
+.digital-omgevingsbeleid .span7-ppPuAC {
+}
+
+.digital-omgevingsbeleid .span8-ppPuAC {
+  text-decoration: underline;
+}
+
+.digital-omgevingsbeleid .span9-ppPuAC {
+}
+
+.digital-omgevingsbeleid .metadata-gqEvQJ {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .updated-ch1xpS {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .iconupdated-B7RmxM {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.digital-omgevingsbeleid .last-updated-22-august-2023-B7RmxM {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .copyright-ch1xpS {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .image-voGKTi {
+  background-color: transparent;
+  height: 14.4599609375px;
+  position: relative;
+  width: 14.4609375px;
+}
+
+.digital-omgevingsbeleid .x2023-foundation-for-public-code-voGKTi {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .span0-1szY2t {
+}
+
+.digital-omgevingsbeleid .span1-1szY2t {
+  text-decoration: underline;
+}
+
+.digital-omgevingsbeleid .license-ch1xpS {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .iconlicense-d8YIdW {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.digital-omgevingsbeleid .creative-commons-zer-d8YIdW {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .span0-d1dQu7 {
+  text-decoration: underline;
+}
+
+.digital-omgevingsbeleid .span1-d1dQu7 {
+}
+
+.digital-omgevingsbeleid .arrow {
+  background-color: transparent;
+  height: 12.46923828125px;
+  margin-right: -0.85px;
+  position: relative;
+  width: 15.23828125px;
+}
+
+.digital-omgevingsbeleid .buttonsecondary {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.digital-omgevingsbeleid .cluster {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .digital-omgevingsbeleid-1 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.digital-omgevingsbeleid .div {
+  align-self: stretch;
+  background-color: var(--charcoal);
+  border-radius: 2px;
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .foundation-for-public-code {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.digital-omgevingsbeleid .frame-265 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .line-item {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .line-items {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.digital-omgevingsbeleid .logo-lockup {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  flex: 0 0 auto;
+  gap: 13px;
+  position: relative;
+}
+
+.digital-omgevingsbeleid .logo-symbol {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.6640625px;
+}
+
+.digital-omgevingsbeleid .text {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.digital-omgevingsbeleid .x {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}

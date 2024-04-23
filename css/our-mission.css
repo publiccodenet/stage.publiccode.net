@@ -1,0 +1,1243 @@
+/* screen - our-mission */
+
+.our-mission {
+  align-items: center;
+  background-color: var(--fpcwhite);
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  left: 0px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  top: 0px;
+}
+
+.our-mission .navheader-TpzB6u {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcgrey-f2);
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-around;
+  padding: 30px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.our-mission .content-ZbThFZ {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 16px 16px;
+  justify-content: space-between;
+}
+
+.our-mission .logo-lockup-HnBept {
+  display: inline-flex;
+}
+
+.our-mission .foundation-for-public-code-Y9JEWd {
+  width: 365.33685302734375px;
+}
+
+.our-mission .navigation-HnBept {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 40px 20px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.our-mission .links-ePYc7h {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 25px 25px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.our-mission .stewardship-khHa4u {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.our-mission .resources-khHa4u {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.our-mission .who-we-are-khHa4u {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.our-mission .join-us-khHa4u {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.our-mission .services-ePYc7h {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+}
+
+.our-mission .logomastodon-rxOIRg {
+  height: 24px;
+  width: 24px;
+}
+
+.our-mission .subtract-imZgaI {
+  height: 24px;
+  left: 1px;
+  top: 0px;
+  width: 22px;
+}
+
+.our-mission .logotwitter-rxOIRg {
+  height: 24px;
+  width: 24px;
+}
+
+.our-mission .logogithub-rxOIRg {
+  height: 24px;
+  width: 24px;
+}
+
+.our-mission .content-TpzB6u {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  justify-content: center;
+  max-width: 1120px;
+  padding: 0px 20px 60px;
+  width: 100%;
+}
+
+.our-mission .breadcrumbs-Ic7VxW {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.our-mission .home-vVjok2 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.our-mission .x-vVjok2 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.our-mission .our-mission-vVjok2 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.our-mission .content-Ic7VxW {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  width: 100%;
+}
+
+.our-mission .title-LUg7hW {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .flex-container-1-c-dd-qc-felj68g-wbi-LUg7hW {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.our-mission .text0-1-c-dd-qc-felj68g-wbi-3i9kVv {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .span0-6AOfTZ {
+}
+
+.our-mission .text1-1-c-dd-qc-felj68g-wbi-3i9kVv {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .span1-7npnKY {
+}
+
+.our-mission .text2-1-c-dd-qc-felj68g-wbi-3i9kVv {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .span2-Yy8xTm {
+}
+
+.our-mission .cluster-LUg7hW {
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.our-mission .we-think-there-are-t-vuNiRD {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .cluster-vuNiRD {
+  align-items: flex-start;
+  gap: 15px;
+}
+
+.our-mission .module-jSLneQ {
+  background-color: var(--fpcyellow);
+}
+
+.our-mission .content-qVWqAz {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.our-mission .x1-xaNxCl {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .the-software-running-xaNxCl {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .span0-TxYxFB {
+}
+
+.our-mission .span1-TxYxFB {
+}
+
+.our-mission .module-OplXgf {
+  background-color: var(--fpcyellow);
+}
+
+.our-mission .content-xU52pC {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.our-mission .x2-urVufC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .to-handle-an-emergin-urVufC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .span0-DgYrYJ {
+}
+
+.our-mission .span1-DgYrYJ {
+}
+
+.our-mission .module-PORtFI {
+  background-color: var(--fpcyellow);
+}
+
+.our-mission .content-hHT3n3 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.our-mission .x3-Qef2mc {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .governments-typicall-Qef2mc {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .span0-4ygcHt {
+}
+
+.our-mission .span1-4ygcHt {
+}
+
+.our-mission .span2-4ygcHt {
+}
+
+.our-mission .cluster-p7xqQr {
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.our-mission .the-powerful-alterna-lMmyPr {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .cluster-lMmyPr {
+  align-items: flex-start;
+  gap: 15px;
+}
+
+.our-mission .module-NgbQWD {
+  background-color: var(--fpcgrey-f2);
+}
+
+.our-mission .content-qWlSgh {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.our-mission .discovery-xAEh8H {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .finding-fit-for-purp-xAEh8H {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .module-9ezqMC {
+  background-color: var(--fpcgrey-f2);
+}
+
+.our-mission .content-yNbQ7H {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.our-mission .flexibility-918kJR {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .enabling-future-repl-918kJR {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .module-6udmNn {
+  background-color: var(--fpcgrey-f2);
+}
+
+.our-mission .content-d28aTx {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.our-mission .community-pCJYFZ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .the-critical-mass-of-pCJYFZ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .module-9vsFBx {
+  background-color: var(--fpcgrey-f2);
+}
+
+.our-mission .content-vvZqIy {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.our-mission .co-procurement-pRdmOH {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .pooling-resources-to-pRdmOH {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .we-believe-a-third-p-LUg7hW {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .span0-19ZkIG {
+}
+
+.our-mission .span1-19ZkIG {
+  text-decoration: underline;
+}
+
+.our-mission .span2-19ZkIG {
+}
+
+.our-mission .connect-Ic7VxW {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.our-mission .contact-x3qOev {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 150px;
+  flex: 1;
+  flex-grow: 1;
+  gap: 30px;
+  padding: 30px;
+}
+
+.our-mission .frame-197-Nxxxr9 {
+  max-width: 520px;
+}
+
+.our-mission .connect-with-us-jzBsIM {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.our-mission .got-a-question-sugge-jzBsIM {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.our-mission .span0-llctha {
+}
+
+.our-mission .span1-llctha {
+  text-decoration: underline;
+}
+
+.our-mission .span2-llctha {
+}
+
+.our-mission .channels-Nxxxr9 {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+}
+
+.our-mission .logomastodon-eabrwn {
+  cursor: pointer;
+  height: 32px;
+  width: 32px;
+}
+
+.our-mission .subtract-hxWyKE {
+  height: 32px;
+  left: 1px;
+  top: 0px;
+  width: 30px;
+}
+
+.our-mission .logotwitter-eabrwn {
+  cursor: pointer;
+  height: 32px;
+  width: 32px;
+}
+
+.our-mission .logoyoutube-eabrwn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31.94074249267578px;
+  overflow: hidden;
+  position: relative;
+  width: 32px;
+}
+
+.our-mission .subtract-9Kmwxe {
+  height: 22px;
+  left: 0px;
+  top: 5px;
+  width: 32px;
+}
+
+.our-mission .logogithub-eabrwn {
+  cursor: pointer;
+  height: 32px;
+  width: 32px;
+}
+
+.our-mission .mailing-list-x3qOev {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 150px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 217px;
+  justify-content: center;
+  padding: 30px;
+  position: relative;
+  width: 217px;
+}
+
+.our-mission .join-our-mailing-list-iASNxC {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.our-mission .buttonprimary-nZxKfN {
+  align-items: center;
+  background-color: var(--fpcwhite);
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.our-mission .read-more-011xKp {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.our-mission .arrow-011xKp {
+  height: 12.468994140625px;
+}
+
+.our-mission .footer-TpzB6u {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcgrey-f2);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  min-width: 800px;
+  padding: 60px;
+  position: relative;
+  width: 100%;
+}
+
+.our-mission .logo-lockup-XiL0IY {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.our-mission .foundation-for-public-code-B5Q14h {
+  flex: 1;
+}
+
+.our-mission .frame-217-XiL0IY {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 60px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.our-mission .blocks-cVK3wK {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  max-width: 1160px;
+  position: relative;
+}
+
+.our-mission .about-us-ijxCSO {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--fpcwhite);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.our-mission .content-6dVV1k {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.our-mission .our-operational-details-mINkqN {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .our-staff-informatio-mINkqN {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .arrow-Jc58S6 {
+  height: 12.46923828125px;
+}
+
+.our-mission .project-resources-ijxCSO {
+  align-items: flex-start;
+  background-color: var(--fpcwhite);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  padding: 30px;
+  width: 100%;
+}
+
+.our-mission .content-meVI3M {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.our-mission .project-resources-U9lNZi {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: left;
+}
+
+.our-mission .open-products-were-r-U9lNZi {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .arrow-EWNxsJ {
+  height: 12.46923828125px;
+}
+
+.our-mission .information-cVK3wK {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  max-width: 1160px;
+  position: relative;
+}
+
+.our-mission .contact-5GbJp0 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.our-mission .contact-info-rixkEx {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.our-mission .frame-218-QnBExU {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  position: relative;
+}
+
+.our-mission .phone-31-20-2-444-500-dO6SlC {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .span0-1UMpZj {
+}
+
+.our-mission .span1-1UMpZj {
+  text-decoration: underline;
+}
+
+.our-mission .email-infopubliccodenet-dO6SlC {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .span0-wHxeG0 {
+}
+
+.our-mission .span1-wHxeG0 {
+  text-decoration: underline;
+}
+
+.our-mission .keizersgracht-617-10-QnBExU {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .span0-JUKr3e {
+}
+
+.our-mission .span1-JUKr3e {
+  text-decoration: underline;
+}
+
+.our-mission .span2-JUKr3e {
+}
+
+.our-mission .span3-JUKr3e {
+  text-decoration: underline;
+}
+
+.our-mission .notes-5GbJp0 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.our-mission .flex-container-5i-vjp9f-al-ddx11fn-2GWDFc {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.our-mission .text0-5i-vjp9f-al-ddx11fn-aTgZAr {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .span0-Mxx7gt {
+}
+
+.our-mission .span1-Mxx7gt {
+  text-decoration: underline;
+}
+
+.our-mission .span2-Mxx7gt {
+}
+
+.our-mission .span3-Mxx7gt {
+  text-decoration: underline;
+}
+
+.our-mission .span4-Mxx7gt {
+}
+
+.our-mission .text1-5i-vjp9f-al-ddx11fn-aTgZAr {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .span5-TpfXOi {
+}
+
+.our-mission .span6-TpfXOi {
+  text-decoration: underline;
+}
+
+.our-mission .span7-TpfXOi {
+}
+
+.our-mission .span8-TpfXOi {
+  text-decoration: underline;
+}
+
+.our-mission .span9-TpfXOi {
+}
+
+.our-mission .metadata-5GbJp0 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.our-mission .updated-m72o0o {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.our-mission .iconupdated-yUm6gp {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.our-mission .last-updated-22-august-2023-yUm6gp {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .copyright-m72o0o {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+  width: 100%;
+}
+
+.our-mission .image-DXeEQK {
+  background-color: transparent;
+  height: 14.4599609375px;
+  position: relative;
+  width: 14.4599609375px;
+}
+
+.our-mission .x2023-foundation-for-public-code-DXeEQK {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .span0-03FfZq {
+}
+
+.our-mission .span1-03FfZq {
+  text-decoration: underline;
+}
+
+.our-mission .license-m72o0o {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.our-mission .iconlicense-OBQh6b {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.our-mission .creative-commons-zer-OBQh6b {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .span0-fxYH34 {
+  text-decoration: underline;
+}
+
+.our-mission .span1-fxYH34 {
+}
+
+.our-mission .arrow {
+  background-color: transparent;
+  margin-right: -0.85px;
+  position: relative;
+  width: 15.2392578125px;
+}
+
+.our-mission .buttonsecondary {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.our-mission .cluster {
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.our-mission .contact {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.our-mission .div {
+  align-self: stretch;
+  background-color: var(--charcoal);
+  border-radius: 2px;
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.our-mission .foundation-for-public-code {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.our-mission .frame-197 {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.our-mission .logo-lockup {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  flex: 0 0 auto;
+  gap: 13px;
+  position: relative;
+}
+
+.our-mission .logo-symbol {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.66314697265625px;
+}
+
+.our-mission .module {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 15px;
+  position: relative;
+}
+
+.our-mission .text {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
