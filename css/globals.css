@@ -1,0 +1,190 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Mulish:400italic,400,600,500,700|Xanh+Mono:400,400italic|IBM+Plex+Serif:400,400italic|Cormorant+Garamond:600italic,600|Playfair+Display:400,400italic");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+
+
+@font-face {
+  font-family: "Bressay-Italic";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/.26929.otf") format("opentype");
+}
+
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.valign-text-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.foundation-for-public-code {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.read-more {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.attr {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.content {
+  background-color: transparent;
+  display: flex;
+  position: relative;
+}
+
+.title {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.img_0730 {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  height: 240.0003662109375px;
+  object-fit: cover;
+  position: relative;
+}
+
+.attrportraits {
+  background-color: transparent;
+  border-radius: 80px;
+  height: 80px;
+  position: relative;
+  width: 80.00028228759766px;
+}
+
+.cards {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.ellipse {
+  background-color: var(--fpcyellow);
+  position: absolute;
+}
+
+.governance-game {
+  align-self: stretch;
+  position: relative;
+}
+
+.line {
+  background-color: transparent;
+  position: absolute;
+}
+
+.main {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.process-codes {
+  align-self: stretch;
+  position: relative;
+}
+
+.rectangle-315 {
+  border-radius: 8.37px;
+  position: absolute;
+}
+
+.rectangle-316 {
+  border-radius: 8.37px;
+  position: absolute;
+}
+
+.rectangle-317 {
+  border-radius: 8.37px;
+  position: absolute;
+}
+
+.vector {
+  background-color: transparent;
+  position: absolute;
+}
