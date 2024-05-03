@@ -3,6 +3,12 @@
 /* The following line is used to measure usage of this code. You can remove it if you want. */
 
 
+@font-face {
+  font-family: "Bressay-Italic";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/.26929.otf") format("opentype");
+}
 
 
 .screen textarea:focus,
@@ -22,6 +28,19 @@
 .screen a {
   display: contents;
   text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
 }
 
 .valign-text-middle {
@@ -46,10 +65,12 @@
   box-sizing: border-box;
 }
 
-.content {
+.foundation-for-public-code {
   background-color: transparent;
-  display: flex;
+  letter-spacing: 0.00px;
+  line-height: normal;
   position: relative;
+  text-align: left;
 }
 
 .read-more {
@@ -62,14 +83,68 @@
   width: fit-content;
 }
 
-.subtract {
+.attr {
+  align-items: center;
+  align-self: stretch;
   background-color: transparent;
-  position: absolute;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.content {
+  background-color: transparent;
+  display: flex;
+  position: relative;
+}
+
+.title {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.img_0730 {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  height: 240.0003662109375px;
+  object-fit: cover;
+  position: relative;
+}
+
+.attrportraits {
+  background-color: transparent;
+  border-radius: 80px;
+  height: 80px;
+  position: relative;
+  width: 80.00028228759766px;
+}
+
+.cards {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 100%;
 }
 
 .ellipse {
   background-color: var(--fpcyellow);
   position: absolute;
+}
+
+.governance-game {
+  align-self: stretch;
+  position: relative;
 }
 
 .line {
@@ -94,119 +169,22 @@
   position: relative;
 }
 
-.rim {
-  background-color: transparent;
-  border: 3.999985456466675px solid;
-  border-radius: 44px;
-  height: 88px;
-  left: -4px;
+.rectangle-315 {
+  border-radius: 8.37px;
   position: absolute;
-  top: -4px;
-  width: 88px;
+}
+
+.rectangle-316 {
+  border-radius: 8.37px;
+  position: absolute;
+}
+
+.rectangle-317 {
+  border-radius: 8.37px;
+  position: absolute;
 }
 
 .vector {
   background-color: transparent;
   position: absolute;
-}
-
-.logogithub {
-  background-color: transparent;
-  position: relative;
-}
-
-.logomastodon {
-  background-color: transparent;
-  overflow: hidden;
-  position: relative;
-}
-
-.logotwitter {
-  background-color: transparent;
-  position: relative;
-}
-
-.project-resources {
-  align-self: stretch;
-  position: relative;
-}
-
-.the-standard-1 {
-  align-self: stretch;
-  background-color: transparent;
-  position: relative;
-}
-
-.button-text {
-  background-color: transparent;
-  letter-spacing: -0.14px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
-
-.buttongithub {
-  align-items: center;
-  background-color: var(--fpcwhite);
-  border: 1px solid;
-  border-color: var(--fpcmachine-grey-dark);
-  border-radius: 30px;
-  display: inline-flex;
-  gap: 4px;
-  left: 0px;
-  padding: 8px 15px;
-  position: absolute;
-}
-
-.icon {
-  background-color: transparent;
-  height: 14px;
-  position: relative;
-  width: 14px;
-}
-
-.codebase-steward-for-communites {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.email {
-  background-color: transparent;
-  flex: 1;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  text-decoration: underline;
-}
-
-.person-name {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-}
-
-.uiarrowexpand {
-  background-color: transparent;
-  height: 20.654296875px;
-  margin-right: -0.75px;
-  margin-top: -0.75px;
-  position: relative;
-  width: 20.65234375px;
-}
-
-.image {
-  background-color: transparent;
-  position: relative;
 }

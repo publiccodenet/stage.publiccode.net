@@ -157,9 +157,10 @@
 
 .the-standard-u40desktopu41-ne .nav-button-LUMnRy {
   align-items: flex-start;
-  background-color: var(--charcoal);
+  background-color: var(--fpccharcoal);
   border-radius: 6px;
   box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
   gap: 10px;
@@ -170,7 +171,6 @@
 
 .the-standard-u40desktopu41-ne .support-us-VgDLxb {
   background-color: transparent;
-  cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
@@ -181,6 +181,7 @@
 
 .the-standard-u40desktopu41-ne .cluster-fXMH7q {
   align-items: flex-start;
+  background-color: transparent;
   flex-direction: column;
   gap: 10px;
   max-width: 1120px;
@@ -189,6 +190,7 @@
 
 .the-standard-u40desktopu41-ne .cluster-74LHve {
   align-items: flex-start;
+  background-color: transparent;
   flex-direction: column;
   gap: 55px;
   max-width: 600px;
@@ -295,7 +297,7 @@
   width: 100%;
 }
 
-.the-standard-u40desktopu41-ne .quick-facts-about-the-standard-Kq6Ptl {
+.the-standard-u40desktopu41-ne .whos-using-the-standard-Kq6Ptl {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -305,111 +307,42 @@
   text-align: left;
 }
 
+.the-standard-u40desktopu41-ne .photos-of-various-pr-Kq6Ptl {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
 .the-standard-u40desktopu41-ne .cluster-Kq6Ptl {
   align-items: flex-start;
+  background-color: var(--red);
   gap: 15px;
 }
 
-.the-standard-u40desktopu41-ne .frame-246-T9xq2G {
-  background-color: var(--fpcwhite);
-  border: 2px solid;
-  border-color: var(--charcoal);
-  flex-direction: column;
-  gap: 15px;
-  padding: 20px;
-}
-
-.the-standard-u40desktopu41-ne .dpg-badge-1-pxSqJn {
+.the-standard-u40desktopu41-ne .roberto-viola-1-T9xq2G {
   background-color: transparent;
-  height: 40px;
-  position: relative;
-  width: 79.3544921875px;
-}
-
-.the-standard-u40desktopu41-ne .the-standard-has-bee-pxSqJn {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard-u40desktopu41-ne .span0-xI1h5U {
-}
-
-.the-standard-u40desktopu41-ne .span1-xI1h5U {
-  text-decoration: underline;
-}
-
-.the-standard-u40desktopu41-ne .span2-xI1h5U {
-}
-
-.the-standard-u40desktopu41-ne .span3-xI1h5U {
-  text-decoration: underline;
-}
-
-.the-standard-u40desktopu41-ne .span4-xI1h5U {
-}
-
-.the-standard-u40desktopu41-ne .frame-247-T9xq2G {
-  background-color: var(--fpcwhite);
-  border: 2px solid;
-  border-color: var(--charcoal);
-  flex-direction: column;
-  gap: 15px;
-  padding: 20px;
-}
-
-.the-standard-u40desktopu41-ne .x908fc49c3f1db4cccb413c8f6fd23490-1-nlBwdT {
-  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  height: 240px;
   object-fit: cover;
-}
-
-.the-standard-u40desktopu41-ne .the-cit-yx-city-acad-nlBwdT {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
   position: relative;
-  text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span0-xE1YhR {
-}
-
-.the-standard-u40desktopu41-ne .span1-xE1YhR {
-  text-decoration: underline;
-}
-
-.the-standard-u40desktopu41-ne .span2-xE1YhR {
-}
-
-.the-standard-u40desktopu41-ne .frame-248-T9xq2G {
-  align-self: stretch;
-  background-color: var(--fpcwhite);
-  border: 2px solid;
-  border-color: var(--charcoal);
-  flex-direction: column;
-  gap: 15px;
-  padding: 20px;
-}
-
-.the-standard-u40desktopu41-ne .x908fc49c3f1db4cccb413c8f6fd23490-1-6GxxuB {
-  background-color: var(--light-grey);
-}
-
-.the-standard-u40desktopu41-ne .lorem-ipsum-dolor-sit-amet-6GxxuB {
-  align-self: stretch;
+.the-standard-u40desktopu41-ne .roberto-viola-2-T9xq2G {
   background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
+  flex: 1;
+  flex-grow: 1;
+  height: 240px;
+  object-fit: cover;
   position: relative;
-  text-align: left;
 }
 
 .the-standard-u40desktopu41-ne .cluster-zMHX44 {
   align-items: flex-start;
+  background-color: transparent;
   flex-direction: column;
   gap: 30px;
 }
@@ -426,13 +359,14 @@
 
 .the-standard-u40desktopu41-ne .cluster-A0Ux3f {
   align-items: flex-start;
+  background-color: transparent;
   flex-wrap: wrap;
   gap: 15px 15px;
 }
 
 .the-standard-u40desktopu41-ne .frame-245-Fwzkev {
   align-items: flex-start;
-  background-color: var(--fpcblue);
+  background-color: var(--fpcyellow);
   border-radius: 6px;
   display: flex;
   flex: 1;
@@ -444,7 +378,7 @@
   position: relative;
 }
 
-.the-standard-u40desktopu41-ne .flex-container-40177677-Im5D1x {
+.the-standard-u40desktopu41-ne .flex-container-9-y-os-z-vvl-cl0-e9-k4-c-Im5D1x {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -452,7 +386,7 @@
   gap: 5px;
 }
 
-.the-standard-u40desktopu41-ne .text0-40177677-AF7XVe {
+.the-standard-u40desktopu41-ne .text0-9-y-os-z-vvl-cl0-e9-k4-c-Q9jCab {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -461,10 +395,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span0-aHIEu3 {
+.the-standard-u40desktopu41-ne .span0-3pUrxp {
 }
 
-.the-standard-u40desktopu41-ne .text1-40177677-AF7XVe {
+.the-standard-u40desktopu41-ne .text1-9-y-os-z-vvl-cl0-e9-k4-c-Q9jCab {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -473,16 +407,24 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span1-FumpLb {
+.the-standard-u40desktopu41-ne .span1-WXhKZs {
 }
 
 .the-standard-u40desktopu41-ne .frame-246-Fwzkev {
-  background-color: var(--fpcblue);
+  align-items: flex-start;
+  background-color: var(--fpcyellow);
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
   gap: 10px;
+  max-width: 360px;
+  min-width: 240px;
   padding: 15px;
+  position: relative;
 }
 
-.the-standard-u40desktopu41-ne .flex-container-40177679-lAd6Mz {
+.the-standard-u40desktopu41-ne .flex-container-dd-odgg-ih9n-sq5-i-hx-lAd6Mz {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -490,7 +432,7 @@
   gap: 5px;
 }
 
-.the-standard-u40desktopu41-ne .text0-40177679-shLUm5 {
+.the-standard-u40desktopu41-ne .text0-dd-odgg-ih9n-sq5-i-hx-HtJins {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -499,10 +441,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span0-ItRooz {
+.the-standard-u40desktopu41-ne .span0-jnATG0 {
 }
 
-.the-standard-u40desktopu41-ne .text1-40177679-shLUm5 {
+.the-standard-u40desktopu41-ne .text1-dd-odgg-ih9n-sq5-i-hx-HtJins {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -511,16 +453,24 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span1-FjJ5E0 {
+.the-standard-u40desktopu41-ne .span1-F0h8fn {
 }
 
 .the-standard-u40desktopu41-ne .frame-247-Fwzkev {
-  background-color: var(--fpcblue);
+  align-items: flex-start;
+  background-color: var(--fpcyellow);
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
   gap: 10px;
+  max-width: 360px;
+  min-width: 240px;
   padding: 15px;
+  position: relative;
 }
 
-.the-standard-u40desktopu41-ne .flex-container-40177681-uXk8kE {
+.the-standard-u40desktopu41-ne .flex-container-cz-umy9-g7z9d-y1y-zj-uXk8kE {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -528,7 +478,7 @@
   gap: 5px;
 }
 
-.the-standard-u40desktopu41-ne .text0-40177681-SyvtAO {
+.the-standard-u40desktopu41-ne .text0-cz-umy9-g7z9d-y1y-zj-fHxVtC {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -537,10 +487,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span0-LEEcxb {
+.the-standard-u40desktopu41-ne .span0-FMCoFv {
 }
 
-.the-standard-u40desktopu41-ne .text1-40177681-SyvtAO {
+.the-standard-u40desktopu41-ne .text1-cz-umy9-g7z9d-y1y-zj-fHxVtC {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -549,16 +499,24 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span1-dBBxE9 {
+.the-standard-u40desktopu41-ne .span1-U7ciW7 {
 }
 
 .the-standard-u40desktopu41-ne .frame-248-Fwzkev {
-  background-color: var(--fpcblue);
+  align-items: flex-start;
+  background-color: var(--fpcyellow);
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
   gap: 10px;
+  max-width: 360px;
+  min-width: 240px;
   padding: 15px;
+  position: relative;
 }
 
-.the-standard-u40desktopu41-ne .flex-container-40177683-VwjM1M {
+.the-standard-u40desktopu41-ne .flex-container-y-yer-qj6-qi-pyw-y-yk-o-VwjM1M {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -566,7 +524,7 @@
   gap: 5px;
 }
 
-.the-standard-u40desktopu41-ne .text0-40177683-13Kzd2 {
+.the-standard-u40desktopu41-ne .text0-y-yer-qj6-qi-pyw-y-yk-o-3AWhxo {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -575,10 +533,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span0-K27kfz {
+.the-standard-u40desktopu41-ne .span0-j2EC3Q {
 }
 
-.the-standard-u40desktopu41-ne .text1-40177683-13Kzd2 {
+.the-standard-u40desktopu41-ne .text1-y-yer-qj6-qi-pyw-y-yk-o-3AWhxo {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -587,11 +545,12 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span1-ZZj0YT {
+.the-standard-u40desktopu41-ne .span1-urjpyT {
 }
 
 .the-standard-u40desktopu41-ne .cluster-fpfHgP {
   align-items: flex-start;
+  background-color: transparent;
   gap: 15px;
 }
 
@@ -599,7 +558,7 @@
   align-items: center;
   background-color: var(--fpcwhite);
   border: 2px solid;
-  border-color: var(--charcoal);
+  border-color: var(--fpccharcoal);
   border-radius: 24px;
   display: flex;
   flex: 1;
@@ -674,6 +633,7 @@
 
 .the-standard-u40desktopu41-ne .cluster-bSAHaC {
   align-items: center;
+  background-color: transparent;
   flex-direction: column;
   gap: 20px;
   justify-content: center;
@@ -689,7 +649,7 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .flex-container-37335844-1J8OZ0 {
+.the-standard-u40desktopu41-ne .flex-container-xi1pp6-mr-bba1m-x6l-1J8OZ0 {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -697,7 +657,7 @@
   gap: 10px;
 }
 
-.the-standard-u40desktopu41-ne .text0-37335844-L7vyEV {
+.the-standard-u40desktopu41-ne .text0-xi1pp6-mr-bba1m-x6l-BbV9CJ {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -706,10 +666,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span0-jeh88l {
+.the-standard-u40desktopu41-ne .span0-cArG5R {
 }
 
-.the-standard-u40desktopu41-ne .text1-37335844-L7vyEV {
+.the-standard-u40desktopu41-ne .text1-xi1pp6-mr-bba1m-x6l-BbV9CJ {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -718,18 +678,19 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span1-t8Mbae {
+.the-standard-u40desktopu41-ne .span1-Ax3B5t {
 }
 
-.the-standard-u40desktopu41-ne .span2-t8Mbae {
+.the-standard-u40desktopu41-ne .span2-Ax3B5t {
   text-decoration: underline;
 }
 
-.the-standard-u40desktopu41-ne .span3-t8Mbae {
+.the-standard-u40desktopu41-ne .span3-Ax3B5t {
 }
 
 .the-standard-u40desktopu41-ne .cluster-rh3fLd {
   align-items: center;
+  background-color: transparent;
   flex-direction: column;
   gap: 20px;
   justify-content: center;
@@ -745,7 +706,7 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .flex-container-37335847-5nfB1x {
+.the-standard-u40desktopu41-ne .flex-container-ap-gy4smva-k-hph-ipp-5nfB1x {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -753,7 +714,7 @@
   gap: 10px;
 }
 
-.the-standard-u40desktopu41-ne .text0-37335847-z79LmG {
+.the-standard-u40desktopu41-ne .text0-ap-gy4smva-k-hph-ipp-SANLln {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -762,10 +723,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span0-04Lcmk {
+.the-standard-u40desktopu41-ne .span0-L8RCfi {
 }
 
-.the-standard-u40desktopu41-ne .text1-37335847-z79LmG {
+.the-standard-u40desktopu41-ne .text1-ap-gy4smva-k-hph-ipp-SANLln {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -774,10 +735,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span1-JXrn9r {
+.the-standard-u40desktopu41-ne .span1-Hq5p0q {
 }
 
-.the-standard-u40desktopu41-ne .text2-37335847-z79LmG {
+.the-standard-u40desktopu41-ne .text2-ap-gy4smva-k-hph-ipp-SANLln {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -786,10 +747,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span2-9Rh471 {
+.the-standard-u40desktopu41-ne .span2-FixLK5 {
 }
 
-.the-standard-u40desktopu41-ne .text3-37335847-z79LmG {
+.the-standard-u40desktopu41-ne .text3-ap-gy4smva-k-hph-ipp-SANLln {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -798,10 +759,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span3-YfpyHm {
+.the-standard-u40desktopu41-ne .span3-tPQwEo {
 }
 
-.the-standard-u40desktopu41-ne .text4-37335847-z79LmG {
+.the-standard-u40desktopu41-ne .text4-ap-gy4smva-k-hph-ipp-SANLln {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -810,10 +771,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span4-IZ82dO {
+.the-standard-u40desktopu41-ne .span4-bogbXt {
 }
 
-.the-standard-u40desktopu41-ne .text5-37335847-z79LmG {
+.the-standard-u40desktopu41-ne .text5-ap-gy4smva-k-hph-ipp-SANLln {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -822,10 +783,18 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span5-Zja3tr {
+.the-standard-u40desktopu41-ne .span5-eNNYIR {
 }
 
-.the-standard-u40desktopu41-ne .text6-37335847-z79LmG {
+.the-standard-u40desktopu41-ne .flex-container-mzfs-tg-jpmm-o5-l9-rp-5nfB1x {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.the-standard-u40desktopu41-ne .text0-mzfs-tg-jpmm-o5-l9-rp-4HlFMH {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -834,10 +803,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span6-hFpQXC {
+.the-standard-u40desktopu41-ne .span0-e1AahG {
 }
 
-.the-standard-u40desktopu41-ne .text7-37335847-z79LmG {
+.the-standard-u40desktopu41-ne .text1-mzfs-tg-jpmm-o5-l9-rp-4HlFMH {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -846,10 +815,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span7-OQvG3j {
+.the-standard-u40desktopu41-ne .span1-etVxjA {
 }
 
-.the-standard-u40desktopu41-ne .text8-37335847-z79LmG {
+.the-standard-u40desktopu41-ne .text2-mzfs-tg-jpmm-o5-l9-rp-4HlFMH {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -858,10 +827,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span8-eQJWVM {
+.the-standard-u40desktopu41-ne .span2-YA3u3e {
 }
 
-.the-standard-u40desktopu41-ne .text9-37335847-z79LmG {
+.the-standard-u40desktopu41-ne .text3-mzfs-tg-jpmm-o5-l9-rp-4HlFMH {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -870,10 +839,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span9-JWxAsD {
+.the-standard-u40desktopu41-ne .span3-nghaNs {
 }
 
-.the-standard-u40desktopu41-ne .text10-37335847-z79LmG {
+.the-standard-u40desktopu41-ne .text4-mzfs-tg-jpmm-o5-l9-rp-4HlFMH {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -882,35 +851,12 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span10-ffRAgY {
-}
-
-.the-standard-u40desktopu41-ne .text11-37335847-z79LmG {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard-u40desktopu41-ne .span11-JnUcmB {
-}
-
-.the-standard-u40desktopu41-ne .text12-37335847-z79LmG {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard-u40desktopu41-ne .span12-Sizdql {
+.the-standard-u40desktopu41-ne .span4-xVY2ht {
 }
 
 .the-standard-u40desktopu41-ne .cluster-wAgnRK {
   align-items: center;
+  background-color: transparent;
   flex-direction: column;
   gap: 20px;
   justify-content: center;
@@ -926,7 +872,7 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .flex-container-37335850-soZtST {
+.the-standard-u40desktopu41-ne .flex-container-wquepg-nmxx-wxz-cqd-soZtST {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -934,7 +880,7 @@
   gap: 10px;
 }
 
-.the-standard-u40desktopu41-ne .text0-37335850-g6r4eE {
+.the-standard-u40desktopu41-ne .text0-wquepg-nmxx-wxz-cqd-Kcirry {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -943,10 +889,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span0-txt1uv {
+.the-standard-u40desktopu41-ne .span0-T5jexH {
 }
 
-.the-standard-u40desktopu41-ne .text1-37335850-g6r4eE {
+.the-standard-u40desktopu41-ne .text1-wquepg-nmxx-wxz-cqd-Kcirry {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -955,10 +901,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span1-yxDSic {
+.the-standard-u40desktopu41-ne .span1-OS7d7y {
 }
 
-.the-standard-u40desktopu41-ne .text2-37335850-g6r4eE {
+.the-standard-u40desktopu41-ne .text2-wquepg-nmxx-wxz-cqd-Kcirry {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -967,21 +913,21 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span2-RVQOOl {
+.the-standard-u40desktopu41-ne .span2-yW9fHj {
 }
 
-.the-standard-u40desktopu41-ne .span3-RVQOOl {
+.the-standard-u40desktopu41-ne .span3-yW9fHj {
   text-decoration: underline;
 }
 
-.the-standard-u40desktopu41-ne .span4-RVQOOl {
+.the-standard-u40desktopu41-ne .span4-yW9fHj {
 }
 
-.the-standard-u40desktopu41-ne .span5-RVQOOl {
+.the-standard-u40desktopu41-ne .span5-yW9fHj {
   text-decoration: underline;
 }
 
-.the-standard-u40desktopu41-ne .text3-37335850-g6r4eE {
+.the-standard-u40desktopu41-ne .text3-wquepg-nmxx-wxz-cqd-Kcirry {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -990,17 +936,17 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span6-LmdP37 {
+.the-standard-u40desktopu41-ne .span6-M0l5dC {
 }
 
-.the-standard-u40desktopu41-ne .span7-LmdP37 {
+.the-standard-u40desktopu41-ne .span7-M0l5dC {
   text-decoration: underline;
 }
 
-.the-standard-u40desktopu41-ne .span8-LmdP37 {
+.the-standard-u40desktopu41-ne .span8-M0l5dC {
 }
 
-.the-standard-u40desktopu41-ne .text4-37335850-g6r4eE {
+.the-standard-u40desktopu41-ne .text4-wquepg-nmxx-wxz-cqd-Kcirry {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -1009,10 +955,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span9-kvhAMA {
+.the-standard-u40desktopu41-ne .span9-1JYo3F {
 }
 
-.the-standard-u40desktopu41-ne .span10-kvhAMA {
+.the-standard-u40desktopu41-ne .span10-1JYo3F {
   text-decoration: underline;
 }
 
@@ -1092,7 +1038,7 @@
   width: 88px;
 }
 
-.the-standard-u40desktopu41-ne .flex-container-i4017757634036497-xFMJJ5 {
+.the-standard-u40desktopu41-ne .flex-container-0w1-cef4fmx-k11x82-xFMJJ5 {
   align-items: flex-start;
   background-color: transparent;
   display: inline-flex;
@@ -1100,7 +1046,7 @@
   gap: 3px;
 }
 
-.the-standard-u40desktopu41-ne .text0-i4017757634036497-iuj7dR {
+.the-standard-u40desktopu41-ne .text0-0w1-cef4fmx-k11x82-O8JbTK {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -1109,10 +1055,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span0-OgAAd4 {
+.the-standard-u40desktopu41-ne .span0-WxwgkR {
 }
 
-.the-standard-u40desktopu41-ne .text1-i4017757634036497-iuj7dR {
+.the-standard-u40desktopu41-ne .text1-0w1-cef4fmx-k11x82-O8JbTK {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -1121,10 +1067,10 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span1-3DCwQY {
+.the-standard-u40desktopu41-ne .span1-anpqGt {
 }
 
-.the-standard-u40desktopu41-ne .span2-3DCwQY {
+.the-standard-u40desktopu41-ne .span2-anpqGt {
 }
 
 .the-standard-u40desktopu41-ne .footer-9D1S3k {
@@ -1132,7 +1078,7 @@
   align-self: stretch;
   background-color: var(--fpcwhite);
   border: 2px solid;
-  border-color: var(--charcoal);
+  border-color: var(--fpccharcoal);
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -1173,92 +1119,19 @@
   background-color: transparent;
   display: flex;
   flex: 0 0 auto;
-  gap: 10px;
+  flex-wrap: wrap;
+  gap: 10px 10px;
   position: relative;
   width: 100%;
 }
 
 .the-standard-u40desktopu41-ne .connect-FaEuvY {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
-  display: flex;
+  background-color: transparent;
   flex: 1;
-  flex-direction: column;
   flex-grow: 1;
-  gap: 20px;
-  justify-content: center;
-  min-width: 360px;
-  padding: 30px;
+  height: 150px;
+  min-width: 280px;
   position: relative;
-}
-
-.the-standard-u40desktopu41-ne .connect-with-us-iO55Sh {
-  align-self: stretch;
-  background-color: transparent;
-  cursor: pointer;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard-u40desktopu41-ne .channels-iO55Sh {
-  align-items: center;
-  background-color: transparent;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 30px;
-  position: relative;
-}
-
-.the-standard-u40desktopu41-ne .logomastodon-GUw3kX {
-  background-color: transparent;
-  cursor: pointer;
-  height: 32px;
-  overflow: hidden;
-  position: relative;
-  width: 32px;
-}
-
-.the-standard-u40desktopu41-ne .subtract-M6glSM {
-  height: 32px;
-  left: 1px;
-  top: 0px;
-  width: 30px;
-}
-
-.the-standard-u40desktopu41-ne .logotwitter-GUw3kX {
-  background-color: transparent;
-  cursor: pointer;
-  height: 32px;
-  position: relative;
-  width: 32px;
-}
-
-.the-standard-u40desktopu41-ne .logoyoutube-GUw3kX {
-  background-color: transparent;
-  cursor: pointer;
-  height: 31.94074249267578px;
-  overflow: hidden;
-  position: relative;
-  width: 32px;
-}
-
-.the-standard-u40desktopu41-ne .subtract-JH173K {
-  height: 22px;
-  left: 0px;
-  top: 5px;
-  width: 32px;
-}
-
-.the-standard-u40desktopu41-ne .logogithub-GUw3kX {
-  background-color: transparent;
-  cursor: pointer;
-  height: 32px;
-  position: relative;
-  width: 32px;
 }
 
 .the-standard-u40desktopu41-ne .email-FaEuvY {
@@ -1270,7 +1143,7 @@
   flex-direction: column;
   flex-grow: 1;
   gap: 20px;
-  min-width: 360px;
+  min-width: 280px;
   padding: 30px;
   position: relative;
 }
@@ -1298,7 +1171,7 @@
   flex-direction: column;
   flex-grow: 1;
   gap: 20px;
-  min-width: 360px;
+  min-width: 280px;
   padding: 30px;
   position: relative;
 }
@@ -1317,19 +1190,7 @@
   height: 12.46923828125px;
 }
 
-.the-standard-u40desktopu41-ne .notes-hgIBCI {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
-.the-standard-u40desktopu41-ne .flex-container-i3733585135764323-LOtJXG {
+.the-standard-u40desktopu41-ne .flex-container-i-pb4j3-lv7lv-l0-y8-w-hgIBCI {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -1337,7 +1198,7 @@
   gap: 10px;
 }
 
-.the-standard-u40desktopu41-ne .text0-i3733585135764323-MRoQKT {
+.the-standard-u40desktopu41-ne .text0-i-pb4j3-lv7lv-l0-y8-w-jZLEWK {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -1347,24 +1208,24 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span0-USuxqB {
+.the-standard-u40desktopu41-ne .span0-plXex0 {
 }
 
-.the-standard-u40desktopu41-ne .span1-USuxqB {
+.the-standard-u40desktopu41-ne .span1-plXex0 {
   text-decoration: underline;
 }
 
-.the-standard-u40desktopu41-ne .span2-USuxqB {
+.the-standard-u40desktopu41-ne .span2-plXex0 {
 }
 
-.the-standard-u40desktopu41-ne .span3-USuxqB {
+.the-standard-u40desktopu41-ne .span3-plXex0 {
   text-decoration: underline;
 }
 
-.the-standard-u40desktopu41-ne .span4-USuxqB {
+.the-standard-u40desktopu41-ne .span4-plXex0 {
 }
 
-.the-standard-u40desktopu41-ne .text1-i3733585135764323-MRoQKT {
+.the-standard-u40desktopu41-ne .text1-i-pb4j3-lv7lv-l0-y8-w-jZLEWK {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -1374,21 +1235,21 @@
   text-align: left;
 }
 
-.the-standard-u40desktopu41-ne .span5-z8avfN {
+.the-standard-u40desktopu41-ne .span5-kEVQER {
 }
 
-.the-standard-u40desktopu41-ne .span6-z8avfN {
+.the-standard-u40desktopu41-ne .span6-kEVQER {
   text-decoration: underline;
 }
 
-.the-standard-u40desktopu41-ne .span7-z8avfN {
+.the-standard-u40desktopu41-ne .span7-kEVQER {
 }
 
-.the-standard-u40desktopu41-ne .span8-z8avfN {
+.the-standard-u40desktopu41-ne .span8-kEVQER {
   text-decoration: underline;
 }
 
-.the-standard-u40desktopu41-ne .span9-z8avfN {
+.the-standard-u40desktopu41-ne .span9-kEVQER {
 }
 
 .the-standard-u40desktopu41-ne .metadata-hgIBCI {
@@ -1534,61 +1395,19 @@
 
 .the-standard-u40desktopu41-ne .cluster {
   align-self: stretch;
-  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   position: relative;
   width: 100%;
 }
 
-.the-standard-u40desktopu41-ne .div {
+.the-standard-u40desktopu41-ne .divhoriz {
   align-self: stretch;
-  background-color: var(--charcoal);
+  background-color: var(--fpccharcoal);
   border-radius: 2px;
   height: 2px;
   position: relative;
   width: 100%;
-}
-
-.the-standard-u40desktopu41-ne .foundation-for-public-code {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard-u40desktopu41-ne .frame-246 {
-  align-items: flex-start;
-  border-radius: 6px;
-  display: flex;
-  flex: 1;
-  flex-grow: 1;
-  max-width: 360px;
-  min-width: 240px;
-  position: relative;
-}
-
-.the-standard-u40desktopu41-ne .frame-247 {
-  align-items: flex-start;
-  border-radius: 6px;
-  display: flex;
-  flex: 1;
-  flex-grow: 1;
-  max-width: 360px;
-  min-width: 240px;
-  position: relative;
-}
-
-.the-standard-u40desktopu41-ne .frame-248 {
-  align-items: flex-start;
-  border-radius: 6px;
-  display: flex;
-  flex: 1;
-  flex-grow: 1;
-  max-width: 360px;
-  min-width: 240px;
-  position: relative;
 }
 
 .the-standard-u40desktopu41-ne .logo-lockup {
@@ -1615,10 +1434,4 @@
   position: relative;
   text-align: left;
   width: fit-content;
-}
-
-.the-standard-u40desktopu41-ne .x908fc49c3f1db4cccb413c8f6fd23490-1 {
-  height: 40px;
-  position: relative;
-  width: 125.86956787109375px;
 }
