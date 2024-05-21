@@ -60,17 +60,6 @@
   width: 365.34px;
 }
 
-.who-we-are-u40desktopu41 .navigation {
-  align-items: center;
-  display: flex;
-  flex: 1;
-  flex-grow: 1;
-  flex-wrap: wrap;
-  gap: 40px 20px;
-  justify-content: flex-end;
-  position: relative;
-}
-
 .who-we-are-u40desktopu41 .links {
   align-items: center;
   display: inline-flex;
@@ -79,14 +68,6 @@
   gap: 30px 30px;
   justify-content: flex-end;
   position: relative;
-}
-
-.who-we-are-u40desktopu41 .link {
-  cursor: pointer;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-  width: fit-content;
 }
 
 .who-we-are-u40desktopu41 .nav-button {
@@ -130,13 +111,15 @@
 
 .who-we-are-u40desktopu41 .content-1 {
   align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
   gap: 40px;
+}
+
+.who-we-are-u40desktopu41 .title {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
   position: relative;
-  width: 100%;
 }
 
 .who-we-are-u40desktopu41 .were-a-multidiscipl {
@@ -670,29 +653,28 @@
   align-items: center;
   align-self: stretch;
   background-color: var(--fpcwhite);
-  border: 2px solid;
-  border-color: var(--fpccharcoal);
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 60px;
-  margin-left: -2.00px;
-  margin-right: -2.00px;
   min-width: 800px;
-  padding: 60px;
+  padding: 0px 0px 60px;
   position: relative;
   width: 100%;
 }
 
-.who-we-are-u40desktopu41 .logo-lockup-1 {
-  align-items: center;
+.who-we-are-u40desktopu41 .divhoriz-1 {
   align-self: stretch;
-  cursor: pointer;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 13px;
+  background-color: var(--fpccharcoal);
+  height: 2px;
   position: relative;
   width: 100%;
+}
+
+.who-we-are-u40desktopu41 .content-2 {
+  align-items: center;
+  gap: 60px;
+  padding: 0px 60px;
 }
 
 .who-we-are-u40desktopu41 .foundation-for-public-code-1 {
@@ -702,26 +684,19 @@
   position: relative;
 }
 
-.who-we-are-u40desktopu41 .information {
+.who-we-are-u40desktopu41 .mail {
   align-items: flex-start;
-  align-self: stretch;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
   display: flex;
-  flex: 0 0 auto;
+  flex: 1;
   flex-direction: column;
-  gap: 30px;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
   position: relative;
-  width: 100%;
-}
-
-.who-we-are-u40desktopu41 .contact {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 10px 10px;
-  position: relative;
-  width: 100%;
 }
 
 .who-we-are-u40desktopu41 .mail-1 {
@@ -746,25 +721,19 @@
   position: relative;
 }
 
-.who-we-are-u40desktopu41 .arrow {
-  height: 12.47px;
-  margin-right: -0.85px;
-  position: relative;
-  width: 15.24px;
-}
-
-.who-we-are-u40desktopu41 .flex-container-i3733570035764323 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
 .who-we-are-u40desktopu41 .text {
-  align-self: stretch;
   letter-spacing: 0;
-  line-height: 20px;
-  margin-bottom: -30.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.who-we-are-u40desktopu41 .connect {
+  flex: 1;
+  flex-grow: 1;
+  height: 150px;
+  min-width: 280px;
   position: relative;
 }
 
@@ -774,6 +743,15 @@
   line-height: 20px;
   margin-top: -1.00px;
   position: relative;
+}
+
+.who-we-are-u40desktopu41 .content-3 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
 }
 
 .who-we-are-u40desktopu41 .name-6 {

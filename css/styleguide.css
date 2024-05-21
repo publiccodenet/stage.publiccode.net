@@ -1,29 +1,23 @@
 :root { 
   --basic-link: #007fff;
-  --bittersweet: #ff6565;
   --black: #00000080;
-  --eucalyptus: #43d2af;
+  --eucalyptus: #4dd8ae;
   --fpcbasic-link: #007fff;
   --fpcblack: #000000;
   --fpcblue: #56ccf2;
   --fpccharcoal: #333333;
   --fpcgreen: #00ba8d;
-  --fpcgrey-cc: #cccccc;
+  --fpcgreendark: #109c7a;
   --fpcgrey-e5: #e5e5e5;
   --fpcgrey-f2: #f2f2f2;
-  --fpcgrey-fa: #f9f9f9;
   --fpcpeach: #fdbbab;
   --fpcpurple: #5b57ca;
   --fpcwhite: #ffffff;
   --fpcyellow: #fff500;
-  --gossamer: #109c7a;
+  --green: #00ba8d;
   --machine-grey: #f2f2f2;
-  --machine-grey-light: #f9f9f9;
-  --medium-purple: #9747ff;
   --red: #ff0000;
-  --red-2: #ff0f00;
-  --yellow-sunshine: #fff4001a;
-  --yellow-sunshine-2: #fff400de;
+  --white: #ffffff;
  
   --font-size-l: 20px;
   --font-size-m: 16px;
@@ -33,12 +27,8 @@
   --font-size-xxxl: 32px;
   --font-size-xxxxl: 48px;
  
-  --font-family-bressay-italic: "Bressay-Italic", Helvetica;
-  --font-family-cormorant_garamond: "Cormorant Garamond", Helvetica;
   --font-family-ibm_plex_serif: "IBM Plex Serif", Helvetica;
   --font-family-mulish: "Mulish", Helvetica;
-  --font-family-playfair_display: "Playfair Display", Helvetica;
-  --font-family-xanh_mono: "Xanh Mono", Helvetica;
 }
 .mulish-normal-black-14px {
   color: var(--fpcblack);
@@ -56,18 +46,18 @@
   font-weight: 400;
 }
 
-.mulish-bold-black-16px {
-  color: var(--fpcblack);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 700;
-}
-
 .mulish-bold-black-24px {
   color: var(--fpcblack);
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-bold-black-16px {
+  color: var(--fpcblack);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 700;
 }
@@ -80,16 +70,8 @@
   font-weight: 400;
 }
 
-.mulish-bold-white-16px {
-  color: var(--fpcwhite);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.mulish-bold-azure-radiance-16px {
-  color: var(--basic-link);
+.mulish-bold-mine-shaft-16px {
+  color: var(--fpccharcoal);
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-m);
   font-style: normal;
@@ -104,10 +86,34 @@
   font-weight: 600;
 }
 
+.mulish-bold-black-32px {
+  color: var(--fpcblack);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-bold-azure-radiance-16px {
+  color: var(--basic-link);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
 .mulish-bold-black-20px {
   color: var(--fpcblack);
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-bold-white-16px {
+  color: var(--fpcwhite);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 700;
 }
@@ -120,37 +126,6 @@
   font-weight: 600;
 }
 
-.mulish-bold-black-32px {
-  color: var(--fpcblack);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xxxl);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.mulish-normal-white-16px {
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.mulish-bold-mine-shaft-16px {
-  color: var(--fpccharcoal);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.mulish-bold-black-27px {
-  color: var(--fpcblack);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 700;
-}
-
 .mulish-semi-bold-white-14px {
   color: var(--fpcwhite);
   font-family: var(--font-family-mulish);
@@ -159,18 +134,9 @@
   font-weight: 600;
 }
 
-.mulish-semi-bold-mine-shaft-14px {
-  color: var(--fpccharcoal);
+.mulish-normal-white-16px {
   font-family: var(--font-family-mulish);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 600;
-}
-
-.mulish-normal-mine-shaft-14px {
-  color: var(--fpccharcoal);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-s);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }
@@ -183,6 +149,14 @@
   font-weight: 700;
 }
 
+.mulish-bold-black-27px {
+  color: var(--fpcblack);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
 .mulish-normal-black-16px-2 {
   color: var(--fpcblack);
   font-family: var(--font-family-mulish);
@@ -191,26 +165,10 @@
   font-weight: 400;
 }
 
-.mulish-normal-azure-radiance-16px {
-  color: var(--basic-link);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.mulish-normal-azure-radiance-14px {
-  color: var(--basic-link);
+.mulish-normal-mine-shaft-14px {
+  color: var(--fpccharcoal);
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.mulish-normal-red-16px {
-  color: var(--red);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }
@@ -231,77 +189,6 @@
   font-weight: 400;
 }
 
-.mulish-bold-black-18px {
-  color: var(--fpcblack);
-  font-family: var(--font-family-mulish);
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-}
-
-.mulish-normal-white-14px {
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.mulish-bold-white-27px {
-  color: var(--fpcwhite);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.mulish-bold-black-17-8px {
-  color: var(--fpcblack);
-  font-family: var(--font-family-mulish);
-  font-size: 17.8px;
-  font-style: normal;
-  font-weight: 700;
-}
-
-.mulish-medium-black-16px {
-  color: var(--fpcblack);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.mulish-normal-white-15px {
-  color: var(--fpcwhite);
-  font-family: var(--font-family-mulish);
-  font-size: 15px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.mulish-medium-black-14px {
-  color: var(--fpcblack);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.mulish-normal-mine-shaft-16px {
-  color: var(--fpccharcoal);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.mulish-bold-black-48px {
-  color: var(--fpcblack);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xxxxl);
-  font-style: normal;
-  font-weight: 700;
-}
-
 .mulish-bold-black-20px-2 {
   color: var(--fpcblack);
   font-family: var(--font-family-mulish);
@@ -318,28 +205,36 @@
   font-weight: 700;
 }
 
-.mulish-bold-white-32px {
-  color: var(--fpcwhite);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xxxl);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.mulish-bold-gossamer-16px {
-  color: var(--gossamer);
+.mulish-normal-red-16px {
+  color: var(--red);
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-m);
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
 }
 
-.mulish-bold-white-48px {
-  color: var(--fpcwhite);
+.mulish-semi-bold-mine-shaft-14px {
+  color: var(--fpccharcoal);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.mulish-bold-black-48px {
+  color: var(--fpcblack);
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-xxxxl);
   font-style: normal;
   font-weight: 700;
+}
+
+.mulish-medium-black-20px {
+  color: var(--fpcblack);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
 }
 
 .mulish-medium-white-20px {
@@ -358,10 +253,18 @@
   font-weight: 400;
 }
 
-.mulish-medium-black-20px {
-  color: var(--fpcblack);
+.mulish-bold-gossamer-16px {
+  color: var(--fpcgreendark);
   font-family: var(--font-family-mulish);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-m);
   font-style: normal;
-  font-weight: 500;
+  font-weight: 700;
+}
+
+.mulish-bold-white-32px {
+  color: var(--fpcwhite);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
 }
