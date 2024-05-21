@@ -1,0 +1,507 @@
+/* screen - about-public-code-u40desktopu41 */
+
+.about-public-code-u40desktopu41 {
+  align-items: center;
+  background-color: var(--fpcgrey-e5);
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  overflow: hidden;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .header {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 2px solid;
+  border-color: var(--fpccharcoal);
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: 704px;
+  margin-left: -2.00px;
+  margin-right: -2.00px;
+  margin-top: -2.00px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.about-public-code-u40desktopu41 .base {
+  background: linear-gradient(180deg, rgb(91, 87, 202) 0%, rgb(59, 133, 244) 100%);
+  box-shadow: inset -200px 250px 200px #5b57ca;
+  height: 700px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99.72%;
+}
+
+.about-public-code-u40desktopu41 .bg {
+  height: 700px;
+  left: 0;
+  position: absolute;
+  top: calc(50.00% - 352px);
+  width: 99.72%;
+}
+
+.about-public-code-u40desktopu41 .illostewardship-transparent-hands {
+  height: 920px;
+  left: calc(50.00% - 58px);
+  position: absolute;
+  top: calc(50.00% - 334px);
+  width: 920px;
+}
+
+.about-public-code-u40desktopu41 .group {
+  align-items: flex-start;
+  display: flex;
+  height: 727px;
+  left: 125px;
+  min-width: 670px;
+  position: relative;
+  top: 131px;
+}
+
+.about-public-code-u40desktopu41 .overlap-group1 {
+  background-image: url(../img/subtract-6.png);
+  background-size: 100% 100%;
+  height: 551px;
+  position: relative;
+  width: 651px;
+}
+
+.about-public-code-u40desktopu41 .right-hand-fingers {
+  height: 399px;
+  left: 103px;
+  position: absolute;
+  top: 152px;
+  width: 242px;
+}
+
+.about-public-code-u40desktopu41 .left-hand-fingers {
+  height: 293px;
+  left: 309px;
+  position: absolute;
+  top: 258px;
+  width: 246px;
+}
+
+.about-public-code-u40desktopu41 .mask-group {
+  height: 411px;
+  left: 81px;
+  position: absolute;
+  top: 140px;
+  width: 504px;
+}
+
+.about-public-code-u40desktopu41 .navheader {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-around;
+  padding: 30px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.about-public-code-u40desktopu41 .content {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 16px 16px;
+  justify-content: space-between;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .logo-lockup {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 13px;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .logo-symbol {
+  height: 55px;
+  position: relative;
+  width: 47.66px;
+}
+
+.about-public-code-u40desktopu41 .foundation-for-public-code {
+  color: var(--fpcwhite);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 365.34px;
+}
+
+.about-public-code-u40desktopu41 .links {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 30px 30px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .nav-button {
+  align-items: flex-start;
+  background-color: var(--fpccharcoal);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 8px 15px;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .cluster {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 1120px;
+  padding: 0px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.about-public-code-u40desktopu41 .cluster-1 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 55px;
+  max-width: 600px;
+  width: 100%;
+}
+
+.about-public-code-u40desktopu41 .home-about-public-code {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .span0-1 {
+  color: var(--fpcwhite);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+.about-public-code-u40desktopu41 .span1 {
+  color: #ffffff80;
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+}
+
+.about-public-code-u40desktopu41 .frame-148 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  width: 100%;
+}
+
+.about-public-code-u40desktopu41 .title {
+  align-self: stretch;
+  color: var(--fpcwhite);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .we-define-public-co {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .content-1 {
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 1120px;
+  padding: 0px 20px 60px;
+}
+
+.about-public-code-u40desktopu41 .frame-325 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  width: 100%;
+}
+
+.about-public-code-u40desktopu41 .an-ecosystem-of-coll {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .frame-326 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 60px;
+  width: 100%;
+}
+
+.about-public-code-u40desktopu41 .frame-270 {
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+}
+
+.about-public-code-u40desktopu41 .flex-container-373357 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.about-public-code-u40desktopu41 .span0 {
+  line-height: 30px;
+}
+
+.about-public-code-u40desktopu41 .span-1 {
+  line-height: 24px;
+}
+
+.about-public-code-u40desktopu41 .cluster-2 {
+  background-color: var(--fpcwhite);
+  border: 2px solid;
+  border-color: var(--fpccharcoal);
+  border-radius: 12px;
+  flex: 1;
+  flex-grow: 1;
+  gap: 20px;
+  padding: 30px;
+}
+
+.about-public-code-u40desktopu41 .definitions {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .cluster-3 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 20px;
+  width: 100%;
+}
+
+.about-public-code-u40desktopu41 .frame-24 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  width: 100%;
+}
+
+.about-public-code-u40desktopu41 .public-code {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .x-the {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .divhoriz {
+  align-self: stretch;
+  background-color: var(--fpccharcoal);
+  border-radius: 2px;
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.about-public-code-u40desktopu41 .frame-327 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  width: 100%;
+}
+
+.about-public-code-u40desktopu41 .x122 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.about-public-code-u40desktopu41 .footer {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcwhite);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  min-width: 800px;
+  padding: 0px 0px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.about-public-code-u40desktopu41 .divhoriz-1 {
+  align-self: stretch;
+  background-color: var(--fpccharcoal);
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.about-public-code-u40desktopu41 .content-2 {
+  align-items: center;
+  padding: 0px 60px;
+}
+
+.about-public-code-u40desktopu41 .foundation-for-public-code-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .mail {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .buttonprimary {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .text {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.about-public-code-u40desktopu41 .connect {
+  flex: 1;
+  flex-grow: 1;
+  height: 150px;
+  min-width: 280px;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .span-2 {
+  text-decoration: underline;
+}
+
+.about-public-code-u40desktopu41 .address {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .cluster-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .content-3 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+  width: 100%;
+}
+
+.about-public-code-u40desktopu41 .frame {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .public-product {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .text0 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .text1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+}
+
+.about-public-code-u40desktopu41 .text2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+}
