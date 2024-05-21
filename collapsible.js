@@ -22,12 +22,12 @@ Array.from(arrows).forEach(arrow => {
   });
 });
 
-// Add feedback link
-var link = document.createElement('a');
-link.textContent = 'Feedback';
-link.href = 'mailto:pc-feedback@publiccode.net?subject=Feedback from ' + encodeURI(document.location);
-link.style = 'position: fixed; top: 50%; left: 100%; transform: translate(-70%, -50%) rotate(-90deg); font-family: var(--font-family-mulish); font-size: var(--font-size-m); color: var(--basic-link);';
-document.body.appendChild(link);
+// // Add feedback link
+// var link = document.createElement('a');
+// link.textContent = 'Feedback';
+// link.href = 'mailto:pc-feedback@publiccode.net?subject=Feedback from ' + encodeURI(document.location);
+// link.style = 'position: fixed; top: 50%; left: 100%; transform: translate(-70%, -50%) rotate(-90deg); font-family: var(--font-family-mulish); font-size: var(--font-size-m); color: var(--basic-link);';
+// document.body.appendChild(link);
 
 // Add Donate button
 let stewardship = document.querySelectorAll("[href='/codebase-stewardship/']");
@@ -40,3 +40,10 @@ Array.from(stewardship).forEach(link => {
   html = html.replace('/codebase-stewardship/', 'https://secure.infinitegiving.com/gift/foundation-for-public-code')
   link.insertAdjacentHTML('beforebegin', html);
 })
+
+// Modify CSS of floating menu
+const navDiv = document.getElementById("overlay-navigation")
+navDiv.style.zIndex = 10000
+const childDiv = navDiv.children[0]
+childDiv.style.position = 'absolute'
+childDiv.style.marginLeft = '50%'
