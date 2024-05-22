@@ -133,11 +133,6 @@
 }
 
 .about-public-code-u40desktopu41 .foundation-for-public-code-0GE5zP {
-  color: var(--fpcwhite);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 700;
   width: 365.33685302734375px;
 }
 
@@ -268,11 +263,6 @@
 }
 
 .about-public-code-u40desktopu41 .span1-btgzR6 {
-  color: #ffffff80;
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
 }
 
 .about-public-code-u40desktopu41 .frame-148-unaVXY {
@@ -306,7 +296,7 @@
   align-self: stretch;
   background-color: transparent;
   color: var(--fpcwhite);
-  font-family: var(--font-family-mulish);
+  font-family: var(--font-family-mulish-medium);
   font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 500;
@@ -976,6 +966,14 @@
   background-color: transparent;
   display: flex;
   position: relative;
+}
+
+.about-public-code-u40desktopu41 .divhoriz {
+  align-self: stretch;
+  background-color: var(--fpccharcoal);
+  height: 2px;
+  position: relative;
+  width: 100%;
 }
 
 .about-public-code-u40desktopu41 .foundation-for-public-code {

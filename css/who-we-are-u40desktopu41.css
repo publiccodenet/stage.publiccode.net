@@ -1023,11 +1023,6 @@
 }
 
 .who-we-are-u40desktopu41 .span0-5XUDzx {
-  color: var(--fpcblack);
-  font-family: var(--font-family-mulish-italic);
-  font-size: var(--font-size-m);
-  font-style: italic;
-  font-weight: 400;
 }
 
 .who-we-are-u40desktopu41 .span1-5XUDzx {
@@ -1319,14 +1314,12 @@
   position: relative;
 }
 
-.who-we-are-u40desktopu41 .first-last {
+.who-we-are-u40desktopu41 .divhoriz {
   align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
+  background-color: var(--fpccharcoal);
+  height: 2px;
   position: relative;
-  text-align: center;
+  width: 100%;
 }
 
 .who-we-are-u40desktopu41 .foundation-for-public-code {
@@ -1371,27 +1364,6 @@
   width: 100%;
 }
 
-.who-we-are-u40desktopu41 .frame-89 {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
-.who-we-are-u40desktopu41 .info {
-  align-items: flex-start;
-  background-color: transparent;
-  flex-direction: column;
-  gap: 2px;
-  justify-content: center;
-  position: relative;
-}
-
 .who-we-are-u40desktopu41 .logo-symbol {
   background-color: transparent;
   height: 55px;
@@ -1404,16 +1376,6 @@
   height: 215px;
   position: relative;
   width: 215px;
-}
-
-.who-we-are-u40desktopu41 .persons-name {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
 }
 
 .who-we-are-u40desktopu41 .teamdirectory {
@@ -1446,13 +1408,4 @@
   position: relative;
   text-align: left;
   width: fit-content;
-}
-
-.who-we-are-u40desktopu41 .title {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
 }

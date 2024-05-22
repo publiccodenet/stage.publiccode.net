@@ -1,5 +1,5 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
-@import url("https://fonts.googleapis.com/css?family=Mulish:500,700,600,400|IBM+Plex+Serif:400,400italic");
+@import url("https://fonts.googleapis.com/css?family=Mulish:700,400italic,600,400|IBM+Plex+Serif:400,400italic");
 /* The following line is used to measure usage of this code. You can remove it if you want. */
 
 
@@ -78,14 +78,6 @@
   box-sizing: border-box;
 }
 
-.divhoriz {
-  align-self: stretch;
-  background-color: var(--fpccharcoal);
-  height: 2px;
-  position: relative;
-  width: 100%;
-}
-
 .logo-lockup {
   align-items: center;
   background-color: transparent;
@@ -93,6 +85,74 @@
   flex: 0 0 auto;
   gap: 13px;
   position: relative;
+}
+
+.first-last {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+}
+
+.frame-89 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.info {
+  align-items: flex-start;
+  background-color: transparent;
+  flex-direction: column;
+  gap: 2px;
+  justify-content: center;
+  position: relative;
+}
+
+.persons-name {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.title {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.public-code {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.text_label {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
 }
 
 .attrportraits {
@@ -134,4 +194,88 @@
   position: absolute;
   top: -5.00%;
   width: 110.00%;
+}
+
+.a-forming-network-of {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.creator {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.initiator {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.learn-more {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.line-item {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+  width: 100%;
+}
+
+.who-should-get-involved {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.divvert {
+  align-self: stretch;
+  background-color: var(--fpccharcoal);
+  border-radius: 2px;
+  position: relative;
+  width: 2px;
+}
+
+.frame-302 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 30px;
+  position: relative;
+  width: 100%;
 }

@@ -247,11 +247,6 @@
 .who-we-are-member-u40desktopu41 .amypubliccodenet-JX67Pc {
   align-self: stretch;
   background-color: transparent;
-  color: var(--basic-link);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
   letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
@@ -259,7 +254,7 @@
   text-decoration: underline;
 }
 
-.who-we-are-member-u40desktopu41 .flex-container-37438644-j4CRer {
+.who-we-are-member-u40desktopu41 .flex-container-x6p3-ccs-uk-dvorp4l-j4CRer {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -267,7 +262,7 @@
   gap: 10px;
 }
 
-.who-we-are-member-u40desktopu41 .text0-37438644-zQwFUX {
+.who-we-are-member-u40desktopu41 .text0-x6p3-ccs-uk-dvorp4l-IxQryD {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -276,10 +271,10 @@
   text-align: left;
 }
 
-.who-we-are-member-u40desktopu41 .span0-T6yFus {
+.who-we-are-member-u40desktopu41 .span0-o8P7Hq {
 }
 
-.who-we-are-member-u40desktopu41 .text1-37438644-zQwFUX {
+.who-we-are-member-u40desktopu41 .text1-x6p3-ccs-uk-dvorp4l-IxQryD {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -288,10 +283,10 @@
   text-align: left;
 }
 
-.who-we-are-member-u40desktopu41 .span1-qmAZxz {
+.who-we-are-member-u40desktopu41 .span1-KZjVru {
 }
 
-.who-we-are-member-u40desktopu41 .text2-37438644-zQwFUX {
+.who-we-are-member-u40desktopu41 .text2-x6p3-ccs-uk-dvorp4l-IxQryD {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -300,7 +295,7 @@
   text-align: left;
 }
 
-.who-we-are-member-u40desktopu41 .span2-AtvyU5 {
+.who-we-are-member-u40desktopu41 .span2-9nwXjT {
 }
 
 .who-we-are-member-u40desktopu41 .frame-320-f3skFq {
@@ -324,11 +319,6 @@
 
 .who-we-are-member-u40desktopu41 .back-to-full-team-qUBsIk {
   background-color: transparent;
-  color: var(--basic-link);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 600;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
@@ -609,6 +599,14 @@
   background-color: transparent;
   display: flex;
   position: relative;
+}
+
+.who-we-are-member-u40desktopu41 .divhoriz {
+  align-self: stretch;
+  background-color: var(--fpccharcoal);
+  height: 2px;
+  position: relative;
+  width: 100%;
 }
 
 .who-we-are-member-u40desktopu41 .foundation-for-public-code {

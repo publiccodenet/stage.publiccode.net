@@ -1235,19 +1235,6 @@
   border-radius: 2px;
 }
 
-.the-standard-u40desktopu41 .foundation-for-publi-ZvGxx0 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  position: relative;
-  text-align: left;
-}
-
-.the-standard-u40desktopu41 .divhoriz-FDCYm1 {
-  border-radius: 2px;
-}
-
 .the-standard-u40desktopu41 .metadata-ZvGxx0 {
   align-items: flex-start;
   align-self: stretch;
@@ -1330,6 +1317,42 @@
 .the-standard-u40desktopu41 .span1-pajNhY {
 }
 
+.the-standard-u40desktopu41 .divhoriz-FDCYm1 {
+  border-radius: 2px;
+}
+
+.the-standard-u40desktopu41 .flex-container-i3733585135764323-ZvGxx0 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.the-standard-u40desktopu41 .text0-i3733585135764323-Lx0oVf {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard-u40desktopu41 .span0-5VlGqF {
+}
+
+.the-standard-u40desktopu41 .text1-i3733585135764323-Lx0oVf {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.the-standard-u40desktopu41 .span1-daMJXH {
+}
+
 .the-standard-u40desktopu41 .arrow-cluster {
   background-color: transparent;
   height: 16px;
@@ -1375,6 +1398,14 @@
   background-color: transparent;
   display: flex;
   position: relative;
+}
+
+.the-standard-u40desktopu41 .divhoriz {
+  align-self: stretch;
+  background-color: var(--fpccharcoal);
+  height: 2px;
+  position: relative;
+  width: 100%;
 }
 
 .the-standard-u40desktopu41 .foundation-for-public-code {
