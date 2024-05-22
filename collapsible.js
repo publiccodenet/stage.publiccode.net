@@ -44,6 +44,6 @@ Array.from(stewardship).forEach(link => {
 // Modify CSS of floating menu
 const navDiv = document.getElementById("overlay-navigation")
 navDiv.style.zIndex = 10000
-const childDiv = navDiv.children[0]
-childDiv.style.position = 'absolute'
-childDiv.style.marginLeft = '50%'
+// const childDiv = navDiv.children[0]
+// childDiv.style.position = 'absolute'
+// childDiv.style.marginLeft = '50%'
