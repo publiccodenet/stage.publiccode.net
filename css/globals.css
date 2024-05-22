@@ -1,0 +1,262 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Mulish:500,700,600,400|IBM+Plex+Serif:400,400italic");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.overlay-base {
+  display: none;
+  height: 100%;
+  opacity: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.overlay-base.animate-appear {
+  align-items: center;
+  animation: reveal 0.3s ease-in-out 1 normal forwards;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  opacity: 0;
+}
+
+.overlay-base.animate-disappear {
+  animation: reveal 0.3s ease-in-out 1 reverse forwards;
+  display: block;
+  opacity: 1;
+  pointer-events: none;
+}
+
+.overlay-base.animate-disappear * {
+  pointer-events: none;
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.support-us {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.arrow-cluster {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.logo-lockup-1 {
+  align-items: center;
+  align-self: stretch;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 13px;
+  position: relative;
+  width: 100%;
+}
+
+.information {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.contact {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 10px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.email-us {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+}
+
+.join-our-mailing-list {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+}
+
+.connect-with-us {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+}
+
+.channels {
+  align-items: center;
+  display: flex;
+  gap: 30px;
+  height: 40px;
+  position: relative;
+  width: 218px;
+}
+
+.foundation-for-publi {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+}
+
+.metadata {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.copyright {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  height: 14.46px;
+  position: relative;
+  width: 14.46px;
+}
+
+.address {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.license {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.iconlicense {
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.creative-commons-zer {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.diia-logo-1 {
+  height: 72px;
+  object-fit: cover;
+  position: relative;
+  width: 72px;
+}
+
+.x250-1 {
+  height: 72px;
+  object-fit: cover;
+  position: relative;
+  width: 72px;
+}
+
+.govuk_icon-1 {
+  height: 72px;
+  object-fit: cover;
+  position: relative;
+  width: 72px;
+}
+
+.iconapp {
+  height: 72px;
+  position: relative;
+  width: 72px;
+}
+
+.span-1 {
+  text-decoration: underline;
+}
+
+.examples-of-public-code {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.connect {
+  flex: 1;
+  flex-grow: 1;
+  height: 150px;
+  min-width: 280px;
+  position: relative;
+}
+
+.span-2 {
+  line-height: 24px;
+}

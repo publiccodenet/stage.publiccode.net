@@ -1,0 +1,62 @@
+/* screen - navigation */
+
+.navigation {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  min-width: 10px;
+  padding: 30px;
+  position: relative;
+}
+
+#overlay-navigation {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: flex-start;
+}
+
+.navigation .navigation-1 {
+  align-items: center;
+  background-color: var(--fpccharcoal);
+  border-radius: 8px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  min-width: 10px;
+  padding: 30px;
+}
+
+.navigation .what-is-public-code {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.navigation .link {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.navigation .nav-button {
+  align-items: flex-start;
+  background-color: var(--fpcgreendark);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 6px 12px;
+  position: relative;
+}
