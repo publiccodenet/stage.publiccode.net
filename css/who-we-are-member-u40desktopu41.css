@@ -1,0 +1,637 @@
+/* screen - who-we-are-member-u40desktopu41 */
+
+.who-we-are-member-u40desktopu41 {
+  align-items: center;
+  background-color: var(--fpcgrey-e5);
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  left: 0px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  top: 0px;
+}
+
+.who-we-are-member-u40desktopu41 .navheader-LnrGlG {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcwhite);
+  border: 2px solid;
+  border-color: var(--fpccharcoal);
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-around;
+  margin-left: -2.00px;
+  margin-right: -2.00px;
+  margin-top: -2.00px;
+  padding: 30px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.who-we-are-member-u40desktopu41 .content-7Jz15K {
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 16px 16px;
+  justify-content: space-between;
+}
+
+.who-we-are-member-u40desktopu41 .logo-lockup-WIh3Pb {
+  display: inline-flex;
+}
+
+.who-we-are-member-u40desktopu41 .foundation-for-public-code-hWRgiQ {
+  width: 365.33685302734375px;
+}
+
+.who-we-are-member-u40desktopu41 .navigation-WIh3Pb {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 40px 20px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.who-we-are-member-u40desktopu41 .links-Qsscz2 {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 30px 30px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.who-we-are-member-u40desktopu41 .what-is-public-code-xFlDE4 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.who-we-are-member-u40desktopu41 .the-standard-xFlDE4 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.who-we-are-member-u40desktopu41 .blog-xFlDE4 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.who-we-are-member-u40desktopu41 .about-xFlDE4 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.who-we-are-member-u40desktopu41 .span0-xZvZdW {
+}
+
+.who-we-are-member-u40desktopu41 .span1-xZvZdW {
+}
+
+.who-we-are-member-u40desktopu41 .nav-button-xFlDE4 {
+  align-items: flex-start;
+  background-color: var(--fpccharcoal);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 8px 15px;
+  position: relative;
+}
+
+.who-we-are-member-u40desktopu41 .support-us-tFo1JP {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.who-we-are-member-u40desktopu41 .main-LnrGlG {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  max-width: 1120px;
+  padding: 0px 20px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.who-we-are-member-u40desktopu41 .home-who-we-are-amy-darling-f3skFq {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-member-u40desktopu41 .span0-4PK9Wv {
+  text-decoration: underline;
+}
+
+.who-we-are-member-u40desktopu41 .span1-4PK9Wv {
+}
+
+.who-we-are-member-u40desktopu41 .span2-4PK9Wv {
+  text-decoration: underline;
+}
+
+.who-we-are-member-u40desktopu41 .span3-4PK9Wv {
+}
+
+.who-we-are-member-u40desktopu41 .cluster-f3skFq {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--fpcwhite);
+  border: 1.9999958276748657px solid;
+  border-color: var(--fpccharcoal);
+  border-radius: 24px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  justify-content: flex-end;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.who-we-are-member-u40desktopu41 .amy-darling-JXh5Fx {
+  background-color: transparent;
+  height: 350px;
+  object-fit: cover;
+  position: relative;
+  width: 350px;
+}
+
+.who-we-are-member-u40desktopu41 .frame-272-JXh5Fx {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  position: relative;
+}
+
+.who-we-are-member-u40desktopu41 .frame-276-j4CRer {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.who-we-are-member-u40desktopu41 .title-JX67Pc {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 450px;
+}
+
+.who-we-are-member-u40desktopu41 .operations-north-america-JX67Pc {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-member-u40desktopu41 .amypubliccodenet-JX67Pc {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--basic-link);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.who-we-are-member-u40desktopu41 .flex-container-37438644-j4CRer {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.who-we-are-member-u40desktopu41 .text0-37438644-zQwFUX {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-member-u40desktopu41 .span0-T6yFus {
+}
+
+.who-we-are-member-u40desktopu41 .text1-37438644-zQwFUX {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-member-u40desktopu41 .span1-qmAZxz {
+}
+
+.who-we-are-member-u40desktopu41 .text2-37438644-zQwFUX {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-member-u40desktopu41 .span2-AtvyU5 {
+}
+
+.who-we-are-member-u40desktopu41 .frame-320-f3skFq {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.who-we-are-member-u40desktopu41 .arrow-qUBsIk {
+  background-color: transparent;
+  height: 12.4691162109375px;
+  margin-left: -0.85px;
+  position: relative;
+  width: 13.693359375px;
+}
+
+.who-we-are-member-u40desktopu41 .back-to-full-team-qUBsIk {
+  background-color: transparent;
+  color: var(--basic-link);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.who-we-are-member-u40desktopu41 .footer-LnrGlG {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcwhite);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  min-width: 800px;
+  padding: 0px 0px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.who-we-are-member-u40desktopu41 .content-Aa3KdH {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  padding: 0px 60px;
+  width: 100%;
+}
+
+.who-we-are-member-u40desktopu41 .logo-lockup-OxidPX {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.who-we-are-member-u40desktopu41 .foundation-for-public-code-Hjxv75 {
+  flex: 1;
+}
+
+.who-we-are-member-u40desktopu41 .information-OxidPX {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.who-we-are-member-u40desktopu41 .contact-QmMUvF {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 10px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.who-we-are-member-u40desktopu41 .email-p8oPsV {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.who-we-are-member-u40desktopu41 .email-us-mxa9Dk {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-member-u40desktopu41 .mailing-list-p8oPsV {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.who-we-are-member-u40desktopu41 .join-our-mailing-list-jydFkV {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-member-u40desktopu41 .connect-p8oPsV {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  height: 150px;
+  min-width: 280px;
+  position: relative;
+}
+
+.who-we-are-member-u40desktopu41 .divhoriz-QmMUvF {
+  border-radius: 2px;
+}
+
+.who-we-are-member-u40desktopu41 .foundation-for-publi-QmMUvF {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-member-u40desktopu41 .span0-DKhItx {
+}
+
+.who-we-are-member-u40desktopu41 .span1-DKhItx {
+  text-decoration: underline;
+}
+
+.who-we-are-member-u40desktopu41 .span2-DKhItx {
+}
+
+.who-we-are-member-u40desktopu41 .span3-DKhItx {
+  text-decoration: underline;
+}
+
+.who-we-are-member-u40desktopu41 .span4-DKhItx {
+}
+
+.who-we-are-member-u40desktopu41 .span5-DKhItx {
+  text-decoration: underline;
+}
+
+.who-we-are-member-u40desktopu41 .span6-DKhItx {
+}
+
+.who-we-are-member-u40desktopu41 .span7-DKhItx {
+  text-decoration: underline;
+}
+
+.who-we-are-member-u40desktopu41 .span8-DKhItx {
+}
+
+.who-we-are-member-u40desktopu41 .divhoriz-C9j6s6 {
+  border-radius: 2px;
+}
+
+.who-we-are-member-u40desktopu41 .metadata-QmMUvF {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.who-we-are-member-u40desktopu41 .copyright-90RuiD {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+  width: 100%;
+}
+
+.who-we-are-member-u40desktopu41 .image-kZZpn7 {
+  background-color: transparent;
+  height: 14.4599609375px;
+  position: relative;
+  width: 14.4599609375px;
+}
+
+.who-we-are-member-u40desktopu41 .x2024-foundation-for-public-code-kZZpn7 {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-member-u40desktopu41 .span0-XJIPWi {
+}
+
+.who-we-are-member-u40desktopu41 .span1-XJIPWi {
+  text-decoration: underline;
+}
+
+.who-we-are-member-u40desktopu41 .license-90RuiD {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.who-we-are-member-u40desktopu41 .iconlicense-txJ6oj {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.who-we-are-member-u40desktopu41 .creative-commons-zer-txJ6oj {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-member-u40desktopu41 .span0-ZH0B2n {
+  text-decoration: underline;
+}
+
+.who-we-are-member-u40desktopu41 .span1-ZH0B2n {
+}
+
+.who-we-are-member-u40desktopu41 .arrow-cluster {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.who-we-are-member-u40desktopu41 .buttonprimary {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.who-we-are-member-u40desktopu41 .content {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  position: relative;
+}
+
+.who-we-are-member-u40desktopu41 .foundation-for-public-code {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-member-u40desktopu41 .logo-symbol {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.66314697265625px;
+}
+
+.who-we-are-member-u40desktopu41 .text {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
