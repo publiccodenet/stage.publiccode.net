@@ -6,11 +6,14 @@
   display: flex;
   flex-direction: column;
   gap: 60px;
+  left: 0px;
   overflow: hidden;
+  overflow-x: hidden;
   position: relative;
+  top: 0px;
 }
 
-.who-we-are-u40desktopu41 .navheader {
+.who-we-are-u40desktopu41 .navheader-iVlL08 {
   align-items: center;
   align-self: stretch;
   background-color: var(--fpcwhite);
@@ -27,41 +30,26 @@
   width: 100%;
 }
 
-.who-we-are-u40desktopu41 .content {
+.who-we-are-u40desktopu41 .content-cxr9hf {
   align-items: center;
-  display: flex;
   flex: 1;
   flex-grow: 1;
   flex-wrap: wrap;
   gap: 16px 16px;
   justify-content: space-between;
-  position: relative;
 }
 
-.who-we-are-u40desktopu41 .logo-lockup {
-  align-items: center;
-  cursor: pointer;
+.who-we-are-u40desktopu41 .logo-lockup-S1zKCy {
   display: inline-flex;
-  flex: 0 0 auto;
-  gap: 13px;
-  position: relative;
 }
 
-.who-we-are-u40desktopu41 .logo-symbol {
-  height: 55px;
-  position: relative;
-  width: 47.66px;
+.who-we-are-u40desktopu41 .foundation-for-public-code-Oaou1F {
+  width: 365.33685302734375px;
 }
 
-.who-we-are-u40desktopu41 .foundation-for-public-code {
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-  width: 365.34px;
-}
-
-.who-we-are-u40desktopu41 .navigation {
+.who-we-are-u40desktopu41 .navigation-S1zKCy {
   align-items: center;
+  background-color: transparent;
   display: flex;
   flex: 1;
   flex-grow: 1;
@@ -71,8 +59,9 @@
   position: relative;
 }
 
-.who-we-are-u40desktopu41 .links {
+.who-we-are-u40desktopu41 .links-vF17Xn {
   align-items: center;
+  background-color: transparent;
   display: inline-flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
@@ -81,15 +70,53 @@
   position: relative;
 }
 
-.who-we-are-u40desktopu41 .link {
+.who-we-are-u40desktopu41 .what-is-public-code-pCAwLP {
+  background-color: transparent;
   cursor: pointer;
-  letter-spacing: 0;
+  letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
+  text-align: left;
   width: fit-content;
 }
 
-.who-we-are-u40desktopu41 .nav-button {
+.who-we-are-u40desktopu41 .the-standard-pCAwLP {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.who-we-are-u40desktopu41 .blog-pCAwLP {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.who-we-are-u40desktopu41 .about-pCAwLP {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.who-we-are-u40desktopu41 .span0-s0KDqr {
+}
+
+.who-we-are-u40desktopu41 .span1-s0KDqr {
+}
+
+.who-we-are-u40desktopu41 .nav-button-pCAwLP {
   align-items: flex-start;
   background-color: var(--fpccharcoal);
   border-radius: 6px;
@@ -103,9 +130,20 @@
   position: relative;
 }
 
-.who-we-are-u40desktopu41 .main {
+.who-we-are-u40desktopu41 .support-us-RG0QHv {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.who-we-are-u40desktopu41 .main-iVlL08 {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -116,37 +154,49 @@
   width: 100%;
 }
 
-.who-we-are-u40desktopu41 .home-who-we-are {
+.who-we-are-u40desktopu41 .home-who-we-are-4K8cxE {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.who-we-are-u40desktopu41 .content-1 {
+.who-we-are-u40desktopu41 .span0-20dlg3 {
+  text-decoration: underline;
+}
+
+.who-we-are-u40desktopu41 .span1-20dlg3 {
+}
+
+.who-we-are-u40desktopu41 .content-4K8cxE {
   align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
   gap: 40px;
+  width: 100%;
 }
 
-.who-we-are-u40desktopu41 .title {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
+.who-we-are-u40desktopu41 .title-ocMEB7 {
   margin-top: -1.00px;
-  position: relative;
 }
 
-.who-we-are-u40desktopu41 .were-a-multidiscipl {
+.who-we-are-u40desktopu41 .were-a-multidiscipli-ocMEB7 {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 30px;
   position: relative;
+  text-align: left;
 }
 
-.who-we-are-u40desktopu41 .frame-186 {
+.who-we-are-u40desktopu41 .frame-186-ocMEB7 {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
@@ -155,105 +205,74 @@
   width: 100%;
 }
 
-.who-we-are-u40desktopu41 .teamdirectory {
-  align-items: flex-end;
-  background-color: var(--fpcwhite);
-  border: 2px solid;
-  border-color: var(--fpccharcoal);
-  border-radius: 6px;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  height: 395px;
-  justify-content: space-between;
-  padding: 20px;
-  position: relative;
-}
-
-.who-we-are-u40desktopu41 .frame-275 {
-  align-items: flex-end;
+.who-we-are-u40desktopu41 .email-fCJ1cp {
   align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 15px;
-  position: relative;
-  width: 100%;
-}
-
-.who-we-are-u40desktopu41 .mask-group {
-  height: 215px;
-  position: relative;
-  width: 215px;
-}
-
-.who-we-are-u40desktopu41 .frame-194 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 5px;
-  position: relative;
-  width: 100%;
-}
-
-.who-we-are-u40desktopu41 .email {
-  align-self: stretch;
+  background-color: transparent;
   cursor: pointer;
   height: 20px;
-  letter-spacing: 0;
+  letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
+  text-align: left;
   text-decoration: underline;
 }
 
-.who-we-are-u40desktopu41 .frame-249 {
-  align-self: stretch;
-  height: 12.47px;
-  margin-bottom: -1.23px;
-  margin-right: -0.85px;
-  position: relative;
-  width: 100%;
+.who-we-are-u40desktopu41 .persons-name-1u175J {
+  cursor: pointer;
 }
 
-.who-we-are-u40desktopu41 .persons-name {
+.who-we-are-u40desktopu41 .email-1u175J {
   align-self: stretch;
+  background-color: transparent;
   cursor: pointer;
-  letter-spacing: 0;
+  height: 20px;
+  letter-spacing: 0.00px;
   line-height: normal;
-  margin-top: -1.00px;
   position: relative;
+  text-align: left;
+  text-decoration: underline;
 }
 
-.who-we-are-u40desktopu41 .teamdirectory-1 {
-  align-items: flex-end;
-  background-color: var(--fpcwhite);
-  border: 2px solid;
-  border-color: var(--fpccharcoal);
-  border-radius: 6px;
+.who-we-are-u40desktopu41 .teamdirectory-2xGrvX {
   cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  height: 395px;
-  justify-content: space-between;
-  padding: 20px;
-  position: relative;
 }
 
-.who-we-are-u40desktopu41 .divhoriz {
+.who-we-are-u40desktopu41 .persons-name-KxgKbi {
+  cursor: pointer;
+}
+
+.who-we-are-u40desktopu41 .email-KxgKbi {
   align-self: stretch;
-  background-color: var(--fpccharcoal);
-  border-radius: 2px;
-  height: 2px;
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
   position: relative;
-  width: 100%;
+  text-align: left;
+  text-decoration: underline;
 }
 
-.who-we-are-u40desktopu41 .cluster {
+.who-we-are-u40desktopu41 .email-fd8WxP {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.who-we-are-u40desktopu41 .divhoriz-ocMEB7 {
+  border-radius: 2px;
+}
+
+.who-we-are-u40desktopu41 .cluster-ocMEB7 {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -262,17 +281,20 @@
   width: 100%;
 }
 
-.who-we-are-u40desktopu41 .history-of-the-found {
+.who-we-are-u40desktopu41 .history-of-the-found-TQ2PoM {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.who-we-are-u40desktopu41 .frame-290 {
+.who-we-are-u40desktopu41 .frame-290-TQ2PoM {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -281,17 +303,20 @@
   width: 100%;
 }
 
-.who-we-are-u40desktopu41 .the-foundation-for-p {
+.who-we-are-u40desktopu41 .the-foundation-for-p-nEAD2H {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 30px;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.who-we-are-u40desktopu41 .frame-289 {
+.who-we-are-u40desktopu41 .frame-289-nEAD2H {
   align-items: center;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   gap: 30px;
@@ -299,51 +324,69 @@
   width: 100%;
 }
 
-.who-we-are-u40desktopu41 .leveraging-30-combin {
+.who-we-are-u40desktopu41 .leveraging-30-combin-vtqiya {
+  background-color: transparent;
   flex: 1;
-  letter-spacing: 0;
+  letter-spacing: 0.00px;
   line-height: 24px;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.who-we-are-u40desktopu41 .frame-291 {
+.who-we-are-u40desktopu41 .frame-291-vtqiya {
   align-items: center;
+  background-color: transparent;
   display: inline-flex;
   flex: 0 0 auto;
   gap: 10px;
   position: relative;
 }
 
-.who-we-are-u40desktopu41 .teamphotosv4-1 {
-  background-image: url(../img/photos-5@2x.png);
+.who-we-are-u40desktopu41 .photos-GuUrkM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
 }
 
-.who-we-are-u40desktopu41 .teamphotosv4 {
-  background-image: url(../img/photos-6@2x.png);
-  background-size: 100% 100%;
-  height: 96px;
-  position: relative;
-  width: 96px;
+.who-we-are-u40desktopu41 .photos-B9iHVM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
 }
 
-.who-we-are-u40desktopu41 .based-on-their-exper {
+.who-we-are-u40desktopu41 .based-on-their-exper-nEAD2H {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: 24px;
   position: relative;
+  text-align: left;
 }
 
-.who-we-are-u40desktopu41 .former-team-members {
+.who-we-are-u40desktopu41 .divhoriz-vLsjuL {
+  border-radius: 2px;
+}
+
+.who-we-are-u40desktopu41 .former-team-members-ocMEB7 {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
+  text-align: left;
 }
 
-.who-we-are-u40desktopu41 .frame-305 {
+.who-we-are-u40desktopu41 .frame-305-ocMEB7 {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
@@ -352,8 +395,9 @@
   width: 100%;
 }
 
-.who-we-are-u40desktopu41 .frame-3 {
+.who-we-are-u40desktopu41 .frame-307-cPVjdx {
   align-items: center;
+  background-color: transparent;
   cursor: pointer;
   display: flex;
   flex: 1;
@@ -364,195 +408,517 @@
   position: relative;
 }
 
-.who-we-are-u40desktopu41 .info {
-  align-items: flex-start;
+.who-we-are-u40desktopu41 .photos-AdKw03 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.who-we-are-u40desktopu41 .info-hzeX8y {
   display: flex;
   flex: 1;
-  flex-direction: column;
   flex-grow: 1;
-  gap: 2px;
-  justify-content: center;
-  position: relative;
 }
 
-.who-we-are-u40desktopu41 .boris-van-hoytema {
+.who-we-are-u40desktopu41 .boris-van-hoytema-eFhZ6r {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.who-we-are-u40desktopu41 .chief-executive-2019-2023 {
+.who-we-are-u40desktopu41 .chief-executive-2019-2023-eFhZ6r {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .frame-310-cPVjdx {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
   position: relative;
 }
 
-.who-we-are-u40desktopu41 .teamphotosv4-2 {
-  background-image: url(../img/photos-8@2x.png);
+.who-we-are-u40desktopu41 .photos-P5Stfr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
 }
 
-.who-we-are-u40desktopu41 .claus-mullie {
+.who-we-are-u40desktopu41 .info-XIQn5M {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.who-we-are-u40desktopu41 .claus-mullie-7i6abc {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.who-we-are-u40desktopu41 .stewardship-and-memb {
+.who-we-are-u40desktopu41 .stewardship-and-memb-7i6abc {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .frame-311-cPVjdx {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
   position: relative;
 }
 
-.who-we-are-u40desktopu41 .teamphotosv4-3 {
-  background-image: url(../img/photos-9@2x.png);
+.who-we-are-u40desktopu41 .photos-ANmDrq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
 }
 
-.who-we-are-u40desktopu41 .info-1 {
-  align-items: flex-start;
+.who-we-are-u40desktopu41 .info-QaxxSr {
   display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 2px;
-  justify-content: center;
-  position: relative;
 }
 
-.who-we-are-u40desktopu41 .name {
+.who-we-are-u40desktopu41 .elena-findley-de-regt-FPuSld {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.who-we-are-u40desktopu41 .communications-coordinator-2019-2024 {
+.who-we-are-u40desktopu41 .communications-coordinator-2019-2024-FPuSld {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .frame-309-cPVjdx {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
   position: relative;
 }
 
-.who-we-are-u40desktopu41 .teamphotosv4-4 {
-  background-image: url(../img/photos-10@2x.png);
+.who-we-are-u40desktopu41 .photos-LY6sAa {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
 }
 
-.who-we-are-u40desktopu41 .codebase-steward2019-2024 {
+.who-we-are-u40desktopu41 .info-d72sxk {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.who-we-are-u40desktopu41 .jan-ainali-PSvs85 {
   align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-}
-
-.who-we-are-u40desktopu41 .teamphotosv4-5 {
-  background-image: url(../img/photos-11@2x.png);
-}
-
-.who-we-are-u40desktopu41 .lead-codebase-steward2019-2024 {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-}
-
-.who-we-are-u40desktopu41 .teamphotosv4-6 {
-  background-image: url(../img/photos-12@2x.png);
-}
-
-.who-we-are-u40desktopu41 .mirjam-van-tiel {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-}
-
-.who-we-are-u40desktopu41 .finance-executive2019 {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-}
-
-.who-we-are-u40desktopu41 .teamphotosv4-7 {
-  background-image: url(../img/photos-13@2x.png);
-}
-
-.who-we-are-u40desktopu41 .alba-roza {
-  align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.who-we-are-u40desktopu41 .codebase-steward-for {
+.who-we-are-u40desktopu41 .codebase-steward2019-2024-PSvs85 {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .frame-308-cPVjdx {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
   position: relative;
 }
 
-.who-we-are-u40desktopu41 .teamphotosv4-8 {
-  background-image: url(../img/photos-14@2x.png);
+.who-we-are-u40desktopu41 .photos-KY0xBX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
 }
 
-.who-we-are-u40desktopu41 .operations-coordinator2020-2021 {
+.who-we-are-u40desktopu41 .info-p2CI6B {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.who-we-are-u40desktopu41 .eric-herman-jQEV4J {
   align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-}
-
-.who-we-are-u40desktopu41 .teamphotosv4-9 {
-  background-image: url(../img/photos-15@2x.png);
-}
-
-.who-we-are-u40desktopu41 .membership-developer2020-2021 {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-}
-
-.who-we-are-u40desktopu41 .teamphotosv4-10 {
-  background-image: url(../img/photos-16@2x.png);
-}
-
-.who-we-are-u40desktopu41 .codebase-steward2020-2021 {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  position: relative;
-}
-
-.who-we-are-u40desktopu41 .teamphotosv4-11 {
-  background-image: url(../img/photos-17@2x.png);
-}
-
-.who-we-are-u40desktopu41 .kehinde-bademosi {
-  align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.who-we-are-u40desktopu41 .creative-director-2021-2024 {
+.who-we-are-u40desktopu41 .lead-codebase-steward2019-2024-jQEV4J {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .frame-316-cPVjdx {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
   position: relative;
 }
 
-.who-we-are-u40desktopu41 .frame-330 {
+.who-we-are-u40desktopu41 .photos-12p6oW {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.who-we-are-u40desktopu41 .info-5ASPYJ {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.who-we-are-u40desktopu41 .mirjam-van-tiel-CP64iB {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .finance-executive2019-CP64iB {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .frame-314-cPVjdx {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.who-we-are-u40desktopu41 .photos-03qAzw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.who-we-are-u40desktopu41 .info-MNtLBT {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.who-we-are-u40desktopu41 .alba-roza-jFplih {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .codebase-steward-for-communites2020-2021-jFplih {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .frame-317-cPVjdx {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.who-we-are-u40desktopu41 .photos-xLNSJx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.who-we-are-u40desktopu41 .info-eXGxY5 {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.who-we-are-u40desktopu41 .deborah-meibergen-HJRMTE {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .operations-coordinator2020-2021-HJRMTE {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .frame-313-cPVjdx {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.who-we-are-u40desktopu41 .photos-IwjhpO {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.who-we-are-u40desktopu41 .info-4gVI2b {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.who-we-are-u40desktopu41 .laura-scheske-xJ5Bk8 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .membership-developer2020-2021-xJ5Bk8 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .frame-315-cPVjdx {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.who-we-are-u40desktopu41 .photos-3A8EyV {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.who-we-are-u40desktopu41 .info-h64Ldr {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.who-we-are-u40desktopu41 .felix-faassen-7AKgfJ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .codebase-steward2020-2021-7AKgfJ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .frame-312-cPVjdx {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.who-we-are-u40desktopu41 .photos-NCNdui {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.who-we-are-u40desktopu41 .info-zVx2Jh {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.who-we-are-u40desktopu41 .kehinde-bademosi-ufNDvY {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .creative-director-2021-2024-ufNDvY {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .divhoriz-ndjrkS {
+  border-radius: 2px;
+}
+
+.who-we-are-u40desktopu41 .frame-330-ocMEB7 {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -561,24 +927,29 @@
   width: 100%;
 }
 
-.who-we-are-u40desktopu41 .advisory-council {
+.who-we-are-u40desktopu41 .advisory-council-8be7Dp {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.who-we-are-u40desktopu41 .our-strategic-counci {
+.who-we-are-u40desktopu41 .our-strategic-counci-8be7Dp {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
+  text-align: left;
 }
 
-.who-we-are-u40desktopu41 .frame-328 {
+.who-we-are-u40desktopu41 .frame-328-8be7Dp {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
@@ -587,76 +958,71 @@
   width: 100%;
 }
 
-.who-we-are-u40desktopu41 .advisorsdescriptionboxvertv1 {
-  align-items: center;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 15px;
-  min-width: 200px;
-  position: relative;
-}
-
-.who-we-are-u40desktopu41 .photos {
+.who-we-are-u40desktopu41 .photos-ThrWS6 {
+  background-color: transparent;
   height: 96px;
   position: relative;
   width: 96px;
 }
 
-.who-we-are-u40desktopu41 .frame-89 {
-  align-items: flex-start;
+.who-we-are-u40desktopu41 .digital-minister-of-taiwan-Ss7sb0 {
   align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
-.who-we-are-u40desktopu41 .first-last {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: center;
-}
-
-.who-we-are-u40desktopu41 .digital-minister-of-taiwan {
-  align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
   text-align: center;
 }
 
-.who-we-are-u40desktopu41 .director-of-melbourn {
+.who-we-are-u40desktopu41 .photos-1MS4P5 {
+  background-color: transparent;
+  height: 96px;
+  position: relative;
+  width: 96px;
+}
+
+.who-we-are-u40desktopu41 .director-of-melbourn-dSq3wS {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
   text-align: center;
 }
 
-.who-we-are-u40desktopu41 .principal-at-experim {
+.who-we-are-u40desktopu41 .photos-z7NaWG {
+  background-color: transparent;
+  height: 96px;
+  position: relative;
+  width: 96px;
+}
+
+.who-we-are-u40desktopu41 .principal-at-experim-oBDp98 {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
   text-align: center;
 }
 
-.who-we-are-u40desktopu41 .chair-manager-ver {
+.who-we-are-u40desktopu41 .photos-r5FUm4 {
+  background-color: transparent;
+  height: 96px;
+  position: relative;
+  width: 96px;
+}
+
+.who-we-are-u40desktopu41 .chair-manager-vertic-d7v3cM {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
   text-align: center;
 }
 
-.who-we-are-u40desktopu41 .span0 {
+.who-we-are-u40desktopu41 .span0-5XUDzx {
   color: var(--fpcblack);
   font-family: var(--font-family-mulish-italic);
   font-size: var(--font-size-m);
@@ -664,7 +1030,10 @@
   font-weight: 400;
 }
 
-.who-we-are-u40desktopu41 .footer {
+.who-we-are-u40desktopu41 .span1-5XUDzx {
+}
+
+.who-we-are-u40desktopu41 .footer-iVlL08 {
   align-items: center;
   align-self: stretch;
   background-color: var(--fpcwhite);
@@ -678,28 +1047,51 @@
   width: 100%;
 }
 
-.who-we-are-u40desktopu41 .divhoriz-1 {
+.who-we-are-u40desktopu41 .content-7ggKuU {
+  align-items: center;
   align-self: stretch;
-  background-color: var(--fpccharcoal);
-  height: 2px;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  padding: 0px 60px;
+  width: 100%;
+}
+
+.who-we-are-u40desktopu41 .logo-lockup-ce1lwf {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.who-we-are-u40desktopu41 .foundation-for-public-code-DloHc8 {
+  flex: 1;
+}
+
+.who-we-are-u40desktopu41 .information-ce1lwf {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
   position: relative;
   width: 100%;
 }
 
-.who-we-are-u40desktopu41 .content-2 {
-  align-items: center;
-  gap: 60px;
-  padding: 0px 60px;
-}
-
-.who-we-are-u40desktopu41 .foundation-for-public-code-1 {
-  flex: 1;
-  letter-spacing: 0;
-  line-height: normal;
+.who-we-are-u40desktopu41 .contact-ipx02N {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 10px 10px;
   position: relative;
+  width: 100%;
 }
 
-.who-we-are-u40desktopu41 .mail {
+.who-we-are-u40desktopu41 .email-7QjXn9 {
   align-items: flex-start;
   background-color: var(--fpcgrey-f2);
   border-radius: 12px;
@@ -714,12 +1106,197 @@
   position: relative;
 }
 
-.who-we-are-u40desktopu41 .mail-1 {
+.who-we-are-u40desktopu41 .email-us-y23G8v {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -2.00px;
   position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .mailing-list-7QjXn9 {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.who-we-are-u40desktopu41 .join-our-mailing-list-IMDACx {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .connect-7QjXn9 {
+  background-color: transparent;
+  flex: 1;
+  flex-grow: 1;
+  height: 150px;
+  min-width: 280px;
+  position: relative;
+}
+
+.who-we-are-u40desktopu41 .divhoriz-ipx02N {
+  border-radius: 2px;
+}
+
+.who-we-are-u40desktopu41 .foundation-for-publi-ipx02N {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .span0-19aGcK {
+}
+
+.who-we-are-u40desktopu41 .span1-19aGcK {
+  text-decoration: underline;
+}
+
+.who-we-are-u40desktopu41 .span2-19aGcK {
+}
+
+.who-we-are-u40desktopu41 .span3-19aGcK {
+  text-decoration: underline;
+}
+
+.who-we-are-u40desktopu41 .span4-19aGcK {
+}
+
+.who-we-are-u40desktopu41 .span5-19aGcK {
+  text-decoration: underline;
+}
+
+.who-we-are-u40desktopu41 .span6-19aGcK {
+}
+
+.who-we-are-u40desktopu41 .span7-19aGcK {
+  text-decoration: underline;
+}
+
+.who-we-are-u40desktopu41 .span8-19aGcK {
+}
+
+.who-we-are-u40desktopu41 .divhoriz-5B2Wxk {
+  border-radius: 2px;
+}
+
+.who-we-are-u40desktopu41 .metadata-ipx02N {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.who-we-are-u40desktopu41 .copyright-SFs6dc {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+  width: 100%;
+}
+
+.who-we-are-u40desktopu41 .image-kxxQ8T {
+  background-color: transparent;
+  height: 14.4599609375px;
+  position: relative;
+  width: 14.4599609375px;
+}
+
+.who-we-are-u40desktopu41 .x2024-foundation-for-public-code-kxxQ8T {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .span0-48miJT {
+}
+
+.who-we-are-u40desktopu41 .span1-48miJT {
+  text-decoration: underline;
+}
+
+.who-we-are-u40desktopu41 .license-SFs6dc {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.who-we-are-u40desktopu41 .iconlicense-AxsMTb {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.who-we-are-u40desktopu41 .creative-commons-zer-AxsMTb {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .span0-kfbjZ4 {
+  text-decoration: underline;
+}
+
+.who-we-are-u40desktopu41 .span1-kfbjZ4 {
+}
+
+.who-we-are-u40desktopu41 .advisorsdescriptionboxvertv1 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  min-width: 200px;
+  position: relative;
+}
+
+.who-we-are-u40desktopu41 .arrow-cluster {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
 }
 
 .who-we-are-u40desktopu41 .buttonprimary {
@@ -736,49 +1313,146 @@
   position: relative;
 }
 
-.who-we-are-u40desktopu41 .text {
-  letter-spacing: 0;
+.who-we-are-u40desktopu41 .content {
+  background-color: transparent;
+  display: flex;
+  position: relative;
+}
+
+.who-we-are-u40desktopu41 .first-last {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -2.00px;
   position: relative;
-  width: fit-content;
+  text-align: center;
 }
 
-.who-we-are-u40desktopu41 .content-3 {
+.who-we-are-u40desktopu41 .foundation-for-public-code {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.who-we-are-u40desktopu41 .frame-194 {
+  align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
+  gap: 4.9999895095825195px;
   position: relative;
   width: 100%;
 }
 
-.who-we-are-u40desktopu41 .name-6 {
+.who-we-are-u40desktopu41 .frame-249 {
   align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1.00px;
+  background-color: transparent;
+  height: 12.468994140625px;
+  margin-bottom: -1.23px;
+  margin-right: -0.85px;
+  position: relative;
+  width: 100%;
+}
+
+.who-we-are-u40desktopu41 .frame-275 {
+  align-items: flex-end;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14.999968528747559px;
+  position: relative;
+  width: 100%;
+}
+
+.who-we-are-u40desktopu41 .frame-89 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.who-we-are-u40desktopu41 .info {
+  align-items: flex-start;
+  background-color: transparent;
+  flex-direction: column;
+  gap: 2px;
+  justify-content: center;
   position: relative;
 }
 
-.who-we-are-u40desktopu41 .persons-name-3 {
+.who-we-are-u40desktopu41 .logo-symbol {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.66314697265625px;
+}
+
+.who-we-are-u40desktopu41 .mask-group {
+  background-color: transparent;
+  height: 215px;
+  position: relative;
+  width: 215px;
+}
+
+.who-we-are-u40desktopu41 .persons-name {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
 }
 
-.who-we-are-u40desktopu41 .teamphotosv4-12 {
-  background-size: 100% 100%;
+.who-we-are-u40desktopu41 .teamdirectory {
+  align-items: flex-end;
+  background-color: var(--fpcwhite);
+  border: 1.9999958276748657px solid;
+  border-color: var(--fpccharcoal);
+  border-radius: 6px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 395.0008239746094px;
+  justify-content: space-between;
+  padding: 19.999958038330078px;
+  position: relative;
+}
+
+.who-we-are-u40desktopu41 .teamphotosv4 {
+  background-color: transparent;
   height: 96px;
   position: relative;
   width: 96px;
 }
 
-.who-we-are-u40desktopu41 .title-5 {
+.who-we-are-u40desktopu41 .text {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.who-we-are-u40desktopu41 .title {
   align-self: stretch;
-  letter-spacing: 0;
+  background-color: transparent;
+  letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
+  text-align: left;
 }

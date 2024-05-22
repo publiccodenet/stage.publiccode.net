@@ -5,6 +5,20 @@
 
 
 
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
 .screen a {
   display: contents;
   text-decoration: none;
@@ -64,199 +78,60 @@
   box-sizing: border-box;
 }
 
-.support-us {
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  width: fit-content;
-}
-
-.arrow-cluster {
-  height: 16px;
-  position: relative;
-  width: 16px;
-}
-
-.logo-lockup-1 {
-  align-items: center;
+.divhoriz {
   align-self: stretch;
+  background-color: var(--fpccharcoal);
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.logo-lockup {
+  align-items: center;
+  background-color: transparent;
   cursor: pointer;
-  display: flex;
   flex: 0 0 auto;
   gap: 13px;
   position: relative;
-  width: 100%;
 }
 
-.information {
+.attrportraits {
+  background-color: transparent;
+  border-radius: 80px;
+  height: 80px;
+  position: relative;
+  width: 80.00028228759766px;
+}
+
+.governance-game {
+  align-self: stretch;
+  position: relative;
+}
+
+.main {
   align-items: flex-start;
   align-self: stretch;
+  background-color: transparent;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
-  gap: 30px;
+  gap: 15px;
   position: relative;
   width: 100%;
 }
 
-.contact {
-  align-items: flex-start;
+.process-codes {
   align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 10px 10px;
-  position: relative;
-  width: 100%;
-}
-
-.email-us {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -2.00px;
   position: relative;
 }
 
-.join-our-mailing-list {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-}
-
-.connect-with-us {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-}
-
-.channels {
-  align-items: center;
-  display: flex;
-  gap: 30px;
-  height: 40px;
-  position: relative;
-  width: 218px;
-}
-
-.foundation-for-publi {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: 20px;
-  position: relative;
-}
-
-.metadata {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  position: relative;
-  width: 100%;
-}
-
-.copyright {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 7px;
-  position: relative;
-  width: 100%;
-}
-
-.image {
-  height: 14.46px;
-  position: relative;
-  width: 14.46px;
-}
-
-.address {
-  flex: 1;
-  letter-spacing: 0;
-  line-height: 20px;
-  margin-top: -1.00px;
-  position: relative;
-}
-
-.license {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
-.iconlicense {
-  height: 14.5px;
-  position: relative;
-  width: 16px;
-}
-
-.creative-commons-zer {
-  flex: 1;
-  letter-spacing: 0;
-  line-height: 20px;
-  margin-top: -1.00px;
-  position: relative;
-}
-
-.diia-logo-1 {
-  height: 72px;
-  object-fit: cover;
-  position: relative;
-  width: 72px;
-}
-
-.x250-1 {
-  height: 72px;
-  object-fit: cover;
-  position: relative;
-  width: 72px;
-}
-
-.govuk_icon-1 {
-  height: 72px;
-  object-fit: cover;
-  position: relative;
-  width: 72px;
-}
-
-.iconapp {
-  height: 72px;
-  position: relative;
-  width: 72px;
-}
-
-.span-1 {
-  text-decoration: underline;
-}
-
-.examples-of-public-code {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-}
-
-.connect {
-  flex: 1;
-  flex-grow: 1;
-  height: 150px;
-  min-width: 280px;
-  position: relative;
-}
-
-.span-2 {
-  line-height: 24px;
+.rim {
+  background-color: transparent;
+  border: 3.999985456466675px solid;
+  border-radius: 44px;
+  height: 110.00%;
+  left: -5.00%;
+  position: absolute;
+  top: -5.00%;
+  width: 110.00%;
 }

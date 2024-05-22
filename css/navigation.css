@@ -2,13 +2,17 @@
 
 .navigation {
   align-items: center;
+  background-color: transparent;
   display: inline-flex;
   flex-direction: column;
   gap: 15px;
   justify-content: center;
+  left: 0px;
   min-width: 10px;
+  overflow-x: hidden;
   padding: 30px;
   position: relative;
+  top: 0px;
 }
 
 #overlay-navigation {
@@ -17,7 +21,7 @@
   justify-content: flex-start;
 }
 
-.navigation .navigation-1 {
+.navigation .navigation-JhN9hI {
   align-items: center;
   background-color: var(--fpccharcoal);
   border-radius: 8px;
@@ -30,24 +34,54 @@
   padding: 30px;
 }
 
-.navigation .what-is-public-code {
+.navigation .what-is-public-code-ryaTeD {
+  background-color: transparent;
   cursor: pointer;
-  letter-spacing: 0;
+  letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
+  text-align: left;
   width: fit-content;
 }
 
-.navigation .link {
+.navigation .the-standard-ryaTeD {
+  background-color: transparent;
   cursor: pointer;
-  letter-spacing: 0;
+  letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
+  text-align: left;
   width: fit-content;
 }
 
-.navigation .nav-button {
+.navigation .blog-ryaTeD {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.navigation .about-ryaTeD {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.navigation .span0-kSgbvo {
+}
+
+.navigation .span1-kSgbvo {
+}
+
+.navigation .nav-button-ryaTeD {
   align-items: flex-start;
   background-color: var(--fpcgreendark);
   border-radius: 6px;
@@ -59,4 +93,14 @@
   justify-content: flex-end;
   padding: 6px 12px;
   position: relative;
+}
+
+.navigation .support-us-FAHxcm {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
 }
