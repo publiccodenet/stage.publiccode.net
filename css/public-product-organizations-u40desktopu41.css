@@ -95,6 +95,17 @@
   width: 365.34px;
 }
 
+.public-product-organizations-u40desktopu41 .navigation {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 40px 20px;
+  justify-content: flex-end;
+  position: relative;
+}
+
 .public-product-organizations-u40desktopu41 .links {
   align-items: center;
   display: inline-flex;
@@ -103,6 +114,14 @@
   gap: 30px 30px;
   justify-content: flex-end;
   position: relative;
+}
+
+.public-product-organizations-u40desktopu41 .link {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
 }
 
 .public-product-organizations-u40desktopu41 .nav-button {
@@ -147,10 +166,6 @@
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
-}
-
-.public-product-organizations-u40desktopu41 .span-1 {
-  text-decoration: underline;
 }
 
 .public-product-organizations-u40desktopu41 .frame-148 {
@@ -466,10 +481,6 @@
   line-height: 20px;
 }
 
-.public-product-organizations-u40desktopu41 .span-2 {
-  line-height: 24px;
-}
-
 .public-product-organizations-u40desktopu41 .text2-41568354 {
   line-height: 20px;
 }
@@ -496,6 +507,13 @@
   align-items: flex-start;
   display: inline-flex;
   gap: 10px;
+}
+
+.public-product-organizations-u40desktopu41 .diia {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
 }
 
 .public-product-organizations-u40desktopu41 .content {
@@ -653,6 +671,13 @@
   align-items: flex-start;
 }
 
+.public-product-organizations-u40desktopu41 .notify {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
 .public-product-organizations-u40desktopu41 .text0-40393314 {
   line-height: normal;
 }
@@ -762,12 +787,6 @@
   height: 172px;
   object-fit: cover;
   position: relative;
-}
-
-.public-product-organizations-u40desktopu41 .iconapp {
-  height: 72px;
-  position: relative;
-  width: 72px;
 }
 
 .public-product-organizations-u40desktopu41 .space-craft {
@@ -965,22 +984,6 @@
   margin-top: -2.00px;
   position: relative;
   width: fit-content;
-}
-
-.public-product-organizations-u40desktopu41 .connect {
-  flex: 1;
-  flex-grow: 1;
-  height: 150px;
-  min-width: 280px;
-  position: relative;
-}
-
-.public-product-organizations-u40desktopu41 .address {
-  flex: 1;
-  letter-spacing: 0;
-  line-height: 20px;
-  margin-top: -1.00px;
-  position: relative;
 }
 
 .public-product-organizations-u40desktopu41 .card-3 {

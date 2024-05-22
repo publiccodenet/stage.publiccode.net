@@ -60,6 +60,17 @@
   width: 365.34px;
 }
 
+.who-we-are-u40desktopu41 .navigation {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 40px 20px;
+  justify-content: flex-end;
+  position: relative;
+}
+
 .who-we-are-u40desktopu41 .links {
   align-items: center;
   display: inline-flex;
@@ -68,6 +79,14 @@
   gap: 30px 30px;
   justify-content: flex-end;
   position: relative;
+}
+
+.who-we-are-u40desktopu41 .link {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
 }
 
 .who-we-are-u40desktopu41 .nav-button {
@@ -103,10 +122,6 @@
   line-height: normal;
   margin-top: -1.00px;
   position: relative;
-}
-
-.who-we-are-u40desktopu41 .span-1 {
-  text-decoration: underline;
 }
 
 .who-we-are-u40desktopu41 .content-1 {
@@ -643,7 +658,7 @@
 
 .who-we-are-u40desktopu41 .span0 {
   color: var(--fpcblack);
-  font-family: var(--font-family-mulish);
+  font-family: var(--font-family-mulish-italic);
   font-size: var(--font-size-m);
   font-style: italic;
   font-weight: 400;
@@ -727,22 +742,6 @@
   margin-top: -2.00px;
   position: relative;
   width: fit-content;
-}
-
-.who-we-are-u40desktopu41 .connect {
-  flex: 1;
-  flex-grow: 1;
-  height: 150px;
-  min-width: 280px;
-  position: relative;
-}
-
-.who-we-are-u40desktopu41 .address {
-  flex: 1;
-  letter-spacing: 0;
-  line-height: 20px;
-  margin-top: -1.00px;
-  position: relative;
 }
 
 .who-we-are-u40desktopu41 .content-3 {

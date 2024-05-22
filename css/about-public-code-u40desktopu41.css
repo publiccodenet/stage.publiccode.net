@@ -144,6 +144,17 @@
   width: 365.34px;
 }
 
+.about-public-code-u40desktopu41 .navigation {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 40px 20px;
+  justify-content: flex-end;
+  position: relative;
+}
+
 .about-public-code-u40desktopu41 .links {
   align-items: center;
   display: inline-flex;
@@ -152,6 +163,22 @@
   gap: 30px 30px;
   justify-content: flex-end;
   position: relative;
+}
+
+.about-public-code-u40desktopu41 .link {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.about-public-code-u40desktopu41 .about {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 47px;
 }
 
 .about-public-code-u40desktopu41 .nav-button {
@@ -197,14 +224,6 @@
   position: relative;
 }
 
-.about-public-code-u40desktopu41 .span0-1 {
-  color: var(--fpcwhite);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-weight: 400;
-  text-decoration: underline;
-}
-
 .about-public-code-u40desktopu41 .span1 {
   color: #ffffff80;
   font-family: var(--font-family-mulish);
@@ -234,6 +253,10 @@
 
 .about-public-code-u40desktopu41 .we-define-public-co {
   align-self: stretch;
+  color: var(--fpcwhite);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-l);
+  font-weight: 500;
   letter-spacing: 0;
   line-height: 30px;
   position: relative;
@@ -285,10 +308,6 @@
 
 .about-public-code-u40desktopu41 .span0 {
   line-height: 30px;
-}
-
-.about-public-code-u40desktopu41 .span-1 {
-  line-height: 24px;
 }
 
 .about-public-code-u40desktopu41 .cluster-2 {
@@ -432,26 +451,6 @@
   margin-top: -2.00px;
   position: relative;
   width: fit-content;
-}
-
-.about-public-code-u40desktopu41 .connect {
-  flex: 1;
-  flex-grow: 1;
-  height: 150px;
-  min-width: 280px;
-  position: relative;
-}
-
-.about-public-code-u40desktopu41 .span-2 {
-  text-decoration: underline;
-}
-
-.about-public-code-u40desktopu41 .address {
-  flex: 1;
-  letter-spacing: 0;
-  line-height: 20px;
-  margin-top: -1.00px;
-  position: relative;
 }
 
 .about-public-code-u40desktopu41 .cluster-4 {

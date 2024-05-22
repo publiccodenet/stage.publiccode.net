@@ -91,14 +91,33 @@
   width: 365.34px;
 }
 
+.the-standard-u40desktopu41 .navigation {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 40px 20px;
+  justify-content: flex-end;
+  position: relative;
+}
+
 .the-standard-u40desktopu41 .links {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
-  gap: 30px 30px;
+  gap: 20px 20px;
   justify-content: flex-end;
   position: relative;
+}
+
+.the-standard-u40desktopu41 .link {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
 }
 
 .the-standard-u40desktopu41 .nav-button {
@@ -136,7 +155,7 @@
   position: relative;
 }
 
-.the-standard-u40desktopu41 .span-1 {
+.the-standard-u40desktopu41 .span {
   text-decoration: underline;
 }
 
@@ -193,6 +212,14 @@
   gap: 6px;
   padding: 0px 6px 0px 0px;
   position: relative;
+}
+
+.the-standard-u40desktopu41 .text-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
 }
 
 .the-standard-u40desktopu41 .main {
@@ -337,7 +364,6 @@
   background-color: #56ccf280;
   display: flex;
   height: 163px;
-  justify-content: flex-end;
   min-width: 290px;
   padding: 0 123.5px;
 }
@@ -568,14 +594,6 @@
   position: relative;
 }
 
-.the-standard-u40desktopu41 .mail-1 {
-  align-self: stretch;
-  letter-spacing: 0;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-}
-
 .the-standard-u40desktopu41 .buttonprimary {
   align-items: center;
   background-color: var(--basic-link);
@@ -598,20 +616,20 @@
   width: fit-content;
 }
 
-.the-standard-u40desktopu41 .connect {
-  flex: 1;
-  flex-grow: 1;
-  height: 150px;
-  min-width: 280px;
+.the-standard-u40desktopu41 .text-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2.00px;
   position: relative;
+  width: fit-content;
 }
 
-.the-standard-u40desktopu41 .address {
-  flex: 1;
-  letter-spacing: 0;
-  line-height: 20px;
-  margin-top: -1.00px;
+.the-standard-u40desktopu41 .link-1 {
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
   position: relative;
+  width: 32px;
 }
 
 .the-standard-u40desktopu41 .cluster-7 {

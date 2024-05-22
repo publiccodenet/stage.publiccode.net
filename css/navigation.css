@@ -39,6 +39,14 @@
   width: fit-content;
 }
 
+.navigation .link {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
 .navigation .nav-button {
   align-items: flex-start;
   background-color: var(--fpcgreendark);
