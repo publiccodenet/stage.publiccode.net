@@ -1,0 +1,4747 @@
+/* screen - team-u40desktopu41-all-breakpoints */
+
+.team-u40desktopu41-all-breakpoints {
+  align-items: center;
+  background-color: var(--fpcgrey-e5);
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: 3241px;
+  left: 0px;
+  min-width: 1140px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+}
+
+.team-u40desktopu41-all-breakpoints .nav-MT48sD {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .navheader-NkbnRC {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcwhite);
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-around;
+  padding: 30px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .content-wxojpY {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 16px 16px;
+  justify-content: space-between;
+}
+
+.team-u40desktopu41-all-breakpoints .logo-lockup-4Uyg4L {
+  display: inline-flex;
+}
+
+.team-u40desktopu41-all-breakpoints .foundation-for-public-code-MGAksl {
+  width: 365.33685302734375px;
+}
+
+.team-u40desktopu41-all-breakpoints .navigation-4Uyg4L {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 40px 20px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .links-8TpCo8 {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 20px 20px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .public-code-vUF5JB {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40desktopu41-all-breakpoints .public-product-orgs-vUF5JB {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40desktopu41-all-breakpoints .the-standard-vUF5JB {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40desktopu41-all-breakpoints .team-vUF5JB {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40desktopu41-all-breakpoints .nav-button-vUF5JB {
+  align-items: flex-start;
+  background-color: var(--fpccharcoal);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 8px 15px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .support-us-JoWC8A {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40desktopu41-all-breakpoints .main-MT48sD {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  max-width: 1120px;
+  padding: 0px 20px 60px;
+  position: relative;
+  width: 1120px;
+}
+
+.team-u40desktopu41-all-breakpoints .breadcrumbs-yQQlbA {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .home-mIfs2I {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.team-u40desktopu41-all-breakpoints .text_label-mIfs2I {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40desktopu41-all-breakpoints .layer-2-mIfs2I {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40desktopu41-all-breakpoints .content-yQQlbA {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  width: 1080px;
+}
+
+.team-u40desktopu41-all-breakpoints .title-wos0Wa {
+  margin-top: -1.00px;
+}
+
+.team-u40desktopu41-all-breakpoints .were-a-multidiscipli-wos0Wa {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .cards-wos0Wa {
+  gap: 20px 20px;
+  width: 1080px;
+}
+
+.team-u40desktopu41-all-breakpoints .content-O2xhGd {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14.999968528747559px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .text-IHr0td {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.9999895095825195px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .email-Kygfg5 {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.team-u40desktopu41-all-breakpoints .content-xKN8JT {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14.999968528747559px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .text-s2iHWB {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.9999895095825195px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .persons-name-O7RTHN {
+  cursor: pointer;
+}
+
+.team-u40desktopu41-all-breakpoints .email-O7RTHN {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.team-u40desktopu41-all-breakpoints .content-3wNyId {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14.999968528747559px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .text-HXKISO {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.9999895095825195px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .persons-name-cYWg7g {
+  cursor: pointer;
+}
+
+.team-u40desktopu41-all-breakpoints .email-cYWg7g {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.team-u40desktopu41-all-breakpoints .content-3Poxkv {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14.999968528747559px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .text-7xyvAz {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.9999895095825195px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .email-KtFixJ {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.team-u40desktopu41-all-breakpoints .divhoriz-vs9yxh {
+  border-radius: 2px;
+}
+
+.team-u40desktopu41-all-breakpoints .history-of-the-found-JLyZbz {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .cluster-JLyZbz {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.team-u40desktopu41-all-breakpoints .cluster-WVZh1y {
+  align-items: center;
+  gap: 30px;
+  padding: 0px 90px 0px 0px;
+}
+
+.team-u40desktopu41-all-breakpoints .the-foundation-for-p-A87drN {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-A87drN {
+  background-color: transparent;
+  height: 137px;
+  position: relative;
+  width: 168px;
+}
+
+.team-u40desktopu41-all-breakpoints .teamphotosv4-vXPCut {
+  left: 72px;
+  position: absolute;
+  top: 1px;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-ISQRnB {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .teamphotosv4-LoyL4W {
+  left: 1px;
+  position: absolute;
+  top: 40px;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-72zqSt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .leveraging-30-combin-WVZh1y {
+  background-color: transparent;
+  height: 72px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+  width: 1080px;
+}
+
+.team-u40desktopu41-all-breakpoints .based-on-their-exper-WVZh1y {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .divhoriz-okubIk {
+  border-radius: 2px;
+}
+
+.team-u40desktopu41-all-breakpoints .former-team-members-r8S0kh {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .cards-r8S0kh {
+  align-self: stretch;
+  gap: 15px 15px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .frame-307-qLgvcM {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .teamphotosv4-flYPFo {
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-JgF1br {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .info-flYPFo {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40desktopu41-all-breakpoints .boris-van-hoytema-YZRFzA {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .chief-executive-2019-2023-YZRFzA {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .frame-310-qLgvcM {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .teamphotosv4-6r4hYA {
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-AGWwiP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .info-6r4hYA {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40desktopu41-all-breakpoints .claus-mullie-OI4MGT {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .stewardship-and-memb-OI4MGT {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .frame-311-qLgvcM {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .teamphotosv4-RA3sKs {
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-m7Wbzb {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .info-RA3sKs {
+  display: inline-flex;
+  flex: 0 0 auto;
+}
+
+.team-u40desktopu41-all-breakpoints .elena-findley-de-regt-RQjntv {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .communications-coordinator-2019-2024-RQjntv {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .frame-309-qLgvcM {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .teamphotosv4-yzkW7x {
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-KkEfg3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .info-yzkW7x {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40desktopu41-all-breakpoints .jan-ainali-CwOxwj {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .codebase-steward2019-2024-CwOxwj {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .frame-308-qLgvcM {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .teamphotosv4-xBpcm6 {
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-c4Ci2v {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .info-xBpcm6 {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40desktopu41-all-breakpoints .eric-herman-D41JIi {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .lead-codebase-steward2019-2024-D41JIi {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .frame-316-qLgvcM {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .teamphotosv4-v32p7C {
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-pbb3xl {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .info-v32p7C {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40desktopu41-all-breakpoints .mirjam-van-tiel-7IDTgw {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .finance-executive2019-7IDTgw {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .frame-314-qLgvcM {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .teamphotosv4-tYFhaS {
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-yL6534 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .info-tYFhaS {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40desktopu41-all-breakpoints .alba-roza-Xsyh7X {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .codebase-steward-for-communites2020-2021-Xsyh7X {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .frame-317-qLgvcM {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .teamphotosv4-i3zPfz {
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-hQxwdz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .info-i3zPfz {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40desktopu41-all-breakpoints .deborah-meibergen-iuA3hz {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .operations-coordinator2020-2021-iuA3hz {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .frame-313-qLgvcM {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .teamphotosv4-sFbark {
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-xTOxzx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .info-sFbark {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40desktopu41-all-breakpoints .laura-scheske-PpCNBH {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .membership-developer2020-2021-PpCNBH {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .frame-315-qLgvcM {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .teamphotosv4-0wUv8F {
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-qwvgmW {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .info-0wUv8F {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40desktopu41-all-breakpoints .felix-faassen-3NERqx {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .codebase-steward2020-2021-3NERqx {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .frame-312-qLgvcM {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .teamphotosv4-D1mwme {
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-QdRK64 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .info-D1mwme {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40desktopu41-all-breakpoints .kehinde-bademosi-4K1sr8 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .creative-director-2021-2024-4K1sr8 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .divhoriz-rJxKC4 {
+  border-radius: 2px;
+}
+
+.team-u40desktopu41-all-breakpoints .advisory-council-xcV50M {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .our-strategic-counci-xcV50M {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .cards-xcV50M {
+  align-self: stretch;
+  gap: 30px 30px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-4o5dH8 {
+  background-color: transparent;
+  height: 96px;
+  position: relative;
+  width: 96px;
+}
+
+.team-u40desktopu41-all-breakpoints .digital-minister-of-taiwan-xWd33d {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-RTL2Ys {
+  background-color: transparent;
+  height: 96px;
+  position: relative;
+  width: 96px;
+}
+
+.team-u40desktopu41-all-breakpoints .director-of-melbourn-bTeOzP {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-Ixsh8W {
+  background-color: transparent;
+  height: 96px;
+  position: relative;
+  width: 96px;
+}
+
+.team-u40desktopu41-all-breakpoints .principal-at-experim-6eiex4 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.team-u40desktopu41-all-breakpoints .photos-oUQ1Nl {
+  background-color: transparent;
+  height: 96px;
+  position: relative;
+  width: 96px;
+}
+
+.team-u40desktopu41-all-breakpoints .chair-manager-vertic-HL4A2x {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.team-u40desktopu41-all-breakpoints .span0-YlDbD7 {
+}
+
+.team-u40desktopu41-all-breakpoints .span1-YlDbD7 {
+}
+
+.team-u40desktopu41-all-breakpoints .footer-MT48sD {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcwhite);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  min-width: 800px;
+  padding: 0px 0px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .content-M4l65H {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  padding: 0px 60px;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .logo-lockup-RDSB72 {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .foundation-for-public-code-xDwCsS {
+  flex: 1;
+}
+
+.team-u40desktopu41-all-breakpoints .information-RDSB72 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .contact-gXxPxR {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 10px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .email-ggr5zE {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .email-us-4xUzpU {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .text-dtUiHZ {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40desktopu41-all-breakpoints .join-our-mailing-list-2G46pO {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .text-L6Ktmx {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40desktopu41-all-breakpoints .connect-with-us-UKelYA {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .channels-UKelYA {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 30px;
+  height: 40px;
+  position: relative;
+  width: 218px;
+}
+
+.team-u40desktopu41-all-breakpoints .mastodon-txNYz7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: relative;
+  width: 32px;
+}
+
+.team-u40desktopu41-all-breakpoints .twitter-txNYz7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: relative;
+  width: 32px;
+}
+
+.team-u40desktopu41-all-breakpoints .you-tube-txNYz7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: relative;
+  width: 32px;
+}
+
+.team-u40desktopu41-all-breakpoints .git-hub-txNYz7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: relative;
+  width: 32px;
+}
+
+.team-u40desktopu41-all-breakpoints .divhoriz-gXxPxR {
+  border-radius: 2px;
+}
+
+.team-u40desktopu41-all-breakpoints .metadata-gXxPxR {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .copyright-efy1Q9 {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .image-ySka1p {
+  background-color: transparent;
+  height: 14.4599609375px;
+  position: relative;
+  width: 14.4599609375px;
+}
+
+.team-u40desktopu41-all-breakpoints .x2024-foundation-for-public-code-ySka1p {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .span0-fHZlFp {
+}
+
+.team-u40desktopu41-all-breakpoints .span1-fHZlFp {
+  text-decoration: underline;
+}
+
+.team-u40desktopu41-all-breakpoints .license-efy1Q9 {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .iconlicense-oq33CX {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.team-u40desktopu41-all-breakpoints .creative-commons-zer-oq33CX {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .span0-2sKoLM {
+  text-decoration: underline;
+}
+
+.team-u40desktopu41-all-breakpoints .span1-2sKoLM {
+}
+
+.team-u40desktopu41-all-breakpoints .divhoriz-1MqME6 {
+  border-radius: 2px;
+}
+
+.team-u40desktopu41-all-breakpoints .flex-container-i3733570035764323-gXxPxR {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.team-u40desktopu41-all-breakpoints .text0-i3733570035764323-03Wylx {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .span0-rIfble {
+}
+
+.team-u40desktopu41-all-breakpoints .text1-i3733570035764323-03Wylx {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .span1-azBGg3 {
+}
+
+.team-u40desktopu41-all-breakpoints .advisorsdescriptionboxvertv1 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  max-width: 400px;
+  min-width: 200px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .arrow-cluster {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.team-u40desktopu41-all-breakpoints .buttonprimary {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .cards {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .cluster {
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .content {
+  background-color: transparent;
+  display: flex;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .divhoriz {
+  align-self: stretch;
+  background-color: var(--fpccharcoal);
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .foundation-for-public-code {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40desktopu41-all-breakpoints .logo-symbol {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.66314697265625px;
+}
+
+.team-u40desktopu41-all-breakpoints .mailing-list {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .photo {
+  background-color: transparent;
+  height: 215.00003051757812px;
+  position: relative;
+  width: 215px;
+}
+
+.team-u40desktopu41-all-breakpoints .section {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40desktopu41-all-breakpoints .teamdirectory {
+  align-items: flex-end;
+  background-color: var(--fpcwhite);
+  border: 1.9999958276748657px solid;
+  border-color: var(--fpccharcoal);
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 395.0008239746094px;
+  justify-content: space-between;
+  max-width: 254.9994659423828px;
+  padding: 19.999958038330078px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .teamphotosv4 {
+  background-color: transparent;
+  height: 96px;
+  width: 96px;
+}
+
+.team-u40desktopu41-all-breakpoints .text {
+  background-color: transparent;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .ui {
+  align-self: stretch;
+  background-color: transparent;
+  height: 12.46905517578125px;
+  margin-bottom: -1.23px;
+  position: relative;
+  width: 100%;
+}
+/* screen - team-u40mobileu41 */
+
+.team-u40mobileu41 {
+  align-items: center;
+  background-color: var(--fpcgrey-e5);
+  display: flex;
+  flex-direction: column;
+  left: 0px;
+  min-width: 320px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+}
+
+.team-u40mobileu41 .nav-4j472x {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  z-index: 2;
+}
+
+.team-u40mobileu41 .navheader-BZ3SGE {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--fpcwhite);
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-around;
+  padding: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40mobileu41 .content-1heufn {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 20px 16px;
+  justify-content: space-between;
+}
+
+.team-u40mobileu41 .logo-CdbWrw {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  height: 35px;
+  justify-content: space-around;
+  position: relative;
+}
+
+.team-u40mobileu41 .logo-lockup-CMvwJX {
+  display: inline-flex;
+  margin-bottom: -2.50px;
+  margin-top: -2.50px;
+}
+
+.team-u40mobileu41 .foundation-for-public-code-37mgx2 {
+  width: fit-content;
+}
+
+.team-u40mobileu41 .menu-CdbWrw {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-e5);
+  border-radius: 30px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 6px;
+  padding: 17px 12px;
+  position: relative;
+}
+
+.team-u40mobileu41 .rectangle-178-yJTxGy {
+  background-color: var(--fpccharcoal);
+  border-radius: 3px;
+  height: 2px;
+  position: relative;
+  width: 20px;
+}
+
+.team-u40mobileu41 .rectangle-180-yJTxGy {
+  background-color: var(--fpccharcoal);
+  border-radius: 3px;
+  height: 2px;
+  position: relative;
+  width: 20px;
+}
+
+.team-u40mobileu41 .main-4j472x {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  justify-content: center;
+  max-width: 1120px;
+  padding: 40px 20px 120px;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+
+.team-u40mobileu41 .breadcrumbs-A8SSRr {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40mobileu41 .home-et9oEY {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.team-u40mobileu41 .text_label-et9oEY {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40mobileu41 .layer-2-et9oEY {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40mobileu41 .content-A8SSRr {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .title-xWFbGE {
+  margin-top: -1.00px;
+}
+
+.team-u40mobileu41 .were-a-multidiscipli-xWFbGE {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .cards-xWFbGE {
+  flex-direction: column;
+  gap: 20px;
+}
+
+.team-u40mobileu41 .content-lrMf7T {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14.999968528747559px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .photo-lEq98N {
+  height: 150.00003051757812px;
+}
+
+.team-u40mobileu41 .text-lEq98N {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.9999895095825195px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .email-4xg5xc {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.team-u40mobileu41 .content-5VjZLS {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14.999968528747559px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .photo-BfsnrZ {
+  height: 150px;
+}
+
+.team-u40mobileu41 .text-BfsnrZ {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.9999895095825195px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .persons-name-n7z9Dh {
+  cursor: pointer;
+}
+
+.team-u40mobileu41 .email-n7z9Dh {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.team-u40mobileu41 .content-87JXYg {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14.999968528747559px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .photo-pbq3Aj {
+  height: 150px;
+}
+
+.team-u40mobileu41 .text-pbq3Aj {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.9999895095825195px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .persons-name-qIsLxQ {
+  cursor: pointer;
+}
+
+.team-u40mobileu41 .email-qIsLxQ {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.team-u40mobileu41 .content-Svmx4T {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14.999968528747559px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .photo-FH5xEh {
+  height: 150px;
+}
+
+.team-u40mobileu41 .text-FH5xEh {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.9999895095825195px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .email-TeIj36 {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.team-u40mobileu41 .divhoriz-ZtAwXd {
+  border-radius: 2px;
+}
+
+.team-u40mobileu41 .history-of-the-found-xt82SQ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .frame-290-xt82SQ {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40mobileu41 .cluster-WFtSZI {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40mobileu41 .the-foundation-for-p-2XfOe7 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .photos-2XfOe7 {
+  background-color: transparent;
+  height: 137px;
+  position: relative;
+  width: 168px;
+}
+
+.team-u40mobileu41 .teamphotosv4-0C1nGA {
+  left: 72px;
+  position: absolute;
+  top: 1px;
+}
+
+.team-u40mobileu41 .photos-x7XxxW {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .teamphotosv4-bxxLcv {
+  left: 1px;
+  position: absolute;
+  top: 40px;
+}
+
+.team-u40mobileu41 .photos-aq98UP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .leveraging-30-combin-WFtSZI {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .based-on-their-exper-WFtSZI {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .divhoriz-vfzrBq {
+  border-radius: 2px;
+}
+
+.team-u40mobileu41 .former-team-members-sEmn6Q {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .cards-sEmn6Q {
+  flex-wrap: wrap;
+  gap: 15px 15px;
+}
+
+.team-u40mobileu41 .frame-307-bwAi86 {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  margin-right: -20.00px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40mobileu41 .teamphotosv4-x14dVx {
+  position: relative;
+}
+
+.team-u40mobileu41 .photos-rHHVvc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .info-x14dVx {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40mobileu41 .boris-van-hoytema-LjZD3d {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .chief-executive-2019-2023-LjZD3d {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .frame-310-bwAi86 {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  margin-right: -20.00px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40mobileu41 .teamphotosv4-AxRbHf {
+  position: relative;
+}
+
+.team-u40mobileu41 .photos-Sw1X7k {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .info-AxRbHf {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40mobileu41 .claus-mullie-xWvN03 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .stewardship-and-memb-xWvN03 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .frame-311-bwAi86 {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  margin-right: -20.00px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40mobileu41 .teamphotosv4-XjL5fx {
+  position: relative;
+}
+
+.team-u40mobileu41 .photos-snLntq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .info-XjL5fx {
+  display: inline-flex;
+  flex: 0 0 auto;
+}
+
+.team-u40mobileu41 .elena-findley-de-regt-qB0pzD {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .communications-coordinator-2019-2024-qB0pzD {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .frame-309-bwAi86 {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  margin-right: -20.00px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40mobileu41 .teamphotosv4-Q0datx {
+  position: relative;
+}
+
+.team-u40mobileu41 .photos-i9QTFH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .info-Q0datx {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40mobileu41 .jan-ainali-QQ5ox3 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .codebase-steward2019-2024-QQ5ox3 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .frame-308-bwAi86 {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  margin-right: -20.00px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40mobileu41 .teamphotosv4-mkRxWI {
+  position: relative;
+}
+
+.team-u40mobileu41 .photos-jZVbgw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .info-mkRxWI {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40mobileu41 .eric-herman-juiWGD {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .lead-codebase-steward2019-2024-juiWGD {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .frame-316-bwAi86 {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  margin-right: -20.00px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40mobileu41 .teamphotosv4-vOm7VH {
+  position: relative;
+}
+
+.team-u40mobileu41 .photos-E0ubTe {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .info-vOm7VH {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40mobileu41 .mirjam-van-tiel-MeMxQS {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .finance-executive2019-MeMxQS {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .frame-314-bwAi86 {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  margin-right: -20.00px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40mobileu41 .teamphotosv4-J9z5tf {
+  position: relative;
+}
+
+.team-u40mobileu41 .photos-pf0pVl {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .info-J9z5tf {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40mobileu41 .alba-roza-2IPxLE {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .codebase-steward-for-communites2020-2021-2IPxLE {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .frame-317-bwAi86 {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  margin-right: -20.00px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40mobileu41 .teamphotosv4-I75GXf {
+  position: relative;
+}
+
+.team-u40mobileu41 .photos-a09cYi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .info-I75GXf {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40mobileu41 .deborah-meibergen-GHYOxB {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .operations-coordinator2020-2021-GHYOxB {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .frame-313-bwAi86 {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  margin-right: -20.00px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40mobileu41 .teamphotosv4-mxQ0j5 {
+  position: relative;
+}
+
+.team-u40mobileu41 .photos-wGh19H {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .info-mxQ0j5 {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40mobileu41 .laura-scheske-GAofnl {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .membership-developer2020-2021-GAofnl {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .frame-315-bwAi86 {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  margin-right: -20.00px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40mobileu41 .teamphotosv4-co9d1l {
+  position: relative;
+}
+
+.team-u40mobileu41 .photos-7Vu290 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .info-co9d1l {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40mobileu41 .felix-faassen-RyracF {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .codebase-steward2020-2021-RyracF {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .frame-312-bwAi86 {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  margin-right: -20.00px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40mobileu41 .teamphotosv4-dgxXnK {
+  position: relative;
+}
+
+.team-u40mobileu41 .photos-OfFqM8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .info-dgxXnK {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40mobileu41 .kehinde-bademosi-URgyoE {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .creative-director-2021-2024-URgyoE {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .divhoriz-TvFAUo {
+  border-radius: 2px;
+}
+
+.team-u40mobileu41 .advisory-council-8NxdyM {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .our-strategic-counci-8NxdyM {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .cards-8NxdyM {
+  flex-wrap: wrap;
+  gap: 30px 30px;
+}
+
+.team-u40mobileu41 .photos-4CELIn {
+  background-color: transparent;
+  height: 96px;
+  position: relative;
+  width: 96px;
+}
+
+.team-u40mobileu41 .digital-minister-of-taiwan-NeungN {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.team-u40mobileu41 .photos-rxWxqC {
+  background-color: transparent;
+  height: 96px;
+  position: relative;
+  width: 96px;
+}
+
+.team-u40mobileu41 .director-of-melbourn-wbVI8G {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.team-u40mobileu41 .photos-3HzcjZ {
+  background-color: transparent;
+  height: 96px;
+  position: relative;
+  width: 96px;
+}
+
+.team-u40mobileu41 .principal-at-experim-6KdWwx {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.team-u40mobileu41 .photos-WxrdUl {
+  background-color: transparent;
+  height: 96px;
+  position: relative;
+  width: 96px;
+}
+
+.team-u40mobileu41 .chair-manager-vertic-YRGqVH {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.team-u40mobileu41 .span0-euVXjH {
+}
+
+.team-u40mobileu41 .span1-euVXjH {
+}
+
+.team-u40mobileu41 .footer-4j472x {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcwhite);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  padding: 0px 0px 40px;
+  position: relative;
+  width: 100%;
+  z-index: 0;
+}
+
+.team-u40mobileu41 .content-RDTyMy {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  padding: 0px 20px;
+  width: 100%;
+}
+
+.team-u40mobileu41 .logo-lockup-fTkRLv {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.team-u40mobileu41 .foundation-for-public-code-VErC30 {
+  flex: 1;
+}
+
+.team-u40mobileu41 .information-fTkRLv {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40mobileu41 .contact-S6wt92 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 10px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40mobileu41 .email-dKzEZw {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  min-width: 280px;
+  padding: 20px;
+  position: relative;
+}
+
+.team-u40mobileu41 .email-us-WcPbnK {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .text-2bO8F6 {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40mobileu41 .join-our-mailing-list-gD6arB {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .text-liRC6S {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40mobileu41 .connect-with-us-DcdQCy {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .channels-DcdQCy {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 30px;
+  height: 40px;
+  position: relative;
+  width: 218px;
+}
+
+.team-u40mobileu41 .mastodon-lCHiTV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: relative;
+  width: 32px;
+}
+
+.team-u40mobileu41 .twitter-lCHiTV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: relative;
+  width: 32px;
+}
+
+.team-u40mobileu41 .you-tube-lCHiTV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: relative;
+  width: 32px;
+}
+
+.team-u40mobileu41 .git-hub-lCHiTV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: relative;
+  width: 32px;
+}
+
+.team-u40mobileu41 .divhoriz-S6wt92 {
+  border-radius: 2px;
+}
+
+.team-u40mobileu41 .metadata-S6wt92 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40mobileu41 .copyright-mYXx70 {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40mobileu41 .image-7zC070 {
+  background-color: transparent;
+  height: 14.4599609375px;
+  position: relative;
+  width: 14.4599609375px;
+}
+
+.team-u40mobileu41 .x2024-foundation-for-public-code-7zC070 {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .span0-NkQi3L {
+}
+
+.team-u40mobileu41 .span1-NkQi3L {
+  text-decoration: underline;
+}
+
+.team-u40mobileu41 .license-mYXx70 {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40mobileu41 .iconlicense-ZDTb5x {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.team-u40mobileu41 .creative-commons-zer-ZDTb5x {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .span0-qLLLWe {
+  text-decoration: underline;
+}
+
+.team-u40mobileu41 .span1-qLLLWe {
+}
+
+.team-u40mobileu41 .divhoriz-LNFxiQ {
+  border-radius: 2px;
+}
+
+.team-u40mobileu41 .flex-container-i44581535435764359-S6wt92 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.team-u40mobileu41 .text0-i44581535435764359-0uvMrO {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .span0-Gxjh44 {
+}
+
+.team-u40mobileu41 .text1-i44581535435764359-0uvMrO {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .span1-K2lv63 {
+}
+
+.team-u40mobileu41 .advisorsdescriptionboxvertv1 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  max-width: 400px;
+  min-width: 260px;
+  position: relative;
+}
+
+.team-u40mobileu41 .arrow-cluster {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.team-u40mobileu41 .buttonprimary {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.team-u40mobileu41 .cards {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40mobileu41 .content {
+  background-color: transparent;
+  display: flex;
+  position: relative;
+}
+
+.team-u40mobileu41 .divhoriz {
+  align-self: stretch;
+  background-color: var(--fpccharcoal);
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40mobileu41 .foundation-for-public-code {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -0.50px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40mobileu41 .logo-symbol {
+  background-color: transparent;
+  height: 40px;
+  position: relative;
+  width: 34.66410446166992px;
+}
+
+.team-u40mobileu41 .mailing-list {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  min-width: 280px;
+  padding: 20px;
+  position: relative;
+}
+
+.team-u40mobileu41 .photo {
+  background-color: transparent;
+  position: relative;
+  width: 150px;
+}
+
+.team-u40mobileu41 .section {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40mobileu41 .teamdirectory {
+  align-items: flex-end;
+  align-self: stretch;
+  background-color: var(--fpcwhite);
+  border: 1.9999958276748657px solid;
+  border-color: var(--fpccharcoal);
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14.999968528747559px;
+  padding: 19.999958038330078px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40mobileu41 .teamphotosv4 {
+  background-color: transparent;
+  height: 96px;
+  width: 96px;
+}
+
+.team-u40mobileu41 .text {
+  background-color: transparent;
+  position: relative;
+}
+
+.team-u40mobileu41 .ui {
+  align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+/* screen - team-u40tabletu41 */
+
+.team-u40tabletu41 {
+  align-items: center;
+  background-color: var(--fpcgrey-e5);
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  left: 0px;
+  min-width: 840px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+}
+
+.team-u40tabletu41 .nav-wkE4kq {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40tabletu41 .navheader-9Mfsvs {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--fpcwhite);
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-around;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40tabletu41 .content-JHEEcK {
+  align-items: flex-start;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 20px 16px;
+}
+
+.team-u40tabletu41 .logo-bXEjoO {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  height: 35px;
+  justify-content: space-around;
+  position: relative;
+}
+
+.team-u40tabletu41 .logo-lockup-PsxXQx {
+  display: inline-flex;
+  margin-bottom: -2.50px;
+  margin-top: -2.50px;
+}
+
+.team-u40tabletu41 .logo-symbol-aTp0RM {
+  height: 40px;
+  width: 34.66410446166992px;
+}
+
+.team-u40tabletu41 .foundation-for-public-code-aTp0RM {
+  margin-top: -0.50px;
+  width: fit-content;
+}
+
+.team-u40tabletu41 .navigation-bXEjoO {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 15px 15px;
+  justify-content: flex-end;
+  min-width: 10px;
+  padding: 2px 0px;
+  position: relative;
+}
+
+.team-u40tabletu41 .public-code-ab8pxt {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40tabletu41 .public-product-orgs-ab8pxt {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40tabletu41 .the-standard-ab8pxt {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40tabletu41 .team-ab8pxt {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40tabletu41 .nav-button-ab8pxt {
+  align-items: flex-start;
+  background-color: var(--fpccharcoal);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 6px 12px;
+  position: relative;
+}
+
+.team-u40tabletu41 .support-us-ezfT8z {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40tabletu41 .main-wkE4kq {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  justify-content: center;
+  max-width: 1120px;
+  padding: 0px 30px 60px;
+  position: relative;
+  width: 840px;
+}
+
+.team-u40tabletu41 .breadcrumbs-uxz3Jj {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40tabletu41 .home-xVwAOU {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.team-u40tabletu41 .text_label-xVwAOU {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40tabletu41 .layer-2-xVwAOU {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40tabletu41 .content-uxz3Jj {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .section-nlKTxT {
+  width: 780px;
+}
+
+.team-u40tabletu41 .title-kds2Yx {
+  margin-top: -1.00px;
+}
+
+.team-u40tabletu41 .were-a-multidiscipli-kds2Yx {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .cards-kds2Yx {
+  gap: 20px 20px;
+  width: 780px;
+}
+
+.team-u40tabletu41 .content-e9rqQA {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14.999968528747559px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .photo-o8nwMR {
+  height: 206.00003051757812px;
+}
+
+.team-u40tabletu41 .text-o8nwMR {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.9999895095825195px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .email-M1wlHL {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.team-u40tabletu41 .content-CDzPcv {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14.999968528747559px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .photo-XEnYIb {
+  height: 206.00003051757812px;
+}
+
+.team-u40tabletu41 .text-XEnYIb {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.9999895095825195px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .persons-name-maAadT {
+  cursor: pointer;
+}
+
+.team-u40tabletu41 .email-maAadT {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.team-u40tabletu41 .content-sxGbgb {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14.999968528747559px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .photo-c5nxRM {
+  height: 206.00003051757812px;
+}
+
+.team-u40tabletu41 .text-c5nxRM {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.9999895095825195px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .persons-name-ICgNkP {
+  cursor: pointer;
+}
+
+.team-u40tabletu41 .email-ICgNkP {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.team-u40tabletu41 .content-EQ0bpS {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14.999968528747559px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .photo-xFsglb {
+  height: 206px;
+}
+
+.team-u40tabletu41 .text-xFsglb {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.9999895095825195px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .email-DN9n61 {
+  align-self: stretch;
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.team-u40tabletu41 .divhoriz-nlKTxT {
+  border-radius: 2px;
+}
+
+.team-u40tabletu41 .section-NYgiAR {
+  width: 780px;
+}
+
+.team-u40tabletu41 .history-of-the-found-k9CvfL {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .frame-290-k9CvfL {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40tabletu41 .cluster-MNN9qD {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40tabletu41 .the-foundation-for-p-j9VG7s {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .photos-j9VG7s {
+  background-color: transparent;
+  height: 137px;
+  position: relative;
+  width: 168px;
+}
+
+.team-u40tabletu41 .teamphotosv4-vYxJgf {
+  left: 72px;
+  position: absolute;
+  top: 1px;
+}
+
+.team-u40tabletu41 .photos-sY26Z2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .teamphotosv4-F1AluO {
+  left: 1px;
+  position: absolute;
+  top: 40px;
+}
+
+.team-u40tabletu41 .photos-ogtlro {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .leveraging-30-combin-MNN9qD {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .based-on-their-exper-MNN9qD {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .divhoriz-NYgiAR {
+  border-radius: 2px;
+}
+
+.team-u40tabletu41 .section-7F4mbO {
+  width: 780px;
+}
+
+.team-u40tabletu41 .former-team-members-DNXmod {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .cards-DNXmod {
+  align-self: stretch;
+  gap: 15px 15px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .frame-307-CvxxmX {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40tabletu41 .teamphotosv4-xpQwrx {
+  position: relative;
+}
+
+.team-u40tabletu41 .photos-oCYQgl {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .info-xpQwrx {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40tabletu41 .boris-van-hoytema-wKRzUV {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .chief-executive-2019-2023-wKRzUV {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .frame-310-CvxxmX {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40tabletu41 .teamphotosv4-0YwinO {
+  position: relative;
+}
+
+.team-u40tabletu41 .photos-jrxrmn {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .info-0YwinO {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40tabletu41 .claus-mullie-nIOQ2S {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .stewardship-and-memb-nIOQ2S {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .frame-311-CvxxmX {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40tabletu41 .teamphotosv4-FYx1vA {
+  position: relative;
+}
+
+.team-u40tabletu41 .photos-8ShzEL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .info-FYx1vA {
+  display: inline-flex;
+  flex: 0 0 auto;
+}
+
+.team-u40tabletu41 .elena-findley-de-regt-2xDV2o {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .communications-coordinator-2019-2024-2xDV2o {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .frame-309-CvxxmX {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40tabletu41 .teamphotosv4-0d7Szo {
+  position: relative;
+}
+
+.team-u40tabletu41 .photos-9TWxXM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .info-0d7Szo {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40tabletu41 .jan-ainali-83EpNk {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .codebase-steward2019-2024-83EpNk {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .frame-308-CvxxmX {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40tabletu41 .teamphotosv4-KMugI8 {
+  position: relative;
+}
+
+.team-u40tabletu41 .photos-mblJQK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .info-KMugI8 {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40tabletu41 .eric-herman-rxz3Sn {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .lead-codebase-steward2019-2024-rxz3Sn {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .frame-316-CvxxmX {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40tabletu41 .teamphotosv4-9O4s1A {
+  position: relative;
+}
+
+.team-u40tabletu41 .photos-8rwJl4 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .info-9O4s1A {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40tabletu41 .mirjam-van-tiel-zOzACY {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .finance-executive2019-zOzACY {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .frame-314-CvxxmX {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40tabletu41 .teamphotosv4-3KSqTl {
+  position: relative;
+}
+
+.team-u40tabletu41 .photos-qlAdnD {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .info-3KSqTl {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40tabletu41 .alba-roza-Fm7UWI {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .codebase-steward-for-communites2020-2021-Fm7UWI {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .frame-317-CvxxmX {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40tabletu41 .teamphotosv4-BDZsNK {
+  position: relative;
+}
+
+.team-u40tabletu41 .photos-isjhtf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .info-BDZsNK {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40tabletu41 .deborah-meibergen-dqRAWT {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .operations-coordinator2020-2021-dqRAWT {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .frame-313-CvxxmX {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40tabletu41 .teamphotosv4-suOS7G {
+  position: relative;
+}
+
+.team-u40tabletu41 .photos-qMxVgF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .info-suOS7G {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40tabletu41 .laura-scheske-BQSq3b {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .membership-developer2020-2021-BQSq3b {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .frame-315-CvxxmX {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40tabletu41 .teamphotosv4-GxeogR {
+  position: relative;
+}
+
+.team-u40tabletu41 .photos-fxp4Fw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .info-GxeogR {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40tabletu41 .felix-faassen-wIrXOQ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .codebase-steward2020-2021-wIrXOQ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .frame-312-CvxxmX {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  max-width: 350px;
+  min-width: 300px;
+  position: relative;
+}
+
+.team-u40tabletu41 .teamphotosv4-vVfsxE {
+  position: relative;
+}
+
+.team-u40tabletu41 .photos-DGpHiv {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .info-vVfsxE {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.team-u40tabletu41 .kehinde-bademosi-kt9EgS {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .creative-director-2021-2024-kt9EgS {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .divhoriz-7F4mbO {
+  border-radius: 2px;
+}
+
+.team-u40tabletu41 .section-RmLaRh {
+  align-self: stretch;
+  width: 100%;
+}
+
+.team-u40tabletu41 .advisory-council-0MqcNh {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .our-strategic-counci-0MqcNh {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .cards-0MqcNh {
+  align-self: stretch;
+  gap: 30px 30px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .photos-MBMS4r {
+  background-color: transparent;
+  height: 96px;
+  position: relative;
+  width: 96px;
+}
+
+.team-u40tabletu41 .digital-minister-of-taiwan-qEp2Qu {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.team-u40tabletu41 .photos-Zx6mZB {
+  background-color: transparent;
+  height: 96px;
+  position: relative;
+  width: 96px;
+}
+
+.team-u40tabletu41 .director-of-melbourn-zYvhRO {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.team-u40tabletu41 .photos-fxx2Wu {
+  background-color: transparent;
+  height: 96px;
+  position: relative;
+  width: 96px;
+}
+
+.team-u40tabletu41 .principal-at-experim-jxcHya {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.team-u40tabletu41 .photos-vNPdeD {
+  background-color: transparent;
+  height: 96px;
+  position: relative;
+  width: 96px;
+}
+
+.team-u40tabletu41 .chair-manager-vertic-pmVs0C {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.team-u40tabletu41 .span0-Sd1xtH {
+}
+
+.team-u40tabletu41 .span1-Sd1xtH {
+}
+
+.team-u40tabletu41 .footer-wkE4kq {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcwhite);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  min-width: 800px;
+  padding: 0px 0px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40tabletu41 .content-wLO2b8 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  padding: 0px 60px;
+  width: 100%;
+}
+
+.team-u40tabletu41 .logo-lockup-EwC5lX {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.team-u40tabletu41 .logo-symbol-DNy2pf {
+  height: 55px;
+  width: 47.66314697265625px;
+}
+
+.team-u40tabletu41 .foundation-for-public-code-DNy2pf {
+  flex: 1;
+}
+
+.team-u40tabletu41 .information-EwC5lX {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40tabletu41 .contact-bga11A {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 10px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40tabletu41 .email-9JkzSl {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.team-u40tabletu41 .email-us-vWBx4y {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .text-ePLCSy {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40tabletu41 .join-our-mailing-list-xRiNn1 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .text-jLDnxC {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-u40tabletu41 .connect-with-us-hVu7qL {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .channels-hVu7qL {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 30px;
+  height: 40px;
+  position: relative;
+  width: 218px;
+}
+
+.team-u40tabletu41 .mastodon-VibN3H {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: relative;
+  width: 32px;
+}
+
+.team-u40tabletu41 .twitter-VibN3H {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: relative;
+  width: 32px;
+}
+
+.team-u40tabletu41 .you-tube-VibN3H {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: relative;
+  width: 32px;
+}
+
+.team-u40tabletu41 .git-hub-VibN3H {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  object-fit: cover;
+  position: relative;
+  width: 32px;
+}
+
+.team-u40tabletu41 .divhoriz-bga11A {
+  border-radius: 2px;
+}
+
+.team-u40tabletu41 .metadata-bga11A {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40tabletu41 .copyright-vpzyT6 {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40tabletu41 .image-q0grCs {
+  background-color: transparent;
+  height: 14.4599609375px;
+  position: relative;
+  width: 14.4599609375px;
+}
+
+.team-u40tabletu41 .x2024-foundation-for-public-code-q0grCs {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .span0-0AQzZ0 {
+}
+
+.team-u40tabletu41 .span1-0AQzZ0 {
+  text-decoration: underline;
+}
+
+.team-u40tabletu41 .license-vpzyT6 {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40tabletu41 .iconlicense-WjiKaN {
+  background-color: transparent;
+  height: 14.5px;
+  position: relative;
+  width: 16px;
+}
+
+.team-u40tabletu41 .creative-commons-zer-WjiKaN {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .span0-GXs2YY {
+  text-decoration: underline;
+}
+
+.team-u40tabletu41 .span1-GXs2YY {
+}
+
+.team-u40tabletu41 .divhoriz-CvLVRH {
+  border-radius: 2px;
+}
+
+.team-u40tabletu41 .flex-container-i44571405835764323-bga11A {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.team-u40tabletu41 .text0-i44571405835764323-o99YGa {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .span0-lesgQ7 {
+}
+
+.team-u40tabletu41 .text1-i44571405835764323-o99YGa {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .span1-aMjxvz {
+}
+
+.team-u40tabletu41 .advisorsdescriptionboxvertv1 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  max-width: 400px;
+  min-width: 260px;
+  position: relative;
+}
+
+.team-u40tabletu41 .arrow-cluster {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.team-u40tabletu41 .buttonprimary {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.team-u40tabletu41 .cards {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.team-u40tabletu41 .content {
+  background-color: transparent;
+  display: flex;
+  position: relative;
+}
+
+.team-u40tabletu41 .divhoriz {
+  align-self: stretch;
+  background-color: var(--fpccharcoal);
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.team-u40tabletu41 .foundation-for-public-code {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.team-u40tabletu41 .logo-symbol {
+  background-color: transparent;
+  position: relative;
+}
+
+.team-u40tabletu41 .mailing-list {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.team-u40tabletu41 .photo {
+  background-color: transparent;
+  position: relative;
+  width: 206px;
+}
+
+.team-u40tabletu41 .section {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+.team-u40tabletu41 .teamdirectory {
+  align-items: flex-end;
+  background-color: var(--fpcwhite);
+  border: 1.9999958276748657px solid;
+  border-color: var(--fpccharcoal);
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 395.0008239746094px;
+  justify-content: space-between;
+  max-width: 245.99948120117188px;
+  padding: 19.999958038330078px;
+  position: relative;
+}
+
+.team-u40tabletu41 .teamphotosv4 {
+  background-color: transparent;
+  height: 96px;
+  width: 96px;
+}
+
+.team-u40tabletu41 .text {
+  background-color: transparent;
+  position: relative;
+}
+
+.team-u40tabletu41 .ui {
+  align-self: stretch;
+  background-color: transparent;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+@media screen and (max-width: 839px) {
+  .screen.team-u40tabletu41 { 
+    display: none;
+   }
+  .screen.team-u40desktopu41-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 840px) and (max-width: 1139px) {
+  .screen.team-u40mobileu41 { 
+    display: none;
+   }
+  .screen.team-u40desktopu41-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1140px) {
+  .screen.team-u40mobileu41 { 
+    display: none;
+   }
+  .screen.team-u40tabletu41 { 
+    display: none;
+   }
+}

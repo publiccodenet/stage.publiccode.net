@@ -21,7 +21,7 @@ def updateFiles(patterns, path='.', ending='.html'):
 # files to move to match existing site structure
 files_to_move = [
     (r'home-u40mobileu41.html', 'index.html'),
-    (r'public-product-organizations-u40desktopu41.html', 'public-product-organizations.html'),
+    (r'public-product-organizations-u40desktopu41-all-breakpoints.html', 'public-product-organizations.html'),
     (r'the-standard-u40desktopu41.html', '/standard-for-public-code/index.html'),
     (r'about-public-code-u40desktopu41.html', 'about.html'),
     (r'who-we-are-u40desktopu41.html', '/who-we-are/index.html'),
@@ -35,6 +35,7 @@ urlpatterns = [
 # (r"""https://projects.publiccode.net/""", """/resources-and-projects.html"""),
 # (r"""https://projects.publiccode.net""", """/resources-and-projects.html"""),
 # (r"""https://about.publiccode.net/CONTRIBUTING.html""", """/contributing.html"""),
+# (r"""https://publiccode.net/team/""", """/who-we-are/"""),
 # (r"""https://publiccode.net/team/""", """/who-we-are/"""),
 # Links open in current window
 (r' target="_blank"', ''),
