@@ -9,6 +9,7 @@
   left: 0px;
   min-width: 1140px;
   overflow: hidden;
+  overflow-x: hidden;
   position: relative;
   top: 0px;
 }
@@ -650,6 +651,7 @@
   left: 0px;
   min-width: 320px;
   overflow: hidden;
+  overflow-x: hidden;
   position: relative;
   top: 0px;
 }
@@ -1249,6 +1251,7 @@
   left: 0px;
   min-width: 840px;
   overflow: hidden;
+  overflow-x: hidden;
   position: relative;
   top: 0px;
 }

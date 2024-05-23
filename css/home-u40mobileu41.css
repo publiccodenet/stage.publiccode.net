@@ -9,6 +9,7 @@
   left: 0px;
   min-width: 1140px;
   overflow: hidden;
+  overflow-x: hidden;
   position: relative;
   top: 0px;
 }
@@ -928,11 +929,11 @@
 
 .home-u40desktopu41-all-breakpoints .audrey-tang-vRaNqj {
   background-color: transparent;
-  height: 100%;
+  height: 100.00%;
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 100.00%;
+  width: 100%;
 }
 
 .home-u40desktopu41-all-breakpoints .rim-vRaNqj {
@@ -1843,18 +1844,7 @@ to{opacity: 1;
   width: 47.66314697265625px;
 }
 
-.home-u40desktopu41-all-breakpoints .rim {
-  background-color: transparent;
-  border: 3.999985456466675px solid;
-  border-radius: 44px;
-  height: 110.00%;
-  left: -5.00%;
-  position: absolute;
-  top: -5.00%;
-  width: 110.00%;
-}
-
-.home-u40desktopu41-all-breakpoints .section {
+.home-u40desktopu41-all-breakpoints .section-1 {
   background-color: transparent;
   display: flex;
   flex: 0 0 auto;
@@ -1871,6 +1861,11 @@ to{opacity: 1;
   justify-content: center;
   position: relative;
 }
+
+.home-u40desktopu41-all-breakpoints .text {
+  background-color: transparent;
+  position: relative;
+}
 /* screen - home-u40mobileu41 */
 
 .home-u40mobileu41 {
@@ -1881,6 +1876,7 @@ to{opacity: 1;
   left: 0px;
   min-width: 320px;
   overflow: hidden;
+  overflow-x: hidden;
   position: relative;
   top: 0px;
 }
@@ -2658,11 +2654,11 @@ to{opacity: 1;
 
 .home-u40mobileu41 .audrey-tang-HJEVFI {
   background-color: transparent;
-  height: 100.00%;
+  height: 100%;
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 100.00%;
 }
 
 .home-u40mobileu41 .rim-HJEVFI {
@@ -3574,18 +3570,7 @@ to{opacity: 1;
   width: 34.66410446166992px;
 }
 
-.home-u40mobileu41 .rim {
-  background-color: transparent;
-  border: 3.999985456466675px solid;
-  border-radius: 44px;
-  height: 110.00%;
-  left: -5.00%;
-  position: absolute;
-  top: -5.00%;
-  width: 110.00%;
-}
-
-.home-u40mobileu41 .section {
+.home-u40mobileu41 .section-1 {
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -3608,6 +3593,11 @@ to{opacity: 1;
   width: 100%;
 }
 
+.home-u40mobileu41 .text {
+  background-color: transparent;
+  position: relative;
+}
+
 .home-u40mobileu41 .the-standard {
   align-self: stretch;
   position: relative;
@@ -3623,6 +3613,7 @@ to{opacity: 1;
   left: 0px;
   min-width: 840px;
   overflow: hidden;
+  overflow-x: hidden;
   position: relative;
   top: 0px;
 }
@@ -5432,18 +5423,7 @@ to{opacity: 1;
   position: relative;
 }
 
-.home-u40tabletu41 .rim {
-  background-color: transparent;
-  border: 3.999985456466675px solid;
-  border-radius: 44px;
-  height: 110.00%;
-  left: -5.00%;
-  position: absolute;
-  top: -5.00%;
-  width: 110.00%;
-}
-
-.home-u40tabletu41 .section {
+.home-u40tabletu41 .section-1 {
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -5460,6 +5440,11 @@ to{opacity: 1;
   flex-direction: column;
   gap: 20px;
   justify-content: center;
+  position: relative;
+}
+
+.home-u40tabletu41 .text {
+  background-color: transparent;
   position: relative;
 }
 @media screen and (max-width: 839px) {
@@ -5479,10 +5464,10 @@ to{opacity: 1;
    }
 }
 @media screen and (min-width: 1140px) {
-  .screen.home-u40tabletu41 { 
+  .screen.home-u40mobileu41 { 
     display: none;
    }
-  .screen.home-u40mobileu41 { 
+  .screen.home-u40tabletu41 { 
     display: none;
    }
 }

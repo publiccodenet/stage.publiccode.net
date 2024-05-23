@@ -10,6 +10,7 @@
   left: 0px;
   min-width: 1140px;
   overflow: hidden;
+  overflow-x: hidden;
   position: relative;
   top: 0px;
 }
@@ -1497,7 +1498,7 @@
   width: 215px;
 }
 
-.team-u40desktopu41-all-breakpoints .section {
+.team-u40desktopu41-all-breakpoints .section-1 {
   align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
@@ -1526,6 +1527,11 @@
   position: relative;
 }
 
+.team-u40desktopu41-all-breakpoints .text {
+  background-color: transparent;
+  position: relative;
+}
+
 .team-u40desktopu41-all-breakpoints .ui {
   background-color: transparent;
   flex: 0 0 auto;
@@ -1541,6 +1547,7 @@
   left: 0px;
   min-width: 320px;
   overflow: hidden;
+  overflow-x: hidden;
   position: relative;
   top: 0px;
 }
@@ -3037,7 +3044,7 @@
   width: 150px;
 }
 
-.team-u40mobileu41 .section {
+.team-u40mobileu41 .section-1 {
   align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
@@ -3065,6 +3072,11 @@
   position: relative;
   width: 100%;
 }
+
+.team-u40mobileu41 .text {
+  background-color: transparent;
+  position: relative;
+}
 /* screen - team-u40tabletu41 */
 
 .team-u40tabletu41 {
@@ -3076,6 +3088,7 @@
   left: 0px;
   min-width: 840px;
   overflow: hidden;
+  overflow-x: hidden;
   position: relative;
   top: 0px;
 }
@@ -4611,7 +4624,7 @@
   width: 206px;
 }
 
-.team-u40tabletu41 .section {
+.team-u40tabletu41 .section-1 {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -4635,6 +4648,11 @@
   justify-content: space-between;
   max-width: 245.99948120117188px;
   padding: 19.999958038330078px;
+  position: relative;
+}
+
+.team-u40tabletu41 .text {
+  background-color: transparent;
   position: relative;
 }
 

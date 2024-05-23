@@ -9,6 +9,7 @@
   left: 0px;
   min-width: 1140px;
   overflow: hidden;
+  overflow-x: hidden;
   position: relative;
   top: 0px;
 }
@@ -983,15 +984,7 @@
   width: 47.66314697265625px;
 }
 
-.public-code-u40desktopu41-all-breakpoints .public-code {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.public-code-u40desktopu41-all-breakpoints .section {
+.public-code-u40desktopu41-all-breakpoints .section-1 {
   align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
@@ -1001,6 +994,11 @@
   gap: 40px;
   position: relative;
   width: 100%;
+}
+
+.public-code-u40desktopu41-all-breakpoints .text {
+  background-color: transparent;
+  position: relative;
 }
 /* screen - public-code-u40mobileu41 */
 
@@ -1012,6 +1010,7 @@
   left: 0px;
   min-width: 320px;
   overflow: hidden;
+  overflow-x: hidden;
   position: relative;
   top: 0px;
 }
@@ -1902,7 +1901,7 @@
   width: 34.66410446166992px;
 }
 
-.public-code-u40mobileu41 .section {
+.public-code-u40mobileu41 .section-1 {
   align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
@@ -1911,6 +1910,11 @@
   flex-direction: column;
   position: relative;
   width: 100%;
+}
+
+.public-code-u40mobileu41 .text {
+  background-color: transparent;
+  position: relative;
 }
 /* screen - public-code-u40tabletu41 */
 
@@ -1923,6 +1927,7 @@
   left: 0px;
   min-width: 840px;
   overflow: hidden;
+  overflow-x: hidden;
   position: relative;
   top: 0px;
 }
@@ -2916,15 +2921,7 @@
   position: relative;
 }
 
-.public-code-u40tabletu41 .public-code {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
-}
-
-.public-code-u40tabletu41 .section {
+.public-code-u40tabletu41 .section-1 {
   align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
@@ -2934,19 +2931,24 @@
   position: relative;
   width: 100%;
 }
+
+.public-code-u40tabletu41 .text {
+  background-color: transparent;
+  position: relative;
+}
 @media screen and (max-width: 839px) {
-  .screen.public-code-u40desktopu41-all-breakpoints { 
+  .screen.public-code-u40tabletu41 { 
     display: none;
    }
-  .screen.public-code-u40tabletu41 { 
+  .screen.public-code-u40desktopu41-all-breakpoints { 
     display: none;
    }
 }
 @media screen and (min-width: 840px) and (max-width: 1139px) {
-  .screen.public-code-u40desktopu41-all-breakpoints { 
+  .screen.public-code-u40mobileu41 { 
     display: none;
    }
-  .screen.public-code-u40mobileu41 { 
+  .screen.public-code-u40desktopu41-all-breakpoints { 
     display: none;
    }
 }

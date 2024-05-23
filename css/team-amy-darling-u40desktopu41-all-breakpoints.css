@@ -9,6 +9,7 @@
   left: 0px;
   min-width: 1140px;
   overflow: hidden;
+  overflow-x: hidden;
   position: relative;
   top: 0px;
 }
@@ -661,6 +662,7 @@
   left: 0px;
   min-width: 320px;
   overflow: hidden;
+  overflow-x: hidden;
   position: relative;
   top: 0px;
 }
@@ -1271,6 +1273,7 @@
   left: 0px;
   min-width: 840px;
   overflow: hidden;
+  overflow-x: hidden;
   position: relative;
   top: 0px;
 }
@@ -1928,26 +1931,26 @@
   position: relative;
 }
 @media screen and (max-width: 839px) {
-  .screen.team-amy-darling-u40tabletu41 { 
+  .screen.team-amy-darling-u40desktopu41-all-breakpoints { 
     display: none;
    }
-  .screen.team-amy-darling-u40desktopu41-all-breakpoints { 
+  .screen.team-amy-darling-u40tabletu41 { 
     display: none;
    }
 }
 @media screen and (min-width: 840px) and (max-width: 1139px) {
-  .screen.team-amy-darling-u40mobileu41 { 
+  .screen.team-amy-darling-u40desktopu41-all-breakpoints { 
     display: none;
    }
-  .screen.team-amy-darling-u40desktopu41-all-breakpoints { 
+  .screen.team-amy-darling-u40mobileu41 { 
     display: none;
    }
 }
 @media screen and (min-width: 1140px) {
-  .screen.team-amy-darling-u40mobileu41 { 
+  .screen.team-amy-darling-u40tabletu41 { 
     display: none;
    }
-  .screen.team-amy-darling-u40tabletu41 { 
+  .screen.team-amy-darling-u40mobileu41 { 
     display: none;
    }
 }

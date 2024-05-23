@@ -1,0 +1,288 @@
+/* screen - header-2 */
+
+.header-2 {
+  align-items: center;
+  background-color: transparent;
+  border: 2px solid;
+  border-color: var(--fpccharcoal);
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: 700px;
+  left: 0px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  top: 0px;
+}
+
+.header-2 .base-t1XNMo {
+  background: linear-gradient(180deg, rgb(255, 245.00000059604645, 0) 0%, rgb(253.0000001192093, 187.00000405311584, 171.00000500679016) 100%);
+  background-color: transparent;
+  box-shadow: inset -200px 250px 200px #fdbbab;
+  height: 700px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.header-2 .bg-t1XNMo {
+  background-color: transparent;
+  height: 700px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 350px);
+  width: 100%;
+}
+
+.header-2 .eco-system-1-t1XNMo {
+  background-color: transparent;
+  bottom: 0px;
+  height: 606px;
+  left: calc(50.00% + 16px);
+  position: absolute;
+  width: 554px;
+}
+
+.header-2 .navheader-t1XNMo {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-around;
+  padding: 30px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.header-2 .content-1rxCOL {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 16px 16px;
+  justify-content: space-between;
+}
+
+.header-2 .logo-lockup-aT5XTv {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 13px;
+  position: relative;
+}
+
+.header-2 .logo-symbol-iDn06q {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.66314697265625px;
+}
+
+.header-2 .foundation-for-public-code-iDn06q {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: 365.33685302734375px;
+}
+
+.header-2 .navigation-aT5XTv {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 40px 20px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.header-2 .links-AfJanw {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 20px 20px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.header-2 .public-code-GGy84N {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.header-2 .public-product-orgs-GGy84N {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.header-2 .the-standard-GGy84N {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.header-2 .team-GGy84N {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.header-2 .nav-button-GGy84N {
+  align-items: flex-start;
+  background-color: var(--fpccharcoal);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 8px 15px;
+  position: relative;
+}
+
+.header-2 .support-us-VYQL83 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.header-2 .cluster-t1XNMo {
+  gap: 10px;
+  max-width: 1120px;
+  padding: 0px 20px;
+}
+
+.header-2 .cluster-kFFEha {
+  gap: 55px;
+  max-width: 600px;
+}
+
+.header-2 .breadcrumbs-BJGbWv {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.header-2 .home-0vM9od {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.header-2 .text_label-0vM9od {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.header-2 .layer-2-0vM9od {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.header-2 .content-BJGbWv {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  width: 100%;
+}
+
+.header-2 .title-xDvtX5 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.header-2 .any-open-software-de-xDvtX5 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+}
+
+.header-2 .span0-31JXni {
+}
+
+.header-2 .span1-31JXni {
+}
+
+.header-2 .span2-31JXni {
+}
+
+.header-2 .cluster {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.header-2 .content {
+  background-color: transparent;
+  display: flex;
+  position: relative;
+}
