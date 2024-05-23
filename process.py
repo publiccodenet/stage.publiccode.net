@@ -20,13 +20,17 @@ def updateFiles(patterns, path='.', ending='.html'):
 
 # files to move to match existing site structure
 files_to_move = [
-    (r'home-u40mobileu41.html', 'index.html'),
-    (r'public-product-organizations-u40desktopu41-all-breakpoints.html', 'public-product-organizations.html'),
+    (r'home-u40mobileu41.html', '/index.html'),
+    (r'public-product-organizations-u40desktopu41-all-breakpoints.html', '/public-product-organizations.html'),
     (r'the-standard-u40desktopu41.html', '/standard-for-public-code/index.html'),
-    (r'about-public-code-u40desktopu41.html', 'about.html'),
-    (r'who-we-are-u40desktopu41.html', '/who-we-are/index.html'),
-    # (r'who-we-are-2.html', '/who-we-are/index-2.html'),
-    # (r'background.html', '/background/index.html'),
+    (r'about-public-code-u40desktopu41.html', '/about.html'),
+    (r'who-we-are-member-u40desktopu41.html', '/who-we-are/index.html'),
+    (r'team-amy-darling-u40desktopu41-all-breakpoints.html', '/who-we-are/amy-darling.html'),
+    (r'team-ben-cerveny-u40desktopu41-all-breakpoints.html', '/who-we-are/ben-cerveny.html'),
+    (r'team-matthew-claudel-u40desktopu41-all-breakpoints.html', '/who-we-are/matthew-claudel.html'),
+    (r'team-max-carlson-u40desktopu41-all-breakpoints.html', '/who-we-are/max-carlson.html'),
+    (r'team-u40desktopu41-all-breakpoints.html', '/who-we-are/team.html'),
+    (r'public-code-u40desktopu41-all-breakpoints.html', '/public-code.html'),
 ]
 
 # URLs to replace
@@ -60,100 +64,101 @@ html_patterns = [
 (r"""<link rel="stylesheet" type="text/css" href="css/""", """<link rel="stylesheet" type="text/css" href="/css/"""),
 (r'" src="img/', '" src="/img/'),
 # contact us form
-(r"""<div class="frame-211 frame">
-          <div class="contact-form contact-1 mulish-bold-black-32px">Contact form</div>
-          <p class="lets-quickly-see-ho mulish-normal-black-20px">
-            Let’s quickly see how the Foundation for Public Code can help you achieve your goals. If you can provide us
-            a few initial details, we’ll respond with questions, ideas and next steps.
-          </p>
-          <div class="frame-239 frame">
-            <div class="frame-232 frame">
-              <article class="uiformtextfieldsingle">
-                <div class="label mulish-normal-black-16px">Your name</div>
-                <div class="uitextfieldsingle">
-                  <div class="field-text mulish-normal-mine-shaft-20px">Add your name</div>
-                </div>
-              </article>
-              <article class="uiformtextfieldsingle">
-                <div class="label-1 label-8 mulish-normal-black-16px">Email address</div>
-                <div class="uitextfieldsingle">
-                  <div class="field-text mulish-normal-mine-shaft-20px">Add your email address</div>
-                </div>
-              </article>
-              <article class="uiformtextfieldsingle">
-                <div class="label-2 label-8 mulish-normal-black-16px">Organization</div>
-                <div class="uitextfieldsingle">
-                  <div class="field-text mulish-normal-mine-shaft-20px">Add your organization</div>
-                </div>
-              </article>
-              <article class="uiformtextfieldsingle">
-                <div class="label-3 label-8 mulish-normal-black-16px">Location</div>
-                <div class="uitextfieldsingle">
-                  <div class="field-text mulish-normal-mine-shaft-20px">Add your location</div>
-                </div>
-              </article>
-            </div>
-            <div class="frame-238 frame">
-              <article class="uiformradio">
-                <div class="label-4 label-8 mulish-normal-black-16px">Organization type</div>
-                <div class="cluster">
-                  <div class="option">
-                    <div class="uiradio"></div>
-                    <div class="selection mulish-normal-black-14px">Public/Governmental</div>
-                  </div>
-                  <div class="option-7">
-                    <div class="uiradio"></div>
-                    <div class="selection-7 mulish-normal-black-14px">Private/Corporation</div>
-                  </div>
-                  <div class="option-7">
-                    <div class="uiradio"></div>
-                    <div class="selection-7 mulish-normal-black-14px">Other</div>
-                  </div>
-                </div>
-              </article>
-              <article class="uiformradio-1">
-                <div class="label-5 label-8 mulish-normal-black-16px">Project stage</div>
-                <div class="cluster">
-                  <div class="option-7">
-                    <div class="uiradio"></div>
-                    <div class="selection-7 mulish-normal-black-14px">Just starting</div>
-                  </div>
-                  <div class="option-7">
-                    <div class="uiradio"></div>
-                    <div class="selection-7 mulish-normal-black-14px">Procurement</div>
-                  </div>
-                  <div class="option-7">
-                    <div class="uiradio"></div>
-                    <div class="selection-7 mulish-normal-black-14px">Released</div>
-                  </div>
-                  <div class="option-7">
-                    <div class="uiradio"></div>
-                    <div class="selection-7 mulish-normal-black-14px">Other</div>
-                  </div>
-                </div>
-              </article>
-            </div>
-          </div>
-          <div class="uiformtextfieldsingle">
-            <p class="label-6 label-8 mulish-normal-black-16px">
-              Briefly describe your project, or whatever interests you about Public Code
-            </p>
-            <div class="uitextfieldsingle-1">
-              <p class="field-text mulish-normal-mine-shaft-20px">How can we help you\?</p>
-            </div>
-          </div>
-          <div class="uiformcheckbox">
-            <img class="uicheckbox" src="/img/ui-checkbox\.svg" alt="ui\.checkbox" />
-            <p class="label-8 mulish-normal-black-16px">
-              Sign up to hear about upcoming events and Public Code’s progress in our newsletter
-            </p>
-          </div>
-          <div class="buttonprimary">
-            <div class="read-more mulish-bold-white-16px">Submit</div>
-            <img class="arrow" src="/img/arrow-32.svg" alt="arrow" />
-          </div>
-        </div>""",
-        """<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfzB1XVzQTQtIwDGBL_CqpppRClNNaFlkIKFwla9KoPCVDX1w/viewform?embedded=true" width="640" height="1943" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>"""),
+# (r"""<div class="frame-211 frame">
+#           <div class="contact-form contact-1 mulish-bold-black-32px">Contact form</div>
+#           <p class="lets-quickly-see-ho mulish-normal-black-20px">
+#             Let’s quickly see how the Foundation for Public Code can help you achieve your goals. If you can provide us
+#             a few initial details, we’ll respond with questions, ideas and next steps.
+#           </p>
+#           <div class="frame-239 frame">
+#             <div class="frame-232 frame">
+#               <article class="uiformtextfieldsingle">
+#                 <div class="label mulish-normal-black-16px">Your name</div>
+#                 <div class="uitextfieldsingle">
+#                   <div class="field-text mulish-normal-mine-shaft-20px">Add your name</div>
+#                 </div>
+#               </article>
+#               <article class="uiformtextfieldsingle">
+#                 <div class="label-1 label-8 mulish-normal-black-16px">Email address</div>
+#                 <div class="uitextfieldsingle">
+#                   <div class="field-text mulish-normal-mine-shaft-20px">Add your email address</div>
+#                 </div>
+#               </article>
+#               <article class="uiformtextfieldsingle">
+#                 <div class="label-2 label-8 mulish-normal-black-16px">Organization</div>
+#                 <div class="uitextfieldsingle">
+#                   <div class="field-text mulish-normal-mine-shaft-20px">Add your organization</div>
+#                 </div>
+#               </article>
+#               <article class="uiformtextfieldsingle">
+#                 <div class="label-3 label-8 mulish-normal-black-16px">Location</div>
+#                 <div class="uitextfieldsingle">
+#                   <div class="field-text mulish-normal-mine-shaft-20px">Add your location</div>
+#                 </div>
+#               </article>
+#             </div>
+#             <div class="frame-238 frame">
+#               <article class="uiformradio">
+#                 <div class="label-4 label-8 mulish-normal-black-16px">Organization type</div>
+#                 <div class="cluster">
+#                   <div class="option">
+#                     <div class="uiradio"></div>
+#                     <div class="selection mulish-normal-black-14px">Public/Governmental</div>
+#                   </div>
+#                   <div class="option-7">
+#                     <div class="uiradio"></div>
+#                     <div class="selection-7 mulish-normal-black-14px">Private/Corporation</div>
+#                   </div>
+#                   <div class="option-7">
+#                     <div class="uiradio"></div>
+#                     <div class="selection-7 mulish-normal-black-14px">Other</div>
+#                   </div>
+#                 </div>
+#               </article>
+#               <article class="uiformradio-1">
+#                 <div class="label-5 label-8 mulish-normal-black-16px">Project stage</div>
+#                 <div class="cluster">
+#                   <div class="option-7">
+#                     <div class="uiradio"></div>
+#                     <div class="selection-7 mulish-normal-black-14px">Just starting</div>
+#                   </div>
+#                   <div class="option-7">
+#                     <div class="uiradio"></div>
+#                     <div class="selection-7 mulish-normal-black-14px">Procurement</div>
+#                   </div>
+#                   <div class="option-7">
+#                     <div class="uiradio"></div>
+#                     <div class="selection-7 mulish-normal-black-14px">Released</div>
+#                   </div>
+#                   <div class="option-7">
+#                     <div class="uiradio"></div>
+#                     <div class="selection-7 mulish-normal-black-14px">Other</div>
+#                   </div>
+#                 </div>
+#               </article>
+#             </div>
+#           </div>
+#           <div class="uiformtextfieldsingle">
+#             <p class="label-6 label-8 mulish-normal-black-16px">
+#               Briefly describe your project, or whatever interests you about Public Code
+#             </p>
+#             <div class="uitextfieldsingle-1">
+#               <p class="field-text mulish-normal-mine-shaft-20px">How can we help you\?</p>
+#             </div>
+#           </div>
+#           <div class="uiformcheckbox">
+#             <img class="uicheckbox" src="/img/ui-checkbox\.svg" alt="ui\.checkbox" />
+#             <p class="label-8 mulish-normal-black-16px">
+#               Sign up to hear about upcoming events and Public Code’s progress in our newsletter
+#             </p>
+#           </div>
+#           <div class="buttonprimary">
+#             <div class="read-more mulish-bold-white-16px">Submit</div>
+#             <img class="arrow" src="/img/arrow-32.svg" alt="arrow" />
+#           </div>
+#         </div>""",
+#         """<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfzB1XVzQTQtIwDGBL_CqpppRClNNaFlkIKFwla9KoPCVDX1w/viewform?embedded=true" width="640" height="1943" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>"""),
+
 ]
 html_patterns += urlpatterns
 updateFiles(html_patterns, '.', '.html')
