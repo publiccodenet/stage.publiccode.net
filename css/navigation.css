@@ -1,0 +1,91 @@
+/* screen - navigation */
+
+.navigation {
+  align-items: flex-start;
+  background-color: transparent;
+  border-radius: 8px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 15px;
+  left: 0px;
+  min-width: 10px;
+  padding: 30px;
+  position: relative;
+  top: 0px;
+}
+
+.navigation .navigation-JhN9hI {
+  align-items: flex-start;
+  background-color: var(--fpccharcoal);
+  border-radius: 8px;
+  box-shadow: 0px 4px 0px #00000026;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 15px;
+  min-width: 10px;
+  padding: 30px;
+}
+
+.navigation .public-code-ryaTeD {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.navigation .public-product-orgs-ryaTeD {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.navigation .the-standard-ryaTeD {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.navigation .team-ryaTeD {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.navigation .nav-button-ryaTeD {
+  align-items: flex-start;
+  background-color: var(--fpcgreendark);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 6px 12px;
+  position: relative;
+}
+
+.navigation .support-us-FAHxcm {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
