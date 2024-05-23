@@ -33,12 +33,11 @@
   --font-size-xxxl: 32px;
  
   --font-family-bressay-italic: "Bressay-Italic", Helvetica;
-  --font-family-cormorant_garamond-semibolditalic: "Cormorant Garamond-SemiBoldItalic", Helvetica;
-  --font-family-ibm_plex_serif-italic: "IBM Plex Serif-Italic", Helvetica;
+  --font-family-cormorant_garamond: "Cormorant Garamond", Helvetica;
+  --font-family-ibm_plex_serif: "IBM Plex Serif", Helvetica;
   --font-family-mulish: "Mulish", Helvetica;
-  --font-family-mulish-italic: "Mulish-Italic", Helvetica;
-  --font-family-playfair_display-italic: "Playfair Display-Italic", Helvetica;
-  --font-family-xanh_mono-italic: "Xanh Mono-Italic", Helvetica;
+  --font-family-playfair_display: "Playfair Display", Helvetica;
+  --font-family-xanh_mono: "Xanh Mono", Helvetica;
 }
 .mulish-normal-black-14px {
   color: var(--fpcblack);
@@ -239,9 +238,9 @@
   font-weight: 400;
 }
 
-.mulish-italic-normal-white-14px {
+.mulish-normal-white-14px {
   color: var(--fpcwhite);
-  font-family: var(--font-family-mulish-italic);
+  font-family: var(--font-family-mulish);
   font-size: var(--font-size-s);
   font-style: italic;
   font-weight: 400;
@@ -279,9 +278,9 @@
   font-weight: 700;
 }
 
-.ibmplexserif-italic-normal-mine-shaft-20px {
+.ibmplexserif-normal-mine-shaft-20px {
   color: var(--fpccharcoal);
-  font-family: var(--font-family-ibm_plex_serif-italic);
+  font-family: var(--font-family-ibm_plex_serif);
   font-size: var(--font-size-l);
   font-style: italic;
   font-weight: 400;
@@ -303,7 +302,7 @@
   font-weight: 700;
 }
 
-.mulish-normal-white-14px {
+.mulish-normal-white-14px-2 {
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-s);
   font-style: normal;
@@ -342,10 +341,42 @@
   font-weight: 400;
 }
 
+.mulish-bold-white-27px {
+  color: var(--fpcwhite);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-bold-white-20px-2 {
+  color: var(--fpcwhite);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-normal-black-16px-4 {
+  color: var(--fpcblack);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 400;
+}
+
 .mulish-bold-black-48px {
   color: var(--fpcblack);
   font-family: var(--font-family-mulish);
   font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-bold-gossamer-16px {
+  color: var(--fpcgreendark);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 700;
 }
@@ -364,38 +395,6 @@
   font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 400;
-}
-
-.mulish-bold-white-27px {
-  color: var(--fpcwhite);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.mulish-bold-white-20px-2 {
-  color: var(--fpcwhite);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-l);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.mulish-italic-normal-black-16px {
-  color: var(--fpcblack);
-  font-family: var(--font-family-mulish-italic);
-  font-size: var(--font-size-m);
-  font-style: italic;
-  font-weight: 400;
-}
-
-.mulish-bold-gossamer-16px {
-  color: var(--fpcgreendark);
-  font-family: var(--font-family-mulish);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 700;
 }
 
 :root {

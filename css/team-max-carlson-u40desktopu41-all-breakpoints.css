@@ -1931,10 +1931,10 @@
   position: relative;
 }
 @media screen and (max-width: 839px) {
-  .screen.team-max-carlson-u40desktopu41-all-breakpoints { 
+  .screen.team-max-carlson-u40tabletu41 { 
     display: none;
    }
-  .screen.team-max-carlson-u40tabletu41 { 
+  .screen.team-max-carlson-u40desktopu41-all-breakpoints { 
     display: none;
    }
 }

@@ -1262,7 +1262,7 @@
   align-self: stretch;
   background-color: transparent;
   color: var(--fpcblack);
-  font-family: var(--font-family-xanh_mono-italic);
+  font-family: var(--font-family-xanh_mono);
   font-size: 18px;
   font-style: italic;
   font-weight: 400;
@@ -1355,7 +1355,7 @@
   align-self: stretch;
   background-color: transparent;
   color: var(--fpcblack);
-  font-family: var(--font-family-ibm_plex_serif-italic);
+  font-family: var(--font-family-ibm_plex_serif);
   font-size: var(--font-size-l);
   font-style: italic;
   font-weight: 400;
@@ -1443,7 +1443,7 @@
   align-self: stretch;
   background-color: transparent;
   color: var(--fpcblack);
-  font-family: var(--font-family-ibm_plex_serif-italic);
+  font-family: var(--font-family-ibm_plex_serif);
   font-size: var(--font-size-l);
   font-style: italic;
   font-weight: 400;
@@ -1522,7 +1522,7 @@
   align-self: stretch;
   background-color: transparent;
   color: var(--fpcblack);
-  font-family: var(--font-family-cormorant_garamond-semibolditalic);
+  font-family: var(--font-family-cormorant_garamond);
   font-size: 22px;
   font-style: italic;
   font-weight: 600;
@@ -1606,7 +1606,7 @@
   align-self: stretch;
   background-color: transparent;
   color: var(--fpcblack);
-  font-family: var(--font-family-playfair_display-italic);
+  font-family: var(--font-family-playfair_display);
   font-size: var(--font-size-l);
   font-style: italic;
   font-weight: 400;
