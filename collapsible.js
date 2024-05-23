@@ -46,6 +46,7 @@ const navDiv = document.getElementById("overlay-navigation")
 const navDivStyle = navDiv.style
 navDivStyle.zIndex = 10000
 navDivStyle.alignItems = 'flex-end'
+navDivStyle.justifyContent = 'flex-start'
 navDivStyle.paddingRight = '40px'
 navDivStyle.background = 'rgba(0, 0, 0, .25)'
 const childDivStyle = navDiv.children[0].children[0].style
