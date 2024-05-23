@@ -39,7 +39,7 @@ urlpatterns = [
 # (r"""https://publiccode.net/team/""", """/who-we-are/"""),
 # (r"""https://publiccode.net/team/""", """/who-we-are/"""),
 # Links open in current window
-(r' target="_blank"', ''),
+# (r' target="_blank"', ''),
 (r"""https://publiccode.net/""", """/"""),
 (r"""https://publiccode.net""", """/"""),
 ]
