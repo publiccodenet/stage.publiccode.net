@@ -1208,6 +1208,20 @@
   text-align: left;
 }
 
+.team-u40desktopu41-all-breakpoints .buttonprimary-4xUzpU {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
 .team-u40desktopu41-all-breakpoints .text-dtUiHZ {
   letter-spacing: 0.00px;
   line-height: normal;
@@ -1216,7 +1230,29 @@
   width: fit-content;
 }
 
-.team-u40desktopu41-all-breakpoints .join-our-mailing-list-2G46pO {
+.team-u40desktopu41-all-breakpoints .arrow-cluster-dtUiHZ {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.team-u40desktopu41-all-breakpoints .mailing-list-ggr5zE {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.team-u40desktopu41-all-breakpoints .connect-with-us-2G46pO {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -1226,25 +1262,7 @@
   text-align: left;
 }
 
-.team-u40desktopu41-all-breakpoints .text-L6Ktmx {
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  text-align: left;
-  width: fit-content;
-}
-
-.team-u40desktopu41-all-breakpoints .connect-with-us-UKelYA {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.team-u40desktopu41-all-breakpoints .channels-UKelYA {
+.team-u40desktopu41-all-breakpoints .channels-2G46pO {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -1254,7 +1272,7 @@
   width: 218px;
 }
 
-.team-u40desktopu41-all-breakpoints .mastodon-txNYz7 {
+.team-u40desktopu41-all-breakpoints .mastodon-1bdY9p {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1263,7 +1281,7 @@
   width: 32px;
 }
 
-.team-u40desktopu41-all-breakpoints .twitter-txNYz7 {
+.team-u40desktopu41-all-breakpoints .twitter-1bdY9p {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1272,7 +1290,7 @@
   width: 32px;
 }
 
-.team-u40desktopu41-all-breakpoints .you-tube-txNYz7 {
+.team-u40desktopu41-all-breakpoints .you-tube-1bdY9p {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1281,7 +1299,7 @@
   width: 32px;
 }
 
-.team-u40desktopu41-all-breakpoints .git-hub-txNYz7 {
+.team-u40desktopu41-all-breakpoints .git-hub-1bdY9p {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1425,27 +1443,6 @@
   position: relative;
 }
 
-.team-u40desktopu41-all-breakpoints .arrow-cluster {
-  background-color: transparent;
-  height: 16px;
-  position: relative;
-  width: 16px;
-}
-
-.team-u40desktopu41-all-breakpoints .buttonprimary {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: center;
-  padding: 10px 15px;
-  position: relative;
-}
-
 .team-u40desktopu41-all-breakpoints .cards {
   align-items: flex-start;
   background-color: transparent;
@@ -1493,21 +1490,6 @@
   width: 47.66314697265625px;
 }
 
-.team-u40desktopu41-all-breakpoints .mailing-list {
-  align-items: flex-start;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 20px;
-  height: 150px;
-  min-width: 280px;
-  padding: 30px;
-  position: relative;
-}
-
 .team-u40desktopu41-all-breakpoints .photo {
   background-color: transparent;
   height: 215.00003051757812px;
@@ -1544,24 +1526,10 @@
   position: relative;
 }
 
-.team-u40desktopu41-all-breakpoints .teamphotosv4 {
-  background-color: transparent;
-  height: 96px;
-  width: 96px;
-}
-
-.team-u40desktopu41-all-breakpoints .text {
-  background-color: transparent;
-  position: relative;
-}
-
 .team-u40desktopu41-all-breakpoints .ui {
-  align-self: stretch;
   background-color: transparent;
-  height: 12.46905517578125px;
-  margin-bottom: -1.23px;
+  flex: 0 0 auto;
   position: relative;
-  width: 100%;
 }
 /* screen - team-u40mobileu41 */
 
@@ -1780,6 +1748,10 @@
   text-decoration: underline;
 }
 
+.team-u40mobileu41 .arrow-stroke-lrMf7T {
+  height: 12.46905517578125px;
+}
+
 .team-u40mobileu41 .content-5VjZLS {
   align-items: flex-start;
   align-self: stretch;
@@ -1817,6 +1789,10 @@
   position: relative;
   text-align: left;
   text-decoration: underline;
+}
+
+.team-u40mobileu41 .arrow-stroke-5VjZLS {
+  height: 12.4691162109375px;
 }
 
 .team-u40mobileu41 .content-87JXYg {
@@ -1858,6 +1834,10 @@
   text-decoration: underline;
 }
 
+.team-u40mobileu41 .arrow-stroke-87JXYg {
+  height: 12.4691162109375px;
+}
+
 .team-u40mobileu41 .content-Svmx4T {
   align-items: flex-start;
   align-self: stretch;
@@ -1891,6 +1871,10 @@
   position: relative;
   text-align: left;
   text-decoration: underline;
+}
+
+.team-u40mobileu41 .arrow-stroke-Svmx4T {
+  height: 12.4691162109375px;
 }
 
 .team-u40mobileu41 .divhoriz-ZtAwXd {
@@ -2767,6 +2751,20 @@
   text-align: left;
 }
 
+.team-u40mobileu41 .buttonprimary-WcPbnK {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
 .team-u40mobileu41 .text-2bO8F6 {
   letter-spacing: 0.00px;
   line-height: normal;
@@ -2775,7 +2773,28 @@
   width: fit-content;
 }
 
-.team-u40mobileu41 .join-our-mailing-list-gD6arB {
+.team-u40mobileu41 .arrow-cluster-2bO8F6 {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.team-u40mobileu41 .mailing-list-dKzEZw {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  min-width: 280px;
+  padding: 20px;
+  position: relative;
+}
+
+.team-u40mobileu41 .connect-with-us-gD6arB {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -2785,25 +2804,7 @@
   text-align: left;
 }
 
-.team-u40mobileu41 .text-liRC6S {
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  text-align: left;
-  width: fit-content;
-}
-
-.team-u40mobileu41 .connect-with-us-DcdQCy {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.team-u40mobileu41 .channels-DcdQCy {
+.team-u40mobileu41 .channels-gD6arB {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -2813,7 +2814,7 @@
   width: 218px;
 }
 
-.team-u40mobileu41 .mastodon-lCHiTV {
+.team-u40mobileu41 .mastodon-DyK2om {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -2822,7 +2823,7 @@
   width: 32px;
 }
 
-.team-u40mobileu41 .twitter-lCHiTV {
+.team-u40mobileu41 .twitter-DyK2om {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -2831,7 +2832,7 @@
   width: 32px;
 }
 
-.team-u40mobileu41 .you-tube-lCHiTV {
+.team-u40mobileu41 .you-tube-DyK2om {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -2840,7 +2841,7 @@
   width: 32px;
 }
 
-.team-u40mobileu41 .git-hub-lCHiTV {
+.team-u40mobileu41 .git-hub-DyK2om {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -2984,25 +2985,10 @@
   position: relative;
 }
 
-.team-u40mobileu41 .arrow-cluster {
+.team-u40mobileu41 .arrow-stroke {
   background-color: transparent;
-  height: 16px;
   position: relative;
-  width: 16px;
-}
-
-.team-u40mobileu41 .buttonprimary {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: center;
-  padding: 10px 15px;
-  position: relative;
+  width: 15.2392578125px;
 }
 
 .team-u40mobileu41 .cards {
@@ -3045,20 +3031,6 @@
   width: 34.66410446166992px;
 }
 
-.team-u40mobileu41 .mailing-list {
-  align-items: flex-start;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 15px;
-  min-width: 280px;
-  padding: 20px;
-  position: relative;
-}
-
 .team-u40mobileu41 .photo {
   background-color: transparent;
   position: relative;
@@ -3090,25 +3062,6 @@
   flex-direction: column;
   gap: 14.999968528747559px;
   padding: 19.999958038330078px;
-  position: relative;
-  width: 100%;
-}
-
-.team-u40mobileu41 .teamphotosv4 {
-  background-color: transparent;
-  height: 96px;
-  width: 96px;
-}
-
-.team-u40mobileu41 .text {
-  background-color: transparent;
-  position: relative;
-}
-
-.team-u40mobileu41 .ui {
-  align-self: stretch;
-  background-color: transparent;
-  flex: 0 0 auto;
   position: relative;
   width: 100%;
 }
@@ -4381,6 +4334,20 @@
   text-align: left;
 }
 
+.team-u40tabletu41 .buttonprimary-vWBx4y {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
 .team-u40tabletu41 .text-ePLCSy {
   letter-spacing: 0.00px;
   line-height: normal;
@@ -4389,7 +4356,29 @@
   width: fit-content;
 }
 
-.team-u40tabletu41 .join-our-mailing-list-xRiNn1 {
+.team-u40tabletu41 .arrow-cluster-ePLCSy {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.team-u40tabletu41 .mailing-list-9JkzSl {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.team-u40tabletu41 .connect-with-us-xRiNn1 {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -4399,25 +4388,7 @@
   text-align: left;
 }
 
-.team-u40tabletu41 .text-jLDnxC {
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  text-align: left;
-  width: fit-content;
-}
-
-.team-u40tabletu41 .connect-with-us-hVu7qL {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.team-u40tabletu41 .channels-hVu7qL {
+.team-u40tabletu41 .channels-xRiNn1 {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -4427,7 +4398,7 @@
   width: 218px;
 }
 
-.team-u40tabletu41 .mastodon-VibN3H {
+.team-u40tabletu41 .mastodon-QyI1jK {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -4436,7 +4407,7 @@
   width: 32px;
 }
 
-.team-u40tabletu41 .twitter-VibN3H {
+.team-u40tabletu41 .twitter-QyI1jK {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -4445,7 +4416,7 @@
   width: 32px;
 }
 
-.team-u40tabletu41 .you-tube-VibN3H {
+.team-u40tabletu41 .you-tube-QyI1jK {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -4454,7 +4425,7 @@
   width: 32px;
 }
 
-.team-u40tabletu41 .git-hub-VibN3H {
+.team-u40tabletu41 .git-hub-QyI1jK {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -4527,7 +4498,7 @@
 
 .team-u40tabletu41 .iconlicense-WjiKaN {
   background-color: transparent;
-  height: 14.5px;
+  height: 14.500244140625px;
   position: relative;
   width: 16px;
 }
@@ -4598,27 +4569,6 @@
   position: relative;
 }
 
-.team-u40tabletu41 .arrow-cluster {
-  background-color: transparent;
-  height: 16px;
-  position: relative;
-  width: 16px;
-}
-
-.team-u40tabletu41 .buttonprimary {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: center;
-  padding: 10px 15px;
-  position: relative;
-}
-
 .team-u40tabletu41 .cards {
   align-items: flex-start;
   background-color: transparent;
@@ -4655,21 +4605,6 @@
   position: relative;
 }
 
-.team-u40tabletu41 .mailing-list {
-  align-items: flex-start;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 20px;
-  height: 150px;
-  min-width: 280px;
-  padding: 30px;
-  position: relative;
-}
-
 .team-u40tabletu41 .photo {
   background-color: transparent;
   position: relative;
@@ -4700,17 +4635,6 @@
   justify-content: space-between;
   max-width: 245.99948120117188px;
   padding: 19.999958038330078px;
-  position: relative;
-}
-
-.team-u40tabletu41 .teamphotosv4 {
-  background-color: transparent;
-  height: 96px;
-  width: 96px;
-}
-
-.team-u40tabletu41 .text {
-  background-color: transparent;
   position: relative;
 }
 

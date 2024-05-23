@@ -388,7 +388,53 @@
   text-align: left;
 }
 
-.team-ben-cerveny-u40desktopu41-all-breakpoints .join-our-mailing-list-81tk3y {
+.team-ben-cerveny-u40desktopu41-all-breakpoints .buttonprimary-KXNKHz {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.team-ben-cerveny-u40desktopu41-all-breakpoints .text-z7np5V {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-ben-cerveny-u40desktopu41-all-breakpoints .arrow-cluster-z7np5V {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.team-ben-cerveny-u40desktopu41-all-breakpoints .mailing-list-7s4YUX {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.team-ben-cerveny-u40desktopu41-all-breakpoints .connect-with-us-81tk3y {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -398,17 +444,7 @@
   text-align: left;
 }
 
-.team-ben-cerveny-u40desktopu41-all-breakpoints .connect-with-us-lSLZZl {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.team-ben-cerveny-u40desktopu41-all-breakpoints .channels-lSLZZl {
+.team-ben-cerveny-u40desktopu41-all-breakpoints .channels-81tk3y {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -418,7 +454,7 @@
   width: 218px;
 }
 
-.team-ben-cerveny-u40desktopu41-all-breakpoints .mastodon-nB1Yx1 {
+.team-ben-cerveny-u40desktopu41-all-breakpoints .mastodon-C654Ne {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -427,7 +463,7 @@
   width: 32px;
 }
 
-.team-ben-cerveny-u40desktopu41-all-breakpoints .twitter-nB1Yx1 {
+.team-ben-cerveny-u40desktopu41-all-breakpoints .twitter-C654Ne {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -436,7 +472,7 @@
   width: 32px;
 }
 
-.team-ben-cerveny-u40desktopu41-all-breakpoints .you-tube-nB1Yx1 {
+.team-ben-cerveny-u40desktopu41-all-breakpoints .you-tube-C654Ne {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -445,7 +481,7 @@
   width: 32px;
 }
 
-.team-ben-cerveny-u40desktopu41-all-breakpoints .git-hub-nB1Yx1 {
+.team-ben-cerveny-u40desktopu41-all-breakpoints .git-hub-C654Ne {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -576,27 +612,6 @@
 .team-ben-cerveny-u40desktopu41-all-breakpoints .span1-JT9zVG {
 }
 
-.team-ben-cerveny-u40desktopu41-all-breakpoints .arrow-cluster {
-  background-color: transparent;
-  height: 16px;
-  position: relative;
-  width: 16px;
-}
-
-.team-ben-cerveny-u40desktopu41-all-breakpoints .buttonprimary {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: center;
-  padding: 10px 15px;
-  position: relative;
-}
-
 .team-ben-cerveny-u40desktopu41-all-breakpoints .content {
   background-color: transparent;
   display: flex;
@@ -624,31 +639,6 @@
   height: 55px;
   position: relative;
   width: 47.66314697265625px;
-}
-
-.team-ben-cerveny-u40desktopu41-all-breakpoints .mailing-list {
-  align-items: flex-start;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 20px;
-  height: 150px;
-  min-width: 280px;
-  padding: 30px;
-  position: relative;
-}
-
-.team-ben-cerveny-u40desktopu41-all-breakpoints .text {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
 }
 /* screen - team-ben-cerveny-u40mobileu41 */
 
@@ -996,7 +986,52 @@
   text-align: left;
 }
 
-.team-ben-cerveny-u40mobileu41 .join-our-mailing-list-KJiXoA {
+.team-ben-cerveny-u40mobileu41 .buttonprimary-ighKpW {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.team-ben-cerveny-u40mobileu41 .text-k6C7Mr {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-ben-cerveny-u40mobileu41 .arrow-cluster-k6C7Mr {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.team-ben-cerveny-u40mobileu41 .mailing-list-maEPxM {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  min-width: 280px;
+  padding: 20px;
+  position: relative;
+}
+
+.team-ben-cerveny-u40mobileu41 .connect-with-us-KJiXoA {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -1006,17 +1041,7 @@
   text-align: left;
 }
 
-.team-ben-cerveny-u40mobileu41 .connect-with-us-V2pqhH {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.team-ben-cerveny-u40mobileu41 .channels-V2pqhH {
+.team-ben-cerveny-u40mobileu41 .channels-KJiXoA {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -1026,7 +1051,7 @@
   width: 218px;
 }
 
-.team-ben-cerveny-u40mobileu41 .mastodon-3Mymdb {
+.team-ben-cerveny-u40mobileu41 .mastodon-YucEQJ {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1035,7 +1060,7 @@
   width: 32px;
 }
 
-.team-ben-cerveny-u40mobileu41 .twitter-3Mymdb {
+.team-ben-cerveny-u40mobileu41 .twitter-YucEQJ {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1044,7 +1069,7 @@
   width: 32px;
 }
 
-.team-ben-cerveny-u40mobileu41 .you-tube-3Mymdb {
+.team-ben-cerveny-u40mobileu41 .you-tube-YucEQJ {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1053,7 +1078,7 @@
   width: 32px;
 }
 
-.team-ben-cerveny-u40mobileu41 .git-hub-3Mymdb {
+.team-ben-cerveny-u40mobileu41 .git-hub-YucEQJ {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1184,27 +1209,6 @@
 .team-ben-cerveny-u40mobileu41 .span1-Mk6xoi {
 }
 
-.team-ben-cerveny-u40mobileu41 .arrow-cluster {
-  background-color: transparent;
-  height: 16px;
-  position: relative;
-  width: 16px;
-}
-
-.team-ben-cerveny-u40mobileu41 .buttonprimary {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: center;
-  padding: 10px 15px;
-  position: relative;
-}
-
 .team-ben-cerveny-u40mobileu41 .content {
   background-color: transparent;
   display: flex;
@@ -1233,30 +1237,6 @@
   height: 40px;
   position: relative;
   width: 34.66410446166992px;
-}
-
-.team-ben-cerveny-u40mobileu41 .mailing-list {
-  align-items: flex-start;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 15px;
-  min-width: 280px;
-  padding: 20px;
-  position: relative;
-}
-
-.team-ben-cerveny-u40mobileu41 .text {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
 }
 /* screen - team-ben-cerveny-u40tabletu41 */
 
@@ -1664,7 +1644,53 @@
   text-align: left;
 }
 
-.team-ben-cerveny-u40tabletu41 .join-our-mailing-list-8gZBP7 {
+.team-ben-cerveny-u40tabletu41 .buttonprimary-NXVmDi {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.team-ben-cerveny-u40tabletu41 .text-VghbsQ {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-ben-cerveny-u40tabletu41 .arrow-cluster-VghbsQ {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.team-ben-cerveny-u40tabletu41 .mailing-list-lCScSi {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.team-ben-cerveny-u40tabletu41 .connect-with-us-8gZBP7 {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -1674,17 +1700,7 @@
   text-align: left;
 }
 
-.team-ben-cerveny-u40tabletu41 .connect-with-us-C7gaWl {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.team-ben-cerveny-u40tabletu41 .channels-C7gaWl {
+.team-ben-cerveny-u40tabletu41 .channels-8gZBP7 {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -1694,7 +1710,7 @@
   width: 218px;
 }
 
-.team-ben-cerveny-u40tabletu41 .mastodon-HUSiTy {
+.team-ben-cerveny-u40tabletu41 .mastodon-loxNhH {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1703,7 +1719,7 @@
   width: 32px;
 }
 
-.team-ben-cerveny-u40tabletu41 .twitter-HUSiTy {
+.team-ben-cerveny-u40tabletu41 .twitter-loxNhH {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1712,7 +1728,7 @@
   width: 32px;
 }
 
-.team-ben-cerveny-u40tabletu41 .you-tube-HUSiTy {
+.team-ben-cerveny-u40tabletu41 .you-tube-loxNhH {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1721,7 +1737,7 @@
   width: 32px;
 }
 
-.team-ben-cerveny-u40tabletu41 .git-hub-HUSiTy {
+.team-ben-cerveny-u40tabletu41 .git-hub-loxNhH {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1852,27 +1868,6 @@
 .team-ben-cerveny-u40tabletu41 .span1-xP7dQv {
 }
 
-.team-ben-cerveny-u40tabletu41 .arrow-cluster {
-  background-color: transparent;
-  height: 16px;
-  position: relative;
-  width: 16px;
-}
-
-.team-ben-cerveny-u40tabletu41 .buttonprimary {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: center;
-  padding: 10px 15px;
-  position: relative;
-}
-
 .team-ben-cerveny-u40tabletu41 .content {
   background-color: transparent;
   display: flex;
@@ -1898,31 +1893,6 @@
 .team-ben-cerveny-u40tabletu41 .logo-symbol {
   background-color: transparent;
   position: relative;
-}
-
-.team-ben-cerveny-u40tabletu41 .mailing-list {
-  align-items: flex-start;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 20px;
-  height: 150px;
-  min-width: 280px;
-  padding: 30px;
-  position: relative;
-}
-
-.team-ben-cerveny-u40tabletu41 .text {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
 }
 @media screen and (max-width: 839px) {
   .screen.team-ben-cerveny-u40tabletu41 { 

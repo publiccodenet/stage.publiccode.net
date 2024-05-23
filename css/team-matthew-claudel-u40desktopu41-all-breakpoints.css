@@ -77,6 +77,7 @@
 
 .team-matthew-claudel-u40desktopu41-all-breakpoints .public-code-6FYgOe {
   background-color: transparent;
+  cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   position: relative;
@@ -400,7 +401,53 @@
   text-align: left;
 }
 
-.team-matthew-claudel-u40desktopu41-all-breakpoints .join-our-mailing-list-Oy7zVy {
+.team-matthew-claudel-u40desktopu41-all-breakpoints .buttonprimary-4KB2FH {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.team-matthew-claudel-u40desktopu41-all-breakpoints .text-r95toc {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-matthew-claudel-u40desktopu41-all-breakpoints .arrow-cluster-r95toc {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.team-matthew-claudel-u40desktopu41-all-breakpoints .mailing-list-pjUNxV {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.team-matthew-claudel-u40desktopu41-all-breakpoints .connect-with-us-Oy7zVy {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -410,17 +457,7 @@
   text-align: left;
 }
 
-.team-matthew-claudel-u40desktopu41-all-breakpoints .connect-with-us-X1aVb7 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.team-matthew-claudel-u40desktopu41-all-breakpoints .channels-X1aVb7 {
+.team-matthew-claudel-u40desktopu41-all-breakpoints .channels-Oy7zVy {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -430,7 +467,7 @@
   width: 218px;
 }
 
-.team-matthew-claudel-u40desktopu41-all-breakpoints .mastodon-EwmSZS {
+.team-matthew-claudel-u40desktopu41-all-breakpoints .mastodon-IVpxNi {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -439,7 +476,7 @@
   width: 32px;
 }
 
-.team-matthew-claudel-u40desktopu41-all-breakpoints .twitter-EwmSZS {
+.team-matthew-claudel-u40desktopu41-all-breakpoints .twitter-IVpxNi {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -448,7 +485,7 @@
   width: 32px;
 }
 
-.team-matthew-claudel-u40desktopu41-all-breakpoints .you-tube-EwmSZS {
+.team-matthew-claudel-u40desktopu41-all-breakpoints .you-tube-IVpxNi {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -457,7 +494,7 @@
   width: 32px;
 }
 
-.team-matthew-claudel-u40desktopu41-all-breakpoints .git-hub-EwmSZS {
+.team-matthew-claudel-u40desktopu41-all-breakpoints .git-hub-IVpxNi {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -588,27 +625,6 @@
 .team-matthew-claudel-u40desktopu41-all-breakpoints .span1-fo7AH8 {
 }
 
-.team-matthew-claudel-u40desktopu41-all-breakpoints .arrow-cluster {
-  background-color: transparent;
-  height: 16px;
-  position: relative;
-  width: 16px;
-}
-
-.team-matthew-claudel-u40desktopu41-all-breakpoints .buttonprimary {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: center;
-  padding: 10px 15px;
-  position: relative;
-}
-
 .team-matthew-claudel-u40desktopu41-all-breakpoints .content {
   align-items: center;
   background-color: transparent;
@@ -637,31 +653,6 @@
   height: 55px;
   position: relative;
   width: 47.66314697265625px;
-}
-
-.team-matthew-claudel-u40desktopu41-all-breakpoints .mailing-list {
-  align-items: flex-start;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 20px;
-  height: 150px;
-  min-width: 280px;
-  padding: 30px;
-  position: relative;
-}
-
-.team-matthew-claudel-u40desktopu41-all-breakpoints .text {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
 }
 /* screen - team-matthew-claudel-u40mobileu41 */
 
@@ -1022,7 +1013,52 @@
   text-align: left;
 }
 
-.team-matthew-claudel-u40mobileu41 .join-our-mailing-list-FZqAxk {
+.team-matthew-claudel-u40mobileu41 .buttonprimary-6uM5lj {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.team-matthew-claudel-u40mobileu41 .text-QwZ15c {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-matthew-claudel-u40mobileu41 .arrow-cluster-QwZ15c {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.team-matthew-claudel-u40mobileu41 .mailing-list-RWtlHU {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  min-width: 280px;
+  padding: 20px;
+  position: relative;
+}
+
+.team-matthew-claudel-u40mobileu41 .connect-with-us-FZqAxk {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -1032,17 +1068,7 @@
   text-align: left;
 }
 
-.team-matthew-claudel-u40mobileu41 .connect-with-us-p0XRFR {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.team-matthew-claudel-u40mobileu41 .channels-p0XRFR {
+.team-matthew-claudel-u40mobileu41 .channels-FZqAxk {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -1052,7 +1078,7 @@
   width: 218px;
 }
 
-.team-matthew-claudel-u40mobileu41 .mastodon-zXuS18 {
+.team-matthew-claudel-u40mobileu41 .mastodon-4xnxw1 {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1061,7 +1087,7 @@
   width: 32px;
 }
 
-.team-matthew-claudel-u40mobileu41 .twitter-zXuS18 {
+.team-matthew-claudel-u40mobileu41 .twitter-4xnxw1 {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1070,7 +1096,7 @@
   width: 32px;
 }
 
-.team-matthew-claudel-u40mobileu41 .you-tube-zXuS18 {
+.team-matthew-claudel-u40mobileu41 .you-tube-4xnxw1 {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1079,7 +1105,7 @@
   width: 32px;
 }
 
-.team-matthew-claudel-u40mobileu41 .git-hub-zXuS18 {
+.team-matthew-claudel-u40mobileu41 .git-hub-4xnxw1 {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1210,27 +1236,6 @@
 .team-matthew-claudel-u40mobileu41 .span1-sWUcxg {
 }
 
-.team-matthew-claudel-u40mobileu41 .arrow-cluster {
-  background-color: transparent;
-  height: 16px;
-  position: relative;
-  width: 16px;
-}
-
-.team-matthew-claudel-u40mobileu41 .buttonprimary {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: center;
-  padding: 10px 15px;
-  position: relative;
-}
-
 .team-matthew-claudel-u40mobileu41 .content {
   align-items: center;
   background-color: transparent;
@@ -1260,30 +1265,6 @@
   height: 40px;
   position: relative;
   width: 34.66410446166992px;
-}
-
-.team-matthew-claudel-u40mobileu41 .mailing-list {
-  align-items: flex-start;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 15px;
-  min-width: 280px;
-  padding: 20px;
-  position: relative;
-}
-
-.team-matthew-claudel-u40mobileu41 .text {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
 }
 /* screen - team-matthew-claudel-u40tabletu41 */
 
@@ -1706,7 +1687,53 @@
   text-align: left;
 }
 
-.team-matthew-claudel-u40tabletu41 .join-our-mailing-list-bWwvO6 {
+.team-matthew-claudel-u40tabletu41 .buttonprimary-8CPaTc {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.team-matthew-claudel-u40tabletu41 .text-2ymDIA {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-matthew-claudel-u40tabletu41 .arrow-cluster-2ymDIA {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.team-matthew-claudel-u40tabletu41 .mailing-list-4tFxTL {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.team-matthew-claudel-u40tabletu41 .connect-with-us-bWwvO6 {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -1716,17 +1743,7 @@
   text-align: left;
 }
 
-.team-matthew-claudel-u40tabletu41 .connect-with-us-tmCTxv {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.team-matthew-claudel-u40tabletu41 .channels-tmCTxv {
+.team-matthew-claudel-u40tabletu41 .channels-bWwvO6 {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -1736,7 +1753,7 @@
   width: 218px;
 }
 
-.team-matthew-claudel-u40tabletu41 .mastodon-vNzDDR {
+.team-matthew-claudel-u40tabletu41 .mastodon-boC0rk {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1745,7 +1762,7 @@
   width: 32px;
 }
 
-.team-matthew-claudel-u40tabletu41 .twitter-vNzDDR {
+.team-matthew-claudel-u40tabletu41 .twitter-boC0rk {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1754,7 +1771,7 @@
   width: 32px;
 }
 
-.team-matthew-claudel-u40tabletu41 .you-tube-vNzDDR {
+.team-matthew-claudel-u40tabletu41 .you-tube-boC0rk {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1763,7 +1780,7 @@
   width: 32px;
 }
 
-.team-matthew-claudel-u40tabletu41 .git-hub-vNzDDR {
+.team-matthew-claudel-u40tabletu41 .git-hub-boC0rk {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1894,27 +1911,6 @@
 .team-matthew-claudel-u40tabletu41 .span1-JfyBpf {
 }
 
-.team-matthew-claudel-u40tabletu41 .arrow-cluster {
-  background-color: transparent;
-  height: 16px;
-  position: relative;
-  width: 16px;
-}
-
-.team-matthew-claudel-u40tabletu41 .buttonprimary {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: center;
-  padding: 10px 15px;
-  position: relative;
-}
-
 .team-matthew-claudel-u40tabletu41 .content {
   background-color: transparent;
   display: flex;
@@ -1941,52 +1937,27 @@
   background-color: transparent;
   position: relative;
 }
-
-.team-matthew-claudel-u40tabletu41 .mailing-list {
-  align-items: flex-start;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 20px;
-  height: 150px;
-  min-width: 280px;
-  padding: 30px;
-  position: relative;
-}
-
-.team-matthew-claudel-u40tabletu41 .text {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
-}
 @media screen and (max-width: 839px) {
-  .screen.team-matthew-claudel-u40tabletu41 { 
+  .screen.team-matthew-claudel-u40desktopu41-all-breakpoints { 
     display: none;
    }
-  .screen.team-matthew-claudel-u40desktopu41-all-breakpoints { 
+  .screen.team-matthew-claudel-u40tabletu41 { 
     display: none;
    }
 }
 @media screen and (min-width: 840px) and (max-width: 1139px) {
-  .screen.team-matthew-claudel-u40mobileu41 { 
+  .screen.team-matthew-claudel-u40desktopu41-all-breakpoints { 
     display: none;
    }
-  .screen.team-matthew-claudel-u40desktopu41-all-breakpoints { 
+  .screen.team-matthew-claudel-u40mobileu41 { 
     display: none;
    }
 }
 @media screen and (min-width: 1140px) {
-  .screen.team-matthew-claudel-u40mobileu41 { 
+  .screen.team-matthew-claudel-u40tabletu41 { 
     display: none;
    }
-  .screen.team-matthew-claudel-u40tabletu41 { 
+  .screen.team-matthew-claudel-u40mobileu41 { 
     display: none;
    }
 }

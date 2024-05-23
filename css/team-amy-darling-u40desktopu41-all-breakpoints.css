@@ -399,7 +399,53 @@
   text-align: left;
 }
 
-.team-amy-darling-u40desktopu41-all-breakpoints .join-our-mailing-list-xdRFqx {
+.team-amy-darling-u40desktopu41-all-breakpoints .buttonprimary-uRynOF {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.team-amy-darling-u40desktopu41-all-breakpoints .text-XNq3qv {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-amy-darling-u40desktopu41-all-breakpoints .arrow-cluster-XNq3qv {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.team-amy-darling-u40desktopu41-all-breakpoints .mailing-list-aKMVW1 {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.team-amy-darling-u40desktopu41-all-breakpoints .connect-with-us-xdRFqx {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -409,17 +455,7 @@
   text-align: left;
 }
 
-.team-amy-darling-u40desktopu41-all-breakpoints .connect-with-us-xXFmp6 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.team-amy-darling-u40desktopu41-all-breakpoints .channels-xXFmp6 {
+.team-amy-darling-u40desktopu41-all-breakpoints .channels-xdRFqx {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -429,7 +465,7 @@
   width: 218px;
 }
 
-.team-amy-darling-u40desktopu41-all-breakpoints .mastodon-47ZcFL {
+.team-amy-darling-u40desktopu41-all-breakpoints .mastodon-cBDYOq {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -438,7 +474,7 @@
   width: 32px;
 }
 
-.team-amy-darling-u40desktopu41-all-breakpoints .twitter-47ZcFL {
+.team-amy-darling-u40desktopu41-all-breakpoints .twitter-cBDYOq {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -447,7 +483,7 @@
   width: 32px;
 }
 
-.team-amy-darling-u40desktopu41-all-breakpoints .you-tube-47ZcFL {
+.team-amy-darling-u40desktopu41-all-breakpoints .you-tube-cBDYOq {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -456,7 +492,7 @@
   width: 32px;
 }
 
-.team-amy-darling-u40desktopu41-all-breakpoints .git-hub-47ZcFL {
+.team-amy-darling-u40desktopu41-all-breakpoints .git-hub-cBDYOq {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -587,27 +623,6 @@
 .team-amy-darling-u40desktopu41-all-breakpoints .span1-z5sG9o {
 }
 
-.team-amy-darling-u40desktopu41-all-breakpoints .arrow-cluster {
-  background-color: transparent;
-  height: 16px;
-  position: relative;
-  width: 16px;
-}
-
-.team-amy-darling-u40desktopu41-all-breakpoints .buttonprimary {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: center;
-  padding: 10px 15px;
-  position: relative;
-}
-
 .team-amy-darling-u40desktopu41-all-breakpoints .content {
   background-color: transparent;
   display: flex;
@@ -635,31 +650,6 @@
   height: 55px;
   position: relative;
   width: 47.66314697265625px;
-}
-
-.team-amy-darling-u40desktopu41-all-breakpoints .mailing-list {
-  align-items: flex-start;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 20px;
-  height: 150px;
-  min-width: 280px;
-  padding: 30px;
-  position: relative;
-}
-
-.team-amy-darling-u40desktopu41-all-breakpoints .text {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
 }
 /* screen - team-amy-darling-u40mobileu41 */
 
@@ -1018,7 +1008,52 @@
   text-align: left;
 }
 
-.team-amy-darling-u40mobileu41 .join-our-mailing-list-aElxA7 {
+.team-amy-darling-u40mobileu41 .buttonprimary-HO2KRP {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.team-amy-darling-u40mobileu41 .text-Yx7I7b {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-amy-darling-u40mobileu41 .arrow-cluster-Yx7I7b {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.team-amy-darling-u40mobileu41 .mailing-list-2LGzrz {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  min-width: 280px;
+  padding: 20px;
+  position: relative;
+}
+
+.team-amy-darling-u40mobileu41 .connect-with-us-aElxA7 {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -1028,17 +1063,7 @@
   text-align: left;
 }
 
-.team-amy-darling-u40mobileu41 .connect-with-us-Cz4wHX {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.team-amy-darling-u40mobileu41 .channels-Cz4wHX {
+.team-amy-darling-u40mobileu41 .channels-aElxA7 {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -1048,7 +1073,7 @@
   width: 218px;
 }
 
-.team-amy-darling-u40mobileu41 .mastodon-EQg3pk {
+.team-amy-darling-u40mobileu41 .mastodon-AgxQQC {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1057,7 +1082,7 @@
   width: 32px;
 }
 
-.team-amy-darling-u40mobileu41 .twitter-EQg3pk {
+.team-amy-darling-u40mobileu41 .twitter-AgxQQC {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1066,7 +1091,7 @@
   width: 32px;
 }
 
-.team-amy-darling-u40mobileu41 .you-tube-EQg3pk {
+.team-amy-darling-u40mobileu41 .you-tube-AgxQQC {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1075,7 +1100,7 @@
   width: 32px;
 }
 
-.team-amy-darling-u40mobileu41 .git-hub-EQg3pk {
+.team-amy-darling-u40mobileu41 .git-hub-AgxQQC {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1206,27 +1231,6 @@
 .team-amy-darling-u40mobileu41 .span1-4pexRD {
 }
 
-.team-amy-darling-u40mobileu41 .arrow-cluster {
-  background-color: transparent;
-  height: 16px;
-  position: relative;
-  width: 16px;
-}
-
-.team-amy-darling-u40mobileu41 .buttonprimary {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: center;
-  padding: 10px 15px;
-  position: relative;
-}
-
 .team-amy-darling-u40mobileu41 .content {
   background-color: transparent;
   display: flex;
@@ -1255,30 +1259,6 @@
   height: 40px;
   position: relative;
   width: 34.66410446166992px;
-}
-
-.team-amy-darling-u40mobileu41 .mailing-list {
-  align-items: flex-start;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 15px;
-  min-width: 280px;
-  padding: 20px;
-  position: relative;
-}
-
-.team-amy-darling-u40mobileu41 .text {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
 }
 /* screen - team-amy-darling-u40tabletu41 */
 
@@ -1697,7 +1677,53 @@
   text-align: left;
 }
 
-.team-amy-darling-u40tabletu41 .join-our-mailing-list-nHZkIX {
+.team-amy-darling-u40tabletu41 .buttonprimary-A2UhSW {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
+.team-amy-darling-u40tabletu41 .text-M7WTyZ {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.team-amy-darling-u40tabletu41 .arrow-cluster-M7WTyZ {
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.team-amy-darling-u40tabletu41 .mailing-list-XO9gQ7 {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.team-amy-darling-u40tabletu41 .connect-with-us-nHZkIX {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -1707,17 +1733,7 @@
   text-align: left;
 }
 
-.team-amy-darling-u40tabletu41 .connect-with-us-cgMP6q {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.team-amy-darling-u40tabletu41 .channels-cgMP6q {
+.team-amy-darling-u40tabletu41 .channels-nHZkIX {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -1727,7 +1743,7 @@
   width: 218px;
 }
 
-.team-amy-darling-u40tabletu41 .mastodon-2px1Dr {
+.team-amy-darling-u40tabletu41 .mastodon-OgAhbn {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1736,7 +1752,7 @@
   width: 32px;
 }
 
-.team-amy-darling-u40tabletu41 .twitter-2px1Dr {
+.team-amy-darling-u40tabletu41 .twitter-OgAhbn {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1745,7 +1761,7 @@
   width: 32px;
 }
 
-.team-amy-darling-u40tabletu41 .you-tube-2px1Dr {
+.team-amy-darling-u40tabletu41 .you-tube-OgAhbn {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1754,7 +1770,7 @@
   width: 32px;
 }
 
-.team-amy-darling-u40tabletu41 .git-hub-2px1Dr {
+.team-amy-darling-u40tabletu41 .git-hub-OgAhbn {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1885,27 +1901,6 @@
 .team-amy-darling-u40tabletu41 .span1-Uk8Spv {
 }
 
-.team-amy-darling-u40tabletu41 .arrow-cluster {
-  background-color: transparent;
-  height: 16px;
-  position: relative;
-  width: 16px;
-}
-
-.team-amy-darling-u40tabletu41 .buttonprimary {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: center;
-  padding: 10px 15px;
-  position: relative;
-}
-
 .team-amy-darling-u40tabletu41 .content {
   background-color: transparent;
   display: flex;
@@ -1931,31 +1926,6 @@
 .team-amy-darling-u40tabletu41 .logo-symbol {
   background-color: transparent;
   position: relative;
-}
-
-.team-amy-darling-u40tabletu41 .mailing-list {
-  align-items: flex-start;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 20px;
-  height: 150px;
-  min-width: 280px;
-  padding: 30px;
-  position: relative;
-}
-
-.team-amy-darling-u40tabletu41 .text {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-  width: fit-content;
 }
 @media screen and (max-width: 839px) {
   .screen.team-amy-darling-u40tabletu41 { 

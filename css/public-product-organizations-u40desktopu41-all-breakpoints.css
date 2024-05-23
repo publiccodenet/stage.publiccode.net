@@ -347,8 +347,7 @@
 .public-product-organizations-u40desktopu41-all-breakpoints .cluster-EdphYu {
   align-self: stretch;
   flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 10px 10px;
+  gap: 10px;
   width: 100%;
 }
 
@@ -1514,6 +1513,20 @@
   text-align: left;
 }
 
+.public-product-organizations-u40desktopu41-all-breakpoints .buttonprimary-SIieSj {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
 .public-product-organizations-u40desktopu41-all-breakpoints .text-quVBhW {
   letter-spacing: 0.00px;
   line-height: normal;
@@ -1522,7 +1535,22 @@
   width: fit-content;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .join-our-mailing-list-cb19GG {
+.public-product-organizations-u40desktopu41-all-breakpoints .mailing-list-LhTjf5 {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.public-product-organizations-u40desktopu41-all-breakpoints .connect-with-us-cb19GG {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -1532,25 +1560,7 @@
   text-align: left;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .text-3nF0cJ {
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  text-align: left;
-  width: fit-content;
-}
-
-.public-product-organizations-u40desktopu41-all-breakpoints .connect-with-us-w34msO {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40desktopu41-all-breakpoints .channels-w34msO {
+.public-product-organizations-u40desktopu41-all-breakpoints .channels-cb19GG {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -1560,7 +1570,7 @@
   width: 218px;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .mastodon-TVlfyN {
+.public-product-organizations-u40desktopu41-all-breakpoints .mastodon-RzIGVd {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1569,7 +1579,7 @@
   width: 32px;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .twitter-TVlfyN {
+.public-product-organizations-u40desktopu41-all-breakpoints .twitter-RzIGVd {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1578,7 +1588,7 @@
   width: 32px;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .you-tube-TVlfyN {
+.public-product-organizations-u40desktopu41-all-breakpoints .you-tube-RzIGVd {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1587,7 +1597,7 @@
   width: 32px;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .git-hub-TVlfyN {
+.public-product-organizations-u40desktopu41-all-breakpoints .git-hub-RzIGVd {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -1660,7 +1670,7 @@
 
 .public-product-organizations-u40desktopu41-all-breakpoints .iconlicense-VCZ7tn {
   background-color: transparent;
-  height: 14.5px;
+  height: 14.50048828125px;
   position: relative;
   width: 16px;
 }
@@ -1725,20 +1735,6 @@
   width: 16px;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .buttonprimary {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: center;
-  padding: 10px 15px;
-  position: relative;
-}
-
 .public-product-organizations-u40desktopu41-all-breakpoints .buttonsecondary {
   align-items: center;
   background-color: transparent;
@@ -1801,21 +1797,6 @@
   width: 47.66314697265625px;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .mailing-list {
-  align-items: flex-start;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 20px;
-  height: 150px;
-  min-width: 280px;
-  padding: 30px;
-  position: relative;
-}
-
 .public-product-organizations-u40desktopu41-all-breakpoints .section {
   align-self: stretch;
   background-color: transparent;
@@ -1825,11 +1806,6 @@
   gap: 40px;
   position: relative;
   width: 100%;
-}
-
-.public-product-organizations-u40desktopu41-all-breakpoints .text {
-  background-color: transparent;
-  position: relative;
 }
 /* screen - public-product-organizations-u40tabletu41-1 */
 
@@ -1936,7 +1912,6 @@
 }
 
 .public-product-organizations-u40tabletu41-1 .cluster-TKPBI8 {
-  flex-direction: column;
   gap: 30px;
   max-width: 1120px;
   padding: 20px;
@@ -2100,8 +2075,7 @@
 }
 
 .public-product-organizations-u40tabletu41-1 .cluster-Sq1d7Y {
-  flex-wrap: wrap;
-  gap: 10px 10px;
+  gap: 10px;
 }
 
 .public-product-organizations-u40tabletu41-1 .flex-container-445828862-AV8GD7 {
@@ -2574,7 +2548,6 @@
 }
 
 .public-product-organizations-u40tabletu41-1 .cluster-u0hadx {
-  flex-direction: column;
   gap: 30px;
 }
 
@@ -2673,7 +2646,6 @@
 }
 
 .public-product-organizations-u40tabletu41-1 .cluster-i0Mxhn {
-  flex-direction: column;
   gap: 15px;
 }
 
@@ -2811,7 +2783,6 @@
 }
 
 .public-product-organizations-u40tabletu41-1 .cluster-bk1Ise {
-  flex-direction: column;
   gap: 15px;
 }
 
@@ -2962,7 +2933,6 @@
 }
 
 .public-product-organizations-u40tabletu41-1 .cluster-zxDn6x {
-  flex-direction: column;
   gap: 15px;
 }
 
@@ -3057,7 +3027,6 @@
 }
 
 .public-product-organizations-u40tabletu41-1 .cluster-K2HJxs {
-  flex-direction: column;
   gap: 15px;
 }
 
@@ -3174,6 +3143,20 @@
   text-align: left;
 }
 
+.public-product-organizations-u40tabletu41-1 .buttonprimary-TLOVxy {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
 .public-product-organizations-u40tabletu41-1 .text-4bwdaE {
   letter-spacing: 0.00px;
   line-height: normal;
@@ -3182,7 +3165,21 @@
   width: fit-content;
 }
 
-.public-product-organizations-u40tabletu41-1 .join-our-mailing-list-ND0v4y {
+.public-product-organizations-u40tabletu41-1 .mailing-list-AKdcci {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 15px;
+  min-width: 280px;
+  padding: 20px;
+  position: relative;
+}
+
+.public-product-organizations-u40tabletu41-1 .connect-with-us-ND0v4y {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -3192,25 +3189,7 @@
   text-align: left;
 }
 
-.public-product-organizations-u40tabletu41-1 .text-exVjOw {
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  text-align: left;
-  width: fit-content;
-}
-
-.public-product-organizations-u40tabletu41-1 .connect-with-us-KVPw4V {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40tabletu41-1 .channels-KVPw4V {
+.public-product-organizations-u40tabletu41-1 .channels-ND0v4y {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -3220,7 +3199,7 @@
   width: 218px;
 }
 
-.public-product-organizations-u40tabletu41-1 .mastodon-3s49qw {
+.public-product-organizations-u40tabletu41-1 .mastodon-sx02gI {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -3229,7 +3208,7 @@
   width: 32px;
 }
 
-.public-product-organizations-u40tabletu41-1 .twitter-3s49qw {
+.public-product-organizations-u40tabletu41-1 .twitter-sx02gI {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -3238,7 +3217,7 @@
   width: 32px;
 }
 
-.public-product-organizations-u40tabletu41-1 .you-tube-3s49qw {
+.public-product-organizations-u40tabletu41-1 .you-tube-sx02gI {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -3247,7 +3226,7 @@
   width: 32px;
 }
 
-.public-product-organizations-u40tabletu41-1 .git-hub-3s49qw {
+.public-product-organizations-u40tabletu41-1 .git-hub-sx02gI {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -3385,20 +3364,6 @@
   width: 16px;
 }
 
-.public-product-organizations-u40tabletu41-1 .buttonprimary {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: center;
-  padding: 10px 15px;
-  position: relative;
-}
-
 .public-product-organizations-u40tabletu41-1 .buttonsecondary {
   align-items: center;
   background-color: transparent;
@@ -3428,6 +3393,7 @@
   background-color: transparent;
   display: flex;
   flex: 0 0 auto;
+  flex-direction: column;
   position: relative;
   width: 100%;
 }
@@ -3492,20 +3458,6 @@
   width: 34.66410446166992px;
 }
 
-.public-product-organizations-u40tabletu41-1 .mailing-list {
-  align-items: flex-start;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 15px;
-  min-width: 280px;
-  padding: 20px;
-  position: relative;
-}
-
 .public-product-organizations-u40tabletu41-1 .notify {
   background-color: transparent;
   position: relative;
@@ -3520,11 +3472,6 @@
   gap: 20px;
   position: relative;
   width: 100%;
-}
-
-.public-product-organizations-u40tabletu41-1 .text {
-  background-color: transparent;
-  position: relative;
 }
 /* screen - public-product-organizations-u40tabletu41-2 */
 
@@ -3880,8 +3827,7 @@
 .public-product-organizations-u40tabletu41-2 .cluster-0bGj5N {
   align-self: stretch;
   flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 10px 10px;
+  gap: 10px;
   width: 100%;
 }
 
@@ -5054,6 +5000,20 @@
   text-align: left;
 }
 
+.public-product-organizations-u40tabletu41-2 .buttonprimary-8IyhtX {
+  align-items: center;
+  background-color: var(--basic-link);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+}
+
 .public-product-organizations-u40tabletu41-2 .text-qYyvHs {
   letter-spacing: 0.00px;
   line-height: normal;
@@ -5062,7 +5022,22 @@
   width: fit-content;
 }
 
-.public-product-organizations-u40tabletu41-2 .join-our-mailing-list-9IS2tK {
+.public-product-organizations-u40tabletu41-2 .mailing-list-Ms7UxP {
+  align-items: flex-start;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 20px;
+  height: 150px;
+  min-width: 280px;
+  padding: 30px;
+  position: relative;
+}
+
+.public-product-organizations-u40tabletu41-2 .connect-with-us-9IS2tK {
   align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -5072,25 +5047,7 @@
   text-align: left;
 }
 
-.public-product-organizations-u40tabletu41-2 .text-EPVTA8 {
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  text-align: left;
-  width: fit-content;
-}
-
-.public-product-organizations-u40tabletu41-2 .connect-with-us-uJvjhf {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -2.00px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40tabletu41-2 .channels-uJvjhf {
+.public-product-organizations-u40tabletu41-2 .channels-9IS2tK {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -5100,7 +5057,7 @@
   width: 218px;
 }
 
-.public-product-organizations-u40tabletu41-2 .mastodon-IGsyDV {
+.public-product-organizations-u40tabletu41-2 .mastodon-n3o1Ia {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -5109,7 +5066,7 @@
   width: 32px;
 }
 
-.public-product-organizations-u40tabletu41-2 .twitter-IGsyDV {
+.public-product-organizations-u40tabletu41-2 .twitter-n3o1Ia {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -5118,7 +5075,7 @@
   width: 32px;
 }
 
-.public-product-organizations-u40tabletu41-2 .you-tube-IGsyDV {
+.public-product-organizations-u40tabletu41-2 .you-tube-n3o1Ia {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -5127,7 +5084,7 @@
   width: 32px;
 }
 
-.public-product-organizations-u40tabletu41-2 .git-hub-IGsyDV {
+.public-product-organizations-u40tabletu41-2 .git-hub-n3o1Ia {
   background-color: transparent;
   cursor: pointer;
   height: 32px;
@@ -5265,20 +5222,6 @@
   width: 16px;
 }
 
-.public-product-organizations-u40tabletu41-2 .buttonprimary {
-  align-items: center;
-  background-color: var(--basic-link);
-  border-radius: 6px;
-  box-shadow: 0px 4px 0px #00000026;
-  cursor: pointer;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: center;
-  padding: 10px 15px;
-  position: relative;
-}
-
 .public-product-organizations-u40tabletu41-2 .buttonsecondary {
   align-items: center;
   background-color: transparent;
@@ -5339,21 +5282,6 @@
   position: relative;
 }
 
-.public-product-organizations-u40tabletu41-2 .mailing-list {
-  align-items: flex-start;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 20px;
-  height: 150px;
-  min-width: 280px;
-  padding: 30px;
-  position: relative;
-}
-
 .public-product-organizations-u40tabletu41-2 .section {
   align-self: stretch;
   background-color: transparent;
@@ -5363,11 +5291,6 @@
   gap: 30px;
   position: relative;
   width: 100%;
-}
-
-.public-product-organizations-u40tabletu41-2 .text {
-  background-color: transparent;
-  position: relative;
 }
 @media screen and (max-width: 839px) {
   .screen.public-product-organizations-u40tabletu41-2 { 

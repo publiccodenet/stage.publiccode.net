@@ -68,6 +68,12 @@
   justify-content: center;
 }
 
+.valign-text-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
 .hidden,
 .hidden * {
   pointer-events: none;
@@ -84,6 +90,11 @@
   cursor: pointer;
   flex: 0 0 auto;
   gap: 13px;
+  position: relative;
+}
+
+.text {
+  background-color: transparent;
   position: relative;
 }
 
@@ -128,16 +139,14 @@
   text-align: left;
 }
 
-.title {
-  align-self: stretch;
+.teamphotosv4 {
   background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: relative;
-  text-align: left;
+  height: 96px;
+  width: 96px;
 }
 
-.public-code {
+.title {
+  align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -163,11 +172,6 @@
   width: 80.00028228759766px;
 }
 
-.governance-game {
-  align-self: stretch;
-  position: relative;
-}
-
 .main {
   align-items: flex-start;
   align-self: stretch;
@@ -180,20 +184,14 @@
   width: 100%;
 }
 
-.process-codes {
+.governance-game {
   align-self: stretch;
   position: relative;
 }
 
-.rim {
-  background-color: transparent;
-  border: 3.999985456466675px solid;
-  border-radius: 44px;
-  height: 110.00%;
-  left: -5.00%;
-  position: absolute;
-  top: -5.00%;
-  width: 110.00%;
+.process-codes {
+  align-self: stretch;
+  position: relative;
 }
 
 .a-forming-network-of {
