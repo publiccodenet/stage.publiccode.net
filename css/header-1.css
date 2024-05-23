@@ -1,0 +1,336 @@
+/* screen - header-1 */
+
+.header-1 {
+  align-items: center;
+  background-color: transparent;
+  border: 2px solid;
+  border-color: var(--fpccharcoal);
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: 700px;
+  left: 0px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  top: 0px;
+}
+
+.header-1 .base-RYF2oC {
+  background: linear-gradient(180deg, rgb(91.00000217556953, 87.00000241398811, 202.00000315904617) 0%, rgb(59.00000028312206, 133.00000727176666, 244.0000006556511) 100%);
+  background-color: transparent;
+  box-shadow: inset -200px 250px 200px #5b57ca;
+  height: 700px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.header-1 .bg-RYF2oC {
+  background-color: transparent;
+  height: 700px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 350px);
+  width: 100%;
+}
+
+.header-1 .illostewardship-transparent-hands-RYF2oC {
+  background-color: transparent;
+  height: 920px;
+  left: calc(50.00% - 56px);
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: calc(50.00% - 332px);
+  width: 920px;
+}
+
+.header-1 .group-2bcArY {
+  background-color: transparent;
+  height: 79.03%;
+  left: 13.59%;
+  position: relative;
+  top: 14.24%;
+  width: 72.81%;
+}
+
+.header-1 .subtract-U27oUY {
+  background-color: transparent;
+  height: 551px;
+  left: calc(50.00% - 335px);
+  position: absolute;
+  top: calc(50.00% - 364px);
+  width: 651px;
+}
+
+.header-1 .right-hand-fingers-U27oUY {
+  background-color: transparent;
+  height: 399px;
+  left: 103px;
+  position: absolute;
+  top: 152px;
+  width: 242px;
+}
+
+.header-1 .left-hand-fingers-U27oUY {
+  background-color: transparent;
+  height: 293px;
+  left: 309px;
+  position: absolute;
+  top: 258px;
+  width: 246px;
+}
+
+.header-1 .mask-group-U27oUY {
+  background-color: transparent;
+  height: 411px;
+  left: 81px;
+  position: absolute;
+  top: 140px;
+  width: 504px;
+}
+
+.header-1 .navheader-RYF2oC {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-around;
+  padding: 30px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.header-1 .content-qWQVKH {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 16px 16px;
+  justify-content: space-between;
+}
+
+.header-1 .logo-lockup-CNKixT {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 13px;
+  position: relative;
+}
+
+.header-1 .logo-symbol-29Zjj8 {
+  background-color: transparent;
+  height: 55px;
+  position: relative;
+  width: 47.66314697265625px;
+}
+
+.header-1 .foundation-for-public-code-29Zjj8 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: 365.33685302734375px;
+}
+
+.header-1 .navigation-CNKixT {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 40px 20px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.header-1 .links-qzTlqq {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 20px 20px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.header-1 .public-code-0OZkVS {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.header-1 .public-product-orgs-0OZkVS {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.header-1 .the-standard-0OZkVS {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.header-1 .team-0OZkVS {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.header-1 .nav-button-0OZkVS {
+  align-items: flex-start;
+  background-color: var(--fpccharcoal);
+  border-radius: 6px;
+  box-shadow: 0px 4px 0px #00000026;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 8px 15px;
+  position: relative;
+}
+
+.header-1 .support-us-nxTPPx {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.header-1 .cluster-RYF2oC {
+  gap: 10px;
+  max-width: 1120px;
+  padding: 0px 20px;
+}
+
+.header-1 .cluster-n4uCuP {
+  gap: 55px;
+  max-width: 600px;
+}
+
+.header-1 .breadcrumbs-g32CXz {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.header-1 .home-B5fvVG {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.header-1 .text_label-B5fvVG {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.header-1 .layer-2-B5fvVG {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.header-1 .content-g32CXz {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  width: 100%;
+}
+
+.header-1 .title-c4uvFK {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--fpcwhite);
+  font-family: var(--font-family-mulish);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.header-1 .we-define-public-cod-c4uvFK {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--fpcwhite);
+  font-family: var(--font-family-mulish-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+}
+
+.header-1 .cluster {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.header-1 .content {
+  background-color: transparent;
+  display: flex;
+  position: relative;
+}
