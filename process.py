@@ -22,15 +22,12 @@ def updateFiles(patterns, path='.', ending='.html'):
 files_to_move = [
     (r'home-u40mobileu41.html', '/index.html'),
     (r'public-product-organizations-u40desktopu41-all-breakpoints.html', '/public-product-organizations.html'),
-    (r'the-standard-u40desktopu41.html', '/standard-for-public-code/index.html'),
-    (r'about-public-code-u40desktopu41.html', '/about.html'),
-    (r'who-we-are-member-u40desktopu41.html', '/who-we-are/index.html'),
+    (r'public-code-u40desktopu41-all-breakpoints.html', '/public-code.html'),
     (r'team-amy-darling-u40desktopu41-all-breakpoints.html', '/who-we-are/amy-darling.html'),
     (r'team-ben-cerveny-u40desktopu41-all-breakpoints.html', '/who-we-are/ben-cerveny.html'),
     (r'team-matthew-claudel-u40desktopu41-all-breakpoints.html', '/who-we-are/matthew-claudel.html'),
     (r'team-max-carlson-u40desktopu41-all-breakpoints.html', '/who-we-are/max-carlson.html'),
-    (r'team-u40desktopu41-all-breakpoints.html', '/who-we-are/team.html'),
-    (r'public-code-u40desktopu41-all-breakpoints.html', '/public-code.html'),
+    (r'team-u40desktopu41-all-breakpoints.html', '/who-we-are/index.html'),
 ]
 
 # URLs to replace
