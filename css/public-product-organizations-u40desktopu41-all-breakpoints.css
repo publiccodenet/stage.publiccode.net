@@ -40,8 +40,6 @@
   align-items: center;
   flex: 1;
   flex-grow: 1;
-  flex-wrap: wrap;
-  gap: 16px 16px;
   justify-content: space-between;
 }
 
@@ -348,110 +346,38 @@
 .public-product-organizations-u40desktopu41-all-breakpoints .cluster-EdphYu {
   align-self: stretch;
   flex: 0 0 auto;
-  gap: 10px;
+  gap: 20px;
   width: 100%;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .flex-container-40633125-Vtx43j {
+.public-product-organizations-u40desktopu41-all-breakpoints .frame-331-Vtx43j {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
   flex-direction: column;
-  gap: 20px;
-  min-width: 240px;
-  width: 353.3333435058594px;
-}
-
-.public-product-organizations-u40desktopu41-all-breakpoints .text0-40633125-JnUk28 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
+  gap: 10px;
   position: relative;
-  text-align: left;
+  width: 346.6666564941406px;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .span0-U34SXM {
-}
-
-.public-product-organizations-u40desktopu41-all-breakpoints .text1-40633125-JnUk28 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40desktopu41-all-breakpoints .span1-P9i4Uy {
-}
-
-.public-product-organizations-u40desktopu41-all-breakpoints .text2-40633125-JnUk28 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40desktopu41-all-breakpoints .span2-9N3n3L {
-}
-
-.public-product-organizations-u40desktopu41-all-breakpoints .text3-40633125-JnUk28 {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40desktopu41-all-breakpoints .span3-1G55kX {
-}
-
-.public-product-organizations-u40desktopu41-all-breakpoints .flex-container-40633126-Vtx43j {
+.public-product-organizations-u40desktopu41-all-breakpoints .frame-332-Vtx43j {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
   flex-direction: column;
-  gap: 20px;
-  min-width: 240px;
-  width: 353.33331298828125px;
-}
-
-.public-product-organizations-u40desktopu41-all-breakpoints .text0-40633126-SDmaZD {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
+  gap: 10px;
   position: relative;
-  text-align: left;
+  width: 346.66668701171875px;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .span0-VCKaxL {
-}
-
-.public-product-organizations-u40desktopu41-all-breakpoints .text1-40633126-SDmaZD {
-  align-self: stretch;
+.public-product-organizations-u40desktopu41-all-breakpoints .frame-333-Vtx43j {
+  align-items: flex-start;
   background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
   position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40desktopu41-all-breakpoints .span1-JOdwUw {
-}
-
-.public-product-organizations-u40desktopu41-all-breakpoints .generate-awareness-o-Vtx43j {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-  width: 353.33331298828125px;
+  width: 346.66668701171875px;
 }
 
 .public-product-organizations-u40desktopu41-all-breakpoints .divhoriz-KgGTd7 {
@@ -1838,7 +1764,7 @@
 }
 
 .public-product-organizations-u40tabletu41-1 .navheader-TKPBI8 {
-  align-items: flex-start;
+  align-items: center;
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -1853,8 +1779,6 @@
   align-items: center;
   flex: 1;
   flex-grow: 1;
-  flex-wrap: wrap;
-  gap: 20px 16px;
   justify-content: space-between;
 }
 
@@ -1865,15 +1789,11 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  height: 35px;
-  justify-content: space-around;
   position: relative;
 }
 
 .public-product-organizations-u40tabletu41-1 .logo-lockup-1ZIxqh {
   display: inline-flex;
-  margin-bottom: -2.50px;
-  margin-top: -2.50px;
 }
 
 .public-product-organizations-u40tabletu41-1 .foundation-for-public-code-7tOzRh {
@@ -2087,106 +2007,28 @@
   gap: 10px;
 }
 
-.public-product-organizations-u40tabletu41-1 .flex-container-445828862-AV8GD7 {
+.public-product-organizations-u40tabletu41-1 .frame-331-AV8GD7 {
   align-items: flex-start;
+  align-self: stretch;
   background-color: transparent;
   display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
-  gap: 20px;
-  min-width: 240px;
-}
-
-.public-product-organizations-u40tabletu41-1 .text0-445828862-e2raGt {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
+  gap: 10px;
   position: relative;
-  text-align: left;
+  width: 100%;
 }
 
-.public-product-organizations-u40tabletu41-1 .span0-HboVcN {
-}
-
-.public-product-organizations-u40tabletu41-1 .text1-445828862-e2raGt {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40tabletu41-1 .span1-svsjsA {
-}
-
-.public-product-organizations-u40tabletu41-1 .text2-445828862-e2raGt {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40tabletu41-1 .span2-U5xg0q {
-}
-
-.public-product-organizations-u40tabletu41-1 .text3-445828862-e2raGt {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40tabletu41-1 .span3-6T8BGG {
-}
-
-.public-product-organizations-u40tabletu41-1 .text4-445828862-e2raGt {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40tabletu41-1 .span4-V9ICsx {
-}
-
-.public-product-organizations-u40tabletu41-1 .flex-container-445828863-AV8GD7 {
+.public-product-organizations-u40tabletu41-1 .frame-333-AV8GD7 {
   align-items: flex-start;
+  align-self: stretch;
   background-color: transparent;
   display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
-  gap: 20px;
-  min-width: 240px;
-}
-
-.public-product-organizations-u40tabletu41-1 .text0-445828863-FYQiRe {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
+  gap: 10px;
   position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40tabletu41-1 .span0-4vq9Q2 {
-}
-
-.public-product-organizations-u40tabletu41-1 .text1-445828863-FYQiRe {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40tabletu41-1 .span1-9eKSBP {
+  width: 100%;
 }
 
 .public-product-organizations-u40tabletu41-1 .divhoriz-3eP3o0 {
@@ -3514,11 +3356,11 @@
 }
 
 .public-product-organizations-u40tabletu41-2 .navheader-B3zJd6 {
-  align-items: flex-start;
+  align-items: center;
   align-self: stretch;
   background-color: transparent;
   display: flex;
-  flex: 0 0 auto;
+  height: 95px;
   justify-content: space-around;
   padding: 30px;
   position: relative;
@@ -3526,11 +3368,12 @@
 }
 
 .public-product-organizations-u40tabletu41-2 .content-oqVDGX {
-  align-items: flex-start;
+  align-items: center;
   flex: 1;
   flex-grow: 1;
-  flex-wrap: wrap;
-  gap: 20px 16px;
+  gap: 20px;
+  margin-bottom: -2.50px;
+  margin-top: -2.50px;
 }
 
 .public-product-organizations-u40tabletu41-2 .logo-iMIitZ {
@@ -3540,15 +3383,11 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  height: 35px;
-  justify-content: space-around;
   position: relative;
 }
 
 .public-product-organizations-u40tabletu41-2 .logo-lockup-KsVwUV {
   display: inline-flex;
-  margin-bottom: -2.50px;
-  margin-top: -2.50px;
 }
 
 .public-product-organizations-u40tabletu41-2 .logo-symbol-gnfQMG {
@@ -3568,7 +3407,7 @@
   flex: 1;
   flex-grow: 1;
   flex-wrap: wrap;
-  gap: 15px 15px;
+  gap: 20px 20px;
   justify-content: flex-end;
   min-width: 10px;
   padding: 2px 0px;
@@ -3846,108 +3685,24 @@
   width: 100%;
 }
 
-.public-product-organizations-u40tabletu41-2 .flex-container-445827704-xR7FxK {
+.public-product-organizations-u40tabletu41-2 .frame-331-xR7FxK {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
   flex-direction: column;
-  gap: 20px;
-  min-width: 240px;
+  gap: 10px;
+  position: relative;
   width: 385px;
 }
 
-.public-product-organizations-u40tabletu41-2 .text0-445827704-ESoCFW {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40tabletu41-2 .span0-aRNRpH {
-}
-
-.public-product-organizations-u40tabletu41-2 .text1-445827704-ESoCFW {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40tabletu41-2 .span1-w8GGjd {
-}
-
-.public-product-organizations-u40tabletu41-2 .text2-445827704-ESoCFW {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40tabletu41-2 .span2-UUiTtx {
-}
-
-.public-product-organizations-u40tabletu41-2 .text3-445827704-ESoCFW {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40tabletu41-2 .span3-Ii6Xxt {
-}
-
-.public-product-organizations-u40tabletu41-2 .text4-445827704-ESoCFW {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40tabletu41-2 .span4-jUWmBW {
-}
-
-.public-product-organizations-u40tabletu41-2 .flex-container-445827706-xR7FxK {
+.public-product-organizations-u40tabletu41-2 .frame-333-xR7FxK {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
   flex-direction: column;
-  gap: 20px;
-  min-width: 240px;
+  gap: 10px;
+  position: relative;
   width: 385px;
-}
-
-.public-product-organizations-u40tabletu41-2 .text0-445827706-PronAV {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40tabletu41-2 .span0-0ZaXqT {
-}
-
-.public-product-organizations-u40tabletu41-2 .text1-445827706-PronAV {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: relative;
-  text-align: left;
-}
-
-.public-product-organizations-u40tabletu41-2 .span1-4HjrWR {
 }
 
 .public-product-organizations-u40tabletu41-2 .divhoriz-H1y2Vx {

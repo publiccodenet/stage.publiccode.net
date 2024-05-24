@@ -43,8 +43,6 @@
 .public-code-u40desktopu41-all-breakpoints .content-IYmj8o {
   flex: 1;
   flex-grow: 1;
-  flex-wrap: wrap;
-  gap: 16px 16px;
   justify-content: space-between;
 }
 
@@ -984,6 +982,14 @@
   width: 47.66314697265625px;
 }
 
+.public-code-u40desktopu41-all-breakpoints .public-code {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
 .public-code-u40desktopu41-all-breakpoints .section-1 {
   align-items: flex-start;
   align-self: stretch;
@@ -1030,7 +1036,7 @@
 }
 
 .public-code-u40mobileu41 .navheader-KKn1pF {
-  align-items: flex-start;
+  align-items: center;
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -1042,10 +1048,9 @@
 }
 
 .public-code-u40mobileu41 .content-WZVqrp {
+  cursor: pointer;
   flex: 1;
   flex-grow: 1;
-  flex-wrap: wrap;
-  gap: 20px 16px;
   justify-content: space-between;
 }
 
@@ -1056,15 +1061,11 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  height: 35px;
-  justify-content: space-around;
   position: relative;
 }
 
 .public-code-u40mobileu41 .logo-lockup-FMM4rc {
   display: inline-flex;
-  margin-bottom: -2.50px;
-  margin-top: -2.50px;
 }
 
 .public-code-u40mobileu41 .foundation-for-public-code-itkQw6 {
@@ -1947,7 +1948,7 @@
 }
 
 .public-code-u40tabletu41 .navheader-uupNUG {
-  align-items: flex-start;
+  align-items: center;
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -1959,11 +1960,9 @@
 }
 
 .public-code-u40tabletu41 .content-xbJgMw {
-  align-items: flex-start;
   flex: 1;
   flex-grow: 1;
-  flex-wrap: wrap;
-  gap: 20px 16px;
+  gap: 20px;
 }
 
 .public-code-u40tabletu41 .logo-DeoqFL {
@@ -1973,15 +1972,11 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  height: 35px;
-  justify-content: space-around;
   position: relative;
 }
 
 .public-code-u40tabletu41 .logo-lockup-LS1Bg6 {
   display: inline-flex;
-  margin-bottom: -2.50px;
-  margin-top: -2.50px;
 }
 
 .public-code-u40tabletu41 .logo-symbol-2KpDpQ {
@@ -2001,7 +1996,7 @@
   flex: 1;
   flex-grow: 1;
   flex-wrap: wrap;
-  gap: 15px 15px;
+  gap: 20px 20px;
   justify-content: flex-end;
   min-width: 10px;
   padding: 2px 0px;
@@ -2203,7 +2198,6 @@
 }
 
 .public-code-u40tabletu41 .content-wVn9iF {
-  align-items: center;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 40px;
@@ -2592,7 +2586,6 @@
 }
 
 .public-code-u40tabletu41 .content-vrrbBu {
-  align-items: center;
   align-self: stretch;
   flex: 0 0 auto;
   flex-direction: column;
@@ -2896,6 +2889,7 @@
 }
 
 .public-code-u40tabletu41 .content {
+  align-items: center;
   background-color: transparent;
   display: flex;
   position: relative;
@@ -2921,6 +2915,14 @@
   position: relative;
 }
 
+.public-code-u40tabletu41 .public-code {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
 .public-code-u40tabletu41 .section-1 {
   align-items: flex-start;
   align-self: stretch;
@@ -2937,18 +2939,18 @@
   position: relative;
 }
 @media screen and (max-width: 839px) {
-  .screen.public-code-u40tabletu41 { 
+  .screen.public-code-u40desktopu41-all-breakpoints { 
     display: none;
    }
-  .screen.public-code-u40desktopu41-all-breakpoints { 
+  .screen.public-code-u40tabletu41 { 
     display: none;
    }
 }
 @media screen and (min-width: 840px) and (max-width: 1139px) {
-  .screen.public-code-u40mobileu41 { 
+  .screen.public-code-u40desktopu41-all-breakpoints { 
     display: none;
    }
-  .screen.public-code-u40desktopu41-all-breakpoints { 
+  .screen.public-code-u40mobileu41 { 
     display: none;
    }
 }

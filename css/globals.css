@@ -1,8 +1,14 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
-@import url("https://fonts.googleapis.com/css?family=Mulish:700,400italic,600,400|IBM+Plex+Serif:400,400italic");
+@import url("https://fonts.googleapis.com/css?family=Mulish:400italic,400,600,500,700|Xanh+Mono:400,400italic|IBM+Plex+Serif:400,400italic|Cormorant+Garamond:600italic,600|Playfair+Display:400,400italic");
 /* The following line is used to measure usage of this code. You can remove it if you want. */
 
 
+@font-face {
+  font-family: "Bressay-Italic";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/.26929.otf") format("opentype");
+}
 
 
 .screen textarea:focus,
@@ -68,6 +74,12 @@
   justify-content: center;
 }
 
+.valign-text-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
 .hidden,
 .hidden * {
   pointer-events: none;
@@ -87,6 +99,16 @@
   position: relative;
 }
 
+.persons-name {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
 .text_label {
   background-color: transparent;
   letter-spacing: 0.00px;
@@ -97,45 +119,13 @@
   width: fit-content;
 }
 
-.attrportraits {
-  background-color: transparent;
-  border-radius: 80px;
-  height: 80px;
-  position: relative;
-  width: 80.00028228759766px;
-}
-
-.governance-game {
-  align-self: stretch;
-  position: relative;
-}
-
-.main {
-  align-items: flex-start;
+.title {
   align-self: stretch;
   background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 15px;
+  letter-spacing: 0.00px;
+  line-height: normal;
   position: relative;
-  width: 100%;
-}
-
-.process-codes {
-  align-self: stretch;
-  position: relative;
-}
-
-.rim {
-  background-color: transparent;
-  border: 3.999985456466675px solid;
-  border-radius: 44px;
-  height: 110.00%;
-  left: -5.00%;
-  position: absolute;
-  top: -5.00%;
-  width: 110.00%;
+  text-align: left;
 }
 
 .first-last {
@@ -169,37 +159,40 @@
   position: relative;
 }
 
-.persons-name {
-  align-self: stretch;
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: left;
-}
-
 .teamphotosv4 {
   background-color: transparent;
   height: 96px;
   width: 96px;
 }
 
-.title {
-  align-self: stretch;
+.attrportraits {
   background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
+  border-radius: 80px;
+  height: 80px;
   position: relative;
-  text-align: left;
+  width: 80.00028228759766px;
 }
 
-.public-code {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
+.governance-game {
+  align-self: stretch;
   position: relative;
-  text-align: left;
+}
+
+.main {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.process-codes {
+  align-self: stretch;
+  position: relative;
 }
 
 .a-forming-network-of {
@@ -211,6 +204,26 @@
   text-align: left;
 }
 
+.build-sustainable-fi {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.bullet {
+  background-color: transparent;
+  border: 1.5px solid;
+  border-color: var(--fpcblack);
+  border-radius: 4px;
+  height: 8px;
+  position: relative;
+  width: 8px;
+}
+
 .creator {
   align-self: stretch;
   background-color: transparent;
@@ -219,6 +232,17 @@
   margin-top: -1.00px;
   position: relative;
   text-align: left;
+}
+
+.frame {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: 24px;
+  justify-content: center;
+  position: relative;
+  width: 24px;
 }
 
 .initiator {
@@ -248,6 +272,17 @@
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
+  gap: 5px;
+  position: relative;
+  width: 100%;
+}
+
+.list-item {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
   gap: 5px;
   position: relative;
   width: 100%;

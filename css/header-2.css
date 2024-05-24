@@ -61,8 +61,6 @@
   align-items: center;
   flex: 1;
   flex-grow: 1;
-  flex-wrap: wrap;
-  gap: 16px 16px;
   justify-content: space-between;
 }
 

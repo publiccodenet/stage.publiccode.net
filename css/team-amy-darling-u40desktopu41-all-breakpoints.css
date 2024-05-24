@@ -41,8 +41,6 @@
   align-items: center;
   flex: 1;
   flex-grow: 1;
-  flex-wrap: wrap;
-  gap: 16px 16px;
   justify-content: space-between;
 }
 
@@ -680,7 +678,7 @@
 }
 
 .team-amy-darling-u40mobileu41 .navheader-W2AWbW {
-  align-items: flex-start;
+  align-items: center;
   align-self: stretch;
   background-color: var(--fpcwhite);
   display: flex;
@@ -695,8 +693,6 @@
   align-items: center;
   flex: 1;
   flex-grow: 1;
-  flex-wrap: wrap;
-  gap: 20px 16px;
   justify-content: space-between;
 }
 
@@ -707,15 +703,11 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  height: 35px;
-  justify-content: space-around;
   position: relative;
 }
 
 .team-amy-darling-u40mobileu41 .logo-lockup-DgaCKf {
   display: inline-flex;
-  margin-bottom: -2.50px;
-  margin-top: -2.50px;
 }
 
 .team-amy-darling-u40mobileu41 .foundation-for-public-code-eulwEO {
@@ -726,6 +718,7 @@
   align-items: flex-start;
   background-color: var(--fpcgrey-e5);
   border-radius: 30px;
+  cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -1290,11 +1283,11 @@
 }
 
 .team-amy-darling-u40tabletu41 .navheader-8tnxAf {
-  align-items: flex-start;
+  align-items: center;
   align-self: stretch;
   background-color: var(--fpcwhite);
   display: flex;
-  flex: 0 0 auto;
+  height: 95px;
   justify-content: space-around;
   padding: 30px;
   position: relative;
@@ -1302,11 +1295,12 @@
 }
 
 .team-amy-darling-u40tabletu41 .content-1HThlp {
-  align-items: flex-start;
+  align-items: center;
   flex: 1;
   flex-grow: 1;
-  flex-wrap: wrap;
-  gap: 20px 16px;
+  gap: 20px;
+  margin-bottom: -2.50px;
+  margin-top: -2.50px;
 }
 
 .team-amy-darling-u40tabletu41 .logo-re7vTO {
@@ -1316,15 +1310,11 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  height: 35px;
-  justify-content: space-around;
   position: relative;
 }
 
 .team-amy-darling-u40tabletu41 .logo-lockup-xmuyAc {
   display: inline-flex;
-  margin-bottom: -2.50px;
-  margin-top: -2.50px;
 }
 
 .team-amy-darling-u40tabletu41 .logo-symbol-pzz7zW {
@@ -1344,7 +1334,7 @@
   flex: 1;
   flex-grow: 1;
   flex-wrap: wrap;
-  gap: 15px 15px;
+  gap: 20px 20px;
   justify-content: flex-end;
   min-width: 10px;
   padding: 2px 0px;
@@ -1931,18 +1921,18 @@
   position: relative;
 }
 @media screen and (max-width: 839px) {
-  .screen.team-amy-darling-u40desktopu41-all-breakpoints { 
+  .screen.team-amy-darling-u40tabletu41 { 
     display: none;
    }
-  .screen.team-amy-darling-u40tabletu41 { 
+  .screen.team-amy-darling-u40desktopu41-all-breakpoints { 
     display: none;
    }
 }
 @media screen and (min-width: 840px) and (max-width: 1139px) {
-  .screen.team-amy-darling-u40desktopu41-all-breakpoints { 
+  .screen.team-amy-darling-u40mobileu41 { 
     display: none;
    }
-  .screen.team-amy-darling-u40mobileu41 { 
+  .screen.team-amy-darling-u40desktopu41-all-breakpoints { 
     display: none;
    }
 }

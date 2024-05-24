@@ -108,8 +108,6 @@
   align-items: center;
   flex: 1;
   flex-grow: 1;
-  flex-wrap: wrap;
-  gap: 16px 16px;
   justify-content: space-between;
 }
 
@@ -308,7 +306,7 @@
   align-self: stretch;
   background-color: transparent;
   color: var(--fpcwhite);
-  font-family: var(--font-family-mulish-medium);
+  font-family: var(--font-family-mulish);
   font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 500;
