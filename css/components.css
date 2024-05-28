@@ -631,7 +631,7 @@
   width: 100.00%;
 }
 
-.components .rim-GRDUzu {
+.components .rim-stroke-GRDUzu {
   height: 110.00%;
   left: -5.00%;
   top: -5.00%;
@@ -765,7 +765,7 @@
 }
 
 .components .nav-button-oaJkje {
-  padding: 6px 12px;
+  padding: 6px 12px 7px;
 }
 
 .components .property-1v3-tablet-light-ELThK1 {
@@ -817,7 +817,7 @@
 }
 
 .components .nav-button-69QxK8 {
-  padding: 6px 12px;
+  padding: 6px 12px 7px;
 }
 
 .components .property-1v3-mobile-dark-ELThK1 {
@@ -972,7 +972,7 @@
 }
 
 .components .nav-button-fnEHRu {
-  padding: 8px 15px;
+  padding: 8px 15px 9px;
 }
 
 .components .property-1v3-desktop-light-ELThK1 {
@@ -1019,7 +1019,7 @@
 }
 
 .components .nav-button-p7Aevy {
-  padding: 8px 15px;
+  padding: 8px 15px 9px;
 }
 
 .components .logomastodon-9lf4qE {
@@ -1132,7 +1132,7 @@
   width: 90.91%;
 }
 
-.components .rim-rbe0gb {
+.components .rim-stroke-rbe0gb {
   height: 100.00%;
   left: -4.55%;
   top: -4.55%;
@@ -1216,7 +1216,7 @@
   width: 90.91%;
 }
 
-.components .rim-JxQMIK {
+.components .rim-stroke-JxQMIK {
   height: 100.00%;
   left: -4.55%;
   top: -4.55%;
@@ -1304,7 +1304,7 @@
   width: 100.00%;
 }
 
-.components .rim-AQDrGF {
+.components .rim-stroke-AQDrGF {
   height: 110.00%;
   left: -5.00%;
   top: -5.00%;
@@ -1392,7 +1392,7 @@
   width: 100.00%;
 }
 
-.components .rim-ErMe7t {
+.components .rim-stroke-ErMe7t {
   height: 110.00%;
   left: -5.00%;
   top: -5.00%;
@@ -1476,7 +1476,7 @@
   width: 90.91%;
 }
 
-.components .rim-3FVS74 {
+.components .rim-stroke-3FVS74 {
   height: 100.00%;
   left: -4.55%;
   top: -4.55%;
@@ -1563,7 +1563,7 @@
   width: 90.91%;
 }
 
-.components .rim-WUFFWZ {
+.components .rim-stroke-WUFFWZ {
   height: 100.00%;
   left: -4.55%;
   top: -4.55%;
@@ -4092,11 +4092,8 @@
   width: 20px;
 }
 
-.components .rim {
+.components .rim-stroke {
   background-color: transparent;
-  border: 3.999985456466675px solid;
-  border-color: var(--fpcpurple);
-  border-radius: 44px;
   position: absolute;
 }
 

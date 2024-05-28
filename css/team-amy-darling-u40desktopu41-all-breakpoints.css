@@ -125,7 +125,7 @@
   flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  padding: 8px 15px;
+  padding: 8px 15px 9px;
   position: relative;
 }
 
@@ -1391,7 +1391,7 @@
   flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  padding: 6px 12px;
+  padding: 6px 12px 7px;
   position: relative;
 }
 
@@ -1937,10 +1937,10 @@
    }
 }
 @media screen and (min-width: 1140px) {
-  .screen.team-amy-darling-u40tabletu41 { 
+  .screen.team-amy-darling-u40mobileu41 { 
     display: none;
    }
-  .screen.team-amy-darling-u40mobileu41 { 
+  .screen.team-amy-darling-u40tabletu41 { 
     display: none;
    }
 }

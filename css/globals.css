@@ -1,5 +1,5 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
-@import url("https://fonts.googleapis.com/css?family=Mulish:400italic,400,600,500,700|Xanh+Mono:400,400italic|IBM+Plex+Serif:400,400italic|Cormorant+Garamond:600italic,600|Playfair+Display:400,400italic");
+@import url("https://fonts.googleapis.com/css?family=Mulish:700,400italic,600,400|Xanh+Mono:400,400italic|IBM+Plex+Serif:400,400italic|Cormorant+Garamond:600italic,600|Playfair+Display:400,400italic");
 /* The following line is used to measure usage of this code. You can remove it if you want. */
 
 
@@ -96,6 +96,11 @@
   cursor: pointer;
   flex: 0 0 auto;
   gap: 13px;
+  position: relative;
+}
+
+.text {
+  background-color: transparent;
   position: relative;
 }
 
@@ -306,17 +311,10 @@
   width: 2px;
 }
 
-.frame-302 {
-  align-items: center;
+.gallery {
   align-self: stretch;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
   display: flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  justify-content: center;
-  padding: 30px;
   position: relative;
   width: 100%;
 }

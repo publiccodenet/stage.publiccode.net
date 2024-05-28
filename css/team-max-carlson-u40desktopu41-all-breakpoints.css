@@ -125,7 +125,7 @@
   flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  padding: 8px 15px;
+  padding: 8px 15px 9px;
   position: relative;
 }
 
@@ -1393,7 +1393,7 @@
   flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  padding: 6px 12px;
+  padding: 6px 12px 7px;
   position: relative;
 }
 

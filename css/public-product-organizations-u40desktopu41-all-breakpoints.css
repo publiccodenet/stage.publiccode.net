@@ -124,7 +124,7 @@
   flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  padding: 8px 15px;
+  padding: 8px 15px 9px;
   position: relative;
 }
 
@@ -954,19 +954,14 @@
   width: fit-content;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .frame-296-I99vv3 {
+.public-product-organizations-u40desktopu41-all-breakpoints .gallery-I99vv3 {
   align-items: flex-start;
-  align-self: stretch;
   background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
   gap: 29.39167594909668px;
   justify-content: flex-end;
-  position: relative;
-  width: 100%;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .image-1-IRzr5D {
+.public-product-organizations-u40desktopu41-all-breakpoints .diia_01-TwIj3W {
   background-color: transparent;
   height: 520px;
   object-fit: cover;
@@ -1123,20 +1118,17 @@
   width: fit-content;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .frame-318-DuyXSX {
+.public-product-organizations-u40desktopu41-all-breakpoints .gallery-3FzGST {
   align-items: center;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 20px 20px;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  flex-direction: column;
+  gap: 10px;
   justify-content: center;
-  position: relative;
-  width: 100%;
+  padding: 30px;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .notify_01-gvFmSj {
+.public-product-organizations-u40desktopu41-all-breakpoints .notify_01-mqcmb5 {
   background-color: transparent;
   height: 549.748046875px;
   object-fit: cover;
@@ -1350,7 +1342,17 @@
   width: fit-content;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .image-4-12-24-at-6-1-lYBq9v {
+.public-product-organizations-u40desktopu41-all-breakpoints .gallery-Sms0v9 {
+  align-items: center;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 30px;
+}
+
+.public-product-organizations-u40desktopu41-all-breakpoints .amsterdam-map-uWq6d1 {
   background-color: transparent;
   height: 358.97412109375px;
   object-fit: cover;
@@ -1726,7 +1728,7 @@
   width: 47.66314697265625px;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .section-1 {
+.public-product-organizations-u40desktopu41-all-breakpoints .section {
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -1735,11 +1737,6 @@
   gap: 40px;
   position: relative;
   width: 100%;
-}
-
-.public-product-organizations-u40desktopu41-all-breakpoints .text {
-  background-color: transparent;
-  position: relative;
 }
 /* screen - public-product-organizations-u40tabletu41-1 */
 
@@ -2429,8 +2426,10 @@
 
 .public-product-organizations-u40tabletu41-1 .diia-u0hadx {
   align-self: stretch;
+  background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
+  position: relative;
   text-align: left;
 }
 
@@ -2549,9 +2548,17 @@
   width: fit-content;
 }
 
-.public-product-organizations-u40tabletu41-1 .diia-oiNwS8 {
+.public-product-organizations-u40tabletu41-1 .proportional-image-u0hadx {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+}
+
+.public-product-organizations-u40tabletu41-1 .diia_01-hW5KDy {
+  background-color: transparent;
   height: 122.35302734375px;
   object-fit: cover;
+  position: relative;
   width: 240px;
 }
 
@@ -2698,7 +2705,18 @@
   width: fit-content;
 }
 
-.public-product-organizations-u40tabletu41-1 .notify-X0y9z1 {
+.public-product-organizations-u40tabletu41-1 .proportional-image-YdNRhJ {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  width: 100%;
+}
+
+.public-product-organizations-u40tabletu41-1 .notify-6cDKA6 {
   height: 125.98388671875px;
   object-fit: cover;
   width: 220px;
@@ -2904,7 +2922,18 @@
   width: fit-content;
 }
 
-.public-product-organizations-u40tabletu41-1 .pgs-y042Ai {
+.public-product-organizations-u40tabletu41-1 .proportional-image-VAHR4Q {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  width: 100%;
+}
+
+.public-product-organizations-u40tabletu41-1 .amsterdam-map-anuQZi {
   background-color: transparent;
   height: 82.2646484375px;
   object-fit: cover;
@@ -3255,11 +3284,6 @@
   position: relative;
 }
 
-.public-product-organizations-u40tabletu41-1 .diia {
-  background-color: transparent;
-  position: relative;
-}
-
 .public-product-organizations-u40tabletu41-1 .divhoriz {
   align-self: stretch;
   background-color: var(--fpccharcoal);
@@ -3287,21 +3311,6 @@
   width: 100%;
 }
 
-.public-product-organizations-u40tabletu41-1 .image-frame {
-  align-items: center;
-  align-self: stretch;
-  background-color: var(--fpcgrey-f2);
-  border-radius: 12px;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  justify-content: center;
-  padding: 10px;
-  position: relative;
-  width: 100%;
-}
-
 .public-product-organizations-u40tabletu41-1 .logo-symbol {
   background-color: transparent;
   height: 40px;
@@ -3314,7 +3323,14 @@
   position: relative;
 }
 
-.public-product-organizations-u40tabletu41-1 .section-1 {
+.public-product-organizations-u40tabletu41-1 .proportional-image {
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.public-product-organizations-u40tabletu41-1 .section {
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -3323,11 +3339,6 @@
   gap: 20px;
   position: relative;
   width: 100%;
-}
-
-.public-product-organizations-u40tabletu41-1 .text {
-  background-color: transparent;
-  position: relative;
 }
 /* screen - public-product-organizations-u40tabletu41-2 */
 
@@ -3464,7 +3475,7 @@
   flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  padding: 6px 12px;
+  padding: 6px 12px 7px;
   position: relative;
 }
 
@@ -4279,19 +4290,14 @@
   width: fit-content;
 }
 
-.public-product-organizations-u40tabletu41-2 .frame-296-Mkig1t {
+.public-product-organizations-u40tabletu41-2 .gallery-Mkig1t {
   align-items: flex-start;
-  align-self: stretch;
   background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
   gap: 29.39167594909668px;
   justify-content: flex-end;
-  position: relative;
-  width: 100%;
 }
 
-.public-product-organizations-u40tabletu41-2 .image-1-rHu1ZV {
+.public-product-organizations-u40tabletu41-2 .diia_01-W8cooy {
   background-color: transparent;
   height: 367.058837890625px;
   object-fit: cover;
@@ -4448,20 +4454,17 @@
   width: fit-content;
 }
 
-.public-product-organizations-u40tabletu41-2 .frame-318-BTNdvV {
+.public-product-organizations-u40tabletu41-2 .gallery-B9iLzY {
   align-items: center;
-  align-self: stretch;
-  background-color: transparent;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 20px 20px;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  flex-direction: column;
+  gap: 10px;
   justify-content: center;
-  position: relative;
-  width: 100%;
+  padding: 30px;
 }
 
-.public-product-organizations-u40tabletu41-2 .notify_01-0Yb2P0 {
+.public-product-organizations-u40tabletu41-2 .notify_01-0xQ5TN {
   background-color: transparent;
   height: 377.95166015625px;
   object-fit: cover;
@@ -4675,7 +4678,17 @@
   width: fit-content;
 }
 
-.public-product-organizations-u40tabletu41-2 .image-4-12-24-at-6-1-Y46QVB {
+.public-product-organizations-u40tabletu41-2 .gallery-LrriEh {
+  align-items: center;
+  background-color: var(--fpcgrey-f2);
+  border-radius: 12px;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 30px;
+}
+
+.public-product-organizations-u40tabletu41-2 .amsterdam-map-tRLRIV {
   background-color: transparent;
   height: 246.794921875px;
   object-fit: cover;
@@ -5054,7 +5067,7 @@
   position: relative;
 }
 
-.public-product-organizations-u40tabletu41-2 .section-1 {
+.public-product-organizations-u40tabletu41-2 .section {
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -5063,11 +5076,6 @@
   gap: 30px;
   position: relative;
   width: 100%;
-}
-
-.public-product-organizations-u40tabletu41-2 .text {
-  background-color: transparent;
-  position: relative;
 }
 @media screen and (max-width: 839px) {
   .screen.public-product-organizations-u40tabletu41-2 { 

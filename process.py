@@ -52,7 +52,8 @@ html_patterns = [
     <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
     <meta name="viewport" content="width=1440, maximum-scale=1.0" />
     <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />""","""    <meta name="viewport" content="width=1440, maximum-scale=1.0" />"""),
-(r"""  </body>""","""    <script src="/collapsible.js"></script>
+(r"""  </body>""","""    <link rel="stylesheet" type="text/css" href="/overrides.css" />
+    <script src="/collapsible.js"></script>
   </body>"""),
 (r"""  </head>""", """
     <link rel="icon" href="https://brand.publiccode.net/logo/mark-128w128h.png">

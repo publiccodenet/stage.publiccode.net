@@ -125,7 +125,7 @@
   flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  padding: 8px 15px;
+  padding: 8px 15px 9px;
   position: relative;
 }
 
@@ -1369,7 +1369,7 @@
   flex: 0 0 auto;
   gap: 10px;
   justify-content: flex-end;
-  padding: 6px 12px;
+  padding: 6px 12px 7px;
   position: relative;
 }
 
@@ -1888,10 +1888,10 @@
   position: relative;
 }
 @media screen and (max-width: 839px) {
-  .screen.team-ben-cerveny-u40desktopu41-all-breakpoints { 
+  .screen.team-ben-cerveny-u40tabletu41 { 
     display: none;
    }
-  .screen.team-ben-cerveny-u40tabletu41 { 
+  .screen.team-ben-cerveny-u40desktopu41-all-breakpoints { 
     display: none;
    }
 }
