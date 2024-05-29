@@ -6,7 +6,6 @@
   display: flex;
   flex-direction: column;
   gap: 60px;
-  height: 3241px;
   left: 0px;
   min-width: 1140px;
   overflow: hidden;
@@ -1528,7 +1527,7 @@
   width: 215px;
 }
 
-.team-u40desktopu41-all-breakpoints .section {
+.team-u40desktopu41-all-breakpoints .section-1 {
   align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
@@ -1548,7 +1547,7 @@
   border-radius: 6px;
   display: flex;
   flex-direction: column;
-  height: 395.0008239746094px;
+  height: 380.00079345703125px;
   justify-content: space-between;
   max-width: 254.9994659423828px;
   padding: 19.999958038330078px;
@@ -1677,6 +1676,7 @@
 
 .team-u40mobileu41 .home-et9oEY {
   background-color: transparent;
+  cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
@@ -3082,7 +3082,7 @@
   width: 150px;
 }
 
-.team-u40mobileu41 .section {
+.team-u40mobileu41 .section-1 {
   align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
@@ -4700,7 +4700,7 @@
   width: 206px;
 }
 
-.team-u40tabletu41 .section {
+.team-u40tabletu41 .section-1 {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -4719,7 +4719,7 @@
   display: inline-flex;
   flex: 0 0 auto;
   flex-direction: column;
-  height: 395.0008239746094px;
+  height: 370.0007629394531px;
   justify-content: space-between;
   max-width: 245.99948120117188px;
   padding: 19.999958038330078px;

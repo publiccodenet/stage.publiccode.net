@@ -90,17 +90,17 @@
   box-sizing: border-box;
 }
 
+.logo {
+  background-color: transparent;
+  position: relative;
+}
+
 .logo-lockup {
   align-items: center;
   background-color: transparent;
   cursor: pointer;
   flex: 0 0 auto;
   gap: 13px;
-  position: relative;
-}
-
-.text {
-  background-color: transparent;
   position: relative;
 }
 
@@ -131,6 +131,11 @@
   line-height: normal;
   position: relative;
   text-align: left;
+}
+
+.text {
+  background-color: transparent;
+  position: relative;
 }
 
 .first-last {

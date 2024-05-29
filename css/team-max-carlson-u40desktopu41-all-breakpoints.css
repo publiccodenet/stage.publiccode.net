@@ -773,6 +773,7 @@
 
 .team-max-carlson-u40mobileu41 .home-tlqTzM {
   background-color: transparent;
+  cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
@@ -1924,10 +1925,10 @@
   position: relative;
 }
 @media screen and (max-width: 839px) {
-  .screen.team-max-carlson-u40tabletu41 { 
+  .screen.team-max-carlson-u40desktopu41-all-breakpoints { 
     display: none;
    }
-  .screen.team-max-carlson-u40desktopu41-all-breakpoints { 
+  .screen.team-max-carlson-u40tabletu41 { 
     display: none;
    }
 }

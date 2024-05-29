@@ -1728,7 +1728,7 @@
   width: 47.66314697265625px;
 }
 
-.public-product-organizations-u40desktopu41-all-breakpoints .section {
+.public-product-organizations-u40desktopu41-all-breakpoints .section-1 {
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -1856,6 +1856,7 @@
 
 .public-product-organizations-u40tabletu41-1 .home-Pir6Ym {
   background-color: transparent;
+  cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
@@ -2549,9 +2550,7 @@
 }
 
 .public-product-organizations-u40tabletu41-1 .proportional-image-u0hadx {
-  align-items: flex-end;
   background-color: transparent;
-  display: inline-flex;
 }
 
 .public-product-organizations-u40tabletu41-1 .diia_01-hW5KDy {
@@ -2706,14 +2705,9 @@
 }
 
 .public-product-organizations-u40tabletu41-1 .proportional-image-YdNRhJ {
-  align-items: center;
-  align-self: stretch;
   background-color: var(--fpcgrey-f2);
   border-radius: 8px;
-  display: flex;
-  justify-content: center;
   padding: 10px;
-  width: 100%;
 }
 
 .public-product-organizations-u40tabletu41-1 .notify-6cDKA6 {
@@ -2923,19 +2917,14 @@
 }
 
 .public-product-organizations-u40tabletu41-1 .proportional-image-VAHR4Q {
-  align-items: center;
-  align-self: stretch;
   background-color: var(--fpcgrey-f2);
   border-radius: 8px;
-  display: flex;
-  justify-content: center;
   padding: 10px;
-  width: 100%;
 }
 
 .public-product-organizations-u40tabletu41-1 .amsterdam-map-anuQZi {
   background-color: transparent;
-  height: 82.2646484375px;
+  height: 125px;
   object-fit: cover;
   position: relative;
   width: 220px;
@@ -3324,13 +3313,18 @@
 }
 
 .public-product-organizations-u40tabletu41-1 .proportional-image {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
+  justify-content: center;
   position: relative;
+  width: 100%;
 }
 
-.public-product-organizations-u40tabletu41-1 .section {
+.public-product-organizations-u40tabletu41-1 .section-1 {
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -5067,7 +5061,7 @@
   position: relative;
 }
 
-.public-product-organizations-u40tabletu41-2 .section {
+.public-product-organizations-u40tabletu41-2 .section-1 {
   align-self: stretch;
   background-color: transparent;
   display: flex;

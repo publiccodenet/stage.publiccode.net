@@ -990,7 +990,7 @@
   text-align: left;
 }
 
-.public-code-u40desktopu41-all-breakpoints .section {
+.public-code-u40desktopu41-all-breakpoints .section-1 {
   align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
@@ -1128,6 +1128,7 @@
 .public-code-u40mobileu41 .home-wAxmqD {
   background-color: transparent;
   color: var(--fpcwhite);
+  cursor: pointer;
   font-family: var(--font-family-mulish);
   font-size: var(--font-size-xs);
   font-style: normal;
@@ -1897,7 +1898,7 @@
   width: 34.66410446166992px;
 }
 
-.public-code-u40mobileu41 .section {
+.public-code-u40mobileu41 .section-1 {
   align-items: flex-start;
   align-self: stretch;
   background-color: transparent;
@@ -2913,7 +2914,7 @@
   text-align: left;
 }
 
-.public-code-u40tabletu41 .section {
+.public-code-u40tabletu41 .section-1 {
   align-items: flex-start;
   align-self: stretch;
   background-color: transparent;

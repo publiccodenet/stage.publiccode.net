@@ -772,6 +772,7 @@
 
 .team-amy-darling-u40mobileu41 .home-SRk1kc {
   background-color: transparent;
+  cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
   margin-top: -1.00px;
@@ -1937,10 +1938,10 @@
    }
 }
 @media screen and (min-width: 1140px) {
-  .screen.team-amy-darling-u40mobileu41 { 
+  .screen.team-amy-darling-u40tabletu41 { 
     display: none;
    }
-  .screen.team-amy-darling-u40tabletu41 { 
+  .screen.team-amy-darling-u40mobileu41 { 
     display: none;
    }
 }

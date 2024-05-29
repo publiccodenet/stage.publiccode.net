@@ -1843,7 +1843,7 @@ to{opacity: 1;
   width: 110.00%;
 }
 
-.home-u40desktopu41-all-breakpoints .section {
+.home-u40desktopu41-all-breakpoints .section-1 {
   background-color: transparent;
   display: flex;
   flex: 0 0 auto;
@@ -2054,12 +2054,11 @@ to{opacity: 1;
 }
 
 .home-u40mobileu41 .illo_sixpillars-O6XBsb {
-  align-self: stretch;
   background-color: transparent;
   height: 161.280029296875px;
   object-fit: cover;
   position: relative;
-  width: 100%;
+  width: 240px;
 }
 
 .home-u40mobileu41 .cluster-Js1tP9 {
@@ -2165,6 +2164,7 @@ to{opacity: 1;
 .home-u40mobileu41 .learn-more-about-the-OVsh80 {
   align-self: stretch;
   background-color: transparent;
+  cursor: pointer;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: relative;
@@ -3572,7 +3572,7 @@ to{opacity: 1;
   width: 110.00%;
 }
 
-.home-u40mobileu41 .section {
+.home-u40mobileu41 .section-1 {
   align-self: stretch;
   background-color: transparent;
   display: flex;
@@ -5416,7 +5416,7 @@ to{opacity: 1;
   width: 110.00%;
 }
 
-.home-u40tabletu41 .section {
+.home-u40tabletu41 .section-1 {
   align-self: stretch;
   background-color: transparent;
   display: flex;
