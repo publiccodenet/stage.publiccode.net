@@ -1,0 +1,202 @@
+/* screen - section */
+
+.section {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  left: 0px;
+  overflow-x: hidden;
+  position: relative;
+  top: 0px;
+}
+
+.section .title-rBSlw3 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.section .cluster-rBSlw3 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.section .partner-qYIqgg {
+  cursor: pointer;
+}
+
+.section .logo-riBUlt {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+}
+
+.section .dpga-QdaYrc {
+  background-color: transparent;
+  height: 120px;
+  position: relative;
+  width: 86.80859375px;
+}
+
+.section .digital-public-goods-alliance-riBUlt {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.section .partner-1TCixY {
+  cursor: pointer;
+}
+
+.section .logo-a3ICTN {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+}
+
+.section .ofe-Qqxp58 {
+  background-color: transparent;
+  height: 120px;
+  position: relative;
+  width: 120.0029296875px;
+}
+
+.section .open-forum-europe-a3ICTN {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.section .partner-x5q7d1 {
+  cursor: pointer;
+}
+
+.section .logo-f7jP7W {
+  flex: 0 0 auto;
+}
+
+.section .open-future-f7jP7W {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.section .partner-8xNbAg {
+  cursor: pointer;
+}
+
+.section .logo-ksSNqL {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  height: 120px;
+  justify-content: center;
+}
+
+.section .iccs_v01-ZWP9dT {
+  background-color: transparent;
+  height: 63.52941131591797px;
+  object-fit: cover;
+  position: relative;
+  width: 120px;
+}
+
+.section .iccs-ksSNqL {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.section .logo-je7NwL {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+}
+
+.section .ellipse-38-Ksyl1o {
+  background-color: #a1a1a1;
+  border-radius: 60px;
+  height: 120px;
+  position: relative;
+  width: 120px;
+}
+
+.section .ipp-je7NwL {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.section .partner-V0lozx {
+  cursor: pointer;
+}
+
+.section .logo-9H5VWJ {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+}
+
+.section .beeck-yG6Nm3 {
+  background-color: transparent;
+  height: 120px;
+  object-fit: cover;
+  position: relative;
+  width: 120px;
+}
+
+.section .beeck-center-georgetown-university-9H5VWJ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.section .partner {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 150px;
+}
