@@ -183,11 +183,6 @@
   width: 80.00028228759766px;
 }
 
-.governance-game {
-  align-self: stretch;
-  position: relative;
-}
-
 .main {
   align-items: flex-start;
   align-self: stretch;
@@ -198,6 +193,11 @@
   gap: 15px;
   position: relative;
   width: 100%;
+}
+
+.governance-game {
+  align-self: stretch;
+  position: relative;
 }
 
 .process-codes {

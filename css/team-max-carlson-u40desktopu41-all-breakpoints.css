@@ -1925,10 +1925,10 @@
   position: relative;
 }
 @media screen and (max-width: 839px) {
-  .screen.team-max-carlson-u40desktopu41-all-breakpoints { 
+  .screen.team-max-carlson-u40tabletu41 { 
     display: none;
    }
-  .screen.team-max-carlson-u40tabletu41 { 
+  .screen.team-max-carlson-u40desktopu41-all-breakpoints { 
     display: none;
    }
 }
@@ -1941,10 +1941,10 @@
    }
 }
 @media screen and (min-width: 1140px) {
-  .screen.team-max-carlson-u40mobileu41 { 
+  .screen.team-max-carlson-u40tabletu41 { 
     display: none;
    }
-  .screen.team-max-carlson-u40tabletu41 { 
+  .screen.team-max-carlson-u40mobileu41 { 
     display: none;
    }
 }
